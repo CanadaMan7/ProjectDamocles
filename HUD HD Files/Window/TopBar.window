@@ -1,0 +1,71 @@
+TXT
+size [1920, 85]
+creditsSummaryWindow
+	area [1378, 10, 150, 57]
+	fontId "AssetAndResourceAmount"
+	iconArea [123, 0, 38, 38]
+	textArea [4, 15, 110, 36]
+metalSummaryWindow
+	area [1547, 10, 140, 57]
+	fontId "AssetAndResourceAmount"
+	iconArea [123, 0, 38, 38]
+	textArea [-2, 15, 110, 36]
+crystalSummaryWindow
+	area [1695, 10, 140, 57]
+	fontId "AssetAndResourceAmount"
+	iconArea [123, 0, 38, 38]
+	textArea [0, 15, 110, 36]
+openEscapeMenuButton
+	area [300, 20, 38, 38]
+	onBrush "ActionIconOpenEscapeMenuScreen"
+	offBrush "ActionIconOpenEscapeMenuScreen"
+openResearchButton
+	area [872, 20, 52, 56]
+	onBrush "ActionIconOpenResearchScreenEnabled"
+	offBrush "ActionIconOpenResearchScreenDisabled"
+openPlayersButton
+	area [1034, 20, 52, 56]
+	onBrush "ActionIconOpenPlayerScreen"
+	offBrush "ActionIconOpenPlayerScreen"
+openRelationshipsButton
+	area [981, 20, 52, 56]
+	onBrush "ActionIconOpenRelationshipsScreen"
+	offBrush "ActionIconOpenRelationshipsScreen"
+openNPCButton
+	area [927, 20, 52, 56]
+	onBrush "ActionIconOpenNPCScreen"
+	offBrush "ActionIconOpenNPCScreen"
+toggleAttachedToEntityButton	
+	area [350, 20, 38, 38]
+	onBrush "BottomWindowButtonToggleZoomToCursorOn"
+	offBrush "BottomWindowButtonToggleZoomToCursorOff"	
+toggleScreenShotModeButton
+	area [399, 20, 38, 38]
+	onBrush "BottomWindowButtonToggleScreenShotModeOn"
+	offBrush "BottomWindowButtonToggleScreenShotModeOff"	
+shipSlotSummaryWindow
+	area [1280, 25, 88, 38]
+	fontId "AssetAndResourceAmount"
+capitalShipSlotSummaryWindow
+	area [1190, 25, 73, 38]
+	fontId "AssetAndResourceAmount"
+leftCap
+	highResGapTolerance 160
+	lowResArea [0, -512, 0, 0]
+	highResArea [0, -512, 0, 0]
+	playerIconArea [0, -512, 0, 0]
+	playerNameArea [0, -512, 0, 0]
+	playerNameFont ""
+rightCap
+	highResGapTolerance 230
+	lowResArea [-300, 0, 300, 39]
+	highResArea [-36, 0, 45, 39]
+	playerIconArea [0, 0, 30, 30]
+	playerNameArea [30, 0, 30, 30]
+	playerNameFont "Label"
+voiceChatActiveWindow
+	area [475, 100, 0, 0]
+	iconArea [0,0,0,0]
+	textArea [30,2,0,0]
+	fontId "NotificationPlayer"
+

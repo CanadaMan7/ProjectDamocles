@@ -1,0 +1,56 @@
+TXT
+entityType "ResearchSubject"
+hudIcon "RESEARCHBUTTON_COV_APARTICULARJUSTICE"
+smallHudIcon "RESEARCHBUTTON_COV_APARTICULARJUSTICE"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_FACTIONCOV_THEL4_NAME"
+DescriptionStringID "IDS_RESEARCH_FACTIONCOV_THEL4_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 4 , 1 ]
+ResearchField "Fleet"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_COV_FACTIONTHEL3"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COVTHEL"
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 300.000000
+PerLevelUpgradeTime 0.000000
+BaseCost
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+PerLevelCostIncrease
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+Tier 4
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 4
+researchModifier
+	modifierType "ShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 100.000000
+researchModifier
+	modifierType "CapitalShipAngularThrustAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+researchModifier
+	modifierType "WeaponRangeAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+	linkedWeaponClass "FLASHBEAM"
+researchModifier
+	modifierType "WeaponDamageAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.050000
+	linkedWeaponClass "FLASHBEAM"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

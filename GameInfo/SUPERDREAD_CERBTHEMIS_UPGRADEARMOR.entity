@@ -1,0 +1,93 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "TitanUpgrade"
+stageCount 5
+stage
+	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADEARMOR_NAME"
+	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADEARMOR_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement -1
+	hudIcon "HUDIconINFINITYDURABILITYUPGRADE"
+	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade0"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADEARMOR_NAME"
+	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADEARMOR_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 0
+	hudIcon "HUDIconINFINITYDURABILITYUPGRADE"
+	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade0"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 1500.000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADEARMOR_NAME"
+	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADEARMOR_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDIconINFINITYDURABILITYUPGRADE"
+	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade1"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 3000.000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 4.000000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADEARMOR_NAME"
+	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADEARMOR_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 4
+	hudIcon "HUDIconINFINITYDURABILITYUPGRADE"
+	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade2"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 4500.000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 6.000000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADEARMOR_NAME"
+	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADEARMOR_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 6
+	hudIcon "HUDIconINFINITYDURABILITYUPGRADE"
+	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade3"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 6000.000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 8.000000
+	upgradeBoolPropertyCount 0

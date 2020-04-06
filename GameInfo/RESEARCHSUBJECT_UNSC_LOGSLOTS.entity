@@ -1,0 +1,39 @@
+TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_CIVILIANSLOTINCREASE"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_CIVILIANSLOTINCREASE"
+infoCardIcon ""
+NameStringID "RESEARCHSUBJECT_UNSC_LOGSLOTS_NAME"
+DescriptionStringID "RESEARCHSUBJECT_UNSC_LOGSLOTS_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 6 , 5 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 60
+PerLevelUpgradeTime 0
+BaseCost
+	credits 2500.000000
+	metal 200.000000
+	crystal 400.000000
+PerLevelCostIncrease
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+Tier 6
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "PlanetSlotsCivilianIncrease"
+	baseValue 0.000000
+	perLevelValue 4.000000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

@@ -1,0 +1,38 @@
+TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_PLANETACCESS_COVICETECH"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_PLANETACCESS_ICETECH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_COV_PLANETACCESS_TIER1_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_COV_PLANETACCESS_TIER1_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 0 , 1 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 30.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 600.000000
+	metal 0.000000
+	crystal 150.000000
+PerLevelCostIncrease
+	credits 1000.000000
+	metal 0.000000
+	crystal 25.000000
+Tier 0
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 9.000000
+researchBoolModifiers 1
+researchModifier
+	modifierType "PlanetIsColonizable"
+	linkedPlanetType "Ice"
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

@@ -1,0 +1,42 @@
+TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_UNSCINFINITY"
+smallHudIcon "HUDICONSMALL_TITAN_UNSCINFINITY"
+infoCardIcon "INFOCARDICON_TITAN_UNSCINFINITY"
+NameStringID "RESEARCH_UNSC_TITAN_INFINITY2_NAME"
+DescriptionStringID "RESEARCH_UNSC_TITAN_INFINITY2_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 4 , 7 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_UNSCTITANACCESS_INFINITY"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 20
+PerLevelUpgradeTime 0
+BaseCost
+	credits 250.000000
+	metal 0.000000
+	crystal 50.000000
+PerLevelCostIncrease
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+Tier 4
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "TitanConstructionCap"
+	baseValue 0.000000
+	perLevelValue 0.250000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

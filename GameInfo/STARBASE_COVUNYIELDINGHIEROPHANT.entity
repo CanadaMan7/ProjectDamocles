@@ -1,0 +1,147 @@
+﻿TXT
+entityType "StarBase"
+ability:0 "AbilityCovUnyieldingHierophantRepair"
+ability:1 "AbilityCovBuy16Antimatter"
+ability:2 "AbilityCovUnyieldingHierophantPatrol"
+ability:3 ""
+ability:4 "AbilityCovShieldDelay"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+numRandomDebrisLarge 12
+numRandomDebrisSmall 24
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICONSMALL_STARBASE_COVHAVEN"
+smallHudIcon "MAINVIEWICON_PLANETMODULE_COVUNYIELDING"
+infoCardIcon "MAINVIEWICON_PLANETMODULE_COVUNYIELDING"
+minZoomDistanceMult 0.400000
+NumWeapons 1
+Weapon  
+	WeaponType "Beam"
+	damageEnums  
+		AttackType "ANTIVERYLIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "LASERTECH"
+	DamagePerBank:FRONT 60.000000
+	DamagePerBank:BACK 60.000000
+	DamagePerBank:LEFT 60.00000
+	DamagePerBank:RIGHT 60.000000
+	Range 5500.000000
+	PreBuffCooldownTime 4.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.25000
+	TravelSpeed 0.000000
+	Duration 0.2500000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 1.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CovPLaser_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PHASECAPITALFLASHBEAMMEDIUM_TRAVEL"
+			sound "WEAPON_PHASECAPITALFLASHBEAMMEDIUM_TRAVEL_ALT1"
+		hitEffectName "Weapon_CovPLaser_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		beamEffectSounds
+			soundCount 1
+			sound ""
+		beamGlowTextureName "WeaponCov_PulseBeam"
+		beamCoreTextureName "Black-da"
+		beamWidth 4.000000
+		beamGlowColor ffff80ff
+		beamCoreColor ffff80ff
+		beamTilingRate 3.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 4
+TargetCountPerBank:BACK 4
+TargetCountPerBank:LEFT 4
+TargetCountPerBank:RIGHT 4
+canOnlyTargetStructures FALSE
+ShieldMeshName "STARBASE_COVUH_SHIELD"
+renderShield TRUE
+squadTypeEntityDef:0 "SQUAD_COVBANSHEECOMBAT"
+squadAntiMatterCost:0 4.000000
+squadTypeEntityDef:1 "SQUAD_COVSERAPHCOMBAT"
+squadAntiMatterCost:1 4.000000
+squadTypeEntityDef:2 "SQUAD_COVSERAPHBOMBER"
+squadAntiMatterCost:2 4.000000
+squadTypeEntityDef:3 "SQUAD_COVLICH"
+squadAntiMatterCost:3 6.000000
+mainViewIcon "MAINVIEWICON_PLANETMODULE_COVUNYIELDING"
+experiencePointsForDestroying 55.000000
+nameStringID "STARBASE_COVUNYIELDINGHIEROPHANT_NAME"
+picture "PICTURE_PLANETMODULE_COVUNYIELDING"
+statCountType "StarBase"
+creationSourceAbility "AbilityCovDeployStarBaseUnyieldingHierophant"
+maxUpgradeLevelCount 10
+UpgradeTypeCount 7
+UpgradeType "STARBASEUPGRADE_COV_UHDEFENSE"
+UpgradeType "STARBASEUPGRADE_COV_UHPATROL"
+UpgradeType "STARBASEUPGRADE_COV_UHHANGAR"
+UpgradeType "STARBASEUPGRADE_COV_UHPOPULATION"
+UpgradeType "STARBASEUPGRADE_COV_UHTRADE"
+UpgradeType "STARBASEUPGRADE_COV_UHBLOCKCOLONIZE"
+UpgradeType "STARBASEUPGRADE_COV_UHSHIPYARD"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "STARBASE_COVUH"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+NumSoundsFor:ONATTACKORDERISSUED 6
+SoundID "STARBASE_COVHAVEN_ONATTACKORDERISSUED_0"
+SoundID "STARBASE_COVHAVEN_ONATTACKORDERISSUED_1"
+SoundID "STARBASE_COVHAVEN_ONATTACKORDERISSUED_2"
+SoundID "STARBASE_COVHAVEN_ONATTACKORDERISSUED_3"
+SoundID "STARBASE_COVHAVEN_ONATTACKORDERISSUED_4"
+SoundID "STARBASE_COVHAVEN_ONATTACKORDERISSUED_5"
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 2
+SoundID "STARBASE_COVHAVEN_ONGENERALORDERISSUED_0"
+SoundID "STARBASE_COVHAVEN_ONGENERALORDERISSUED_1"
+NumSoundsFor:ONSELECTED 5
+SoundID "STARBASE_COVHAVEN_ONSELECTED_0"
+SoundID "STARBASE_COVHAVEN_ONSELECTED_1"
+SoundID "STARBASE_COVHAVEN_ONSELECTED_2"
+SoundID "STARBASE_COVHAVEN_ONSELECTED_3"
+SoundID "STARBASE_COVHAVEN_ONSELECTED_4"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+ExplosionName "Starbase_Cov"
+formationRank 3
+minShadow 0.000000
+maxShadow 0.300000
+cargoShipType "FRIGATE_COVTRADESHIP"
+maxCargoShipCount 1
+cargoShipRespawnTime 30.000000
+baseBuildTime 160.000000
+buildEffectName ""
+angularSpeed 0.500000
+rotateSoundName ""
+rotateFacingType "None"
+rotateConstantly FALSE
+maxAccelerationLinear 0.000000
+maxAccelerationStrafe 0.000000
+maxDecelerationLinear 0.000000
+maxAccelerationAngular 1.000000
+maxDecelerationAngular 10.000000
+maxSpeedLinear 0.000000
+maxRollRate 0.000000
+maxRollAngle 0.000000
+mass 9500.000000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"

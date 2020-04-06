@@ -1,0 +1,84 @@
+﻿TXT
+entityType "StarBaseUpgrade"
+stageCount 4
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADECOVFACTORY_NAME"
+	descStringID "IDS_STARBASEUPGRADECOVFACTORY_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_CDAFACTORY"
+	smallHudIcon "HUDICON_CDAFACTORY"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "FrigateBuildRate"
+		value 0.500000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1000.000000
+		metal 100.000000
+		crystal 100.000000
+	upgradeTime 30.000000
+	nameStringID "IDS_STARBASEUPGRADECOVFACTORY_NAME"
+	descStringID "IDS_STARBASEUPGRADECOVFACTORY_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_CDAFACTORY"
+	smallHudIcon "HUDICON_CDAFACTORY"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "FrigateBuildRate"
+		value 1.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1500.000000
+		metal 150.000000
+		crystal 150.000000
+	upgradeTime 40.000000
+	nameStringID "IDS_STARBASEUPGRADECOVFACTORY_NAME"
+	descStringID "IDS_STARBASEUPGRADECOVFACTORY_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_CDAFACTORY"
+	smallHudIcon "HUDICON_CDAFACTORY"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "FrigateBuildRate"
+		value 1.250000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 2000.000000
+		metal 200.000000
+		crystal 200.000000
+	upgradeTime 50.000000
+	nameStringID "IDS_STARBASEUPGRADECOVFACTORY_NAME"
+	descStringID "IDS_STARBASEUPGRADECOVFACTORY_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_CDAFACTORY"
+	smallHudIcon "HUDICON_CDAFACTORY"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "FrigateBuildRate"
+		value 1.500000
+	upgradeBoolPropertyCount 0
+xpModifier 0.000000

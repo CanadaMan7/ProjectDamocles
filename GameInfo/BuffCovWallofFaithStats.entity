@@ -1,0 +1,36 @@
+TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "NotExclusive"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 0
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 2
+entityModifier
+	buffEntityModifierType "WeaponCooldown"
+	value
+		Level:0 -0.0800000
+		Level:1 -0.1500000
+		Level:2 -0.0000000
+		Level:3 -0.0000000
+entityModifier
+	buffEntityModifierType "ShieldPointRestoreRate"
+	value
+		Level:0 0.0300000
+		Level:1 0.0600000
+		Level:2 0.0000000
+		Level:3 0.0000000
+numEntityBoolModifiers 0
+numFinishConditions 3
+finishCondition
+	finishConditionType "OutOfRange"
+finishCondition
+	finishConditionType "FirstSpawnerNoLongerHasBuff"
+	buffTypeToQuery "BuffCovWallofFaithCaster"
+finishCondition
+	finishConditionType "OwnerChanged"

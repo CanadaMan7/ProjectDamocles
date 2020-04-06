@@ -1,0 +1,40 @@
+TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffUNSCParisLongbowMissilesSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithBase"
+baseSourceResearchSubject "RESEARCH_UNSCARMAMENT_VARIABLEWARHEADS"
+improveSourceResearchSubject "RESEARCH_UNSCARMAMENT_VARIABLEWARHEADS"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_UNSCARMAMENT_VARIABLEWARHEADS"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "ABILITY_UNSCPARISLONGBOWMISSILES_NAME"
+descStringID "ABILITY_UNSCPARISLONGBOWMISSILES_DESCRIPTION"
+hudIcon "HUDICON_UNSC_LONGBOWWARHEADS"
+smallHudIcon ""
+infoCardIcon ""

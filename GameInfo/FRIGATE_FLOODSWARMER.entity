@@ -1,0 +1,103 @@
+TXT2
+SinsArchiveVersion 193  
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault FALSE
+canBomb FALSE
+typeCount 2
+frigateRoleType "Light"
+frigateRoleType "Corvette"
+statCountType "FrigateLight"
+mainViewIcon "MAINVIEWICON_FRIGATE_UNSCGENEVA"
+picture "PICTURE_FRIGATE_UNSCGENEVA"
+NameStringID "FRIGATE_FLOOD_SWARMER_NAME"
+DescriptionStringID "FRIGATE_UNSCGENEVA_DESCRIPTION"
+counterDescriptionStringID "IDS_USEDBEST_FRIGATE_NONCOMBAT"
+basePrice  
+	credits 550.000000
+	metal 70.000000
+	crystal 10.000000
+slotCount 0.000000
+BuildTime 63.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 12.000000
+MaxHullPoints 2000.000000
+MaxShieldPoints 0.000000
+HullPointRestoreRate 7.333333332
+ShieldPointRestoreRate 1.000000
+BaseArmorPoints 0.000000
+maxMitigation 0.000000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 0
+numSpecificDebris 0
+armorType "Pirate"
+hudIcon "HUDICON_FRIGATE_UNSCGENEVA"
+smallHudIcon "MAINVIEWICON_FRIGATE_UNSCGENEVA"
+infoCardIcon "MAINVIEWICON_FRIGATE_UNSCGENEVA"
+minZoomDistanceMult 1.800000
+NumWeapons 0
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 25.000000
+ShieldMeshName "FRIGATE_UNSCGENEVA_SHIELD"
+renderShield FALSE
+maxAccelerationLinear 550.0000
+maxAccelerationStrafe 10.0000
+maxDecelerationLinear 600.0000
+maxAccelerationAngular 35.0000
+maxDecelerationAngular 40.0000
+maxSpeedLinear 1600.000000
+maxRollRate 4.000000
+maxRollAngle 45.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 0
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo  
+	meshName "FRIGATE_FLOODSWARMER"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "EXHAUST_FRIGATE_UNSCGENEVA"
+ExplosionName "UNSC_Frig_Small"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_TECHSUPPORTSHIP"
+ability:0 "AbilityFloodInfection"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 "AbilityFloodIsBigShip"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 2
+minShadow 0.200000
+maxShadow 0.600000
+allegianceDecreasePerRoundtrip 0.000000

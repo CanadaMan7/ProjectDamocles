@@ -1,0 +1,236 @@
+TXT2
+SinsArchiveVersion 193  
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 2
+frigateRoleType "Lrm"
+frigateRoleType "Corvette"
+statCountType "FrigateLongRange"
+mainViewIcon "MAINVIEWICON_FRIGATE_UNSCPARIS"
+picture "PICTURE_FRIGATE_UNSCPARIS"
+NameStringID "FRIGATE_MILSPECOPS_NAME"
+DescriptionStringID "FRIGATE_MILSPECOPS_NAME"
+counterDescriptionStringID "FRIGATE_MILSPECOPS_NAME"
+basePrice  
+	credits 400.000000
+	metal 55.000000
+	crystal 0.000000
+slotCount 10.000000
+BuildTime 10.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 30.000000
+MaxHullPoints 4000.000000
+MaxShieldPoints 0.000000
+HullPointRestoreRate 3.000000
+ShieldPointRestoreRate 2.000000
+BaseArmorPoints 4.000000
+maxMitigation 0.600000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 5
+numSpecificDebris 0
+armorType "Heavy"
+hudIcon "HUDICON_FRIGATE_UNSCPARIS"
+smallHudIcon "MAINVIEWICON_FRIGATE_UNSCPARIS"
+infoCardIcon "MAINVIEWICON_FRIGATE_UNSCPARIS"
+minZoomDistanceMult 1.500000
+NumWeapons 3
+Weapon  
+	WeaponType "Projectile"
+	damageEnums  
+		AttackType "ANTIHEAVY"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 1500.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 7000.000000
+	PreBuffCooldownTime 5.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.000000
+	TravelSpeed 10000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_UNSCMAC_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds  
+			soundCount 2
+			sound "WEAPON_UNSC_MAC_MUZZLELIGHT"
+			sound "WEAPON_UNSC_MAC_MUZZLELIGHT_ALT1"
+		hitEffectName "Weapon_UNSCMAC_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_UNSCMAC_Travel"
+Weapon  
+	WeaponType "Missile"
+	damageEnums  
+		AttackType "ANTIHEAVY"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 100.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 7000.000000
+	PreBuffCooldownTime 7.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.150000
+	TravelSpeed 2000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Missile"
+		burstCount 2
+		burstDelay 0.400000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_UNSCHeavyArcherMissile_Muzzle"
+		muzzleSoundMinRespawnTime 0.500000
+		muzzleSounds  
+			soundCount 3
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
+		hitEffectName "Weapon_UNSCHeavyArcherMissile_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_UNSCHeavyArcherMissile_Travel"
+		missileStartTurningDistance 250.000000
+		missileSlowTurnRate 1.000000
+		missileMaxSlowTurnTime 0.750000
+Weapon  
+	WeaponType "Projectile"
+	damageEnums  
+		AttackType "ANTIHEAVY"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 34.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 34.000000
+	DamagePerBank:RIGHT 34.000000
+	Range 7000.000000
+	PreBuffCooldownTime 4.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 6000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Projectile"
+		burstCount 6
+		burstDelay 0.100000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_UNSCAAA_Muzzle"
+		muzzleSoundMinRespawnTime 10.000000
+		muzzleSounds  
+			soundCount 2
+			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE"
+			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE_ALT1"
+		hitEffectName "Weapon_UNSCAAA_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "Weapon_UNSCAAA_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 3
+TargetCountPerBank:RIGHT 3
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName "FRIGATE_UNSCPARIS_SHIELD"
+renderShield TRUE
+maxAccelerationLinear 168.750000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 3.7000200
+maxDecelerationAngular 9.999996
+maxSpeedLinear 1000.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "FRIGATE_UNSCPARIS_ONATTACKORDERISSUED_0"
+SoundID "FRIGATE_UNSCPARIS_ONATTACKORDERISSUED_1"
+SoundID "FRIGATE_UNSCPARIS_ONATTACKORDERISSUED_2"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_UNSCPARIS_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "FRIGATE_UNSCPARIS_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_UNSCPARIS_ONGENERALORDERISSUED_1"
+SoundID "FRIGATE_UNSCPARIS_ONGENERALORDERISSUED_2"
+NumSoundsFor:ONSELECTED 3
+SoundID "FRIGATE_UNSCPARIS_ONSELECTED_0"
+SoundID "FRIGATE_UNSCPARIS_ONSELECTED_1"
+SoundID "FRIGATE_UNSCPARIS_ONSELECTED_2"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "FRIGATE_UNSCPARIS_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo  
+	meshName "FRIGATE_UNSCPARIS"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "EXHAUST_FRIGATE_UNSCPARIS"
+ExplosionName "Frigate0"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_UNSCCAPITALSHIP"
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 "AbilityNoneIsBigShipNoFlood"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 0
+minShadow 0.200000
+maxShadow 1.00000
+allegianceDecreasePerRoundtrip 0.000000
+  

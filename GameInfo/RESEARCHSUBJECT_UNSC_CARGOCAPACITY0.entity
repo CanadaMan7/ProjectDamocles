@@ -1,0 +1,45 @@
+TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_CARGOSHIPCAPACITY0"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_CARGOSHIPCAPACITY0"
+infoCardIcon ""
+NameStringID "RESEARCH_UNSC_CARGOCAPACITY0_NAME"
+DescriptionStringID "RESEARCH_UNSC_CARGOCAPACITY0_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 2 , 1 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 2
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_UNSCPLANETMODULEACCESS_REFINERY"
+		Level 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_UNSCPLANETMODULEACCESS_TRADEPORT"
+		Level 1	
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 40.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 750.000000
+	metal 75.000000
+	crystal 125.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 2
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "RefineryShipCapacityAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

@@ -1,0 +1,40 @@
+TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffCovStrengthOfTheFallenSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 4
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 1.000000
+	Level:1 3.000000
+	Level:2 5.000000
+	Level:3 7.000000
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "ABILITY_COVSTRENGTHOFTHEFALLEN_NAME"
+descStringID "ABILITY_COVSTRENGTHOFTHEFALLEN_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_COVPROTECTOROFTHEJOURNEY"
+smallHudIcon "HUDICON_ABILITY_STRENGTHOFTHEFALLEN"
+infoCardIcon ""

@@ -1,0 +1,46 @@
+TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_HULLCOV1"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_HULLPHASE1"
+infoCardIcon ""
+NameStringID "RESEARCH_COV_HULL1_NAME"
+DescriptionStringID "RESEARCH_COV_HULL1_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 3 , 3 ]
+ResearchField "Defense"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_COV_ARMOR0"
+		Level 2
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 35.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 1200.000000
+	metal 125.000000
+	crystal 250.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 0.000000
+	crystal 25.000000
+Tier 3
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "HullPointsMaxAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.062500
+researchModifier
+	modifierType "HullPointsRegenAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.062500
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

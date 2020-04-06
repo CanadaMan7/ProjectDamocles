@@ -1,0 +1,61 @@
+TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffCovRepairPlatform"
+targetFilter
+	numOwnerships 1
+	ownership "Friendly"
+	numObjects 6
+	object "Titan"
+	object "CapitalShip"
+	object "Frigate"
+	object "Corvette"
+	object "PlanetModule"
+	object "StarBase"
+	numSpaces 1
+	space "Normal"
+	numConstraints 2
+	constraint "NotSelf"
+	constraint "HasHullDamage"
+range
+	Level:0 8000.000000
+	Level:1 8000.000000
+	Level:2 8000.000000
+	Level:3 8000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "UNSCRepair"
+	mediumEffectName "UNSCRepair"
+	largeEffectName "UNSCRepair"
+	soundID "EFFECT_REPAIR_PHASE"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 10.000000
+	Level:1 10.000000
+	Level:2 10.000000
+	Level:3 10.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_SUPPORTABILITY_REPAIRPHASEPLANETMODULE_NAME"
+descStringID "IDS_SUPPORTABILITY_REPAIRPHASEPLANETMODULE_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_COVREPAIR"
+smallHudIcon "HUDICON_ABILITY_COVREPAIR"
+infoCardIcon ""

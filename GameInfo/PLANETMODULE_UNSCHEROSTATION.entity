@@ -1,0 +1,72 @@
+TXT 
+entityType "PlanetModuleStandard"
+minZoomDistanceMult 2.000000
+ability:0 "AbilityUNSCHeroSystem"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 "AbilityNoneMakeDead"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+numRandomDebrisLarge 5
+numRandomDebrisSmall 20
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_PLANETMODULE_UNSCCOMMANDCENTER"
+smallHudIcon "MAINVIEWICON_FRIGATE_TURRETCOMBAT"
+infoCardIcon "MAINVIEWICON_FRIGATE_TURRETCOMBAT"
+planetUpgradeSlotType "Tactical"
+planetUpgradeSlotCount 0.000000
+basePrice 
+	credits 525.000000
+	metal 70.000000
+	crystal 110.000000
+NameStringID "PLANETMODULE_UNSCCOMMANDCENTER_NAME"
+DescriptionStringID "PLANETMODULE_UNSCCOMMANDCENTER_DESCRIPTION"
+planetModuleRoleType "PHASEGATE"
+statCountType "ModuleUtility"
+Prerequisites 
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MaxHullPoints 2500.000000
+HullPointRestoreRate 4.500000
+BaseArmorPoints 4.000000
+MaxShieldPoints 0.000000
+ShieldPointRestoreRate 0.000000
+maxShieldMitigation 0.000000
+ExperiencePointsForDestroying 10.000000
+resourceExtractionType "Invalid"
+cultureSpreadRate 0.000000
+isAffectedBySimilarModuleCostResearch TRUE
+placementRadius 350.000000
+nearPlacementDistOffset 0.000000
+farPlacementDistOffset 9000.000000
+spawnCount 1
+swapMineType ""
+angularSpeed 0.000000
+rotateSoundName ""
+rotateFacingType "None"
+rotateConstantly FALSE
+ShieldMeshName "PLANETMODULE_UNSCCOMMANDCENTER_SHIELD"
+renderShield TRUE
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "PLANETMODULE_TECHORBITALJUMPBLOCKER_ONSELECTION_0"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo 
+	meshName "PLANETMODULE_UNSCCOMMANDCENTER"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExplosionName "UNSC_Capitalship_Small"
+mainViewIcon "MAINVIEWICON_FRIGATE_TURRETCOMBAT"
+picture "PICTURE_PLANETMODULE_UNSCCOMMANDCENTER"
+minShadow 0.000000
+maxShadow 0.300000
+formationRank 3
+baseBuildTime 150.000000
+buildEffectName ""

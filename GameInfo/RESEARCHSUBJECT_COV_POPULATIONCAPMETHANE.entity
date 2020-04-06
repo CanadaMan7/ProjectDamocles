@@ -1,0 +1,40 @@
+TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_COVPOPULATIONCAP_BARREN_0"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_POPULATIONCAP_BARREN_0"
+infoCardIcon ""
+NameStringID "RESEARCHSUBJECT_COV_POPULATIONCAPMETHANE_NAME"
+DescriptionStringID "RESEARCHSUBJECT_COV_POPULATIONCAPMETHANE_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 3 , 2 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 60.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 2000.000000
+	metal 225.000000
+	crystal 400.000000
+PerLevelCostIncrease
+	credits 200.000000
+	metal 75.000000
+	crystal 100.000000
+Tier 3
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 2.000000
+	linkedPlanetType "Oceanic"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

@@ -1,0 +1,35 @@
+TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHPLACEHOLDER"
+smallHudIcon "HUDICON_RESEARCHPLACEHOLDER"
+infoCardIcon ""
+NameStringID "RESEARCH_SENTPLANETMODULEACCESS_TRADEPORT_NAME"
+DescriptionStringID "RESEARCH_SENTPLANETMODULEACCESS_TRADEPORT_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 1 , 6 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 40.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 1200.000000
+	metal 300.000000
+	crystal 0.000000
+PerLevelCostIncrease
+	credits 1000.000000
+	metal 0.000000
+	crystal 25.000000
+Tier 1
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

@@ -1,0 +1,130 @@
+TXT 
+entityType "Fighter"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack TRUE
+numRandomDebrisLarge 0
+numRandomDebrisSmall 0
+numSpecificDebris 0
+armorType "VeryLight"
+hudIcon "HUDICON_SQUAD_UNSCSABREBOMBER"
+smallHudIcon "HUDICONSMALL_SQUAD_UNSCSABREBOMBER"
+infoCardIcon "INFOCARDICON_SQUAD_UNSCSABREBOMBER"
+minZoomDistanceMult 5.000000
+nameStringID "FIGHTER_UNSCSABREBOMBER_NAME"
+counterDescriptionStringID "IDS_COUNTERDESC_FIGHTER_LONGSWORDBOMBER"
+statCountType "FighterBomber"
+formationOffsetDistance 50.000000
+mass 35.000000
+maxAccelerationLinear 468.750000
+maxAccelerationStrafe 200.000000
+maxDecelerationLinear 2500.000000
+maxAccelerationAngular 250.000000
+maxDecelerationAngular 450.000000
+maxSpeedLinear 1600.000000
+maxRollRate 60.000000
+maxRollAngle 89.000000
+NumWeapons 2
+Weapon 
+	WeaponType "Projectile"
+	damageEnums 
+		AttackType "ANTIVERYLIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 70.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 2400.000000
+	PreBuffCooldownTime 15.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.000000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects 
+		weaponType "Projectile"
+		burstCount 6
+		burstDelay 0.150000
+		fireDelay 0.000000
+		muzzleEffectName "FighterWeapon_UNSCMuzzle"
+		muzzleSoundMinRespawnTime 1.000000
+		muzzleSounds 
+			soundCount 3
+			sound "WEAPON_TECHSUPPORTAUTOCANNONLIGHT_MUZZLE"
+			sound "WEAPON_TECHSUPPORTAUTOCANNONLIGHT_MUZZLE_ALT1"
+			sound "WEAPON_TECHSUPPORTAUTOCANNONLIGHT_MUZZLE_ALT2"
+		hitEffectName ""
+		hitHullEffectSounds 
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
+		hitShieldsEffectSounds 
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "FighterWeapon_UNSCMuzzle"
+Weapon 
+	WeaponType "Missile"
+	damageEnums 
+		AttackType "ANTIVERYHEAVY"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 320.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 2400.000000
+	PreBuffCooldownTime 13.500000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.500000
+	TravelSpeed 2500.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects 
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "FighterWeapon_UNSCMuzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds 
+			soundCount 2
+			sound "WEAPON_TECHSUPPORTMISSILELIGHT_MUZZLE"
+			sound "WEAPON_TECHSUPPORTMISSILELIGHT_MUZZLE_ALT1"
+		hitEffectName "FighterWeapon_UNSCMissileHit"
+		hitHullEffectSounds 
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILELIGHT_HITGENERIC"
+		hitShieldsEffectSounds 
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILELIGHT_HITGENERIC"
+		missileTravelEffectName "FighterWeapon_UNSCMissile"
+		missileStartTurningDistance 10.000000
+		missileSlowTurnRate 3.141593
+		missileMaxSlowTurnTime 1.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+meshName "FIGHTER_UNSCSABREBOMBER"
+exhaustParticleSystemName "Exhaust_UNSCSabre"
+ExplosionName "UNSC_Fighter"
+exhaustTrailTextureName "Black-da.dds"
+exhaustTrailWidth 0.0000001
+engineSoundID "ENGINE_TECHSUPPORTSHIP"
+maxHullPoints 380.000000
+hullPointRestoreRate 0.950000
+armorPoints 1.000000
+maxMitigation 0.000000
+experiencePointsForDestroying 0.000000
+minShadow 0.400000
+maxShadow 0.400000

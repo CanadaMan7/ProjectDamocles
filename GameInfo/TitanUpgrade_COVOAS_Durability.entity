@@ -1,0 +1,116 @@
+TXT
+entityType "TitanUpgrade"
+stageCount 5
+stage
+	nameStringID "TITANUPGRAGE_COV_OASDURABLE_NAME"
+	descStringID "TITANUPGRAGE_COV_OASDURABLE_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement -1
+	hudIcon "HUDIcon_OASDURABILITY"
+	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade0"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "TITANUPGRAGE_COV_OASDURABLE_NAME"
+	descStringID "TITANUPGRAGE_COV_OASDURABLE_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 0
+	hudIcon "HUDIcon_OASDURABILITY"
+	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade0"
+	infoCardIcon ""
+	upgradePropertyCount 4
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 760.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 0.800000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 4150.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 19.00000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "TITANUPGRAGE_COV_OASDURABLE_NAME"
+	descStringID "TITANUPGRAGE_COV_OASDURABLE_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 1
+	hudIcon "HUDIcon_OASDURABILITY"
+	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade1"
+	infoCardIcon ""
+	upgradePropertyCount 4
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 1520.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 1.60000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 8300.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 38.000000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "TITANUPGRAGE_COV_OASDURABLE_NAME"
+	descStringID "TITANUPGRAGE_COV_OASDURABLE_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDIcon_OASDURABILITY"
+	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade2"
+	infoCardIcon ""
+	upgradePropertyCount 4
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 2280.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 2.400000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 12450.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 57.000000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "TITANUPGRAGE_COV_OASDURABLE_NAME"
+	descStringID "TITANUPGRAGE_COV_OASDURABLE_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 3
+	hudIcon "HUDIcon_OASDURABILITY"
+	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade3"
+	infoCardIcon ""
+	upgradePropertyCount 4
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 3040.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 3.2000000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 16600.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 76.000000
+	upgradeBoolPropertyCount 0

@@ -1,0 +1,40 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "RESEARCHBUTTON_COV_CDAASSEMBLY"
+smallHudIcon "RESEARCHBUTTON_COV_CDAASSEMBLY"
+infoCardIcon ""
+NameStringID "RESEARCH_COVCONVERSION_CDAASSEMBLY_NAME"
+DescriptionStringID "RESEARCH_COVCONVERSION_CDAASSEMBLY_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 3 , 7 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COVCONVERSION_RCSASSEMBLY"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COVXYTAN"
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 90.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 1700.000000
+	metal 225.000000
+	crystal 350.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 3
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 1
+researchModifier
+	modifierType "StarBasesCanHyperspace"
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

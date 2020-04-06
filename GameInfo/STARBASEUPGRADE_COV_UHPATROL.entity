@@ -1,0 +1,113 @@
+TXT
+entityType "StarBaseUpgrade"
+stageCount 5
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "STARBASEUPGRADE_COVPATROLFLEET1_NAME"
+	descStringID "STARBASEUPGRADE_COVPATROLFLEET1_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_CDAWALLOFFAITH"
+	smallHudIcon "HUDICON_CDAWALLOFFAITH"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1500.000000
+		metal 250.000000
+		crystal 200.000000
+	upgradeTime 60.000000
+	nameStringID "STARBASEUPGRADE_COVPATROLFLEET1_NAME"
+	descStringID "STARBASEUPGRADE_COVPATROLFLEET1_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCH_COVASSEMBLY_MANDATEDDENIAL"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_CDAWALLOFFAITH"
+	smallHudIcon "HUDICON_CDAWALLOFFAITH"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityALevel"
+		value 1.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 2000.000000
+		metal 350.000000
+		crystal 300.000000
+	upgradeTime 80.000000
+	nameStringID "STARBASEUPGRADE_COVPATROLFLEET1_NAME"
+	descStringID "STARBASEUPGRADE_COVPATROLFLEET2_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCH_COVASSEMBLY_CPVASSEMBLY"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_CDAWALLOFFAITH"
+	smallHudIcon "HUDICON_CDAWALLOFFAITH"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityALevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 2500.000000
+		metal 450.000000
+		crystal 450.000000
+	upgradeTime 100.000000
+	nameStringID "STARBASEUPGRADE_COVPATROLFLEET1_NAME"
+	descStringID "STARBASEUPGRADE_COVPATROLFLEET3_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCH_COVASSEMBLY_CCSASSEMBLY"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_CDAWALLOFFAITH"
+	smallHudIcon "HUDICON_CDAWALLOFFAITH"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityALevel"
+		value 3.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 3500.000000
+		metal 550.000000
+		crystal 650.000000
+	upgradeTime 120.000000
+	nameStringID "STARBASEUPGRADE_COVPATROLFLEET1_NAME"
+	descStringID "STARBASEUPGRADE_COVPATROLFLEET4_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCH_COVASSEMBLY_POTENTREJECTION"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_CDAWALLOFFAITH"
+	smallHudIcon "HUDICON_CDAWALLOFFAITH"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityALevel"
+		value 4.000000
+	upgradeBoolPropertyCount 0
+xpModifier 5.0000000

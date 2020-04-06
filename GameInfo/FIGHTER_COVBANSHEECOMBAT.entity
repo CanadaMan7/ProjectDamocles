@@ -1,0 +1,87 @@
+TXT 
+entityType "Fighter"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack TRUE
+numRandomDebrisLarge 0
+numRandomDebrisSmall 0
+numSpecificDebris 0
+armorType "VeryLight"
+hudIcon "HUDICON_SQUAD_COVBANSHEECOMBAT"
+smallHudIcon "HUDICONSMALL_SQUAD_COVBANSHEECOMBAT"
+infoCardIcon "INFOCARDICON_SQUAD_COVBANSHEECOMBAT"
+minZoomDistanceMult 11.000000
+nameStringID "FIGHTER_COVBANSHEECOMBAT_NAME"
+counterDescriptionStringID "IDS_COUNTERDESC_FIGHTER_LONGSWORDCOMBAT"
+statCountType "FighterCombat"
+formationOffsetDistance 50.000000
+mass 25.000000
+maxAccelerationLinear 1250.000000
+maxAccelerationStrafe 200.000000
+maxDecelerationLinear 1500.000000
+maxAccelerationAngular 80.000000
+maxDecelerationAngular 100.000000
+maxSpeedLinear 2500.000000
+maxRollRate 60.000000
+maxRollAngle 89.000000
+NumWeapons 1
+Weapon 
+	WeaponType "Projectile"
+	damageEnums 
+		AttackType "ANTIVERYLIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "PHASECANNON"
+	DamagePerBank:FRONT 60.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 1200.000000
+	PreBuffCooldownTime 3.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.000000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects 
+		weaponType "Projectile"
+		burstCount 4
+		burstDelay 0.150000
+		fireDelay 0.000000
+		muzzleEffectName "FighterWeapon_CovPlasmaMuzzle"
+		muzzleSoundMinRespawnTime 1.000000
+		muzzleSounds 
+			soundCount 2
+			sound "WEAPON_PHASESUPPORTMISSILELIGHT_MUZZLE"
+			sound "WEAPON_PHASESUPPORTMISSILELIGHT_MUZZLE_ALT1"
+		hitEffectName ""
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHASEMISSILELIGHT_HITGENERIC"
+		hitShieldsEffectSounds 
+			soundCount 1
+			sound "WEAPONIMPACT_PHASEMISSILELIGHT_HITGENERIC"
+		projectileTravelEffectName "FighterWeapon_CovPlasma"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+meshName "FIGHTER_COVBANSHEE"
+exhaustParticleSystemName "Exhaust_CovBanshee"
+ExplosionName "Cov_Fighter"
+exhaustTrailTextureName "Black-da.dds"
+exhaustTrailWidth 0.0000001
+engineSoundID "ENGINE_COVSUPPORTSHIP"
+maxHullPoints 75.000000
+hullPointRestoreRate 1.000000
+armorPoints 0.000000
+maxMitigation 0.000000
+experiencePointsForDestroying 0.000000
+minShadow 0.200000
+maxShadow 0.500000

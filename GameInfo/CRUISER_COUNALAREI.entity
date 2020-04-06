@@ -1,0 +1,155 @@
+TXT2
+SinsArchiveVersion 193  
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 1
+frigateRoleType "Heavy"
+statCountType "FrigateHeavy"
+mainViewIcon "MAINVIEWICON_FRIGATE_UNSCCHARON"
+picture "PICTURE_FRIGATE_UNSCCHARON"
+NameStringID "IDS_CRUISER_COUNALAREI_NAME"
+DescriptionStringID "IDS_CRUISER_COUNALAREI_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_CHARON"
+basePrice
+	credits 700.000000
+	metal 90.000000
+	crystal 95.000000
+slotCount 10.000000
+BuildTime 20.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 80.000000
+MaxHullPoints 1560.000000
+MaxShieldPoints 2000.000000
+HullPointRestoreRate 5.000000
+ShieldPointRestoreRate 7.000000
+BaseArmorPoints 1.000000
+maxMitigation 0.750000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNSHEPARD_MIGRANTFLEET"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 1
+numRandomDebrisSmall 10
+numSpecificDebris 0
+armorType "VeryHeavy"
+hudIcon "HUDICON_FRIGATE_UNSCCHARON"
+smallHudIcon "MAINVIEWICON_FRIGATE_UNSCCHARON"
+infoCardIcon "MAINVIEWICON_FRIGATE_UNSCCHARON"
+minZoomDistanceMult 1.500000
+NumWeapons 1
+Weapon  
+	WeaponType "Projectile"
+	damageEnums  
+		AttackType "ANTIMEDIUM"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 90.000000
+	DamagePerBank:BACK 40.000000
+	DamagePerBank:LEFT 60.000000
+	DamagePerBank:RIGHT 60.000000
+	Range 6000.000000
+	PreBuffCooldownTime 1.500000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.150000
+	TravelSpeed 6000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_UNSCAAA_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds  
+			soundCount 2
+			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE"
+			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE_ALT1"
+		hitEffectName "Weapon_UNSCAAA_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "Weapon_UNSCAAA_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 1
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName "Cruiser_CounAlarei_Shield"
+renderShield TRUE
+maxAccelerationLinear 150.000000
+maxAccelerationStrafe 100.000000
+maxDecelerationLinear 800.000000
+maxAccelerationAngular 3.999999
+maxDecelerationAngular 9.999998
+maxSpeedLinear 550.000000
+maxRollRate 6.000000
+maxRollAngle 34.999996
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "FRIGATE_UNSCCHARON_ONATTACKORDERISSUED_0"
+SoundID "FRIGATE_UNSCCHARON_ONATTACKORDERISSUED_1"
+SoundID "FRIGATE_UNSCCHARON_ONATTACKORDERISSUED_2"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_UNSCCHARON_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "FRIGATE_UNSCCHARON_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_UNSCCHARON_ONGENERALORDERISSUED_1"
+SoundID "FRIGATE_UNSCCHARON_ONGENERALORDERISSUED_2"
+NumSoundsFor:ONSELECTED 3
+SoundID "FRIGATE_UNSCCHARON_ONSELECTED_0"
+SoundID "FRIGATE_UNSCCHARON_ONSELECTED_1"
+SoundID "FRIGATE_UNSCCHARON_ONSELECTED_2"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "FRIGATE_UNSCCHARON_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo  
+	meshName "Cruiser_CounAlarei"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "EXHAUST_FRIGATE_UNSCCHARON"
+ExplosionName "UNSC_Frig_Small"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_UNSCCAPITALSHIP"
+ability:0 "Ability_Coun_AlareiLADARJamming"
+ability:1 "Ability_Coun_AlareiSalvageSweep"
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 100.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 1
+minShadow 0.600000
+maxShadow 1.600000
+allegianceDecreasePerRoundtrip 0.000000

@@ -1,0 +1,67 @@
+TXT
+entityType "TitanUpgrade"
+stageCount 4
+stage
+	nameStringID "ABILITY_COVSHIELDBURST_NAME"
+	descStringID "ABILITY_COVSHIELDBURST_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement -1
+	hudIcon "HUDICON_POWERTOSHIELDSCOV"
+	smallHudIcon "HUDICON_ABILITY_SHIELDREGENERATE"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityCLevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "ABILITY_COVSHIELDBURST_NAME"
+	descStringID "ABILITY_COVSHIELDBURST_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 0
+	hudIcon "HUDICON_POWERTOSHIELDSCOV"
+	smallHudIcon "HUDICON_ABILITY_SHIELDREGENERATE"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityCLevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "ABILITY_COVSHIELDBURST_NAME"
+	descStringID "ABILITY_COVSHIELDBURST_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 1
+	hudIcon "HUDICON_POWERTOSHIELDSCOV"
+	smallHudIcon "HUDICON_ABILITY_SHIELDREGENERATE"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityCLevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "ABILITY_COVSHIELDBURST_NAME"
+	descStringID "ABILITY_COVSHIELDBURST_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDICON_POWERTOSHIELDSCOV"
+	smallHudIcon "HUDICON_ABILITY_SHIELDREGENERATE"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityCLevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0

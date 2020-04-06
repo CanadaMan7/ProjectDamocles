@@ -1,0 +1,235 @@
+TXT2
+SinsArchiveVersion 193  
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb TRUE
+hasBombingLevels FALSE
+baseDamage 35.000000
+basePopulationKilled 3.500000
+bombingFreqTime 10.000000
+baseRange 3000.000000
+bombTransitTime 24.000000
+bombEffectCount 1
+bombEffectAngleVariance 15.000000
+bombEffectsDef  
+	weaponType "Projectile"
+	burstCount 1
+	burstDelay 0.000000
+		fireDelay 0.000000
+	muzzleEffectName "Weapon_UNSCPlanetInvasion_Muzzle"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds  
+		soundCount 1
+		sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+	hitEffectName "Weapon_UNSCPlanetInvasion_Hit"
+	hitHullEffectSounds  
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	hitShieldsEffectSounds  
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	projectileTravelEffectName "Weapon_CovPlanetInvasionLight_Travel"
+typeCount 2
+frigateRoleType "Siege"
+frigateRoleType "Corvette"
+statCountType "FrigateSiege"
+mainViewIcon "MAINVIEWICON_FRIGATE_COVSDV"
+picture "PICTURE_FRIGATE_COVSDV"
+NameStringID "FRIGATE_COVSDV_NAME"
+DescriptionStringID "FRIGATE_COVSDV_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_SDV"
+basePrice  
+	credits 450.000000
+	metal 50.000000
+	crystal 15.000000
+slotCount 9.000000
+BuildTime 12.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 9.000000
+MaxHullPoints 800.000000
+MaxShieldPoints 1800.000000
+HullPointRestoreRate 1.000000
+ShieldPointRestoreRate 90.000000
+BaseArmorPoints 1.000000
+maxMitigation 0.000000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 4
+numSpecificDebris 1
+specificDebrisMeshName "FRIGATE_COVSDVDEBRIS"
+armorType "Light"
+hudIcon "HUDICON_FRIGATE_COVSDV"
+smallHudIcon "MAINVIEWICON_FRIGATE_COVSDV"
+infoCardIcon "MAINVIEWICON_FRIGATE_COVSDV"
+minZoomDistanceMult 1.2000000
+NumWeapons 2
+Weapon  
+	WeaponType "Projectile"
+	damageEnums  
+		AttackType "ANTIMEDIUM"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "PHASECANNON"
+	DamagePerBank:FRONT 0.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 80.000000
+	DamagePerBank:RIGHT 80.000000
+	Range 7500.000000
+	PreBuffCooldownTime 4.0000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.600000
+	TravelSpeed 3000.000000
+	Duration 0.0000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Projectile"
+		burstCount 2
+		burstDelay 0.800000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_CovPCannon_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE_ALT1"
+		hitEffectName "Weapon_CovPCannon_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "Weapon_CovPCannon_Travel"
+Weapon  
+	WeaponType "Beam"
+	damageEnums  
+		AttackType "ANTIVERYLIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "LASERTECH"
+	DamagePerBank:FRONT 40.000000
+	DamagePerBank:BACK 40.000000
+	DamagePerBank:LEFT 40.000000
+	DamagePerBank:RIGHT 40.000000
+	Range 5500.000000
+	PreBuffCooldownTime 4.0000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.25000
+	TravelSpeed 0.000000
+	Duration 0.2500000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 1.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CovPLaser_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PHASECAPITALFLASHBEAMMEDIUM_TRAVEL"
+			sound "WEAPON_PHASECAPITALFLASHBEAMMEDIUM_TRAVEL_ALT1"
+		hitEffectName "Weapon_CovPLaser_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		beamEffectSounds
+			soundCount 1
+			sound ""
+		beamGlowTextureName "WeaponCov_PulseBeam"
+		beamCoreTextureName "Black-da"
+		beamWidth 4.000000
+		beamGlowColor ffff80ff
+		beamCoreColor ffff80ff
+		beamTilingRate 3.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 1
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName "FRIGATE_COVSDV_SHIELD"
+renderShield TRUE
+maxAccelerationLinear 60.000000
+maxAccelerationStrafe 60.000000
+maxDecelerationLinear 550.000000
+maxAccelerationAngular 20.500000
+maxDecelerationAngular 30.500000
+maxSpeedLinear 600.000000
+maxRollRate 4.000000
+maxRollAngle 45.000000
+squadTypeEntityDef:0 "SQUAD_COVBANSHEECOMBAT"
+squadAntiMatterCost:0 4.000000
+squadTypeEntityDef:1 "SQUAD_COVSERAPHCOMBAT"
+squadAntiMatterCost:1 4.000000
+squadTypeEntityDef:2 "SQUAD_COVSERAPHBOMBER"
+squadAntiMatterCost:2 4.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 1
+NumSoundsFor:ONATTACKORDERISSUED 4
+SoundID "FRIGATE_COVSDV_ONATTACKORDERISSUED_0"
+SoundID "FRIGATE_COVSDV_ONATTACKORDERISSUED_1"
+SoundID "FRIGATE_COVSDV_ONATTACKORDERISSUED_2"
+SoundID "FRIGATE_COVSDV_ONATTACKORDERISSUED_3"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_COVSDV_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 4
+SoundID "FRIGATE_COVSDV_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_COVSDV_ONGENERALORDERISSUED_1"
+SoundID "FRIGATE_COVSDV_ONGENERALORDERISSUED_2"
+SoundID "FRIGATE_COVSDV_ONGENERALORDERISSUED_3"
+NumSoundsFor:ONSELECTED 5
+SoundID "FRIGATE_COVSDV_ONSELECTED_0"
+SoundID "FRIGATE_COVSDV_ONSELECTED_2"
+SoundID "FRIGATE_COVSDV_ONSELECTED_3"
+SoundID "FRIGATE_COVSDV_ONSELECTED_4"
+SoundID "FRIGATE_COVSDV_ONSELECTED_5"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "FRIGATE_COVSDV_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo  
+	meshName "FRIGATE_COVSDV"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_CovSDV"
+ExplosionName "Cov_Frig_Small"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_COVCAPITALSHIP"
+ability:0 "AbilityCovPlanetReinforce"
+ability:1 "AbilityCovDetectPhaseJump"
+ability:2 "AbilityCOVStealthSystems"
+ability:3 ""
+ability:4 "AbilityCovSDVPassiveBundle"
+MaxAntiMatter 4.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 2
+minShadow 0.200000
+maxShadow 0.600000
+allegianceDecreasePerRoundtrip 0.000000

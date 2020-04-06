@@ -1,0 +1,44 @@
+TXT2
+SinsArchiveVersion 193
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffUNSCValiantFlagBridgeSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 4
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 2.000000
+	Level:1 3.000000
+	Level:2 4.000000
+	Level:3 5.000000
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_UNSC_FACTIONCOLE1"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_UNSCCOLE"
+	RequiredCompletedResearchSubjects 0
+nameStringID "ABILITY_UNSCVALIANTFLAGBRIDGE_NAME"
+descStringID "ABILITY_UNSCVALIANTFLAGBRIDGE_DESCRIPTION"
+hudIcon "HUDICON_UNSC_VALFLAGBRIDGE"
+smallHudIcon "HUDICON_UNSC_VALFLAGBRIDGE"
+infoCardIcon ""

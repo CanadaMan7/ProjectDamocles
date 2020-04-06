@@ -1,0 +1,72 @@
+TXT 
+entityType "PlanetModuleShipFactory"
+minZoomDistanceMult 2.500000
+ability:0 "Ability_Coun_TradeNode1"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 "AbilityNoneIsBigShip"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+numRandomDebrisLarge 3
+numRandomDebrisSmall 19
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_PLANETMODULE_UNSCCAPITALSHIPFACTORY"
+smallHudIcon "HUDICONSMALL_PLANETMODULE_UNSCCAPITALSHIPFACTORY"
+infoCardIcon "INFOCARDICON_PLANETMODULE_UNSCCAPITALSHIPFACTORY"
+planetUpgradeSlotType "Civilian"
+planetUpgradeSlotCount 1.000000
+basePrice 
+	credits 750.000000
+	metal 100.000000
+	crystal 125.000000
+NameStringID "IDS_STRUCTURE_COUNDREADYARD_NAME"
+DescriptionStringID "IDS_STRUCTURE_COUNDREADYARD_DESCRIPTION"
+planetModuleRoleType "CAPITALSHIPFACTORY"
+statCountType "ModuleCapitalShipFactory"
+Prerequisites 
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MaxHullPoints 6500.000000
+HullPointRestoreRate 6.000000
+BaseArmorPoints 6.000000
+MaxShieldPoints 4000.000000
+ShieldPointRestoreRate 12.000000
+maxShieldMitigation 0.650000
+ExperiencePointsForDestroying 100.000000
+resourceExtractionType "Invalid"
+cultureSpreadRate 0.000000
+isAffectedBySimilarModuleCostResearch TRUE
+placementRadius 950.000000
+nearPlacementDistOffset 0.000000
+farPlacementDistOffset 9000.000000
+spawnCount 1
+swapMineType ""
+angularSpeed 0.000000
+rotateSoundName ""
+rotateFacingType "None"
+rotateConstantly FALSE
+ShieldMeshName "Structure_CounDreadnoughtYard"
+renderShield TRUE
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "PLANETMODULE_UNSCCAPITALSHIPFACTORY_ONSELECTION_0"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Structure_CounDreadnoughtYard"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExplosionName "UNSC_Capitalship_Large"
+mainViewIcon "MAINVIEWICON_PLANETMODULE_UNSCCAPITALSHIPFACTORY"
+picture "PICTURE_PLANETMODULE_UNSCCAPITALSHIPFACTORY"
+minShadow 0.600000
+maxShadow 1.600000
+formationRank 3
+baseBuildTime 70.000000
+buildEffectName ""

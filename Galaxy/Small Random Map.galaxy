@@ -1,0 +1,108 @@
+TXT
+versionNumber 193
+isBrowsable TRUE
+browsePictureName "ScenarioPicture-RandomSmall"
+browseName "Random - Small"
+browseDescription "A map generated with a high degree of randomness. Each planet, star, and sliplane will be different in each play through."
+isFirstCapitalShipIsFlagship FALSE
+randomizeStartingPositions TRUE
+planetArtifactDensity 0.150
+planetBonusDensity 0.60
+normalStartHomePlanetUpgradeLevel:Population 7
+normalStartHomePlanetUpgradeLevel:CivilianModules 4
+normalStartHomePlanetUpgradeLevel:TacticalModules 0
+normalStartHomePlanetUpgradeLevel:Home 1
+normalStartHomePlanetUpgradeLevel:ArtifactLevel 10
+normalStartHomePlanetUpgradeLevel:Infrastructure 2
+quickStartHomePlanetUpgradeLevel:Population 7
+quickStartHomePlanetUpgradeLevel:CivilianModules 4
+quickStartHomePlanetUpgradeLevel:TacticalModules 0
+quickStartHomePlanetUpgradeLevel:Home 1
+quickStartHomePlanetUpgradeLevel:ArtifactLevel 10
+quickStartHomePlanetUpgradeLevel:Infrastructure 2
+recommendedGameTypeCount 1
+recommendedGameType "Solo"
+metersPerGalaxyUnit 61500.000000
+pixelsPerGalaxyUnit 1
+useRandomGenerator TRUE
+randomizerParams
+	starPosOffsetRange
+		minPercentage 10.0
+		maxPercentage 15.0
+	playerParams
+		startingCredits 7500
+		startingMetal 2000
+		startingCrystal 700	
+		homePlanetType "TerranHome"
+		homePlanetStarRadiusRange
+			minPercentage 1.2
+			maxPercentage 1.2
+		areExtraPlanetsColonized FALSE	
+		extraPlanetsMaxRadius 15
+		extraPlanetsRadiusRange
+			minPercentage 1.1
+			maxPercentage 1.1
+		extraPlanetGroupCount 2
+		extraPlanetGroup
+			minCount 2
+			maxCount 2
+			planetTypeCount 1
+			planetType "RandomIceVolcanic"
+		extraPlanetGroup
+			minCount 1
+			maxCount 1
+			planetTypeCount 1
+			planetType "RandomIceVolcanic"
+starCount 1
+	star
+		type "RandomStar"
+		radius 100
+		connectionStarRadiusRange 1.0
+		connectionChance 1.0
+		maxPlayerCount 2
+		ringCount 3
+		ring
+			starRadiusRange
+				minPercentage 0.15
+				maxPercentage 0.25
+			militiaColonizationPerc 0.5
+			planetGroupCount 1
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "PirateBase"
+		ring
+			starRadiusRange
+				minPercentage 0.3
+				maxPercentage 0.7
+			militiaColonizationPerc 0.5
+			planetGroupCount 1
+			planetGroup
+				minCount 5
+				maxCount 5
+				planetTypeCount 1
+				planetType "WeightedRandom"		
+		ring
+			starRadiusRange
+				minPercentage 0.7
+				maxPercentage 1.0
+			militiaColonizationPerc 0.5
+			planetGroupCount 3
+			planetGroup
+				minCount 4
+				maxCount 4
+				planetTypeCount 1
+				planetType "Random"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomUncolonizable"
+			planetGroup
+				minCount 3
+				maxCount 3
+				planetTypeCount 1
+				planetType "WeightedRandom"
+dlcID 204880
+

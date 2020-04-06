@@ -1,0 +1,39 @@
+TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHPLACEHOLDER"
+smallHudIcon "HUDICON_RESEARCHPLACEHOLDER"
+infoCardIcon ""
+NameStringID "RESEARCH_SENTMINERALBUFF1_NAME"
+DescriptionStringID "RESEARCH_SENTMINERALBUFF1_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 4 , 7 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 55.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 1725.000000
+	metal 450.000000
+	crystal 400.000000
+PerLevelCostIncrease
+	credits 125.000000
+	metal 150.000000
+	crystal 100.000000
+Tier 6
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 3
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "ResourceCostAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.020000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

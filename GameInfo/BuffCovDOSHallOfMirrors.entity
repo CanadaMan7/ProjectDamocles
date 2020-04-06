@@ -1,0 +1,48 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "CreateFrigate"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	frigateType "CAPITALSHIP_COVDOSHallOfMirrors"
+	numFrigates
+		Level:0 1.000000
+		Level:1 1.000000
+		Level:2 2.000000
+		Level:3 2.000000
+	matchOwnerDamageState FALSE
+	impulse 75000.000000
+	expiryTime
+		Level:0 90.000000
+		Level:1 90.000000
+		Level:2 90.000000
+		Level:3 90.000000
+	spawnFrigateSoundID ""
+	postSpawnBuff ""
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "ChanceToHitAsDamageTarget"
+	value
+		Level:0 -0.100000
+		Level:1 -0.200000
+		Level:2 -0.300000
+		Level:3 -0.400000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 90.000000
+		Level:1 90.000000
+		Level:2 90.000000
+		Level:3 90.000000

@@ -1,0 +1,288 @@
+TXT
+entityType "StarBase"
+ability:0 "AbilityUNSCShivaStarBase"
+ability:1 "AbilityUNSCResupply"
+ability:2 "AbilityUNSCAnchorRepair"
+ability:3 "AbilitySBGates"
+ability:4 "AbilityUNSCSpeedJumps"
+defaultAutoAttackRange "None"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+numRandomDebrisLarge 12
+numRandomDebrisSmall 24
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_STARBASE_UNSCANCHOR"
+smallHudIcon "HUDICONSMALL_STARBASE_UNSCANCHOR"
+infoCardIcon "HUDICONSMALL_STARBASE_UNSCANCHOR"
+minZoomDistanceMult 1.000000
+NumWeapons 3
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIVERYLIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 100.000000
+	DamagePerBank:BACK 100.000000
+	DamagePerBank:LEFT 100.000000
+	DamagePerBank:RIGHT 100.000000
+	Range 5500.000000
+	PreBuffCooldownTime 4.500000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 6000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 6
+		burstDelay 0.100000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_TechCapitalAutoCannonLight_Muzzle"
+		muzzleSoundMinRespawnTime 10.000000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE"
+			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE_ALT1"
+		hitEffectName "Weapon_TechCapitalAutoCannonLight_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "Weapon_TechSupportAutoCannonLight_Travel"
+Weapon  
+	WeaponType "Missile"
+	damageEnums  
+		AttackType "COMPOSITE"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 500.000000
+	DamagePerBank:BACK 500.000000
+	DamagePerBank:LEFT 500.000000
+	DamagePerBank:RIGHT 500.000000
+	Range 8000.000000
+	PreBuffCooldownTime 10.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.150000
+	TravelSpeed 2000.000000
+	Duration 0.000000
+	fireConstraintType "StarBaseUpgradeLevel"
+	requiredStarBaseWeaponLevel 1
+	WeaponEffects  
+		weaponType "Missile"
+		burstCount 6
+		burstDelay 0.400000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_UNSCHeavyArcherMissile_Muzzle"
+		muzzleSoundMinRespawnTime 0.500000
+		muzzleSounds  
+			soundCount 3
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
+		hitEffectName "Weapon_UNSCHeavyArcherMissile_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_UNSCHeavyArcherMissile_Travel"
+		missileStartTurningDistance 250.000000
+		missileSlowTurnRate 1.000000
+		missileMaxSlowTurnTime 0.750000
+Weapon  
+	WeaponType "Projectile"
+	damageEnums  
+		AttackType "ANTIVERYHEAVY"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 1000.000000
+	DamagePerBank:BACK 1000.000000
+	DamagePerBank:LEFT 1000.000000
+	DamagePerBank:RIGHT 1000.000000
+	Range 15000.000000
+	PreBuffCooldownTime 16.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.000000
+	TravelSpeed 10000.000000
+	Duration 0.000000
+	fireConstraintType "StarBaseUpgradeLevel"
+	requiredStarBaseWeaponLevel 2
+	WeaponEffects  
+		weaponType "Projectile"
+		burstCount 3
+		burstDelay 1.0000000
+			fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCDeckGun_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds  
+			soundCount 3
+			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE"
+			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE_ALT1"
+			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE_ALT2"
+		hitEffectName "Weapon_UNSCDeckGun_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_UNSCDeckGun_Travel"
+m_weaponIndexForRange 2
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 4
+TargetCountPerBank:BACK 4
+TargetCountPerBank:LEFT 4
+TargetCountPerBank:RIGHT 4
+canOnlyTargetStructures FALSE
+ShieldMeshName "STARBASE_UNSCANCHOR_SHIELD"
+renderShield TRUE
+squadTypeEntityDef:0 "SQUAD_UNSCSABRECOMBAT"
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 "SQUAD_UNSCSABREBOMBER"
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+mainViewIcon "HUDICONSMALL_STARBASE_UNSCANCHOR"
+experiencePointsForDestroying 10.000000
+nameStringID "IDS_STARBASEUNSC_NAME"
+picture "PICTURE_STARBASE_UNSCANCHOR"
+statCountType "StarBase"
+creationSourceAbility "AbilityUNSCDeployStarBaseAI"
+maxUpgradeLevelCount 20
+UpgradeTypeCount 8
+UpgradeType "StarBaseUpgradeUNSCWeapons"
+UpgradeType "StarBaseUpgradeUNSCToughness"
+UpgradeType "StarBaseUpgradeUNSCHangar"
+UpgradeType "StarBaseUpgradeUNSCTradePort"
+UpgradeType "StarBaseUpgradeUNSCBlockColonize"
+UpgradeType "StarBaseUpgradeUNSCFactory"
+UpgradeType "StarBaseUpgradeUNSCResupply"
+UpgradeType "StarBaseUpgradeUNSCShiva"
+MeshNameInfoCount 8
+MeshNameInfo
+	meshName "STARBASE_UNSCANCHOR"
+	criteriaType "None"
+MeshNameInfo
+	meshName "STARBASE_UNSCANCHOR-TRADE"
+	criteriaType "StarBaseUpgradeLevel"
+	levelRequirements
+		levelRequirementCount 1
+		levelRequirement
+			upgradePropertyType "TradePortMeshLevel"
+			upgradeLevel 1
+MeshNameInfo
+	meshName "STARBASE_UNSCANCHOR-FACTORY"
+	criteriaType "StarBaseUpgradeLevel"
+	levelRequirements
+		levelRequirementCount 1
+		levelRequirement
+			upgradePropertyType "CultureMeshLevel"
+			upgradeLevel 1
+MeshNameInfo
+	meshName "STARBASE_UNSCANCHOR-ONAGER"
+	criteriaType "StarBaseUpgradeLevel"
+	levelRequirements
+		levelRequirementCount 1
+		levelRequirement
+			upgradePropertyType "WeaponUpgradeLevel"
+			upgradeLevel 2
+MeshNameInfo
+	meshName "STARBASE_UNSCANCHOR-ONAGER-TRADE"
+	criteriaType "StarBaseUpgradeLevel"
+	levelRequirements
+		levelRequirementCount 2
+		levelRequirement
+			upgradePropertyType "TradePortMeshLevel"
+			upgradeLevel 1
+		levelRequirement
+			upgradePropertyType "WeaponUpgradeLevel"
+			upgradeLevel 2
+MeshNameInfo
+	meshName "STARBASE_UNSCANCHOR-ONAGER-FACTORY"
+	criteriaType "StarBaseUpgradeLevel"
+	levelRequirements
+		levelRequirementCount 2
+		levelRequirement
+			upgradePropertyType "WeaponUpgradeLevel"
+			upgradeLevel 2
+		levelRequirement
+			upgradePropertyType "CultureMeshLevel"
+			upgradeLevel 1
+MeshNameInfo
+	meshName "STARBASE_UNSCANCHOR-FACTORY-TRADE"
+	criteriaType "StarBaseUpgradeLevel"
+	levelRequirements
+		levelRequirementCount 2
+		levelRequirement
+			upgradePropertyType "TradePortMeshLevel"
+			upgradeLevel 1
+		levelRequirement
+			upgradePropertyType "CultureMeshLevel"
+			upgradeLevel 1
+MeshNameInfo
+	meshName "STARBASE_UNSCANCHOR-ONAGER-FACTORY-TRADE"
+	criteriaType "StarBaseUpgradeLevel"
+	levelRequirements
+		levelRequirementCount 3
+		levelRequirement
+			upgradePropertyType "TradePortMeshLevel"
+			upgradeLevel 1
+		levelRequirement
+			upgradePropertyType "WeaponUpgradeLevel"
+			upgradeLevel 2
+		levelRequirement
+			upgradePropertyType "CultureMeshLevel"
+			upgradeLevel 1
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "STARBASE_UNSCANCHOR_ONATTACKORDERISSUED_0"
+SoundID "STARBASE_UNSCANCHOR_ONATTACKORDERISSUED_1"
+SoundID "STARBASE_UNSCANCHOR_ONATTACKORDERISSUED_2"
+NumSoundsFor:ONCREATION 1
+SoundID "STARBASE_UNSCANCHOR_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "STARBASE_UNSCANCHOR_ONSELECTED"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+ExplosionName "Starbase_UNSC"
+formationRank 3
+minShadow 0.200000
+maxShadow 0.500000
+cargoShipType "FRIGATE_UNSCTRADESHIP"
+maxCargoShipCount 1
+cargoShipRespawnTime 5.000000
+baseBuildTime 60.000000
+buildEffectName ""
+angularSpeed 0.500000
+rotateSoundName ""
+rotateFacingType "None"
+rotateConstantly FALSE
+maxAccelerationLinear 0.000000
+maxAccelerationStrafe 0.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 0.000000
+maxDecelerationAngular 9.999996
+maxSpeedLinear -1.000000
+maxRollRate 0.000000
+maxRollAngle 0.000000
+mass 10000.000000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"

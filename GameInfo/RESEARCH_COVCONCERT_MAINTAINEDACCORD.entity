@@ -1,0 +1,47 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "RESEARCHBUTTON_COV_MAINTAINEDACCORD"
+smallHudIcon "RESEARCHBUTTON_COV_MAINTAINEDACCORD"
+infoCardIcon ""
+NameStringID "RESEARCH_COVCONCERT_MAINTAINEDACCORD_NAME"
+DescriptionStringID "RESEARCH_COVCONCERT_MAINTAINEDACCORD_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 4 , 1 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COVCONCERT_CONSERVEDQUIETUDE"
+		Level 2
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 105.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 2300.000000
+	metal 300.000000
+	crystal 500.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 4
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "AllegianceFromCultureMaxPerc"
+	baseValue 0.000000
+	perLevelValue 0.050000
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 1.000000
+	linkedPlanetType "Oceanic"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

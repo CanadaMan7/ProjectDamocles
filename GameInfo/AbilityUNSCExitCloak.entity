@@ -1,0 +1,39 @@
+TXT
+entityType "Ability"
+buffInstantActionType "RemoveBuffOfType"
+instantActionTriggerType "AlwaysPerform"
+buffTypeToRemove "BuffUNSCCloak"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "NoEnemyShipsInGravityWell"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 0.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 30.000000
+	Level:1 30.000000
+	Level:2 30.000000
+	Level:3 30.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "ABILITY_UNSCCLOAKEXIT_NAME"
+descStringID "ABILITY_UNSCCLOAKEXIT_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_UNSCEXITCLOAK"
+smallHudIcon ""
+infoCardIcon ""

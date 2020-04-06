@@ -1,0 +1,104 @@
+﻿TXT
+entityType "TitanUpgrade"
+stageCount 5
+stage
+	nameStringID "TITANUPGRAGE_UNSC_INFANTIMATTER_NAME"
+	descStringID "TITANUPGRAGE_UNSC_INFANTIMATTER_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement -1
+	hudIcon "HUDIconINFINITYREACTORUPGRADE"
+	smallHudIcon "HUDIconTitanTechRebelAbilityUpgrade0"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "TITANUPGRAGE_UNSC_INFANTIMATTER_NAME"
+	descStringID "TITANUPGRAGE_UNSC_INFANTIMATTER_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 0
+	hudIcon "HUDIconINFINITYREACTORUPGRADE"
+	smallHudIcon "HUDIconTitanTechRebelAbilityUpgrade0"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 55.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 0.170000
+	upgradeProperty
+		propertyType "AbilityCooldownRate"
+		value 0.030000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "TITANUPGRAGE_UNSC_INFANTIMATTER_NAME"
+	descStringID "TITANUPGRAGE_UNSC_INFANTIMATTER_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 1
+	hudIcon "HUDIconINFINITYREACTORUPGRADE"
+	smallHudIcon "HUDIconTitanTechRebelAbilityUpgrade1"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 82.500000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 0.255000
+	upgradeProperty
+		propertyType "AbilityCooldownRate"
+		value 0.070000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "TITANUPGRAGE_UNSC_INFANTIMATTER_NAME"
+	descStringID "TITANUPGRAGE_UNSC_INFANTIMATTER_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDIconINFINITYREACTORUPGRADE"
+	smallHudIcon "HUDIconTitanTechRebelAbilityUpgrade2"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 110.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 0.340000
+	upgradeProperty
+		propertyType "AbilityCooldownRate"
+		value 0.110000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "TITANUPGRAGE_UNSC_INFANTIMATTER_NAME"
+	descStringID "TITANUPGRAGE_UNSC_INFANTIMATTER_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 3
+	hudIcon "HUDIconINFINITYREACTORUPGRADE"
+	smallHudIcon "HUDIconTitanTechRebelAbilityUpgrade3"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 137.500000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 0.425000
+	upgradeProperty
+		propertyType "AbilityCooldownRate"
+		value 0.150000
+	upgradeBoolPropertyCount 0

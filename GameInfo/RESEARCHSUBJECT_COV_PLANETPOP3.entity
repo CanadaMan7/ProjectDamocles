@@ -1,0 +1,63 @@
+TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_COVPOPULATIONCAPTERRANTECH4"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_POPULATIONCAPTERRANTECH0"
+infoCardIcon ""
+NameStringID "RESEARCHSUBJECT_COV_POPULATIONCAP3_NAME"
+DescriptionStringID "RESEARCHSUBJECT_COV_POPULATIONCAP3_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 7 , 3 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_COV_PLANETPOP2"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 65.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 2000.000000
+	metal 200.000000
+	crystal 350.000000
+PerLevelCostIncrease
+	credits 200.000000
+	metal 50.000000
+	crystal 100.000000
+Tier 7
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 5
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.10000
+	linkedPlanetType "Terran"
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.10000
+	linkedPlanetType "Ice"
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.10000
+	linkedPlanetType "Volcanic"
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.10000
+	linkedPlanetType "Iron"
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.10000
+	linkedPlanetType "Barren"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

@@ -1,0 +1,72 @@
+TXT 
+entityType "PlanetModuleStandard"
+minZoomDistanceMult 2.000000
+ability:0 "AbilityUNSCSpaceMineDetonate"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 "AbilityUNSCHideMines"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+numRandomDebrisLarge 0
+numRandomDebrisSmall 5
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_PLANETMODULE_UNSCDEEPSPACEMINE"
+smallHudIcon "HUDICONSMALL_PLANETMODULE_UNSCDEEPSPACEMINE"
+infoCardIcon "INFOCARDICON_PLANETMODULE_UNSCDEEPSPACEMINE"
+planetUpgradeSlotType "Tactical"
+planetUpgradeSlotCount 0.000000
+basePrice 
+	credits 510.000000
+	metal 130.000000
+	crystal 55.000000
+NameStringID "PLANETMODULE_UNSCSPACEMINE_NAME"
+DescriptionStringID "PLANETMODULE_UNSCSPACEMINE_DESCRIPTION"
+planetModuleRoleType "SPACEMINE"
+statCountType "Invalid"
+Prerequisites 
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MaxHullPoints 50.000000
+HullPointRestoreRate 0.000000
+BaseArmorPoints 0.000000
+MaxShieldPoints 0.000000
+ShieldPointRestoreRate 0.000000
+maxShieldMitigation 0.000000
+ExperiencePointsForDestroying 0.000000
+resourceExtractionType "Invalid"
+cultureSpreadRate 0.000000
+isAffectedBySimilarModuleCostResearch FALSE
+placementRadius 100.000000
+nearPlacementDistOffset 0.000000
+farPlacementDistOffset 0.000000
+spawnCount 10
+swapMineType "SPACEMINE_UNSCEXPLOSIVE"
+angularSpeed 0.000000
+rotateSoundName ""
+rotateFacingType "None"
+rotateConstantly FALSE
+ShieldMeshName ""
+renderShield FALSE
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "PLANETMODULE_UNSCDEEPSPACEMINE_ONSELECTION_0"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo 
+	meshName "PLANETMODULE_UNSCDEEPSPACEMINE"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExplosionName "TechSpaceMine"
+mainViewIcon "MAINVIEWICON_PLANETMODULE_UNSCDEEPSPACEMINE"
+picture "PICTURE_PLANETMODULE_UNSCDEEPSPACEMINE"
+minShadow 0.000000
+maxShadow 0.600000
+formationRank 3
+baseBuildTime 4.000000
+buildEffectName ""

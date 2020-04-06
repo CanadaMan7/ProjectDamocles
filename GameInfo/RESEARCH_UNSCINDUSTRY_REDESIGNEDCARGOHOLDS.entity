@@ -1,0 +1,42 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "RESEARCHBUTTON_UNSC_REDESIGNEDCARGOHOLDS"
+smallHudIcon "RESEARCHBUTTON_UNSC_REDESIGNEDCARGOHOLDS"
+infoCardIcon ""
+NameStringID "RESEARCH_UNSCINDUSTRY_REDESIGNEDCARGOHOLDS_NAME"
+DescriptionStringID "RESEARCH_UNSCINDUSTRY_REDESIGNEDCARGOHOLDS_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 2 , 0 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_UNSCINDUSTRY_REVISEDREGULATIONS"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 75.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 1200.000000
+	metal 150.000000
+	crystal 225.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 2
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "RefineryShipCapacityAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.150000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

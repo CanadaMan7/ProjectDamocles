@@ -1,0 +1,47 @@
+TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_FRIGATE_COVDAVACCESS"
+smallHudIcon "HUDICONSMALL_FRIGATE_COVDAV"
+infoCardIcon "INFOCARDICON_FRIGATE_COVDAV"
+NameStringID "FRIGATE_COVMERCY_NAME"
+DescriptionStringID "FRIGATE_COVMERCY_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 1 , 0 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 30
+PerLevelUpgradeTime 0
+BaseCost
+	credits 400.000000
+	metal 0.000000
+	crystal 25.000000
+PerLevelCostIncrease
+	credits 1000.000000
+	metal 0.000000
+	crystal 25.000000
+Tier 1
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 5
+researchModifier
+	modifierType "AllowAlliesToUsePhaseGates"
+researchModifier
+	modifierType "AllowMissionOffers"
+researchModifier
+	modifierType "AllowResourceDemandAndGifts"
+researchModifier
+	modifierType "AllowPacts"
+researchModifier
+	modifierType "UnlockPact"
+	allianceType "TradeIncomePact"
+	pactUnlockEntityDefName "RESEARCHSUBJECT_PACTBONUS_GENERIC0"
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

@@ -1,0 +1,39 @@
+TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffCovDefenseCoordinationSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "StarBaseUpgradeLevel"
+sourcePropertyType "AbilityCLevel"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite  
+		Subject "RESEARCHSUBJECT_COV_STARBASEUPGRADEACCESS_DEFENSECOORDINATION"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_STARBASEUPGRADECOVDEFENSECOORDINATION_NAME"
+descStringID "IDS_STARBASEUPGRADECOVDEFENSECOORDINATION_DESC"
+hudIcon "HUDICON_RESEARCHSUBJECT_HYPERSPACE_DETECTIONPHASE0"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_HYPERSPACE_DETECTIONPHASE0"
+infoCardIcon ""

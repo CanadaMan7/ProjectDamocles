@@ -1,0 +1,160 @@
+TXT
+entityType "StarBaseUpgrade"
+stageCount 6
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADEUNSCTOUGHNESS_NAME"
+	descStringID "IDS_STARBASEUPGRADEUNSCTOUGHNESS_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_ABILITY_ANCHORTOUGHNESS"
+	smallHudIcon "HUDICON_ABILITY_ANCHORTOUGHNESS"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 12500.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 10.0000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 10.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1000.000000
+		metal 250.000000
+		crystal 50.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADEUNSCTOUGHNESS_NAME"
+	descStringID "IDS_STARBASEUPGRADEUNSCTOUGHNESS_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_ABILITY_ANCHORTOUGHNESS"
+	smallHudIcon "HUDICON_ABILITY_ANCHORTOUGHNESS"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 15000.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 20.000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 12.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1600.000000
+		metal 400.000000
+		crystal 80.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADEUNSCTOUGHNESS_NAME"
+	descStringID "IDS_STARBASEUPGRADEUNSCTOUGHNESS_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_ABILITY_ANCHORTOUGHNESS"
+	smallHudIcon "HUDICON_ABILITY_ANCHORTOUGHNESS"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 17500.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 30.000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 14.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 2000.000000
+		metal 500.000000
+		crystal 100.000000
+	upgradeTime 75.000000
+	nameStringID "IDS_STARBASEUPGRADEUNSCTOUGHNESS_NAME"
+	descStringID "IDS_STARBASEUPGRADEUNSCTOUGHNESS_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_ABILITY_ANCHORTOUGHNESS"
+	smallHudIcon "HUDICON_ABILITY_ANCHORTOUGHNESS"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 20000.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 40.0000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 16.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 2400.000000
+		metal 600.000000
+		crystal 120.000000
+	upgradeTime 75.000000
+	nameStringID "IDS_STARBASEUPGRADEUNSCTOUGHNESS_NAME"
+	descStringID "IDS_STARBASEUPGRADEUNSCTOUGHNESS_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_ABILITY_ANCHORTOUGHNESS"
+	smallHudIcon "HUDICON_ABILITY_ANCHORTOUGHNESS"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 22500.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 50.0000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 18.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 3000.000000
+		metal 750.000000
+		crystal 150.000000
+	upgradeTime 75.000000
+	nameStringID "IDS_STARBASEUPGRADEUNSCTOUGHNESS_NAME"
+	descStringID "IDS_STARBASEUPGRADEUNSCTOUGHNESS_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_ABILITY_ANCHORTOUGHNESS"
+	smallHudIcon "HUDICON_ABILITY_ANCHORTOUGHNESS"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 25000.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 60.0000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 20.000000
+	upgradeBoolPropertyCount 0
+xpModifier 10.0000000

@@ -1,0 +1,30 @@
+TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable TRUE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName "DAVCloak"
+		mediumEffectName "DAVCloak"
+		largeEffectName "DAVCloak"
+		soundID ""
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 4
+entityBoolModifier "CannotBeDamaged"
+entityBoolModifier "CannotBeScuttled"
+entityBoolModifier "IsInvisible"
+entityBoolModifier "DisableWeapons"
+numFinishConditions 0

@@ -1,0 +1,53 @@
+TXT
+entityType "Ability"
+	buffInstantActionType "ApplyBuffToLocalOrbitBodiesWithinDistance"
+	instantActionTriggerType "AlwaysPerform"
+	buffType "BuffNoneKOTHEffect"
+	targetFilter
+		numOwnerships 4
+		ownership "Enemy"
+		ownership "Friendly"
+		ownership "NoOwner"
+		ownership "UncontrolledMinorFaction"
+		numObjects 2
+		object "Planet"
+		object "Star"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	connectionDistance 9999
+	maxTargetCount
+		Level:0 9999.000000
+		Level:1 -1.000000
+		Level:2 -1.000000
+		Level:3 -1.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "blank"
+descStringID "blank"
+hudIcon ""
+smallHudIcon ""
+infoCardIcon ""

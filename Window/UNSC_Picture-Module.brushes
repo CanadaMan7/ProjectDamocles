@@ -1,0 +1,78 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 15
+brush
+	name "PICTURE_PLANETMODULE_UNSCCULTURESTATION"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 713 , 1055 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_UNSCCOMMANDCENTER"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 1423 , 1055 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_UNSCTITANFACTORY"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 3 , 1318 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_UNSCFRIGATEFACTORY"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 2488 , 1055 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_UNSCCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 2133 , 1055 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_UNSCHANGERDEFENSE"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 1778 , 1055 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_UNSCSMAC"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 2488 , 792 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_UNSCSHMAC"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 2133 , 792 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_UNSCREPAIRPLATFORM"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 1068 , 1055 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_UNSCCOMBATLABORATORY"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 358 , 1318 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_UNSCNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 713 , 1318 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_UNSCTRADEPORT"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 2133 , 1318 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_UNSCREFINERY"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 1068 , 1318 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_UNSCMETALEXTRACTOR"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 1423 , 1318 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_UNSCCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 1778 , 1318 , 354 , 261 ]

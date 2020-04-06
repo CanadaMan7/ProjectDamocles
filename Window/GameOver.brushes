@@ -1,0 +1,63 @@
+TXT
+onlyLoadOnDemand TRUE
+brushCount 12
+brush
+	name "GameOverDialogPictureOverlay"
+	content "Simple"
+	fileName "GameOver"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "GameOverDialogTextBackdrop"
+	content "Simple"
+	fileName "GameOver"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "GameOverDialogTextOverlay"
+	content "Simple"
+	fileName "GameOver"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "GameOverDialogHasWonPictureUNSC"
+	content "Simple"
+	fileName "GameOverUNSCWin"
+	pixelBox [ 0 , 0 , 1024 , 766 ]
+brush
+	name "GameOverDialogHasLostPictureUNSC"
+	content "Simple"
+	fileName "GameOverUNSCLoss"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogPlayerThemeBackdropTech"
+	content "Simple"
+	fileName "GameOver"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "GameOverDialogHasWonPicturePsi"
+	content "Simple"
+	fileName "GameOverPsiWin"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasLostPicturePsi"
+	content "Simple"
+	fileName "GameOverPsiLoss"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogPlayerThemeBackdropPsi"
+	content "Simple"
+	fileName "GameOver"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "GameOverDialogHasWonPictureCov"
+	content "Simple"
+	fileName "GameOverCovWin"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasLostPictureCov"
+	content "Simple"
+	fileName "GameOverCovLoss"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogPlayerThemeBackdropPhase"
+	content "Simple"
+	fileName "GameOver"
+	pixelBox [ 0 , 0 , 0 , 0 ]

@@ -1,0 +1,216 @@
+TXT
+tabButtonIcon "UI_SubMenus_Text_GraphicsQuality"
+tabButtonText "blank"
+resetButton
+	area [204, 79, 204 , 58]
+	fontId ""
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_TopbarButton"
+	overlay ""			
+	icon "UI_TextTop_Reset"
+	text "blank"
+applyChangesButton
+	area [408, 79, 204 , 58]
+	fontId ""
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_TopbarButton"
+	overlay "UI_Overlay_Settings_Graphics"				
+	icon "UI_TextTop_Apply"
+	text "blank"	
+showAsteroidsCheckBox
+	area [16, 228, 56, 10]
+	text "blank"	
+showDustCloudsCheckBox
+	area [16, 272, 56, 10]
+	text "blank"	
+showElevatorsCheckBox
+	area [-10000, -10000, 0, 0]
+	text "blank"	
+showPlanetRingsCheckBox
+	area [16, 316, 56, 10]
+	text "blank"	
+showDebrisCheckBox
+	area [16, 360, 56, 10]
+	text "blank"	
+useColoredSkyboxesCheckBox
+	area [16, 404, 56, 10]
+	text "blank"	
+useDeepSpaceSkyboxesCheckBox
+	area [16, 448, 56, 10]
+	text "blank"	
+shakeCameraCheckBox
+	area [16, 492, 56, 10]
+	text "blank"	
+isPostProcessSceneEnabledCheckBox
+	area [16, 536, 56, 10]
+	text "blank"	
+isShipBrighteningEnabledCheckBox
+	area [16, 580, 56, 10]
+	text "blank"
+showMeshTeamColorCheckBox
+	area [16, 624, 56, 10]
+	text "blank"	
+exhaustTrailDetailScrollBar
+	area [14, 668, 196, 10]
+	text "blank"	
+planetColorTextureQualityButton
+	area [347, 194, 210 , 32 ]
+	fontId "ListItem"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_SettingsGraphics_Button"
+	overlay "None_Blank"
+	textureQualityInfo-Low
+		text "blank"
+		icon "UI_SettingsGraphicsText_Low"
+	textureQualityInfo-Medium
+		text "blank"
+		icon "UI_SettingsGraphicsText_Medium"
+	textureQualityInfo-High
+		text "blank"
+		icon "UI_SettingsGraphicsText_High"
+	textureQualityInfo-Highest
+		text "blank"
+		icon "UI_SettingsGraphicsText_Ultra"
+	textureQualityInfo-Extreme
+		text "blank"
+		icon "UI_SettingsGraphicsText_Extreme"
+shipColorTextureQualityButton
+	area [347, 228, 210 , 32 ]
+	fontId "ListItem"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_SettingsGraphics_Button"
+	overlay "None_Blank"			
+	textureQualityInfo-Low
+		text "blank"
+		icon "UI_SettingsGraphicsText_Low"
+	textureQualityInfo-Medium
+		text "blank"
+		icon "UI_SettingsGraphicsText_Medium"
+	textureQualityInfo-High
+		text "blank"
+		icon "UI_SettingsGraphicsText_High"
+	textureQualityInfo-Highest
+		text "blank"
+		icon "UI_SettingsGraphicsText_Ultra"
+	textureQualityInfo-Extreme
+		text "blank"
+		icon "UI_SettingsGraphicsText_Extreme"
+shipDataTextureQualityButton
+	area [347, 262, 210 , 32 ]
+	fontId "ListItem"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_SettingsGraphics_Button"
+	overlay "None_Blank"			
+	textureQualityInfo-Low
+		text "blank"
+		icon "UI_SettingsGraphicsText_Low"
+	textureQualityInfo-Medium
+		text "blank"
+		icon "UI_SettingsGraphicsText_Medium"
+	textureQualityInfo-High
+		text "blank"
+		icon "UI_SettingsGraphicsText_High"
+	textureQualityInfo-Highest
+		text "blank"
+		icon "UI_SettingsGraphicsText_Ultra"
+	textureQualityInfo-Extreme
+		text "blank"
+		icon "UI_SettingsGraphicsText_Extreme"
+shipBumpTextureQualityButton
+	area [347, 296, 210 , 32 ]
+	fontId "ListItem"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_SettingsGraphics_Button"
+	overlay "None_Blank"			
+	textureQualityInfo-Low
+		text "blank"
+		icon "UI_SettingsGraphicsText_Low"
+	textureQualityInfo-Medium
+		text "blank"
+		icon "UI_SettingsGraphicsText_Medium"
+	textureQualityInfo-High
+		text "blank"
+		icon "UI_SettingsGraphicsText_High"
+	textureQualityInfo-Highest
+		text "blank"
+		icon "UI_SettingsGraphicsText_Ultra"
+	textureQualityInfo-Extreme
+		text "blank"
+		icon "UI_SettingsGraphicsText_Extreme"
+moduleColorTextureQualityButton
+	area [347, 330, 210 , 32 ]
+	fontId "ListItem"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_SettingsGraphics_Button"
+	overlay "None_Blank"			
+	textureQualityInfo-Low
+		text "blank"
+		icon "UI_SettingsGraphicsText_Low"
+	textureQualityInfo-Medium
+		text "blank"
+		icon "UI_SettingsGraphicsText_Medium"
+	textureQualityInfo-High
+		text "blank"
+		icon "UI_SettingsGraphicsText_High"
+	textureQualityInfo-Highest
+		text "blank"
+		icon "UI_SettingsGraphicsText_Ultra"
+	textureQualityInfo-Extreme
+		text "blank"
+		icon "UI_SettingsGraphicsText_Extreme"
+moduleDataTextureQualityButton
+	area [347, 364, 210 , 32 ]
+	fontId "ListItem"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_SettingsGraphics_Button"
+	overlay "None_Blank"			
+	textureQualityInfo-Low
+		text "blank"
+		icon "UI_SettingsGraphicsText_Low"
+	textureQualityInfo-Medium
+		text "blank"
+		icon "UI_SettingsGraphicsText_Medium"
+	textureQualityInfo-High
+		text "blank"
+		icon "UI_SettingsGraphicsText_High"
+	textureQualityInfo-Highest
+		text "blank"
+		icon "UI_SettingsGraphicsText_Ultra"
+	textureQualityInfo-Extreme
+		text "blank"
+		icon "UI_SettingsGraphicsText_Extreme"
+moduleBumpTextureQualityButton
+	area [347, 398, 210 , 32 ]
+	fontId "ListItem"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_SettingsGraphics_Button"
+	overlay "None_Blank"			
+	textureQualityInfo-Low
+		text "blank"
+		icon "UI_SettingsGraphicsText_Low"
+	textureQualityInfo-Medium
+		text "blank"
+		icon "UI_SettingsGraphicsText_Medium"
+	textureQualityInfo-High
+		text "blank"
+		icon "UI_SettingsGraphicsText_High"
+	textureQualityInfo-Highest
+		text "blank"
+		icon "UI_SettingsGraphicsText_Ultra"
+	textureQualityInfo-Extreme
+		text "blank"
+		icon "UI_SettingsGraphicsText_Extreme"
+shadowQualityListLabel
+	area [0, 0, 0, 0]
+	fontId "Label"
+	text "blank"
+shadowQualityListArea [347, 474, 210, 214]

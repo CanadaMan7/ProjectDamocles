@@ -1,0 +1,99 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 19
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCCULTURESTATION"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 523 , 342 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCREPAIRSTATION"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 557 , 353 , 31 , 12 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCTITANFACTORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 451 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCFRIGATEFACTORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 91 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 121 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCCULTURECENTER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 181 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCHANGERDEFENSE"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 476 , 88 , 33 , 36 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCSMAC"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 364 , 219 , 25 , 14 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCVIERY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 411 , 127 , 33 , 15 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCSHIELDGENERATOR"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 421 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCREPAIRPLATFORM"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 151 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCCOMBATLABORATORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 211 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 211 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCTRADEPORT"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 241 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCREFINERY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 331 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCMETALEXTRACTOR"
+	content "Simple"
+	fileName "UI_FleetIcons"
+	pixelBox [ 460 , 3 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "UI_FleetIcons"
+	pixelBox [ 427 , 3 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCJUMPBLOCKER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 61 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_UNSCCANNON"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 271 , 1 , 28 , 28 ]
+	

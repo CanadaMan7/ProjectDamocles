@@ -1,0 +1,128 @@
+TXT
+onlyLoadOnDemand TRUE
+brushCount 23
+brush
+	name "UI_Background_LoadScreen"
+	content "Simple"
+	fileName "UI_Backgrounds_LoadScreen"
+	pixelBox [ 0 , 0 , 1920 , 1080 ]
+brush									
+	name "LoadScreenCharacterTech"
+	content "Simple"
+	fileName "UI_Assets_LoadingScreen"
+	pixelBox [ 0 , 16 , 1024 , 16 ]
+brush									
+	name "LoadScreenCharacterPhase"
+	content "Simple"
+	fileName "UI_Assets_LoadingScreen"
+	pixelBox [ 0 , 0 , 1104 , 16 ]
+brush
+	name "LoadScreenCharacterPsi"
+	content "Simple"
+	fileName "Startup_Loadscreen0"
+	pixelBox [ 748 , 1059 , 441 , 749 ]
+brush
+	name "UI_LoadBar_Backdrop"
+	content "Simple"
+	fileName "UI_Assets_LoadingScreen"
+	pixelBox [ 0 , 32 , 1306 , 4 ]
+brush
+	name "UI_LoadBarProgress"
+	content "Margins"
+	stretchMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	contentMargins
+		left 0
+		right 0
+		top 0
+		bottom 0
+	fileName "UI_Assets_LoadingScreen"
+	pixelBox [ 0 , 36 , 4 , 4 ]
+brush
+	name "UI_LoadingScreen_Picture1"
+	content "Simple"
+	fileName "UI_LoadingScreen_Images"
+	pixelBox [ 0 , 0 , 1306 , 598 ]
+brush
+	name "UI_LoadingScreen_Picture2"
+	content "Simple"
+	fileName "UI_LoadingScreen_Images"
+	pixelBox [ 1306 , 0 , 1306 , 598 ]
+brush
+	name "UI_LoadingScreen_Picture3"
+	content "Simple"
+	fileName "UI_LoadingScreen_Images"
+	pixelBox [ 2612 , 0 , 1306 , 598 ]
+brush
+	name "UI_LoadingScreen_Picture4"
+	content "Simple"
+	fileName "UI_LoadingScreen_Images"
+	pixelBox [ 3918 , 0 , 1306 , 598 ]
+brush
+	name "UI_LoadingScreen_Picture5"
+	content "Simple"
+	fileName "UI_LoadingScreen_Images"
+	pixelBox [ 5224 , 0 , 1306 , 598 ]
+brush
+	name "UI_LoadingScreen_Picture6"
+	content "Simple"
+	fileName "UI_LoadingScreen_Images"
+	pixelBox [ 6530 , 0 , 1306 , 598 ]
+brush
+	name "UI_LoadingScreen_Picture7"
+	content "Simple"
+	fileName "UI_LoadingScreen_Images"
+	pixelBox [ 7836 , 0 , 1306 , 598 ]
+brush
+	name "UI_LoadingScreen_Picture8"
+	content "Simple"
+	fileName "UI_LoadingScreen_Images"
+	pixelBox [ 9142 , 0 , 1306 , 598 ]
+brush
+	name "UI_LoadingScreen_Picture9"
+	content "Simple"
+	fileName "UI_LoadingScreen_Images"
+	pixelBox [ 10448 , 0 , 1306 , 598 ]
+brush
+	name "UI_LoadingScreen_Picture10"
+	content "Simple"
+	fileName "UI_LoadingScreen_Images"
+	pixelBox [ 11754 , 0 , 1306 , 598 ]
+brush
+	name "UI_LoadingScreen_Picture11"
+	content "Simple"
+	fileName "UI_LoadingScreen_Images"
+	pixelBox [ 13060 , 0 , 1306 , 598 ]
+brush
+	name "UI_LoadingScreen_Picture12"
+	content "Simple"
+	fileName "UI_LoadingScreen_Images"
+	pixelBox [ 14366 , 0 , 1306 , 598 ]
+brush
+	name "UI_LoadingScreen_Picture13"
+	content "Simple"
+	fileName "UI_LoadingScreen_Images"
+	pixelBox [ 0 , 600 , 1306 , 598 ]
+brush
+	name "UI_LoadingScreen_Picture14"
+	content "Simple"
+	fileName "UI_LoadingScreen_Images"
+	pixelBox [ 1306 , 600 , 1306 , 598 ]
+brush
+	name "UI_LoadingScreen_Picture15"
+	content "Simple"
+	fileName "UI_LoadingScreen_Images"
+	pixelBox [ 2612 , 600 , 1306 , 598 ]
+brush
+	name "DiplomacyLogo"
+	content "Simple"
+	fileName "GameLogo_Opening"
+	pixelBox [ 0 , 0 , 1027 , 768 ]
+brush
+	name "LoadScreenPictureDiplomacyBeta"
+	content "Simple"
+	fileName "Loadingbackdrop_diplomacy_beta"
+	pixelBox [ 0 , 0 , 1027 , 768 ]

@@ -1,0 +1,26 @@
+Cruiser spawn rate (per level 2-7):
+6
+6
+6
+6
+11
+11
+11
+
+Swarmer spawn rate (per level 2-7):
+11
+11
+11
+6
+6
+6
+6
+
+Frigate spawn rate (per level 2-7):
+13
+13
+13
+13
+9
+9
+9

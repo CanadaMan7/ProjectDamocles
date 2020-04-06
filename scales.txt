@@ -1,0 +1,175 @@
+CDA 1.042 Alt 1.04
+
+CAS: 0.798 Alt 0.80
+
+OSS: 0.712 = 0.8*0.89
+
+OAS is 0.915, closest I could get is: 0.917905675 which is 0.95*0.95*0.95*1.06*1.01
+OAS v2: 0.91392 = 1.02*0.8*1.12
+OAS v3: 0.916388655 = 1.02*0.85*1.15*0.91*1.01
+Use OAS v2
+
+DDS 0.786 Alt 0.787525 = 0.85*0.85*1.09
+
+DAV 0.256 Alt 0.255 = 0.3*0.85
+
+SDV 0.943 Alt 0.9409 = 0.97*0.97
+
+CCS: 0.822 Alt 0.8217 = 0.83*0.99
+
+CRS: 0.843 Alt 0.84645 = 0.9*0.95*0.99
+
+DOS 0.766 Alt 0.768 = 0.8*0.96
+
+DRP 0.657 Alt 0.658 = 0.7*0.94
+
+ORS 0.81
+
+RCS 0.815 Alt 0.814 = 1.1*0.74
+
+CPV 1.08
+
+CAR 0.528 = 0.6*0.88
+
+DDA 0.29
+
+DSC Alt 0.96
+
+ 
+
+CDA: +4.2%
+CAS: -20.2%
+DDS: -21.4%
+OAS: -8.5%
+OSS: -28.8%
+DAV: -74.4%
+SDV: -5.7%
+CCS: -17.8%
+CRS: -15.7%
+DOS: -23.4%
+DRP: -34.3%
+ORS: -19%
+RCS: -18.5%
+CPV: +8%
+CAR: -47.2%
+DDA: -71%
+DSC: -4.2%
+
+
+PlanetHalo: +79947.805 Alt 79790 = 100*100*7.9*1.01
+
+
+
+Infinity 0.846 Alt 0.84645 = 0.9*0.95*0.99
+
+Athens 0.934 Alt 0.935 = 1.1*0.85
+
+Eion 0.978 Alt 0.9765 = 1.05*0.93
+
+Epoch 0.985 Alt 0.9828 = 1.08*0.91
+
+Orion 0.762 Alt 0.76
+
+Punic 0.84
+
+PHOENIX (frigate): 0.955 Alt 0.95445 = 1.05*0.9*1.01
+
+Mako 0.41
+
+Artemis 0.736 Alt 0.735 = 0.75*0.98
+
+Autumn 0.99
+
+Halcyon 0.988 Alt 0.99
+
+Marathon 1.088 Alt 1.089 = 1.1*0.99
+
+Valiant 0.908 Alt 0.9078 = 1.02*0.89
+
+Halberd Alt 0.96
+
+Charon 0.953 Alt 0.954 = 0.6*1.5*1.06
+
+Geneva 0.717 Alt 0.71808 = 0.8*0.88*1.02
+
+Paris 0.901 Alt 0.9
+
+Stalwart 0.874 Alt 0.873 = 0.9*0.97
+
+Strident 0.95
+
+Razor 0.264 = 0.3*0.88
+
+Sahara 1.125 Alt 1.124635 = 1.31*0.85*1.01
+
+SMAC 1.067 = 1.1*0.97
+
+SHMAC 1.159 Alt 1.16
+
+Phoenix (cap) 1.055 Alt 1.056 = 1.1*0.96
+
+Cradle 0.936 Alt 0.9345 = 1.05*0.89
+
+Sloop 0.63
+
+
+
+INFINITY: -15.4%
+ATHENS: -6.6%
+EION: -2.2%
+EPOCH: -1.5%
+ORION: -23.8%
+PUNIC: -16%
+PHOENIX (frigate): -4.5%
+MAKO: -59%
+ARTEMIS: -26.4%
+AUTUMN: -1%
+HALCYON: -1.2%
+MARATHON: +8.8%
+VALIANT: -9.2%
+HALBERD: -4.2%
+CHARON: -4.7%
+GENEVA: -28.3%
+PARIS: -9.9%
+STALWART: -12.6%
+STRIDENT: -5%
+RAZOR: -73.6%
+SLOOP: -37%
+SAHARA: +12.5%
+SMAC: +6.7%
+SHMAC: +15.9%
+PHOENIX (cap): +5.5%
+CRADLE: -6.4%
+
+
+
+UNSC Trade 0.185 Alt 0.186 = 0.2*0.93
+
+Broadsword 0.75
+
+Longsword 1.637 Alt 1.6356 = 1.74*0.94
+
+Sabre 0.929 Alt 0.93
+
+Banshee 1.031 Alt 1.03
+
+Lich 0.922 Alt 0.9212 = 0.94*0.98
+
+Seraph 1.455 Alt 1.456 = 1.6*0.91
+
+
+
+FRIGATE_UNSCTRADE: -81.5%
+PELICAN: +-0%
+BROADSWORD: -25%
+LONGSWORD: +63.7%
+SABRE: -7.1%
+BANSHEE: +3.1%
+LICH: -7.8%
+SERAPH: +45.5%
+
+
+
+Cap Ship Yard -45%     0.55
+Frig Ship Yard +59%    1.59
+Springhill: -13.6%  real: .864 = 0.9*0.96

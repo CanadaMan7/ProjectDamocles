@@ -1,0 +1,53 @@
+
+	orbitBodyType "TacoPimp"
+	
+	orbitBodyType "PlasmaStorm"
+	orbitBodyType "MagneticCloud"
+	orbitBodyType "BlackHole"
+	orbitBodyType "GlassedPlanet"
+	
+	orbitBodyType "GasGiant"
+	orbitBodyType "AsteroidBeltCov"
+	orbitBodyType "AsteroidSpaceJunk"
+	
+	orbitBodyType "Asteroid"
+	
+	orbitBodyType "ShieldWorld"
+	
+	orbitBodyType "Halo"
+	
+	orbitBodyType "Temperate"
+	orbitBodyType "DwarfTemperate"
+	orbitBodyType "LargeTemperate"
+		
+	orbitBodyType "Archipelago"
+	orbitBodyType "DwarfArchipelago"
+	orbitBodyType "LargeArchipelago"
+	
+	orbitBodyType "Ocean"
+	orbitBodyType "DwarfOcean"
+	orbitBodyType "LargeOcean"
+	
+	orbitBodyType "Volcanic"
+	orbitBodyType "DwarfVolcanic"
+	orbitBodyType "LargeVolcanic"
+	
+	orbitBodyType "Methane"
+	orbitBodyType "DwarfMethane"
+	orbitBodyType "LargeMethane"
+	
+	orbitBodyType "Frozen"
+	orbitBodyType "DwarfFrozen"
+	orbitBodyType "LargeFrozen"
+	
+	orbitBodyType "Ferrous"
+	orbitBodyType "DwarfFerrous"
+	orbitBodyType "LargeFerrous"
+	
+	orbitBodyType "Desert"
+	orbitBodyType "LargeDesert"
+	orbitBodyType "LargeDesert"
+	
+	orbitBodyType "Barren"
+	orbitBodyType "DwarfBarren"
+	orbitBodyType "LargeBarren"

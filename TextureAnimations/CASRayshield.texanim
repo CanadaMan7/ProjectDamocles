@@ -1,0 +1,7 @@
+TXT
+textureFileName "CASRayshield.dds"
+numFrames 3
+numFramesPerRow 3
+startTopLeft [0, 0]
+frameSize [1536, 512]
+frameStride [1536, 0]

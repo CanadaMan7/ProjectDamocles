@@ -1,0 +1,7 @@
+TXT
+textureFileName "Kay_ice_rings.tga"
+numFrames 4
+numFramesPerRow 2
+startTopLeft [0, 512]
+frameSize [256, 256]
+frameStride [256, 256]

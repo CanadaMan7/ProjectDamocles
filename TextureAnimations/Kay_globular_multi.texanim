@@ -1,0 +1,7 @@
+TXT
+textureFileName "Kay_globular_multi.tga"
+numFrames 6
+numFramesPerRow 3
+startTopLeft [0, 512]
+frameSize [128, 128]
+frameStride [128, 128]

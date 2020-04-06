@@ -1,0 +1,7 @@
+TXT
+textureFileName "Rayshield.dds"
+numFrames 3
+numFramesPerRow 3
+startTopLeft [0, 0]
+frameSize [512, 512]
+frameStride [512, 0]

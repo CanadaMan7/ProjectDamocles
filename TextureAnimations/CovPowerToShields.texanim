@@ -1,0 +1,7 @@
+TXT
+textureFileName "PowerToShieldsCov.dds"
+numFrames 3
+numFramesPerRow 3
+startTopLeft [0, 0]
+frameSize [296, 296]
+frameStride [296, 0]

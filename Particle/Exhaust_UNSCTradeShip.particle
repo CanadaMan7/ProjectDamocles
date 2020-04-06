@@ -1,0 +1,222 @@
+TXT
+ParticleSimulation
+	HasInfiniteLifeTime TRUE
+	TotalLifeTime 10.0
+	NumEmitters 3
+	EmitterType "Point"
+	EmitterContents
+		Name "flames"
+		Enabled TRUE
+		EmitRate 1.5
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.0
+		emitIntervalWaitDuration 0.0
+		ParticleLifeTime 3.0
+		ParticleMinStartLinearSpeed 2.0
+		ParticleMaxStartLinearSpeed 6.0
+		ParticleMinStartAngularSpeed 0.0
+		ParticleMaxStartAngularSpeed 0.0
+		ParticleMinStartRotation 0.0
+		ParticleMaxStartRotation 0.0
+		ParticleStartMass 1.0
+		ParticleStartColor ffffffff
+		ParticleWidth 1.302
+		ParticleHeight 0.372
+		MeshName ""
+		Position [ 0.0 0.0 -0.372 ]
+		Orientation
+			[ 1.0 0.0 0.0 ]
+			[ 0.0 1.0 0.0 ]
+			[ 0.0 0.0 1.0 ]
+		RotateAboutForward 0.0
+		RotateAboutUp 0.0
+		RotateAboutCross 0.0
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		BillboardAnchor 0
+		ParticleFacing 1
+		PipelineEffectID "GS_Exhaust.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName "C:\gs\DataSource\Textures\Effects\rayoflightstrandsexhaust.dds"
+		textureName "straightrayUNSC.tga"
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.0
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.0 0.1 0.0 ]
+		RotationDirectionType 0
+		AngleVariance 0.0
+	EmitterType "Point"
+	EmitterContents
+		Name "core"
+		Enabled FALSE
+		EmitRate 0.25
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.0
+		emitIntervalWaitDuration 0.0
+		ParticleLifeTime 5.0
+		ParticleMinStartLinearSpeed 0.0
+		ParticleMaxStartLinearSpeed 0.0
+		ParticleMinStartAngularSpeed 0.0
+		ParticleMaxStartAngularSpeed 0.0
+		ParticleMinStartRotation 3.141593
+		ParticleMaxStartRotation 3.141593
+		ParticleStartMass 1.0
+		ParticleStartColor ffffffff
+		ParticleWidth 1.8599999999999999
+		ParticleHeight 1.8599999999999999
+		MeshName ""
+		Position [ 0.0 0.0 -0.372 ]
+		Orientation
+			[ 1.0 0.0 0.0 ]
+			[ 0.0 1.0 0.0 ]
+			[ 0.0 0.0 1.0 ]
+		RotateAboutForward 0.0
+		RotateAboutUp 0.0
+		RotateAboutCross 0.0
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		BillboardAnchor 0
+		ParticleFacing 0
+		PipelineEffectID "GS_Exhaust.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName "C:\gs\DataSource\Textures\Effects\zapUNSC.dds"
+		textureName "C:\gs\DataSource\Textures\Effects\zapUNSC.dds"
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.0
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.0 0.1 0.0 ]
+		RotationDirectionType 0
+		AngleVariance 0.0
+	EmitterType "Point"
+	EmitterContents
+		Name "column"
+		Enabled TRUE
+		EmitRate 1.6
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 1
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.0
+		emitIntervalWaitDuration 0.0
+		ParticleLifeTime 3.0
+		ParticleMinStartLinearSpeed 3.0
+		ParticleMaxStartLinearSpeed 3.0
+		ParticleMinStartAngularSpeed 0.0
+		ParticleMaxStartAngularSpeed 0.0
+		ParticleMinStartRotation 0.0
+		ParticleMaxStartRotation 0.0
+		ParticleStartMass 1.0
+		ParticleStartColor ffffffff
+		ParticleWidth 1.8599999999999999
+		ParticleHeight 1.8599999999999999
+		MeshName ""
+		Position [ 0.0 0.0 -0.558 ]
+		Orientation
+			[ 1.0 0.0 0.0 ]
+			[ 0.0 1.0 0.0 ]
+			[ 0.0 0.0 1.0 ]
+		RotateAboutForward 0.0
+		RotateAboutUp 0.0
+		RotateAboutCross 0.0
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		BillboardAnchor 0
+		ParticleFacing 0
+		PipelineEffectID "GS_Exhaust.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName "C:\gs\main\DataSource\Textures\Effects\cloudUNSC.dds"
+		textureName "C:\gs\main\DataSource\Textures\Effects\cloudUNSC.dds"
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.0
+		ParticlesRotate FALSE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.0 0.1 0.0 ]
+		RotationDirectionType 0
+		AngleVariance 0.0
+	NumAffectors 4
+	AffectorType "Fade"
+	AffectorContents
+		Name "Fadeout"
+		Enabled TRUE
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.0
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.0
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 3
+		attachedEmitterName "core"
+		attachedEmitterName "flames"
+		attachedEmitterName "column"
+		DoFadeOut TRUE
+		FadeOutTime 2.0
+		DoFadeIn TRUE
+		FadeInTime 1.0
+	AffectorType "LinearInflate"
+	AffectorContents
+		Name "inflate"
+		Enabled TRUE
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.0
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.0
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 1
+		attachedEmitterName "flames"
+		WidthInflateRate 0.0
+		HeightInflateRate 5.0
+	AffectorType "Jitter"
+	AffectorContents
+		Name "(new) Jitter-1"
+		Enabled TRUE
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.0
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.0
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 1
+		attachedEmitterName "flames"
+		JitterForce 15.0
+		UseCommonForce FALSE
+	AffectorType "SizeOscillator"
+	AffectorContents
+		Name "(new) SizeOscillator-1"
+		Enabled TRUE
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.0
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.0
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 1
+		attachedEmitterName "core"
+		TransitionPeriod 0.4
+		BeginSizeX 16.0
+		BeginSizeY 16.0
+		EndSizeX 17.0
+		EndSizeY 17.0
+	length 0.0

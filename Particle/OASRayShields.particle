@@ -1,0 +1,891 @@
+﻿TXT2
+SinsArchiveVersion 194
+ParticleSimulation
+	HasInfiniteLifeTime TRUE
+	TotalLifeTime 10.000000
+	NumEmitters 17
+	EmitterType "Point"
+	EmitterContents
+		Name "OAS"
+		Enabled FALSE
+		EmitRate 1.000000
+		HasInfiniteEmitCount FALSE
+		MaxEmitCount 1
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 300000.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 0.000000
+		ParticleMaxStartRotation 0.000000
+		ParticleStartMass 1.000000
+		ParticleStartColor ffffffff
+		ParticleWidth 0.913920
+		ParticleHeight 0.913920
+		MeshName "C:\Users\sterl\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.85 dev\sotp\Mesh\TITAN_COVOAS.mesh"
+		Position [ 0.000000 0.000000 0.000000 ]
+		Orientation
+			 [ 1.000000 0.000000 0.000000 ]
+			 [ 0.000000 1.000000 0.000000 ]
+			 [ 0.000000 0.000000 1.000000 ]
+		RotateAboutForward 0.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 0
+		PipelineEffectID "GS_Ship.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate FALSE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.000000 0.100000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Port1"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 1.570796
+		ParticleMaxStartRotation 1.570796
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80a8ff
+		ParticleWidth 20.563200
+		ParticleHeight 14.622720
+		MeshName ""
+		Position [ -73.000000 -30.750000 -31.000000 ]
+		Orientation
+			 [ 0.087156 -0.996195 0.000000 ]
+			 [ -0.000000 -0.000000 1.000000 ]
+			 [ -0.996195 -0.087156 -0.000000 ]
+		RotateAboutForward 90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross -85.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "Particle_NotAdditive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\TextureAnimations\Rayshield.texanim"
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 1.000000 0.000000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Port 2"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 1.570796
+		ParticleMaxStartRotation 1.570796
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80a8ff
+		ParticleWidth 20.563200
+		ParticleHeight 14.622720
+		MeshName ""
+		Position [ -73.000000 -30.750000 -61.000000 ]
+		Orientation
+			 [ 0.087156 -0.996195 0.000000 ]
+			 [ -0.000000 -0.000000 1.000000 ]
+			 [ -0.996195 -0.087156 -0.000000 ]
+		RotateAboutForward 90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross -85.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "Particle_NotAdditive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\TextureAnimations\Rayshield.texanim"
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 1.000000 0.000000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Port 3"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 1.570796
+		ParticleMaxStartRotation 1.570796
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80a8ff
+		ParticleWidth 20.563200
+		ParticleHeight 14.622720
+		MeshName ""
+		Position [ -74.000000 -19.000000 -31.000000 ]
+		Orientation
+			 [ 0.087156 -0.996195 0.000000 ]
+			 [ -0.000000 -0.000000 1.000000 ]
+			 [ -0.996195 -0.087156 -0.000000 ]
+		RotateAboutForward 90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross -85.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "Particle_NotAdditive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\TextureAnimations\Rayshield.texanim"
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 1.000000 0.000000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Port 4"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 1.570796
+		ParticleMaxStartRotation 1.570796
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80a8ff
+		ParticleWidth 20.563200
+		ParticleHeight 14.622720
+		MeshName ""
+		Position [ -74.000000 -19.000000 -61.000000 ]
+		Orientation
+			 [ 0.087156 -0.996195 0.000000 ]
+			 [ -0.000000 -0.000000 1.000000 ]
+			 [ -0.996195 -0.087156 -0.000000 ]
+		RotateAboutForward 90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross -85.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "Particle_NotAdditive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\TextureAnimations\Rayshield.texanim"
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 1.000000 0.000000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Port 5"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 1.570796
+		ParticleMaxStartRotation 1.570796
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80a8ff
+		ParticleWidth 20.563200
+		ParticleHeight 14.622720
+		MeshName ""
+		Position [ -73.000000 -30.750000 -184.000000 ]
+		Orientation
+			 [ 0.087156 -0.996195 0.000000 ]
+			 [ -0.000000 -0.000000 1.000000 ]
+			 [ -0.996195 -0.087156 -0.000000 ]
+		RotateAboutForward 90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross -85.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "Particle_NotAdditive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\TextureAnimations\Rayshield.texanim"
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 1.000000 0.000000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Port 6"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 1.570796
+		ParticleMaxStartRotation 1.570796
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80a8ff
+		ParticleWidth 20.563200
+		ParticleHeight 14.622720
+		MeshName ""
+		Position [ -73.000000 -30.750000 -214.000000 ]
+		Orientation
+			 [ 0.087156 -0.996195 0.000000 ]
+			 [ -0.000000 -0.000000 1.000000 ]
+			 [ -0.996195 -0.087156 -0.000000 ]
+		RotateAboutForward 90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross -85.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "Particle_NotAdditive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\TextureAnimations\Rayshield.texanim"
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 1.000000 0.000000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Port 7"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 1.570796
+		ParticleMaxStartRotation 1.570796
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80a8ff
+		ParticleWidth 20.563200
+		ParticleHeight 14.622720
+		MeshName ""
+		Position [ -74.000000 -19.000000 -184.000000 ]
+		Orientation
+			 [ 0.087156 -0.996195 0.000000 ]
+			 [ -0.000000 -0.000000 1.000000 ]
+			 [ -0.996195 -0.087156 -0.000000 ]
+		RotateAboutForward 90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross -85.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "Particle_NotAdditive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\TextureAnimations\Rayshield.texanim"
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 1.000000 0.000000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Port 8"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 1.570796
+		ParticleMaxStartRotation 1.570796
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80a8ff
+		ParticleWidth 20.563200
+		ParticleHeight 14.622720
+		MeshName ""
+		Position [ -74.000000 -19.000000 -214.000000 ]
+		Orientation
+			 [ 0.087156 -0.996195 0.000000 ]
+			 [ -0.000000 -0.000000 1.000000 ]
+			 [ -0.996195 -0.087156 -0.000000 ]
+		RotateAboutForward 90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross -85.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "Particle_NotAdditive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\TextureAnimations\Rayshield.texanim"
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 1.000000 0.000000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Starboard 1"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 1.570796
+		ParticleMaxStartRotation 1.570796
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80a8ff
+		ParticleWidth 20.563200
+		ParticleHeight 14.622720
+		MeshName ""
+		Position [ 73.000000 -30.750000 -31.000000 ]
+		Orientation
+			 [ 0.087156 0.996195 0.000000 ]
+			 [ 0.000000 -0.000000 1.000000 ]
+			 [ 0.996195 -0.087156 -0.000000 ]
+		RotateAboutForward 90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 85.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "Particle_NotAdditive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\TextureAnimations\Rayshield.texanim"
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 1.000000 0.000000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Starboard 2"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 1.570796
+		ParticleMaxStartRotation 1.570796
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80a8ff
+		ParticleWidth 20.563200
+		ParticleHeight 14.622720
+		MeshName ""
+		Position [ 73.000000 -30.750000 -61.000000 ]
+		Orientation
+			 [ 0.087156 0.996195 0.000000 ]
+			 [ 0.000000 -0.000000 1.000000 ]
+			 [ 0.996195 -0.087156 -0.000000 ]
+		RotateAboutForward 90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 85.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "Particle_NotAdditive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\TextureAnimations\Rayshield.texanim"
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 1.000000 0.000000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Starboard 3"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 1.570796
+		ParticleMaxStartRotation 1.570796
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80a8ff
+		ParticleWidth 20.563200
+		ParticleHeight 14.622720
+		MeshName ""
+		Position [ 74.000000 -19.000000 -31.000000 ]
+		Orientation
+			 [ 0.087156 0.996195 0.000000 ]
+			 [ 0.000000 -0.000000 1.000000 ]
+			 [ 0.996195 -0.087156 -0.000000 ]
+		RotateAboutForward 90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 85.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "Particle_NotAdditive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\TextureAnimations\Rayshield.texanim"
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 1.000000 0.000000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Starboard 4"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 1.570796
+		ParticleMaxStartRotation 1.570796
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80a8ff
+		ParticleWidth 20.563200
+		ParticleHeight 14.622720
+		MeshName ""
+		Position [ 74.000000 -19.000000 -61.000000 ]
+		Orientation
+			 [ 0.087156 0.996195 0.000000 ]
+			 [ 0.000000 -0.000000 1.000000 ]
+			 [ 0.996195 -0.087156 -0.000000 ]
+		RotateAboutForward 90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 85.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "Particle_NotAdditive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\TextureAnimations\Rayshield.texanim"
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 1.000000 0.000000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Starboard 5"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 1.570796
+		ParticleMaxStartRotation 1.570796
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80a8ff
+		ParticleWidth 20.563200
+		ParticleHeight 14.622720
+		MeshName ""
+		Position [ 73.000000 -30.750000 -184.000000 ]
+		Orientation
+			 [ 0.087156 0.996195 0.000000 ]
+			 [ 0.000000 -0.000000 1.000000 ]
+			 [ 0.996195 -0.087156 -0.000000 ]
+		RotateAboutForward 90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 85.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "Particle_NotAdditive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\TextureAnimations\Rayshield.texanim"
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 1.000000 0.000000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Starboard 6"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 1.570796
+		ParticleMaxStartRotation 1.570796
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80a8ff
+		ParticleWidth 20.563200
+		ParticleHeight 14.622720
+		MeshName ""
+		Position [ 73.000000 -30.750000 -214.000000 ]
+		Orientation
+			 [ 0.087156 0.996195 0.000000 ]
+			 [ 0.000000 -0.000000 1.000000 ]
+			 [ 0.996195 -0.087156 -0.000000 ]
+		RotateAboutForward 90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 85.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "Particle_NotAdditive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\TextureAnimations\Rayshield.texanim"
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 1.000000 0.000000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Starboard 7"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 1.570796
+		ParticleMaxStartRotation 1.570796
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80a8ff
+		ParticleWidth 20.563200
+		ParticleHeight 14.622720
+		MeshName ""
+		Position [ 74.000000 -19.000000 -184.000000 ]
+		Orientation
+			 [ 0.087156 0.996195 0.000000 ]
+			 [ 0.000000 -0.000000 1.000000 ]
+			 [ 0.996195 -0.087156 -0.000000 ]
+		RotateAboutForward 90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 85.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "Particle_NotAdditive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\TextureAnimations\Rayshield.texanim"
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 1.000000 0.000000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Starboard 8"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 1.570796
+		ParticleMaxStartRotation 1.570796
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80a8ff
+		ParticleWidth 20.563200
+		ParticleHeight 14.622720
+		MeshName ""
+		Position [ 74.000000 -19.000000 -214.000000 ]
+		Orientation
+			 [ 0.087156 0.996195 0.000000 ]
+			 [ 0.000000 -0.000000 1.000000 ]
+			 [ 0.996195 -0.087156 -0.000000 ]
+		RotateAboutForward 90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 85.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "Particle_NotAdditive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\TextureAnimations\Rayshield.texanim"
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 1.000000 0.000000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	NumAffectors 2
+	AffectorType "SizeOscillator"
+	AffectorContents
+		Name "Glow"
+		Enabled TRUE
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.000000
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.000000
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 16
+		attachedEmitterName "Port1"
+		attachedEmitterName "Port 2"
+		attachedEmitterName "Port 3"
+		attachedEmitterName "Port 4"
+		attachedEmitterName "Port 5"
+		attachedEmitterName "Port 6"
+		attachedEmitterName "Port 7"
+		attachedEmitterName "Port 8"
+		attachedEmitterName "Starboard 1"
+		attachedEmitterName "Starboard 2"
+		attachedEmitterName "Starboard 3"
+		attachedEmitterName "Starboard 4"
+		attachedEmitterName "Starboard 5"
+		attachedEmitterName "Starboard 6"
+		attachedEmitterName "Starboard 7"
+		attachedEmitterName "Starboard 8"
+		TransitionPeriod 1.000000
+		BeginSizeX 28.000000
+		BeginSizeY 14.000000
+		EndSizeX 27.000000
+		EndSizeY 13.000000
+	AffectorType "Fade"
+	AffectorContents
+		Name "Fade"
+		Enabled TRUE
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.000000
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.000000
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 16
+		attachedEmitterName "Port1"
+		attachedEmitterName "Port 2"
+		attachedEmitterName "Port 3"
+		attachedEmitterName "Port 4"
+		attachedEmitterName "Port 5"
+		attachedEmitterName "Port 6"
+		attachedEmitterName "Port 7"
+		attachedEmitterName "Port 8"
+		attachedEmitterName "Starboard 1"
+		attachedEmitterName "Starboard 2"
+		attachedEmitterName "Starboard 3"
+		attachedEmitterName "Starboard 4"
+		attachedEmitterName "Starboard 5"
+		attachedEmitterName "Starboard 6"
+		attachedEmitterName "Starboard 7"
+		attachedEmitterName "Starboard 8"
+		DoFadeOut TRUE
+		FadeOutTime 0.800000
+		DoFadeIn TRUE
+		FadeInTime 0.800000
+	length 0.000000

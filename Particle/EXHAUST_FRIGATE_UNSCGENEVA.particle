@@ -1,0 +1,174 @@
+TXT
+ParticleSimulation
+	HasInfiniteLifeTime TRUE
+	TotalLifeTime 10.0
+	NumEmitters 2
+	EmitterType "Point"
+	EmitterContents
+		Name "LEFT 1 CORE"
+		Enabled TRUE
+		EmitRate 2.0
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.0
+		emitIntervalWaitDuration 0.0
+		ParticleLifeTime 2.0
+		ParticleMinStartLinearSpeed 0.0
+		ParticleMaxStartLinearSpeed 0.0
+		ParticleMinStartAngularSpeed 0.174533
+		ParticleMaxStartAngularSpeed 0.174533
+		ParticleMinStartRotation 0.0
+		ParticleMaxStartRotation 0.0
+		ParticleStartMass 1.0
+		ParticleStartColor ffffffff
+		ParticleWidth 7.1808000000000005
+		ParticleHeight 7.1808000000000005
+		MeshName ""
+		Position [ 0.0 0.0 0.0 ]
+		Orientation
+			[ 1.0 0.0 0.0 ]
+			[ 0.0 1.0 0.0 ]
+			[ 0.0 0.0 1.0 ]
+		RotateAboutForward 0.0
+		RotateAboutUp 0.0
+		RotateAboutCross 0.0
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "GS_Exhaust.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName "exhaust_largeexternal"
+		textureName "exhaust_largeinternal"
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.0
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.0 0.0 0.0 ]
+		RotationDirectionType 2
+		AngleVariance 0.0
+	EmitterType "Point"
+	EmitterContents
+		Name "LEFT 1 FLAME"
+		Enabled TRUE
+		EmitRate 20.0
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.0
+		emitIntervalWaitDuration 0.0
+		ParticleLifeTime 0.5
+		ParticleMinStartLinearSpeed 5.9
+		ParticleMaxStartLinearSpeed 6.0
+		ParticleMinStartAngularSpeed 0.0
+		ParticleMaxStartAngularSpeed 0.0
+		ParticleMinStartRotation 0.0
+		ParticleMaxStartRotation 0.0
+		ParticleStartMass 1.0
+		ParticleStartColor ffffffff
+		ParticleWidth 2.15424
+		ParticleHeight 2.15424
+		MeshName ""
+		Position [ 0.0 0.0 0.0 ]
+		Orientation
+			[ 1.0 0.0 0.0 ]
+			[ 0.0 1.0 0.0 ]
+			[ 0.0 0.0 1.0 ]
+		RotateAboutForward 0.0
+		RotateAboutUp 0.0
+		RotateAboutCross 0.0
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		BillboardAnchor 0
+		ParticleFacing 0
+		PipelineEffectID "GS_Exhaust.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName "exhaust_largeexternal.dds"
+		textureName "exhaust_largeinternal.dds"
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.0
+		ParticlesRotate FALSE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.0 0.1 0.0 ]
+		RotationDirectionType 0
+		AngleVariance 0.0
+	NumAffectors 4
+	AffectorType "Fade"
+	AffectorContents
+		Name "CORE ANTI-JITTER"
+		Enabled TRUE
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.0
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.0
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 1
+		attachedEmitterName "LEFT 1 CORE"
+		DoFadeOut TRUE
+		FadeOutTime 1.0
+		DoFadeIn TRUE
+		FadeInTime 1.0
+	AffectorType "SizeOscillator"
+	AffectorContents
+		Name "LEFT RIGHT 1 CORE SCALER"
+		Enabled TRUE
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.0
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.0
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 1
+		attachedEmitterName "LEFT 1 CORE"
+		TransitionPeriod 2.0
+		BeginSizeX 2.0
+		BeginSizeY 2.0
+		EndSizeX 2.0
+		EndSizeY 2.0
+	AffectorType "LinearInflate"
+	AffectorContents
+		Name "LEFT RIGHT 1 FLAME SCALER"
+		Enabled TRUE
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.0
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.0
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 1
+		attachedEmitterName "LEFT 1 FLAME"
+		WidthInflateRate -2.0
+		HeightInflateRate -2.0
+	AffectorType "Fade"
+	AffectorContents
+		Name "LEFT RIGHT 1 EXHAUST GRADIENT"
+		Enabled TRUE
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.0
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.0
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 1
+		attachedEmitterName "LEFT 1 FLAME"
+		DoFadeOut TRUE
+		FadeOutTime 4.0
+		DoFadeIn TRUE
+		FadeInTime 1.0
+	length 0.0

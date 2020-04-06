@@ -1,0 +1,329 @@
+TXT
+ParticleSimulation
+	HasInfiniteLifeTime TRUE
+	TotalLifeTime 10.0
+	NumEmitters 5
+	EmitterType "Point"
+	EmitterContents
+		Name "STARBOARDFLAME"
+		Enabled TRUE
+		EmitRate 6.0
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.0
+		emitIntervalWaitDuration 0.0
+		ParticleLifeTime 3.0
+		ParticleMinStartLinearSpeed 10.0
+		ParticleMaxStartLinearSpeed 10.0
+		ParticleMinStartAngularSpeed 0.261799
+		ParticleMaxStartAngularSpeed 0.523599
+		ParticleMinStartRotation 0.0
+		ParticleMaxStartRotation 6.283185
+		ParticleStartMass 1.0
+		ParticleStartColor ffffffff
+		ParticleWidth 0.0
+		ParticleHeight 0.0
+		MeshName ""
+		Position [ 13.624181712475 8.82028 -275.63375 ]
+		Orientation
+			[ -1.0 0.0 0.0 ]
+			[ 0.0 1.0 0.0 ]
+			[ -0.0 0.0 -1.0 ]
+		RotateAboutForward 0.0
+		RotateAboutUp 180.0
+		RotateAboutCross 0.0
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "GS_Exhaust.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\Textures\DDSExL.dds"
+		textureName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\Textures\EngineGlow.dds"
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.0
+		ParticlesRotate FALSE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.0 0.1 0.0 ]
+		RotationDirectionType 2
+		AngleVariance 0.0
+	EmitterType "Point"
+	EmitterContents
+		Name "PORTFLAME"
+		Enabled TRUE
+		EmitRate 6.0
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.0
+		emitIntervalWaitDuration 0.0
+		ParticleLifeTime 3.0
+		ParticleMinStartLinearSpeed 10.0
+		ParticleMaxStartLinearSpeed 10.0
+		ParticleMinStartAngularSpeed 0.261799
+		ParticleMaxStartAngularSpeed 0.523599
+		ParticleMinStartRotation 0.0
+		ParticleMaxStartRotation 6.283185
+		ParticleStartMass 1.0
+		ParticleStartColor ffffffff
+		ParticleWidth 0.0
+		ParticleHeight 0.0
+		MeshName ""
+		Position [ -13.624181712475 8.82028 -275.63375 ]
+		Orientation
+			[ -1.0 0.0 0.0 ]
+			[ 0.0 1.0 0.0 ]
+			[ -0.0 0.0 -1.0 ]
+		RotateAboutForward 0.0
+		RotateAboutUp 180.0
+		RotateAboutCross 0.0
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "GS_Exhaust.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\Textures\DDSExR.dds"
+		textureName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\Textures\EngineGlow.dds"
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.0
+		ParticlesRotate FALSE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.0 0.1 0.0 ]
+		RotationDirectionType 2
+		AngleVariance 0.0
+	EmitterType "Point"
+	EmitterContents
+		Name "perp1"
+		Enabled TRUE
+		EmitRate 4.0
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.0
+		emitIntervalWaitDuration 0.0
+		ParticleLifeTime 3.0
+		ParticleMinStartLinearSpeed 13.0
+		ParticleMaxStartLinearSpeed 14.0
+		ParticleMinStartAngularSpeed 0.261799
+		ParticleMaxStartAngularSpeed 0.523599
+		ParticleMinStartRotation 0.0
+		ParticleMaxStartRotation 6.283185
+		ParticleStartMass 1.0
+		ParticleStartColor ffffffff
+		ParticleWidth 0.0
+		ParticleHeight 0.0
+		MeshName ""
+		Position [ -13.624181712475 11.182855 -274.0587 ]
+		Orientation
+			[ -1.0 0.0 0.0 ]
+			[ 0.0 1.0 0.0 ]
+			[ -0.0 0.0 -1.0 ]
+		RotateAboutForward 0.0
+		RotateAboutUp 180.0
+		RotateAboutCross 0.0
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		BillboardAnchor 0
+		ParticleFacing 1
+		PipelineEffectID "GS_Exhaust.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\Textures\EngineGlow.dds"
+		textureName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\Textures\cloudCov.dds"
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.0
+		ParticlesRotate FALSE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.0 0.1 0.0 ]
+		RotationDirectionType 2
+		AngleVariance 0.0
+	EmitterType "Point"
+	EmitterContents
+		Name "perp2"
+		Enabled TRUE
+		EmitRate 4.0
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.0
+		emitIntervalWaitDuration 0.0
+		ParticleLifeTime 3.0
+		ParticleMinStartLinearSpeed 13.0
+		ParticleMaxStartLinearSpeed 14.0
+		ParticleMinStartAngularSpeed 0.261799
+		ParticleMaxStartAngularSpeed 0.523599
+		ParticleMinStartRotation 0.0
+		ParticleMaxStartRotation 6.283185
+		ParticleStartMass 1.0
+		ParticleStartColor ffffffff
+		ParticleWidth 0.0
+		ParticleHeight 0.0
+		MeshName ""
+		Position [ 13.624181712475 11.182855 -274.0587 ]
+		Orientation
+			[ -1.0 0.0 0.0 ]
+			[ 0.0 1.0 0.0 ]
+			[ -0.0 0.0 -1.0 ]
+		RotateAboutForward 0.0
+		RotateAboutUp 180.0
+		RotateAboutCross 0.0
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		BillboardAnchor 0
+		ParticleFacing 1
+		PipelineEffectID "GS_Exhaust.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\Textures\EngineGlow.dds"
+		textureName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\Textures\cloudCov.dds"
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.0
+		ParticlesRotate FALSE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.0 0.1 0.0 ]
+		RotationDirectionType 2
+		AngleVariance 0.0
+	EmitterType "Point"
+	EmitterContents
+		Name "DDS"
+		Enabled FALSE
+		EmitRate 1.0
+		HasInfiniteEmitCount FALSE
+		MaxEmitCount 1
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.0
+		emitIntervalWaitDuration 0.0
+		ParticleLifeTime 30000001024.0
+		ParticleMinStartLinearSpeed 0.0
+		ParticleMaxStartLinearSpeed 0.0
+		ParticleMinStartAngularSpeed 0.0
+		ParticleMaxStartAngularSpeed 0.0
+		ParticleMinStartRotation 0.0
+		ParticleMaxStartRotation 0.0
+		ParticleStartMass 1.0
+		ParticleStartColor ffffffff
+		ParticleWidth 0.787525
+		ParticleHeight 0.787525
+		MeshName "C:\Users\sterl_000\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.82 Dev\sins-of-the-prophets-dev-build\Mesh\CAPITALSHIP_COVDDS.mesh"
+		Position [ 0.0 0.0 0.0 ]
+		Orientation
+			[ 1.0 0.0 0.0 ]
+			[ 0.0 1.0 0.0 ]
+			[ 0.0 0.0 1.0 ]
+		RotateAboutForward 0.0
+		RotateAboutUp 0.0
+		RotateAboutCross 0.0
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		BillboardAnchor 0
+		ParticleFacing 0
+		PipelineEffectID "GS_ShadowedShip.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.0
+		ParticlesRotate FALSE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.0 0.1 0.0 ]
+		RotationDirectionType 0
+		AngleVariance 0.0
+	NumAffectors 4
+	AffectorType "SizeOscillator"
+	AffectorContents
+		Name "(new) SizeOscillator-1"
+		Enabled TRUE
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.0
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.0
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 2
+		attachedEmitterName "STARBOARDFLAME"
+		attachedEmitterName "PORTFLAME"
+		TransitionPeriod 3.0
+		BeginSizeX 23.62575
+		BeginSizeY 23.62575
+		EndSizeX 15.7505
+		EndSizeY 15.7505
+	AffectorType "Fade"
+	AffectorContents
+		Name "(new) Fade-1"
+		Enabled TRUE
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.0
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.0
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 4
+		attachedEmitterName "perp1"
+		attachedEmitterName "perp2"
+		attachedEmitterName "PORTFLAME"
+		attachedEmitterName "STARBOARDFLAME"
+		DoFadeOut TRUE
+		FadeOutTime 5.0
+		DoFadeIn TRUE
+		FadeInTime 0.5
+	AffectorType "Fade"
+	AffectorContents
+		Name "(new) Fade-2"
+		Enabled TRUE
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.0
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.0
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 4
+		attachedEmitterName "perp1"
+		attachedEmitterName "perp2"
+		attachedEmitterName "PORTFLAME"
+		attachedEmitterName "STARBOARDFLAME"
+		DoFadeOut TRUE
+		FadeOutTime 24.0
+		DoFadeIn TRUE
+		FadeInTime 2.0
+	AffectorType "SizeOscillator"
+	AffectorContents
+		Name "(new) SizeOscillator-2"
+		Enabled TRUE
+		StartTime 0.0
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.0
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.0
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.0
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 2
+		attachedEmitterName "perp1"
+		attachedEmitterName "perp2"
+		TransitionPeriod 3.0
+		BeginSizeX 35.438625
+		BeginSizeY 35.438625
+		EndSizeX 23.62575
+		EndSizeY 23.62575
+	length 0.0

@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	3772
+entityNameCount	3777
 entityName "BuffNoneStaticProp.entity"
 entityName "BuffNoneIsInvisible.entity"
 entityName "AbilityNoneIsInvisible.entity"
@@ -3769,3 +3769,8 @@ entityName "Buff_Coun_UndauntedOverloadTarget.entity"
 entityName "DREADNOUGHT_COUNEVEREST.entity"
 entityName "Ability_Alli_EverestShield.entity"
 entityName "Buff_Alli_EverestShield.entity"
+entityName "Ability_Alli_EverestDisruptorAmmo.entity"
+entityName "Buff_Alli_EverestDisruptorAmmoSelf.entity"
+entityName "Buff_Alli_EverestDisruptorAmmoStart.entity"
+entityName "Buff_Alli_EverestDisruptorAmmoTarget.entity"
+entityName "Buff_Alli_EverestDisruptorAmmoTargetDisable.entity"

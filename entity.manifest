@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	3777
+entityNameCount	3780
 entityName "BuffNoneStaticProp.entity"
 entityName "BuffNoneIsInvisible.entity"
 entityName "AbilityNoneIsInvisible.entity"
@@ -3774,3 +3774,6 @@ entityName "Buff_Alli_EverestDisruptorAmmoSelf.entity"
 entityName "Buff_Alli_EverestDisruptorAmmoStart.entity"
 entityName "Buff_Alli_EverestDisruptorAmmoTarget.entity"
 entityName "Buff_Alli_EverestDisruptorAmmoTargetDisable.entity"
+entityName "Ability_Alli_EverestNavSensors.entity"
+entityName "Buff_Alli_EverestNavSensorsSelf.entity"
+entityName "Buff_Alli_EverestNavSensorsTarget.entity"

@@ -2,7 +2,7 @@ TXT2
 SinsArchiveVersion 194
 entityType "CapitalShip"
 ability:0 "Ability_Alli_EverestDisruptorAmmo"
-ability:1 "AbilityUNSCTrojanMAC"
+ability:1 "Ability_Alli_EverestNavSensors"
 ability:2 "Ability_Alli_EverestShield"
 ability:3 "AbilityUNSCThanatosSurrounded"
 ability:4 "Ability_Coun_FighterTorps"

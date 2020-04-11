@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10487
+NumStrings 10489
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31461,3 +31461,9 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_ALLIEVEREST_NAVSENSORS_DESCRIPTION"
 	Value "The Everest can be fitted with advanced navigational sensor equipment that is far more sensitive than that usually used on Alliance warships. The data these sensors provide will allow the Everest and any nearby Alliance vessels to adjust the mass effect fields and thruster trimmings to achieve small but noticeable increases in speed and agility."
+StringInfo
+	ID "IDS_SUPERDREAD_COUN_PRIDEOFKHARSHAN_NAME"
+	Value "Har'Shairal"
+StringInfo
+	ID "IDS_SUPERDREAD_COUN_PRIDEOFKHARSHAN_DESCRIPTION"
+	Value "The Batarians mightiest warship, the Har'Shairal was stolen and is now captained by an ex-slave slave Batarian woman more interested in saving Batarian lives than fighting to the last. It is not a versatile ship, but carries the most powerful main gun this cycle has produced."

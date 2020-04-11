@@ -30,8 +30,9 @@ entities
 			entityDefName "PLANETMODULE_UNSCTITANFACTORY"
 	titanInfo
 		Page:0
-			count 1
+			count 2
 			entityDefName "SUPERDREAD_COUNDESTINYASCENSION"
+			entityDefName "SUPERDREAD_COUNPRIDEOFKHARSHAN"
 	capitalShipInfo
 		Page:0
 			count 9

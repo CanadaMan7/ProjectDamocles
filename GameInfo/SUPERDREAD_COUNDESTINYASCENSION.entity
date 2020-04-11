@@ -50,7 +50,10 @@ NameStringID "IDS_SUPERDREAD_COUN_DESTINYASCENSION_NAME"
 DescriptionStringID "IDS_SUPERDREAD_COUN_DESTINYASCENSION_DESCRIPTION"
 picture "PICTURE_TITAN_UNSCINFINITY"
 Prerequisites
-	NumResearchPrerequisites 0
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNSHEPARD_ASARICOMMIT"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 statCountType "Titan"

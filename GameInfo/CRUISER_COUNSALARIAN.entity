@@ -190,7 +190,7 @@ MeshNameInfo
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
-ExhaustParticleSystemName "EXHAUST_FRIGATE_UNSCHALCYON"
+ExhaustParticleSystemName ""
 ExplosionName "UNSC_Frig_Large"
 HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
 HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"

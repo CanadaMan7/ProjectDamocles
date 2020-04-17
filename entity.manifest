@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	3784
+entityNameCount	3785
 entityName "BuffNoneStaticProp.entity"
 entityName "BuffNoneIsInvisible.entity"
 entityName "AbilityNoneIsInvisible.entity"
@@ -3781,3 +3781,4 @@ entityName "Ability_Alli_EverestCryoBlast.entity"
 entityName "Buff_Alli_EverestCryoBlastSubTarget.entity"
 entityName "Buff_Alli_EverestCryoBlastTarget.entity"
 entityName "SUPERDREAD_COUNPRIDEOFKHARSHAN.entity"
+entityName "SUPERDREAD_COUNGETH.entity"

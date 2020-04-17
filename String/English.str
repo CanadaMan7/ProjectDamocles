@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10489
+NumStrings 10491
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31467,3 +31467,9 @@ StringInfo
 StringInfo
 	ID "IDS_SUPERDREAD_COUN_PRIDEOFKHARSHAN_DESCRIPTION"
 	Value "The Batarians mightiest warship, the Har'Shairal was stolen and is now captained by an ex-slave slave Batarian woman more interested in saving Batarian lives than fighting to the last. It is not a versatile ship, but carries the most powerful main gun this cycle has produced."
+StringInfo
+	ID "IDS_SUPERDREAD_COUN_GETHSUPERDREAD_NAME"
+	Value "Autarch Super Dreadnought"
+StringInfo
+	ID "IDS_SUPERDREAD_COUN_GETHSUPERDREAD_DESCRIPTION"
+	Value "The Geth Autarch Mobile Hub is one of the mightiest structures the Geth civilisation has ever constructed. It serves as a home for countless Geth, and is armed accordingly. Easily the equal of the Destiny Ascension, the Autarch becomes even more terrifying at the head of a fleet of Geth ships, where the combined processing power of the network allows for some truly inspired strategies to be executed flawlessly by the Consensus."

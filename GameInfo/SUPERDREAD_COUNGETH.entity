@@ -135,24 +135,23 @@ Weapon
 		burstCount 1
 		burstDelay 0.280000
 		fireDelay 0.000000
-		muzzleEffectName "Weapon_CovPLaser_Muzzle"
+		muzzleEffectName "Weapon_PhaseCapitalFlashBeamCapShip_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
-			soundCount 2
-			sound "WEAPON_PHASECAPITALFLASHBEAMMEDIUM_TRAVEL"
-			sound "WEAPON_PHASECAPITALFLASHBEAMMEDIUM_TRAVEL_ALT1"
-		hitEffectName "Weapon_CovPLaser_Hit"
-		hitHullEffectSounds
-			soundCount 1
-			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
-		hitShieldsEffectSounds  
-			soundCount 1
-			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
-		beamEffectSounds
 			soundCount 1
 			sound ""
-		beamGlowTextureName "WeaponCov_PulseBeam"
-		beamCoreTextureName "Black-da"
+		hitEffectName "Weapon_PhaseCapitalFlashBeamCapShip_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound ""
+		hitShieldsEffectSounds
+			soundCount 1
+			sound ""
+		beamEffectSounds
+			soundCount 1
+			sound "WEAPON_PHASEPLANETBOMB_LOOP"
+		beamGlowTextureName "PhaseCapitalBeam_Glow"
+		beamCoreTextureName "PhaseCapitalBeam_Core"
 		beamWidth 2.000000
 		beamGlowColor ff8904b1
 		beamCoreColor ff8904b1

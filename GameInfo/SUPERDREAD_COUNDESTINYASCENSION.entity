@@ -174,24 +174,24 @@ Weapon
 		weaponType "Beam"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_CovEP_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_BeamTitan_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 1
-			sound "WEAPON_COVENANTBEAM_MUZZLE"
-		hitEffectName "Weapon_CovEP_Hit"
+			sound ""
+		hitEffectName "Weapon_Psi_BeamTitan_Hit"
 		hitHullEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_COVENANTBEAM_HIT"
+			sound ""
 		hitShieldsEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_COVENANTBEAM_HITSHIELDS"
+			sound ""
 		beamEffectSounds
 			soundCount 1
-			sound "WEAPON_TECHCAPITALBEAMHEAVY_TRAVEL"
-	beamGlowTextureName "Weapon_CovEP"
-	beamCoreTextureName "Weapon_CovEP"
+			sound "WEAPON_PSICAPITALBEAMHEAVY_TRAVEL"
+		beamGlowTextureName "PsiCapitalBeam_Glow"
+		beamCoreTextureName "PsiCapitalBeam_Core"
 		beamWidth 80.000000
 		beamGlowColor ffffffff
 		beamCoreColor ffffffff

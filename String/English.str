@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10495
+NumStrings 10499
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31478,10 +31478,22 @@ StringInfo
 	Value "The Kwunu"
 StringInfo
 	ID "IDS_SUPERDREAD_COUN_KWUNU_DESCRIPTION"
-	Value "Bristling with high-end directed energy weapons, the Kwunu class is an export-model Mehrak resized and rebuilt from the ground up. It serves as a novel example of Volus ingenuity and the lethality of their military despite it's small size."
+	Value "Bristling with high-end directed energy weapons, the Kwunu class is an export-model Mehrak resized and rebuilt from the ground up by the Elkoss Combine corporation. This warship, while limited in production, showcases some of the most bleeding edge tech that money can buy."
 StringInfo
 	ID "IDS_STRUCTURE_COUNEEZOEXTRACTOR_NAME"
 	Value "Element Zero Mine"
 StringInfo
 	ID "IDS_STRUCTURE_COUNEEZOEXTRACTOR_DESCRIPTION"
 	Value "Placeholder."
+StringInfo
+	ID "IDS_FREIGHTER_COUNTRADEELKOSS_NAME"
+	Value "Elkoss Trade Ship"
+StringInfo
+	ID "IDS_FREIGHTER_COUNTRADEELKOSS_DESCRIPTION"
+	Value "The ubiquitous trading vessell can be seen throughout Council space, despite its origins within the Terminus systems. This major logistical asset has an enormous cargo hold."
+StringInfo
+	ID "IDS_STRUCTURE_COUNELKOSSTRADE_NAME"
+	Value "Elkoss Combine Trade Port"
+StringInfo
+	ID "IDS_STRUCTURE_COUNELKOSSTRADE_DESCRIPTION"
+	Value "Ostensibly based in the Terminus Systems, Elkoss Combine is one of the most pervasive economic powers in the corporate sector. Their trade hubs are extremely cheap for such high capacity stations, mirroring their overall market philosophy of producing every type of commodity anyone could want at a highly affordable price."

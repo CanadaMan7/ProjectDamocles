@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	3787
+entityNameCount	3789
 entityName "BuffNoneStaticProp.entity"
 entityName "BuffNoneIsInvisible.entity"
 entityName "AbilityNoneIsInvisible.entity"
@@ -3784,3 +3784,5 @@ entityName "SUPERDREAD_COUNPRIDEOFKHARSHAN.entity"
 entityName "SUPERDREAD_COUNGETH.entity"
 entityName "SUPERDREAD_COUNKWUNU.entity"
 entityName "STRUCTURE_COUNEEZOEXTRACTOR.entity"
+entityName "FREIGHTER_COUN_ELKOSS.entity"
+entityName "STRUCTURE_COUNELKOSSTRADE.entity"

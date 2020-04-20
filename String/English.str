@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10491
+NumStrings 10495
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31473,3 +31473,15 @@ StringInfo
 StringInfo
 	ID "IDS_SUPERDREAD_COUN_GETHSUPERDREAD_DESCRIPTION"
 	Value "The Geth Autarch Mobile Hub is one of the mightiest structures the Geth civilisation has ever constructed. It serves as a home for countless Geth, and is armed accordingly. Easily the equal of the Destiny Ascension, the Autarch becomes even more terrifying at the head of a fleet of Geth ships, where the combined processing power of the network allows for some truly inspired strategies to be executed flawlessly by the Consensus."
+StringInfo
+	ID "IDS_SUPERDREAD_COUN_KWUNU_NAME"
+	Value "The Kwunu"
+StringInfo
+	ID "IDS_SUPERDREAD_COUN_KWUNU_DESCRIPTION"
+	Value "Bristling with high-end directed energy weapons, the Kwunu class is an export-model Mehrak resized and rebuilt from the ground up. It serves as a novel example of Volus ingenuity and the lethality of their military despite it's small size."
+StringInfo
+	ID "IDS_STRUCTURE_COUNEEZOEXTRACTOR_NAME"
+	Value "Element Zero Mine"
+StringInfo
+	ID "IDS_STRUCTURE_COUNEEZOEXTRACTOR_DESCRIPTION"
+	Value "Placeholder."

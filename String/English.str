@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10499
+NumStrings 10507
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31497,3 +31497,27 @@ StringInfo
 StringInfo
 	ID "IDS_STRUCTURE_COUNELKOSSTRADE_DESCRIPTION"
 	Value "Ostensibly based in the Terminus Systems, Elkoss Combine is one of the most pervasive economic powers in the corporate sector. Their trade hubs are extremely cheap for such high capacity stations, mirroring their overall market philosophy of producing every type of commodity anyone could want at a highly affordable price."
+StringInfo
+	ID "IDS_SUPERDREAD_COUN_KILIMANJARO_NAME"
+	Value "Kilimanjaro Dreadnought"
+StringInfo
+	ID "IDS_SUPERDREAD_COUN_KILIMANJARO_DESCRIPTION"
+	Value "A veteran Alliance Kilimanjaro Dreadnought, the SSV Rangitoto may not be the most formidable ship available to the Council, but it remains a powerful brawler. With significant armor and an unrivaled broadside, the Rangitoto is most at home in the middle of the enemy fleet"
+StringInfo
+	ID "IDS_SUPERDREAD_COUNKILIMANJARO_UPGRADECALIBRATORS_NAME"
+	Value "Automated Calibrators"
+StringInfo
+	ID "IDS_SUPERDREAD_COUNKILIMANJARO_UPGRADECALIBRATORS_DESCRIPTION"
+	Value "The SSV Rangitoto is currently serving as a testbed for a new Armax Arsenal system developed to automate the calibration of weapons on Turian warships. Turian crews have been skeptical over the effectiveness of automated calibration, but the incredible results thus far achieved on the Rangitoto suggest that it might be a worthwhile approach."
+StringInfo
+	ID "IDS_SUPERDREAD_COUNKILIMANJARO_UPGRADESILARISARMOR_NAME"
+	Value "Silaris Armor"
+StringInfo
+	ID "IDS_SUPERDREAD_COUNKILIMANJARO_UPGRADESILARISARMOR_DESCRIPTION"
+	Value "Asari experts have come aboard the SSV Rangitoto to oversee the installation of extensive Silaris armor plating. They have also instructed the Biotic members of the crew in the use of their abilities to reinforce sections of the hull that are under heavy attack, further improving the resilience of the ship."
+StringInfo
+	ID "IDS_SUPERDREAD_COUNKILIMANJARO_UPGRADESTGSPECIALISTS_NAME"
+	Value "STG Specialists"
+StringInfo
+	ID "IDS_SUPERDREAD_COUNKILIMANJARO_UPGRADESTGSPECIALISTS_DESCRIPTION"
+	Value "Salarian STG Specialists have set up a modest lab facility onboard the SSV Rangitoto, where they have immediately set about improving the ships energy systems significantly. Though they are tight lipped and cagey about the precise nature of their work, the efficacy  of their results cannot be questioned."

@@ -1,0 +1,238 @@
+TXT2
+SinsArchiveVersion 194
+entityType "Titan"
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 "AbilityNoneIsBigShipNoFlood"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+mainViewIcon "MAINVIEWICON_TITAN_UNSCINFINITY"
+basePrice
+	credits 4650.000000
+	metal 490.000000
+	crystal 400.000000
+slotCount 50.000000
+BuildTime 75.000000
+MaxHullPoints
+	StartValue 11900.000000
+	ValueIncreasePerLevel 0.000000
+MaxShieldPoints
+	StartValue 8750.000000
+	ValueIncreasePerLevel 0.000000
+HullPointRestoreRate
+	StartValue 5.000000
+	ValueIncreasePerLevel 0.250000
+ShieldPointRestoreRate
+	StartValue 15.000000
+	ValueIncreasePerLevel 0.000000
+ArmorPointsFromExperience
+	StartValue 8.000000
+	ValueIncreasePerLevel 0.000000
+maxMitigation
+	StartValue 0.650000
+	ValueIncreasePerLevel 0.000000
+MaxAntiMatter
+	StartValue 700.000000
+	ValueIncreasePerLevel 0.000000
+AntiMatterRestoreRate
+	StartValue 0.500000
+	ValueIncreasePerLevel 0.050000
+CultureProtectRate
+	StartValue 0.300000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_SUPERDREAD_COUN_KILIMANJARO_NAME"
+DescriptionStringID "IDS_SUPERDREAD_COUN_KILIMANJARO_DESCRIPTION"
+picture "PICTURE_TITAN_UNSCINFINITY"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNSHEPARD_SYSTEMSALLIANCE"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+statCountType "Titan"
+UpgradeTypeCount 3
+UpgradeType "SUPERDREAD_COUNKILIMANJARO_UPGRADESILARISARMOR"
+UpgradeType "SUPERDREAD_COUNKILIMANJARO_UPGRADESTGSPECIALISTS"
+UpgradeType "SUPERDREAD_COUNKILIMANJARO_UPGRADECALIBRATORS"
+numRandomDebrisLarge 80
+numRandomDebrisSmall 30
+numSpecificDebris 0
+armorType "CapitalShip"
+hudIcon "HUDICON_TITAN_UNSCINFINITYCLASS"
+smallHudIcon "MAINVIEWICON_TITAN_UNSCINFINITY"
+infoCardIcon "MAINVIEWICON_TITAN_UNSCINFINITY"
+minZoomDistanceMult 1.030000
+NumWeapons 2
+Weapon  
+	WeaponType "Projectile"
+	damageEnums  
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 1800.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 24000.000000
+	PreBuffCooldownTime 14.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.250000
+	TravelSpeed 5500.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 1.000000
+			fireDelay 0.000000
+		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds  
+			soundCount 2
+			sound "WEAPON_UNSC_MAC_MUZZLELIGHT"
+			sound "WEAPON_UNSC_MAC_MUZZLELIGHT_ALT1"
+		hitEffectName "Weapon_UNSCMAC_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
+Weapon  
+	WeaponType "Projectile"
+	damageEnums  
+		AttackType "ANTIMEDIUM"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 0.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 300.000000
+	DamagePerBank:RIGHT 300.000000
+	Range 6000.000000
+	PreBuffCooldownTime 2.500000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.480000
+	TravelSpeed 6000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.340000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_UNSCAAA_Muzzle"
+		muzzleSoundMinRespawnTime 10.000000
+		muzzleSounds  
+			soundCount 2
+			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE"
+			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE_ALT1"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Tech_AutoCannonFighter_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 2
+TargetCountPerBank:RIGHT 2
+canOnlyTargetStructures FALSE
+mass 10000.000000
+ShieldMeshName "SuperDreadnought_CounKili_Shield"
+renderShield TRUE
+maxAccelerationLinear 80.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 1.000000
+maxDecelerationAngular 9.999998
+maxSpeedLinear 600.000000
+maxRollRate 2.000000
+maxRollAngle 34.999996
+useCustomHyperspaceEffects TRUE
+effects
+	chargeUpEffectName "SlipspaceChargeUpUNSCCap"
+	chargeUpEffectNameBetweenStars "SlipspaceChargeUpUNSCCap"
+	chargeUpEffectNameDestabilized "SlipspaceChargeUpUNSCCap"
+	chargeUpEffectSoundID "HYPERSPACE_CHARGEUP"
+	travelEffectName "SlipspaceTravelNoneCap"
+	travelEffectNameBetweenStars "SlipspaceTravelNoneCap"
+	travelEffectNameDestabilized "SlipspaceTravelNoneCap"
+	travelEffectSoundID "HYPERSPACE_TRAVEL"
+	exitEffectName "SlipspaceExitUNSCCap"
+	exitEffectSoundID "HYPERSPACE_EXIT"
+squadTypeEntityDef:0 "SQUAD_COUNF61TRIDENT"
+squadAntiMatterCost:0 80.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 6
+SoundID "TITAN_UNSCINFINITY_ONATTACKORDERISSUED_0"
+SoundID "TITAN_UNSCINFINITY_ONATTACKORDERISSUED_1"
+SoundID "TITAN_UNSCINFINITY_ONATTACKORDERISSUED_2"
+SoundID "TITAN_UNSCINFINITY_ONATTACKORDERISSUED_3"
+SoundID "TITAN_UNSCINFINITY_ONATTACKORDERISSUED_4"
+SoundID "TITAN_UNSCINFINITY_ONATTACKORDERISSUED_5"
+NumSoundsFor:ONCREATION 4
+SoundID "TITAN_UNSCINFINITY_ONCREATION_0"
+SoundID "TITAN_UNSCINFINITY_ONCREATION_1"
+SoundID "TITAN_UNSCINFINITY_ONCREATION_2"
+SoundID "TITAN_UNSCINFINITY_ONCREATION_3"
+NumSoundsFor:ONGENERALORDERISSUED 5
+SoundID "TITAN_UNSCINFINITY_ONGENERALORDERISSUED_0"
+SoundID "TITAN_UNSCINFINITY_ONGENERALORDERISSUED_1"
+SoundID "TITAN_UNSCINFINITY_ONGENERALORDERISSUED_2"
+SoundID "TITAN_UNSCINFINITY_ONGENERALORDERISSUED_3"
+SoundID "TITAN_UNSCINFINITY_ONGENERALORDERISSUED_4"
+NumSoundsFor:ONSELECTED 6
+SoundID "TITAN_UNSCINFINITY_ONSELECTED_0"
+SoundID "TITAN_UNSCINFINITY_ONSELECTED_1"
+SoundID "TITAN_UNSCINFINITY_ONSELECTED_2"
+SoundID "TITAN_UNSCINFINITY_ONSELECTED_3"
+SoundID "TITAN_UNSCINFINITY_ONSELECTED_4"
+SoundID "TITAN_UNSCINFINITY_ONSELECTED_5"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "TITAN_UNSCINFINITY_ONSTARTPHASEJUMP_0"
+SoundID "TITAN_UNSCINFINITY_ONSTARTPHASEJUMP_1"
+SoundID "TITAN_UNSCINFINITY_ONSTARTPHASEJUMP_2"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "SuperDreadnought_CounKili"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "Titan_UNSC_Infinity"
+CommandPoints
+	StartValue 4.000000
+	ValueIncreasePerLevel 0.000000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.030000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.000000
+EngineSoundID "ENGINE_UNSCCAPITALSHIP"
+formationRank 3
+minShadow 0.600000
+maxShadow 1.600000

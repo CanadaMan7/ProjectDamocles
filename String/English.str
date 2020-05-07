@@ -31542,7 +31542,6 @@ StringInfo
 StringInfo
 	ID "IDS_BUFFSHORTNAME_SKIRMISHCOUNTER"
 	Value "Skirmish Defense"
-
 StringInfo
 	ID "IDS_ABILITY_ALLI_INFANTRYDURATION_NAME"
 	Value "Alliance Infantry"

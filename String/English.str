@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10507
+NumStrings 10518
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31521,3 +31521,37 @@ StringInfo
 StringInfo
 	ID "IDS_SUPERDREAD_COUNKILIMANJARO_UPGRADESTGSPECIALISTS_DESCRIPTION"
 	Value "Salarian STG Specialists have set up a modest lab facility onboard the SSV Rangitoto, where they have immediately set about improving the ships energy systems significantly. Though they are tight lipped and cagey about the precise nature of their work, the efficacy  of their results cannot be questioned."
+StringInfo
+	ID "IDS_ABILITY_ALLI_HAWKINGPLATOON_NAME"
+	Value "Deploy Marine Platoon"
+StringInfo
+	ID "IDS_ABILITY_ALLI_HAWKINGPLATOON_DESCRIPTION"
+	Value "The Hawking class is equipped to deploy platoons of Alliance marines quickly and efficiently. Deployed to enemy planets, these marines will attack enemy infantry and even establish a permanent garrison should the world fall. Deployed to a friendly world, they will reinforce the standing garrison and make this planet more resilient to assault. TEN MINUTE DURATION."
+StringInfo
+	ID "IDS_ABILITY_ALLI_MARINEPLATOON_NAME"
+	Value "Marine Platoon"
+StringInfo
+	ID "IDS_ABILITY_ALLI_MARINEPLATOON_DESCRIPTION"
+	Value "Alliance Marines are equipped to fight in any environment, and are well armed and well trained to a man. This unit is only Platoon strength, but can still deal considerable damage to enemy positions, and even seize poorly garrisoned enemy settlements with only a minimum of support."
+StringInfo
+	ID "IDS_INFANTRY_ALLIDEF_MARINEPLATOON_NAME"
+	Value "Alliance Marine Platoon"
+StringInfo
+	ID "IDS_INFANTRY_ALLIDEF_MARINEPLATOON_DESCRIPTION"
+	Value "Alliance Marine Platoon Description"
+StringInfo
+	ID "IDS_BUFFSHORTNAME_SKIRMISHCOUNTER"
+	Value "Skirmish Defense"
+
+StringInfo
+	ID "IDS_ABILITY_ALLI_INFANTRYDURATION_NAME"
+	Value "Alliance Infantry"
+StringInfo
+	ID "IDS_ABILITY_ALLI_INFANTRYDURATION_DESCRIPTION"
+	Value "This Structure exists to act as a marker for Alliance Infantry units that are present on the nearby planet. Alliance Infantry operate for a total of ten minutes before running out of supplies. Infantry units cannot be destroyed by ship based weapons."
+StringInfo
+	ID "IDS_ABILITY_ALLI_INFANTRYOCCUPY_NAME"
+	Value "Occupy Planet"
+StringInfo
+	ID "IDS_ABILITY_ALLI_INFANTRYOCCUPY_DESCRIPTION"
+	Value "Once a planet has been successfully invaded, Alliance Infantry can be tasked with establishing a permanent garrison, bringing the planet under your control immediately."

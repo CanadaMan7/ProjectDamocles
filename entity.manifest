@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	3815
+entityNameCount	3821
 entityName "BuffNoneStaticProp.entity"
 entityName "BuffNoneIsInvisible.entity"
 entityName "AbilityNoneIsInvisible.entity"
@@ -3812,3 +3812,9 @@ entityName "Buff_Alli_InfantryOccupy.entity"
 entityName "Buff_Alli_InfantryOccupyBounce.entity"
 entityName "Ability_Alli_InfantryDuration.entity"
 entityName "Buff_Alli_InfantryDurationSelf.entity"
+entityName "Ability_Coun_AthabascaColonize.entity"
+entityName "Buff_Coun_AthabascaColonize.entity"
+entityName "Buff_Coun_AthabascaOneUse.entity"
+entityName "Ability_Alli_AthabascaColonize.entity"
+entityName "Buff_Alli_AthabascaColonize.entity"
+entityName "Buff_Alli_AthabascaOneUse.entity"

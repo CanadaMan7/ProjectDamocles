@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10518
+NumStrings 10522
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31554,3 +31554,15 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_ALLI_INFANTRYOCCUPY_DESCRIPTION"
 	Value "Once a planet has been successfully invaded, Alliance Infantry can be tasked with establishing a permanent garrison, bringing the planet under your control immediately."
+StringInfo
+	ID "IDS_ABILITY_ALLI_ATHABASCACOLONIZE_NAME"
+	Value "Colonize"
+StringInfo
+	ID "IDS_ABILITY_ALLI_ATHABASCACOLONIZE_DESCRIPTION"
+	Value "The Athabasca will land on the planet and disembark colonists before being cannibalised to create the initial infrastructure of the colony. Thanks to the enthusiasm of the Alliance colonists and the prefabricated structures of the colony, this planet will have double the maximum population for a period of ten minutes. THIS WILL EXPEND THE ATHABASCA."
+StringInfo
+	ID "IDS_ABILITY_COUN_ATHABASCACOLONIZE_NAME"
+	Value "Establish Colony"
+StringInfo
+	ID "IDS_ABILITY_COUN_ATHABASCACOLONIZE_DESCRIPTION"
+	Value "Establishes a multi-species Council colony on the target planet. Once landed, the Athabasca will be used as a prefabricated structure, with its reactor repurposed for power."

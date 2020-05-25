@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10522
+NumStrings 10528
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31566,3 +31566,21 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_COUN_ATHABASCACOLONIZE_DESCRIPTION"
 	Value "Establishes a multi-species Council colony on the target planet. Once landed, the Athabasca will be used as a prefabricated structure, with its reactor repurposed for power."
+StringInfo
+	ID "IDS_ABILITY_COUN_NORMANDYPASSIVEBUNDLE_NAME"
+	Value "Stealth Ship"
+StringInfo
+	ID "IDS_ABILITY_COUN_NORMANDYPASSIVEBUNDLE_DESCRIPTION"
+	Value "This ship is equipped with an Internal Emission Sink stealth system. This system is not designed to handle the heat from weapons fire, and cannot be re-engaged quickly after a long battle. Whenever the ship fires a weapon, it will lose some of its stored Eezo. This ship also carries Disruptor Torpedoes."
+StringInfo
+	ID "IDS_ABILITY_ALLI_NORMANDYSTEALTH_NAME"
+	Value "Normandy Stealth"
+StringInfo
+	ID "IDS_ABILITY_ALLI_NORMANDYSTEALTH_DESCRIPTION"
+	Value "The Normandy SR1 was the original prototype platform for the IES Stealth system. While it initially suffered from several limitations and efficiency problems, further refinement and study has led to significant improvements for the production version of the Normandy Stealth Frigate. Thanks to these improvements, this ship is now only exceeded by the high tech Tempest class Survery Ships in stealth efficiency."
+StringInfo
+	ID "IDS_ABILITY_DESTEALTH_NAME"
+	Value "Exit Stealth"
+StringInfo
+	ID "IDS_ABILITY_DESTEALTH_DESCRIPTION"
+	Value "Deactive the IES Stealth system, making the ship detectable and targetable once more."

@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	3821
+entityNameCount	3827
 entityName "BuffNoneStaticProp.entity"
 entityName "BuffNoneIsInvisible.entity"
 entityName "AbilityNoneIsInvisible.entity"
@@ -3818,3 +3818,9 @@ entityName "Buff_Coun_AthabascaOneUse.entity"
 entityName "Ability_Alli_AthabascaColonize.entity"
 entityName "Buff_Alli_AthabascaColonize.entity"
 entityName "Buff_Alli_AthabascaOneUse.entity"
+entityName "Ability_Coun_NormandyPassiveBundle.entity"
+entityName "Buff_Coun_NormandyPassiveBundleSelf.entity"
+entityName "Buff_Coun_NormandyTorpsTarget.entity"
+entityName "Ability_Coun_NormandyStealth.entity"
+entityName "Buff_Coun_NormandyStealth.entity"
+entityName "Buff_Coun_NormandyStealthStart.entity"

@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10528
+NumStrings 10530
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31584,3 +31584,9 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_DESTEALTH_DESCRIPTION"
 	Value "Deactive the IES Stealth system, making the ship detectable and targetable once more."
+StringInfo
+	ID "IDS_ABILITY_COUN_HASTINGSTORPS_NAME"
+	Value "Disruptor Torpedoes"
+StringInfo
+	ID "IDS_ABILITY_COUN_HASTINGSTORPS_DESCRIPTION"
+	Value "This ship carries Disruptor Torpedoes - a special type of missile that ignores the barriers of its target. Disruptor Torpedoes do not have much initial damage, but the warp fields they create deal damage over time and slightly reduce the mitigation of the targets barriers."

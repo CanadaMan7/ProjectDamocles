@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	3827
+entityNameCount	3830
 entityName "BuffNoneStaticProp.entity"
 entityName "BuffNoneIsInvisible.entity"
 entityName "AbilityNoneIsInvisible.entity"
@@ -3824,3 +3824,6 @@ entityName "Buff_Coun_NormandyTorpsTarget.entity"
 entityName "Ability_Coun_NormandyStealth.entity"
 entityName "Buff_Coun_NormandyStealth.entity"
 entityName "Buff_Coun_NormandyStealthStart.entity"
+entityName "Ability_Coun_BatarianTorps.entity"
+entityName "Buff_Coun_BatarianTorpsSelf.entity"
+entityName "Buff_Coun_BatarianTorpsTarget.entity"

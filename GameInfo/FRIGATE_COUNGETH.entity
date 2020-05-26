@@ -189,7 +189,7 @@ HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_UNSCCAPITALSHIP"
 ability:0 ""
 ability:1 ""
-ability:2 "Ability_Coun_Wolfpack"
+ability:2 "Ability_Neutral_GethAntiSpam"
 ability:3 ""
 ability:4 "Ability_Coun_GethFrigateNetworking"
 MaxAntiMatter 0.000000
@@ -197,6 +197,6 @@ AntiMatterRestoreRate 0.000000
 cargoType "Invalid"
 maxCargoCapacity 0.000000
 formationRank 2
-minShadow 1.600000
-maxShadow 0.600000
+minShadow 0.600000
+maxShadow 1.600000
 allegianceDecreasePerRoundtrip 0.000000

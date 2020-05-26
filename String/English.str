@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10530
+NumStrings 10532
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31590,3 +31590,9 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_COUN_HASTINGSTORPS_DESCRIPTION"
 	Value "This ship carries Disruptor Torpedoes - a special type of missile that ignores the barriers of its target. Disruptor Torpedoes do not have much initial damage, but the warp fields they create deal damage over time and slightly reduce the mitigation of the targets barriers."
+StringInfo
+	ID "IDS_ABILITY_NEUTRAL_GETHANTISPAM_NAME"
+	Value "Spatial Awareness"
+StringInfo
+	ID "IDS_ABILITY_NEUTRAL_GETHANTISPAM_DESCRIPTION"
+	Value "Geth Frigates are not limited by the usual coordination issues that large frigate groups suffer from. Instead, they face a different problem, as with more ships present more Geth programs must be dedicated to spatial awareness routines. Because of this, maintaining groups of Geth frigates above 10 will reduce accuracy and evasion, causing more damage to be taken."

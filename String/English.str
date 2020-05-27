@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10532
+NumStrings 10536
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31596,3 +31596,15 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_NEUTRAL_GETHANTISPAM_DESCRIPTION"
 	Value "Geth Frigates are not limited by the usual coordination issues that large frigate groups suffer from. Instead, they face a different problem, as with more ships present more Geth programs must be dedicated to spatial awareness routines. Because of this, maintaining groups of Geth frigates above 10 will reduce accuracy and evasion, causing more damage to be taken."
+StringInfo
+	ID "IDS_DREADNOUGHT_COUNSALARIAN_NAME"
+	Value "Mannovai Dreadnought"
+StringInfo
+	ID "IDS_DREADNOUGHT_COUNSALARIAN_DESCRIPTION"
+	Value "The Mannovai is the most recent Salarian Dreadnought, explicitly designed to incorporate the most recent advances in technology, including stealth systems and powerful Thanix weaponry. This technology makes the stealth dreadnought a fearsome prospect on the battlefield, able to strike from anywhere and quickly fade from combat should the odds not be favorable. Its mere existance deters all but the bravest from striking the Salarian Union."
+StringInfo
+	ID "IDS_ABILITY_COUN_RANNADRILPASSIVEBUNDLE_NAME"
+	Value "Stealth Ship"
+StringInfo
+	ID "IDS_ABILITY_COUN_RANNADRILPASSIVEBUNDLE_DESCRIPTION"
+	Value "This ship is equipped with an Internal Emission Sink stealth system. This system is not designed to handle the heat from weapons fire, and cannot be re-engaged quickly after a long battle. Whenever the ship fires a weapon, it will lose some of its stored Eezo."

@@ -46,7 +46,7 @@ entities
 			entityDefName "CAPITALSHIP_UNSCPHOENIX"
 			entityDefName "CAPITALSHIP_UNSCEPOCH"
 			entityDefName "DREADNOUGHT_COUNEVEREST"
-			entityDefName "CAPITALSHIP_UNSCPUNIC"
+			entityDefName "DREADNOUGHT_COUNSALARIAN"
 			entityDefName "DREADNOUGHT_COUNBATARIAN"
 	frigateInfo
 		Page:0

@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10536
+NumStrings 10538
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31608,3 +31608,9 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_COUN_RANNADRILPASSIVEBUNDLE_DESCRIPTION"
 	Value "This ship is equipped with an Internal Emission Sink stealth system. This system is not designed to handle the heat from weapons fire, and cannot be re-engaged quickly after a long battle. Whenever the ship fires a weapon, it will lose some of its stored Eezo."
+StringInfo
+	ID "IDS_ABILITY_COUN_MANNOVAISPY_NAME"
+	Value "STG Recon Data"
+StringInfo
+	ID "IDS_ABILITY_COUN_MANNOVAISPY_DESCRIPTION"
+	Value "An STG liaison comes aboard the Mannovai to coordiante with nearby reconnaissance assets. This will allow the Mannovai crew to periodically collect data from all adjacent gravity wells safely and securely."

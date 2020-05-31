@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10538
+NumStrings 10540
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31614,3 +31614,9 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_COUN_MANNOVAISPY_DESCRIPTION"
 	Value "An STG liaison comes aboard the Mannovai to coordiante with nearby reconnaissance assets. This will allow the Mannovai crew to periodically collect data from all adjacent gravity wells safely and securely."
+StringInfo
+	ID "IDS_ABILITY_COUN_IRSSALTAUNT_NAME"
+	Value "Daring Distraction"
+StringInfo
+	ID "IDS_ABILITY_COUN_IRSSALTAUNT_DESCRIPTION"
+	Value "The fiery Asari Huntresses crewing the Irssal make an aggressive run towards the enemy, drawing fire from smaller vessels and forcing enemy fighters to attack the frigate or veer off their coure."

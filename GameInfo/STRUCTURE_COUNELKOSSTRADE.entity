@@ -65,8 +65,8 @@ meshNameDecreasedEffectName ""
 ExplosionName "UNSC_Capitalship_Small"
 mainViewIcon "MAINVIEWICON_PLANETMODULE_UNSCTRADEPORT"
 picture "PICTURE_PLANETMODULE_UNSCTRADEPORT"
-minShadow 0.600000
-maxShadow 1.600000
+minShadow 0.100000
+maxShadow 1.500000
 formationRank 3
 baseBuildTime 50.000000
 buildEffectName ""

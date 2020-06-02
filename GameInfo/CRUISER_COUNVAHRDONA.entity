@@ -36,9 +36,7 @@ Prerequisites
 	RequiredCompletedResearchSubjects 0
 numRandomDebrisLarge 0
 numRandomDebrisSmall 0
-numSpecificDebris 2
-specificDebrisMeshName "FRIGATE_UNSCPARISDEBRISFRONT"
-specificDebrisMeshName "FRIGATE_UNSCPARISDEBRISBACK"
+numSpecificDebris 0
 armorType "VeryHeavy"
 hudIcon "HUDICON_FRIGATE_UNSCPARIS"
 smallHudIcon "MAINVIEWICON_FRIGATE_UNSCPARIS"

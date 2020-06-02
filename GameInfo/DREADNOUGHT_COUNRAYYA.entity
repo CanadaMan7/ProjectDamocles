@@ -214,7 +214,7 @@ MeshNameInfo
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
-ExhaustParticleSystemName "EXHAUST_CAPITALSHIP_UNSCSOF"
+ExhaustParticleSystemName ""
 ExplosionName "UNSC_Capitalship_Large"
 CommandPoints
 	StartValue 0.000000
@@ -227,6 +227,6 @@ weaponDamageIncreasePerc
 	ValueIncreasePerLevel 0.000000
 EngineSoundID "ENGINE_UNSCCAPITALSHIP"
 formationRank 0
-minShadow 0.600000
-maxShadow 1.600000
+minShadow 0.100000
+maxShadow 1.500000
 

@@ -230,6 +230,6 @@ AntiMatterRestoreRate 0.500000
 cargoType "Invalid"
 maxCargoCapacity 0.000000
 formationRank 0
-minShadow 0.500000
+minShadow 0.100000
 maxShadow 1.500000
 allegianceDecreasePerRoundtrip 0.000000

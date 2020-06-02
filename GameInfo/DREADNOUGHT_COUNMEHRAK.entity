@@ -221,5 +221,6 @@ weaponDamageIncreasePerc
 	ValueIncreasePerLevel 0.000000
 EngineSoundID "ENGINE_UNSCCAPITALSHIP"
 formationRank 0
-minShadow 0.600000
+minShadow 0.100000
 maxShadow 1.500000
+

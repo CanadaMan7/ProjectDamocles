@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10540
+NumStrings 10544
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31620,3 +31620,15 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_COUN_IRSSALTAUNT_DESCRIPTION"
 	Value "The fiery Asari Huntresses crewing the Irssal make an aggressive run towards the enemy, drawing fire from smaller vessels and forcing enemy fighters to attack the frigate or veer off their coure."
+StringInfo
+	ID "IDS_DREADNOUGHT_COUNRAYYA_NAME"
+	Value "Rayya Liveship"
+StringInfo
+	ID "IDS_DREADNOUGHT_COUNRAYYA_DESCRIPTION"
+	Value "The Rayya class Liveship is the largest remaining example of an original Quarian starship. In the lead up to the Reaper war these massive ships were modified with all of the most advanced weapons the Quarians could find, bringing the Liveships firepower up to that of the most fearsome modern Dreadnoughts. Yet this does not cover the fact that the Liveship was designed as a civilian garden vessel, and every remaining hull is over 300 years old, leaving them brittle under sustained enemy fire."
+StringInfo
+	ID "IDS_ABILITY_COUN_RAYYABALL_NAME"
+	Value "Large Target"
+StringInfo
+	ID "IDS_ABILITY_COUN_RAYYABALL_DESCRIPTION"
+	Value "The Liveship is a large and very easy target on the battlefield. Even enemies with significantly impaired targetting systems can easily hit this mammoth vessel."

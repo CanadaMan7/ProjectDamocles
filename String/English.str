@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10544
+NumStrings 10552
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31632,3 +31632,27 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_COUN_RAYYABALL_DESCRIPTION"
 	Value "The Liveship is a large and very easy target on the battlefield. Even enemies with significantly impaired targetting systems can easily hit this mammoth vessel."
+StringInfo
+	ID "IDS_ABILITY_COUN_RAYYAENERGYDRAIN_NAME"
+	Value "Energy Drain"
+StringInfo
+	ID "IDS_ABILITY_COUN_RAYYAENERGYDRAIN_DESCRIPTION"
+	Value "Quarian tech experts aboard the Liveship can initiate a dark energy feedback loop that saps the kinetic barriers of all enemy ships in a target area while simultaneously recharging the Liveship's own barriers. The damage this deals will only impact an enemies kinetic barriers, and is harmless to their hull."
+StringInfo
+	ID "IDS_ABILITY_COUN_RAYYAJURYRIGGING_NAME"
+	Value "Jury Rigging"
+StringInfo
+	ID "IDS_ABILITY_COUN_RAYYAJURYRIGGING_DESCRIPTION"
+	Value "The Liveships are three hundred year old hydroponics vessels that were never designed for combat. That the Quarians have managed to rig them with an effective armament and modern kinetic barriers is a significant achievement in its own right. Now that the crew has accrued some real combat experience though, the ever tinkering Quarian mechanics have further optimised the ships systems for battle."
+StringInfo
+	ID "IDS_ABILITY_COUN_RAYYAREMOTEHACKING_NAME"
+	Value "Remote Hacking"
+StringInfo
+	ID "IDS_ABILITY_COUN_RAYYAREMOTEHACKING_DESCRIPTION"
+	Value "Quarian Electronic Warfare specialists are among the best in the galaxy. Those aboard the Liveship can use its communication systems to overwhelm an enemy vessels firewalls, disabling its engines and wreaking havoc with targetting and cooling systems. When deployed against a Geth ship, these experts will instead hack its target registry and initiate a weapons overclock cycle, temporarily seizing control of the Geth ship."
+StringInfo
+	ID "IDS_ABILITY_COUN_RAYYATACTICALSCAN_NAME"
+	Value "Tactical Scan"
+StringInfo
+	ID "IDS_ABILITY_COUN_RAYYATACTICALSCAN_DESCRIPTION"
+	Value "As part of its combat refit, the Liveship has been equipped with advanced LADAR systems of Quarian design. These sensors allow the Liveship's crew to perform detailed scans and relay information about the target to the rest of the fleet. With this data, weakpoints can be easily struck, and firing solutions can be calculated to minimise the targets mobility."

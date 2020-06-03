@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	3852
+entityNameCount	3864
 entityName "BuffNoneStaticProp.entity"
 entityName "BuffNoneIsInvisible.entity"
 entityName "AbilityNoneIsInvisible.entity"
@@ -3849,3 +3849,16 @@ entityName "Buff_Coun_RayyaBall_InCombat.entity"
 entityName "Buff_Coun_RayyaBallLock.entity"
 entityName "Buff_Coun_RayyaBallMove.entity"
 entityName "Buff_Coun_RayyaBallStart.entity"
+entityName "Ability_Coun_RayyaTacticalScan.entity"
+entityName "Buff_Coun_RayyaTacticalScanTarget.entity"
+entityName "Ability_Coun_RayyaEnergyDrain.entity"
+entityName "Buff_Coun_RayyaEnergyDrainBounce.entity"
+entityName "Buff_Coun_RayyaEnergyDrainSubTarget.entity"
+entityName "Buff_Coun_RayyaEnergyDrainTarget.entity"
+entityName "Ability_Coun_RayyaJuryRigging.entity"
+entityName "Buff_Coun_RayyaJuryRiggingSelf.entity"
+entityName "Ability_Coun_RayyaRemoteHacking.entity"
+entityName "Buff_Coun_RayyaRemoteHackingDebuff.entity"
+entityName "Buff_Coun_RayyaRemoteHackingGethBuff.entity"
+entityName "Buff_Coun_RayyaRemoteHackingGethConvert.entity"
+entityName "Buff_Coun_RayyaRemoteHackingTarget.entity"

@@ -1,10 +1,10 @@
 TXT2
 SinsArchiveVersion 194 
 entityType "CapitalShip"
-ability:0 "AbilityUNSCPhoenixSupportReprovision"
-ability:1 "AbilityUNSCEMPMAC"
-ability:2 "AbilityUNSCFirebaseDeployment"
-ability:3 "AbilityUNSCPhoenixAIRepair"
+ability:0 "Ability_Coun_RayyaTacticalScan"
+ability:1 "Ability_Coun_RayyaEnergyDrain"
+ability:2 "Ability_Coun_RayyaJuryRigging"
+ability:3 "Ability_Coun_RayyaRemoteHacking"
 ability:4 "Ability_Coun_RayyaBall"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE

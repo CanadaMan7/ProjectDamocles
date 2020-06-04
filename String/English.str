@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10552
+NumStrings 10554
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31656,3 +31656,9 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_COUN_RAYYATACTICALSCAN_DESCRIPTION"
 	Value "As part of its combat refit, the Liveship has been equipped with advanced LADAR systems of Quarian design. These sensors allow the Liveship's crew to perform detailed scans and relay information about the target to the rest of the fleet. With this data, weakpoints can be easily struck, and firing solutions can be calculated to minimise the targets mobility."
+StringInfo
+	ID "IDS_FREIGHTER_COUNTRADEELKOSS_NAME"
+	Value "Elkoss Trade Ship"
+StringInfo
+	ID "IDS_FREIGHTER_COUNTRADEELKOSS_DESCRIPTION"
+	Value "This Elkoss class freighter operates under one of the multitudes of corporations within Council space, assigned to the task of trading high value commodities."

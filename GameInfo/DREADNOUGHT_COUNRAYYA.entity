@@ -14,9 +14,9 @@ autoJoinFleetDefault TRUE
 canBomb FALSE
 mainViewIcon "MAINVIEWICON_CAPITALSHIP_UNSCPHOENIX"
 basePrice
-	credits 8600.000000
-	metal 760.000000
-	crystal 1025.000000
+	credits 4300.000000
+	metal 380.000000
+	crystal 510.000000
 slotCount 50.000000
 BuildTime 47.000000
 MaxHullPoints

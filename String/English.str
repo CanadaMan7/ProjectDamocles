@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10554
+NumStrings 10556
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31662,3 +31662,9 @@ StringInfo
 StringInfo
 	ID "IDS_FREIGHTER_COUNTRADEELKOSS_DESCRIPTION"
 	Value "This Elkoss class freighter operates under one of the multitudes of corporations within Council space, assigned to the task of trading high value commodities."
+StringInfo
+	ID "IDS_DREADNOUGHT_COUNGETH_NAME"
+	Value "Navarch Dreadnought"
+StringInfo
+	ID "IDS_DREADNOUGHT_COUNGETH_DESCRIPTION"
+	Value "The Navarch is one of the most formidable mobile platforms the Geth have ever constructed. Coming in at a high tonnage even for a Dreadnought, the Navarch has nearly unparalleled Kinetic Barriers, a large suite of GARDIAN lasers and an immense main gun. With a huge Geth crew compliment, the ship has plenty of spare runtime capacity for overclocking its systems, allowing it to adapt to the situation at hand terrifyingly swiftly."

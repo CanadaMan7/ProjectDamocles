@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10556
+NumStrings 10558
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31668,3 +31668,9 @@ StringInfo
 StringInfo
 	ID "IDS_DREADNOUGHT_COUNGETH_DESCRIPTION"
 	Value "The Navarch is one of the most formidable mobile platforms the Geth have ever constructed. Coming in at a high tonnage even for a Dreadnought, the Navarch has nearly unparalleled Kinetic Barriers, a large suite of GARDIAN lasers and an immense main gun. With a huge Geth crew compliment, the ship has plenty of spare runtime capacity for overclocking its systems, allowing it to adapt to the situation at hand terrifyingly swiftly."
+StringInfo
+	ID "IDS_DREADNOUGHT_COUNMANOWAR_NAME"
+	Value "Man-O-War Dreadnought"
+StringInfo
+	ID "IDS_DREADNOUGHT_COUNMANOWAR_DESCRIPTION"
+	Value "The Man-O-War is the designation given to the Hanar Dreadnought by other species, thanks to the unique and un-translateable name the Hanar use for the class. It is a massive, imposing Dreadnought with a liquid atmosphere and powerful disruptive abilities. It carries ancient, poorly understood Prothean Particle Beam weapons found and meticulously copied by the Hanar, who view them as holy relics."

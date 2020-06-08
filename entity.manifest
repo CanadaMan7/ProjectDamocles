@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	3865
+entityNameCount	3866
 entityName "BuffNoneStaticProp.entity"
 entityName "BuffNoneIsInvisible.entity"
 entityName "AbilityNoneIsInvisible.entity"
@@ -3863,3 +3863,4 @@ entityName "Buff_Coun_RayyaRemoteHackingGethBuff.entity"
 entityName "Buff_Coun_RayyaRemoteHackingGethConvert.entity"
 entityName "Buff_Coun_RayyaRemoteHackingTarget.entity"
 entityName "DREADNOUGHT_COUNGETH.entity"
+entityName "DREADNOUGHT_COUNMANOWAR.entity"

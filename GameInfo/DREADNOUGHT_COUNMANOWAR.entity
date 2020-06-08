@@ -1,0 +1,245 @@
+TXT2
+SinsArchiveVersion 194
+entityType "CapitalShip"
+ability:0 ""
+ability:1 "AbilityUNSCEpochPointDefense"
+ability:2 "AbilityUNSCEpochBidentMissiles"
+ability:3 ""
+ability:4 ""
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_UNSCEPOCH"
+basePrice
+	credits 5125.000000
+	metal 395.000000
+	crystal 485.000000
+slotCount 50.000000
+BuildTime 65.000000
+MaxHullPoints
+	StartValue 10500.000000
+	ValueIncreasePerLevel 0.000000
+MaxShieldPoints
+	StartValue 15750.000000
+	ValueIncreasePerLevel 0.000000
+HullPointRestoreRate
+	StartValue 5.000000
+	ValueIncreasePerLevel 0.250000
+ShieldPointRestoreRate
+	StartValue 16.000000
+	ValueIncreasePerLevel 0.000000
+ArmorPointsFromExperience
+	StartValue 5.000000
+	ValueIncreasePerLevel 0.000000
+maxMitigation
+	StartValue 0.700000
+	ValueIncreasePerLevel 0.000000
+MaxAntiMatter
+	StartValue 690.000000
+	ValueIncreasePerLevel 0.000000
+AntiMatterRestoreRate
+	StartValue 0.500000
+	ValueIncreasePerLevel 0.050000
+CultureProtectRate
+	StartValue 0.300000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_DREADNOUGHT_COUNMANOWAR_NAME"
+DescriptionStringID "IDS_DREADNOUGHT_COUNMANOWAR_DESCRIPTION"
+picture "PICTURE_CAPITALSHIP_UNSCEPOCH"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNSHEPARD_HANAR"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+roleType "Invalid"
+statCountType "CapitalShipBattleship"
+numRandomDebrisLarge 4
+numRandomDebrisSmall 17
+numSpecificDebris 0
+armorType "CapitalShip"
+hudIcon "HUDICON_CAPITALSHIP_UNSCEPOCH"
+smallHudIcon "MAINVIEWICON_CAPITALSHIP_UNSCEPOCH"
+infoCardIcon "MAINVIEWICON_CAPITALSHIP_UNSCEPOCH"
+minZoomDistanceMult 2.500000
+NumWeapons 2
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "RAILGUN"
+	DamagePerBank:FRONT 1125.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 20000.000000
+	PreBuffCooldownTime 11.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.500000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds  
+			soundCount 2
+			sound "WEAPON_UNSC_MAC_MUZZLELIGHT"
+			sound "WEAPON_UNSC_MAC_MUZZLELIGHT_ALT1"
+		hitEffectName "Weapon_UNSCMAC_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
+Weapon
+	WeaponType "Beam"
+	damageEnums
+		AttackType "ANTIVERYHEAVY"
+		DamageAffectType "AFFECTS_ONLY_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "PHASECANNON"
+	DamagePerBank:FRONT 800.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 200.000000
+	DamagePerBank:RIGHT 200.000000
+	Range 8600.000000
+	PreBuffCooldownTime 6.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.500000
+	TravelSpeed 0.000000
+	Duration 3.200000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 0.750000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PhaseCapitalFlashBeamCapShip_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound ""
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		beamEffectSounds
+			soundCount 1
+			sound "WEAPON_PHASEPLANETBOMB_LOOP"
+		beamGlowTextureName "PhaseCapitalBeam_Glow"
+		beamCoreTextureName "PhaseCapitalBeam_Core"
+		beamWidth 12.000000
+		beamGlowColor ff00ffa2
+		beamCoreColor ff00ffa2
+		beamTilingRate 5.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+mass 10000.000000
+ShieldMeshName "Dreadnought_CounHanar_Shield"
+renderShield TRUE
+maxAccelerationLinear 75.000000
+maxAccelerationStrafe 75.000000
+maxDecelerationLinear 800.000000
+maxAccelerationAngular 4.000000
+maxDecelerationAngular 10.000000
+maxSpeedLinear 400.000000
+maxRollRate 1.000000
+maxRollAngle 35.000000
+useCustomHyperspaceEffects TRUE
+effects
+	chargeUpEffectName "SlipspaceChargeUpUNSCCap"
+	chargeUpEffectNameBetweenStars "SlipspaceChargeUpUNSCCap"
+	chargeUpEffectNameDestabilized "SlipspaceChargeUpUNSCCap"
+	chargeUpEffectSoundID "HYPERSPACE_CHARGEUP"
+	travelEffectName "SlipspaceTravelNoneCap"
+	travelEffectNameBetweenStars "SlipspaceTravelNoneCap"
+	travelEffectNameDestabilized "SlipspaceTravelNoneCap"
+	travelEffectSoundID "HYPERSPACE_TRAVEL"
+	exitEffectName "SlipspaceExitUNSCCap"
+	exitEffectSoundID "HYPERSPACE_EXIT"
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 6
+SoundID "CAPITALSHIP_UNSCEPOCH_ONATTACKORDERISSUED_0"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONATTACKORDERISSUED_1"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONATTACKORDERISSUED_2"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONATTACKORDERISSUED_3"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONATTACKORDERISSUED_5"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONATTACKORDERISSUED_7"
+NumSoundsFor:ONCREATION 5
+SoundID "CAPITALSHIP_UNSCEPOCH_ONCREATION_0"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONCREATION_1"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONCREATION_2"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONCREATION_3"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONCREATION_4"
+NumSoundsFor:ONGENERALORDERISSUED 5
+SoundID "CAPITALSHIP_UNSCEPOCH_ONGENERALORDERISSUED_0"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONGENERALORDERISSUED_1"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONGENERALORDERISSUED_2"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONGENERALORDERISSUED_3"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONGENERALORDERISSUED_4"
+NumSoundsFor:ONSELECTED 6
+SoundID "CAPITALSHIP_UNSCEPOCH_ONSELECTED_0"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONSELECTED_1"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONSELECTED_2"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONSELECTED_3"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONSELECTED_4"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONSELECTED_5"
+NumSoundsFor:ONSTARTPHASEJUMP 5
+SoundID "CAPITALSHIP_UNSCEPOCH_ONSTARTPHASEJUMP_0"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONSTARTPHASEJUMP_1"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONSTARTPHASEJUMP_2"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONSTARTPHASEJUMP_3"
+SoundID "CAPITALSHIP_UNSCEPOCH_ONSTARTPHASEJUMP_4"
+MeshNameInfoCount 1
+MeshNameInfo  
+	meshName "Dreadnought_CounHanar"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "UNSC_Capitalship_Large"
+CommandPoints
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.000000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.030000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.000000
+EngineSoundID "ENGINE_UNSCCAPITALSHIP"
+formationRank 2
+minShadow 0.100000
+maxShadow 1.500000

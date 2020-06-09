@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 10558
+NumStrings 10568
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31674,3 +31674,33 @@ StringInfo
 StringInfo
 	ID "IDS_DREADNOUGHT_COUNMANOWAR_DESCRIPTION"
 	Value "The Man-O-War is the designation given to the Hanar Dreadnought by other species, thanks to the unique and un-translateable name the Hanar use for the class. It is a massive, imposing Dreadnought with a liquid atmosphere and powerful disruptive abilities. It carries ancient, poorly understood Prothean Particle Beam weapons found and meticulously copied by the Hanar, who view them as holy relics."
+StringInfo
+	ID "IDS_ABILITY_COUN_GETHNETWORKINGDREAD_NAME"
+	Value "Geth Networking"
+StringInfo
+	ID "IDS_ABILITY_COUN_GETHNETWORKINGDREAD_DESCRIPTION"
+	Value "The Geth programs onboard a Geth starship will automatically network with others of their kind when nearby. This process increases the overall processing power of all Geth in the area, allowing them to push their ships to new levels of performance. The Geth aboard the Navarch focus on improving the countermeasures and barrier regeneration of surrounding Geth ships."
+StringInfo
+	ID "IDS_ABILITY_COUN_GETHDREADWEAPONOVERCLOCK_NAME"
+	Value "Overclock Weapons"
+StringInfo
+	ID "IDS_ABILITY_COUN_GETHDREADWEAPONOVERCLOCK_DESCRIPTION"
+	Value "The Navarch's crew can shift processing power from defenses to weapons, overclocking the relevent CPUs to achieve significant temporary performance boosts. However, with fewer Geth monitoring kinetic barrier systems, performance in that area will be diminished."
+StringInfo
+	ID "IDS_ABILITY_COUN_GETHDREADBARRIEROVERCLOCK_NAME"
+	Value "Overclock Barriers"
+StringInfo
+	ID "IDS_ABILITY_COUN_GETHDREADBARRIEROVERCLOCK_DESCRIPTION"
+	Value "The Navarch's crew can shift processing power from weapons to defenses, overclocking the relevent CPUs to achieve significant temporary performance boosts. However, with fewer Geth monitoring weapons systems, performance in that area will be diminished."
+StringInfo
+	ID "IDS_ABILITY_COUN_GETHDREADFORTIFICATION_NAME"
+	Value "Fortification"
+StringInfo
+	ID "IDS_ABILITY_COUN_GETHDREADFORTIFICATION_DESCRIPTION"
+	Value "The Geth aboard the Navarch can initiate a protective Foucault current through the hull of the ship to greatly strengthen its defenses. Ubfortuantely, the current also temporarily raises the ships mass and interferes with several outlying processor hubs, causing a reduction in speed and ability cooldown rates. This current will remain active until either the ships Eezo reserve is depleted, or until Fortification is deactived."
+StringInfo
+	ID "IDS_ABILITY_COUN_GETHDREADHUNTERMODE_NAME"
+	Value "Hunter Mode"
+StringInfo
+	ID "IDS_ABILITY_COUN_GETHDREADHUNTERMODE_DESCRIPTION"
+	Value "The Navarch is equipped with specialised sensor systems that allow the Geth aboard to initiate Hunter Mode on a massive scale. While in this mode, the Navarch will have superior targetting and manoeuverability. Activating this mode will immediately reduce the ships barrier strength. Hunter Mode will remain active until either the ships Eezo reserve is depleted, or until it is deactived."

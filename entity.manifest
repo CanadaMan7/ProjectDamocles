@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	3866
+entityNameCount	3870
 entityName "BuffNoneStaticProp.entity"
 entityName "BuffNoneIsInvisible.entity"
 entityName "AbilityNoneIsInvisible.entity"
@@ -3864,3 +3864,7 @@ entityName "Buff_Coun_RayyaRemoteHackingGethConvert.entity"
 entityName "Buff_Coun_RayyaRemoteHackingTarget.entity"
 entityName "DREADNOUGHT_COUNGETH.entity"
 entityName "DREADNOUGHT_COUNMANOWAR.entity"
+entityName "Ability_Coun_GethDreadWeaponOverclock.entity"
+entityName "Buff_Coun_GethDreadWeaponOverclock.entity"
+entityName "Ability_Coun_GethDreadBarrierOverclock.entity"
+entityName "Buff_Coun_GethDreadBarrierOverclock.entity"

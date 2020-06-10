@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	3870
+entityNameCount	3872
 entityName "BuffNoneStaticProp.entity"
 entityName "BuffNoneIsInvisible.entity"
 entityName "AbilityNoneIsInvisible.entity"
@@ -3868,3 +3868,5 @@ entityName "Ability_Coun_GethDreadWeaponOverclock.entity"
 entityName "Buff_Coun_GethDreadWeaponOverclock.entity"
 entityName "Ability_Coun_GethDreadBarrierOverclock.entity"
 entityName "Buff_Coun_GethDreadBarrierOverclock.entity"
+entityName "Ability_Coun_GethDreadFortification.entity"
+entityName "Buff_Coun_GethDreadFortification.entity"

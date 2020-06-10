@@ -1,0 +1,92 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 2
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName "Ability_Coun_GethDread_Hunter_Mode"
+		mediumEffectName "Ability_Coun_GethDread_Hunter_Mode"
+		largeEffectName "Ability_Coun_GethDread_Hunter_Mode"
+		soundID ""
+instantAction
+	buffInstantActionType "DoDamage"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	damage
+		Level:0 3000.000000
+		Level:1 2500.000000
+		Level:2 0.000000
+		Level:3 0.000000
+	damageAffectType "AFFECTS_ONLY_SHIELDS"
+	damageType "ENERGY"
+	isDamageShared FALSE
+numPeriodicActions 0
+numOverTimeActions 1
+overTimeAction
+	buffOverTimeActionType "DrainAntiMatter"
+	drainAntiMatterRate
+		Level:0 3.000000
+		Level:1 3.000000
+		Level:2 3.000000
+		Level:3 3.000000
+numEntityModifiers 6
+entityModifier
+	buffEntityModifierType "MaxShieldPoints"
+	value
+		Level:0 -3000.000000
+		Level:1 -2500.000000
+		Level:2 -0.000000
+		Level:3 -0.000000
+entityModifier
+	buffEntityModifierType "ShieldMitigation"
+	value
+		Level:0 -0.100000
+		Level:1 -0.050000
+		Level:2 -0.000000
+		Level:3 -0.000000
+entityModifier
+	buffEntityModifierType "DamageAsDamageDealer"
+	value
+		Level:0 0.200000
+		Level:1 0.300000
+		Level:2 0.200000
+		Level:3 0.250000
+entityModifier
+	buffEntityModifierType "ChanceToHitAsDamageDealer"
+	value
+		Level:0 0.200000
+		Level:1 0.300000
+		Level:2 0.200000
+		Level:3 0.250000
+entityModifier
+	buffEntityModifierType "LinearMaxSpeed"
+	value
+		Level:0 0.200000
+		Level:1 0.300000
+		Level:2 0.200000
+		Level:3 0.250000
+entityModifier
+	buffEntityModifierType "LinearThrust"
+	value
+		Level:0 0.200000
+		Level:1 0.300000
+		Level:2 0.200000
+		Level:3 0.250000
+numEntityBoolModifiers 0
+numFinishConditions 2
+finishCondition
+	finishConditionType "AntiMatterDepleted"
+finishCondition
+	finishConditionType "OwnerChanged"

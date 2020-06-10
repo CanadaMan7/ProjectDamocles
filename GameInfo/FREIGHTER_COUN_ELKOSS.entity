@@ -97,6 +97,6 @@ AntiMatterRestoreRate 0.000000
 cargoType "TradeCredits"
 maxCargoCapacity 1000.000000
 formationRank 2
-minShadow 0.600000
-maxShadow 1.600000
+minShadow 0.100000
+maxShadow 1.500000
 allegianceDecreasePerRoundtrip 0.000000

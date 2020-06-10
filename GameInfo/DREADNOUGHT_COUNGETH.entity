@@ -3,7 +3,7 @@ entityType "CapitalShip"
 ability:0 "Ability_Coun_GethDreadWeaponOverclock"
 ability:1 "Ability_Coun_GethDreadBarrierOverclock"
 ability:2 "Ability_Coun_GethDreadFortification"
-ability:3 ""
+ability:3 "Ability_Coun_GethDreadHunterMode"
 ability:4 "AbilityNoneIsBigShip"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE

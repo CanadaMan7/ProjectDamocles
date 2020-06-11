@@ -62,7 +62,7 @@ numRandomDebrisLarge 4
 numRandomDebrisSmall 17
 numSpecificDebris 0
 armorType "CapitalShip"
-hudIcon "HUDICON_CAPITALSHIP_UNSCEPOCH"
+hudIcon "HUDICON_CAPITALSHIP_COUNMANOWAR"
 smallHudIcon "MAINVIEWICON_CAPITALSHIP_UNSCEPOCH"
 infoCardIcon "MAINVIEWICON_CAPITALSHIP_UNSCEPOCH"
 minZoomDistanceMult 2.500000

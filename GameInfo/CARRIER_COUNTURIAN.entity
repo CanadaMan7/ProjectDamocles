@@ -63,7 +63,7 @@ numRandomDebrisSmall 18
 numSpecificDebris 1
 specificDebrisMeshName "DebrisTechLarge"
 armorType "Heavy"
-hudIcon "HUDICON_CAPITALSHIP_UNSCVALIANT"
+hudIcon "HUDICON_CARRIER_COUNUNDAUNTED"
 smallHudIcon "MAINVIEWICON_CAPITALSHIP_UNSCVALIANT"
 infoCardIcon "MAINVIEWICON_CAPITALSHIP_UNSCVALIANT"
 minZoomDistanceMult 1.500000

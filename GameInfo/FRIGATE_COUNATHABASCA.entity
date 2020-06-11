@@ -40,7 +40,7 @@ numRandomDebrisLarge 1
 numRandomDebrisSmall 8
 numSpecificDebris 0
 armorType "Medium"
-hudIcon "HUDICON_FRIGATE_UNSCPHOENIX"
+hudIcon "HUDICON_FRIGATE_COUNATHABASCA"
 smallHudIcon "MAINVIEWICON_FRIGATE_UNSCPHOENIX"
 infoCardIcon "MAINVIEWICON_FRIGATE_UNSCPHOENIX"
 minZoomDistanceMult 1.000000

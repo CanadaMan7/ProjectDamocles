@@ -37,7 +37,7 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 4
 numSpecificDebris 0
 armorType "Light"
-hudIcon "HUDICON_FRIGATE_UNSCGENEVA"
+hudIcon "HUDICON_FRIGATE_COUNDIPLO"
 smallHudIcon "MAINVIEWICON_FRIGATE_UNSCGENEVA"
 infoCardIcon "MAINVIEWICON_FRIGATE_UNSCGENEVA"
 minZoomDistanceMult 4.000000

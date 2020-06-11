@@ -65,7 +65,7 @@ numRandomDebrisLarge 80
 numRandomDebrisSmall 30
 numSpecificDebris 0
 armorType "CapitalShip"
-hudIcon "HUDICON_TITAN_UNSCINFINITYCLASS"
+hudIcon "HUDICON_SUPERDREAD_COUNDESTINY"
 smallHudIcon "MAINVIEWICON_TITAN_UNSCINFINITY"
 infoCardIcon "MAINVIEWICON_TITAN_UNSCINFINITY"
 minZoomDistanceMult 1.730000

@@ -30,7 +30,7 @@ isAutoCastAvailable TRUE
 isAutoCastOnByDefault TRUE
 pickRandomPlanetToExploreForAutoCastTarget FALSE
 ignoreNonCombatShipsForAutoCastTarget TRUE
-onlyAutoCastWhenDamageTakenExceedsPerc 0.500000
+onlyAutoCastWhenDamageTakenExceedsPerc 0.400000
 useCostType "None"
 cooldownTime
 	Level:0 10.000000

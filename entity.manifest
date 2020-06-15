@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	3877
+entityNameCount	3884
 entityName "BuffNoneStaticProp.entity"
 entityName "BuffNoneIsInvisible.entity"
 entityName "AbilityNoneIsInvisible.entity"
@@ -3875,3 +3875,10 @@ entityName "Buff_Coun_GethDreadHunterMode.entity"
 entityName "Ability_Coun_GethNetworkingDread.entity"
 entityName "Buff_Coun_GethNetworkingDreadSelf.entity"
 entityName "Buff_Coun_GethNetworkingDreadTarget.entity"
+entityName "Ability_Coun_ManOWarStormySkies.entity"
+entityName "Buff_Coun_ManOWarStormySkiesSelf.entity"
+entityName "Buff_Coun_ManOWarStormySkiesTarget.entity"
+entityName "Buff_Coun_ManOWarStormySkiesTargetEnemy.entity"
+entityName "Ability_Coun_ManOWarVoiceOfEnkindlers.entity"
+entityName "Buff_Coun_ManOWarVoiceOfEnkindlersSelf.entity"
+entityName "Buff_Coun_ManOWarVoiceOfEnkindlersTarget.entity"

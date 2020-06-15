@@ -1,8 +1,8 @@
 TXT2
 SinsArchiveVersion 194
 entityType "CapitalShip"
-ability:0 ""
-ability:1 "AbilityUNSCEpochPointDefense"
+ability:0 "Ability_Coun_ManOWarStormySkies"
+ability:1 "Ability_Coun_ManOWarVoiceOfEnkindlers"
 ability:2 "AbilityUNSCEpochBidentMissiles"
 ability:3 ""
 ability:4 ""

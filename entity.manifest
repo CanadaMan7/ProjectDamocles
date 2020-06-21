@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	3884
+entityNameCount	3886
 entityName "BuffNoneStaticProp.entity"
 entityName "BuffNoneIsInvisible.entity"
 entityName "AbilityNoneIsInvisible.entity"
@@ -3882,3 +3882,5 @@ entityName "Buff_Coun_ManOWarStormySkiesTargetEnemy.entity"
 entityName "Ability_Coun_ManOWarVoiceOfEnkindlers.entity"
 entityName "Buff_Coun_ManOWarVoiceOfEnkindlersSelf.entity"
 entityName "Buff_Coun_ManOWarVoiceOfEnkindlersTarget.entity"
+entityName "Ability_Coun_ManOWarDayOfExtinguishment.entity"
+entityName "Buff_Coun_ManOWarDayOfExtinguishment.entity"

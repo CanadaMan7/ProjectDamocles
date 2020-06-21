@@ -140,16 +140,19 @@ Weapon
 			fireDelay 0.000000
 	muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
 		muzzleSoundMinRespawnTime 0.10000
-		muzzleSounds  
-			soundCount 3
-			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE"
-			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE_ALT1"
-			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE_ALT2"
-		hitEffectName "Weapon_UNSCDeckGun_Hit"
-		hitHullEffectSounds  
+		muzzleSounds
+			soundCount 6
+			sound "WEAPON_COUN_QUARIANBROADMASSACCMUZZLE1"
+			sound "WEAPON_COUN_QUARIANBROADMASSACCMUZZLE2"
+			sound "WEAPON_COUN_QUARIANBROADMASSACCMUZZLE3"
+			sound "WEAPON_COUN_QUARIANBROADMASSACCMUZZLE4"
+			sound "WEAPON_COUN_QUARIANBROADMASSACCMUZZLE5"
+			sound "WEAPON_COUN_QUARIANBROADMASSACCMUZZLE6"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_Tech_AutoCannonFighter_Travel"

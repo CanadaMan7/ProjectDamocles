@@ -48,7 +48,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_CARRIER_COUNTURIAN_NAME"
 DescriptionStringID "IDS_CARRIER_COUNTURIAN_DESCRIPTION"
-picture "PICTURE_CAPITALSHIP_UNSCVALIANT"
+picture "CARRIER_COUN_UNDAUNTED"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

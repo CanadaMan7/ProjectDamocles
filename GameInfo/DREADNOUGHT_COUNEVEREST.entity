@@ -48,7 +48,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_DREADNOUGHT_COUNEVEREST_NAME"
 DescriptionStringID "IDS_DREADNOUGHT_COUNEVEREST_DESCRIPTION"
-picture "PICTURE_CAPITALSHIP_UNSCTHANATOS"
+picture "DREADNOUGHT_COUN_EVEREST"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

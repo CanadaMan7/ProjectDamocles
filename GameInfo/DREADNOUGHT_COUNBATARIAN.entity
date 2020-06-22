@@ -48,7 +48,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_DREADNOUGHT_COUNBATARIAN_NAME"
 DescriptionStringID "IDS_DREADNOUGHT_COUNBATARIAN_DESCRIPTION"
-picture "PICTURE_CAPITALSHIP_UNSCPOINTBLANK"
+picture "DREADNOUGHT_COUN_HARSHAAL"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

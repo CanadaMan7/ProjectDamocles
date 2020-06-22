@@ -47,7 +47,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_DREADNOUGHT_COUNSALARIAN_NAME"
 DescriptionStringID "IDS_DREADNOUGHT_COUNSALARIAN_DESCRIPTION"
-picture "PICTURE_CAPITALSHIP_UNSCSAHARA"
+picture "DREADNOUGHT_COUN_MANNOVAI"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

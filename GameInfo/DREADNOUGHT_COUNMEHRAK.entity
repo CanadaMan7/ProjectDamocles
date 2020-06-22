@@ -48,7 +48,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_DREADNOUGHT_COUNMEHRAK_NAME"
 DescriptionStringID "IDS_DREADNOUGHT_COUNMEHRAK_DESCRIPTION"
-picture "PICTURE_CAPITALSHIP_UNSCMARATHON"
+picture "DREADNOUGHT_COUN_MEHREK"
 Prerequisites  
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""

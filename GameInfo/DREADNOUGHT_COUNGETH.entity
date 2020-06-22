@@ -47,7 +47,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_DREADNOUGHT_COUNGETH_NAME"
 DescriptionStringID "IDS_DREADNOUGHT_COUNGETH_DESCRIPTION"
-picture "PICTURE_CAPITALSHIP_UNSCVALIANT"
+picture "DREADNOUGHT_COUN_NAVARCH"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

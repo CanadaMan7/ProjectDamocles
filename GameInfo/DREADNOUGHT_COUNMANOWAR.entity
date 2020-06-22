@@ -48,7 +48,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_DREADNOUGHT_COUNMANOWAR_NAME"
 DescriptionStringID "IDS_DREADNOUGHT_COUNMANOWAR_DESCRIPTION"
-picture "PICTURE_CAPITALSHIP_UNSCEPOCH"
+picture "DREADNOUGHT_COUN_MANOWAR"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

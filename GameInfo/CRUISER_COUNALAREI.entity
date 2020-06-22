@@ -11,7 +11,7 @@ typeCount 1
 frigateRoleType "Heavy"
 statCountType "FrigateHeavy"
 mainViewIcon "MAINVIEWICON_FRIGATE_UNSCCHARON"
-picture "PICTURE_FRIGATE_UNSCCHARON"
+picture "CRUISER_COUN_ALAREI"
 NameStringID "IDS_CRUISER_COUNALAREI_NAME"
 DescriptionStringID "IDS_CRUISER_COUNALAREI_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_CHARON"

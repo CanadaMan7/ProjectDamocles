@@ -2,174 +2,30 @@
 ParticleSimulation
 	HasInfiniteLifeTime TRUE
 	TotalLifeTime 10.000000
-	NumEmitters 4
-	EmitterType "Point"
-	EmitterContents
-		Name "Core"
-		Enabled TRUE
-		EmitRate 2.000000
-		HasInfiniteEmitCount TRUE
-		MaxEmitCount 1
-		hasEmitIntervals FALSE
-		emitIntervalRunDuration 0.000000
-		emitIntervalWaitDuration 0.000000
-		ParticleLifeTime 3.000000
-		ParticleMinStartLinearSpeed 0.000000
-		ParticleMaxStartLinearSpeed 0.000000
-		ParticleMinStartAngularSpeed 1.047198
-		ParticleMaxStartAngularSpeed 1.570796
-		ParticleMinStartRotation 0.000000
-		ParticleMaxStartRotation 6.283185
-		ParticleStartMass 1.000000
-		ParticleStartColor ff6495ed
-		ParticleWidth 25.000000
-		ParticleHeight 25.000000
-		MeshName ""
-		Position [ 0.000000 0.000000 0.000000 ]
-		Orientation
-			 [ 1.000000 0.000000 0.000000 ]
-			 [ 0.000000 1.000000 0.000000 ]
-			 [ 0.000000 0.000000 1.000000 ]
-		RotateAboutForward 0.000000
-		RotateAboutUp 0.000000
-		RotateAboutCross 0.000000
-		StartTime 0.000000
-		HasInfiniteLifeTime TRUE
-		TotalLifeTime 0.000000
-		BillboardAnchor 0
-		ParticleFacing 1
-		PipelineEffectID "Particle_Additive.fx"
-		AreParticlesAttached TRUE
-		numTextures 2
-		textureName "a-explosion_wind.tga"
-		textureName ""
-		textureAnimationName ""
-		textureAnimationSpawnType "RandomFrames"
-		textureAnimationOnParticleFPS 0.000000
-		ParticlesRotate TRUE
-		MeshParticleRotationAxisType 0
-		MeshParticleRotationAxis [ 0.000000 0.100000 0.000000 ]
-		RotationDirectionType 2
-		AngleVariance 3.141593
-	EmitterType "Point"
-	EmitterContents
-		Name "Sparks"
-		Enabled TRUE
-		EmitRate 10.000000
-		HasInfiniteEmitCount TRUE
-		MaxEmitCount 1
-		hasEmitIntervals FALSE
-		emitIntervalRunDuration 0.000000
-		emitIntervalWaitDuration 0.000000
-		ParticleLifeTime 0.500000
-		ParticleMinStartLinearSpeed 0.000000
-		ParticleMaxStartLinearSpeed 0.000000
-		ParticleMinStartAngularSpeed 0.523599
-		ParticleMaxStartAngularSpeed 1.047198
-		ParticleMinStartRotation 0.000000
-		ParticleMaxStartRotation 6.283185
-		ParticleStartMass 1.000000
-		ParticleStartColor ff6495ed
-		ParticleWidth 5.000000
-		ParticleHeight 5.000000
-		MeshName ""
-		Position [ 0.000000 0.000000 0.000000 ]
-		Orientation
-			 [ 1.000000 0.000000 0.000000 ]
-			 [ 0.000000 1.000000 0.000000 ]
-			 [ 0.000000 0.000000 1.000000 ]
-		RotateAboutForward 0.000000
-		RotateAboutUp 0.000000
-		RotateAboutCross 0.000000
-		StartTime 0.000000
-		HasInfiniteLifeTime TRUE
-		TotalLifeTime 0.000000
-		BillboardAnchor 0
-		ParticleFacing 1
-		PipelineEffectID "Particle_Additive.fx"
-		AreParticlesAttached FALSE
-		numTextures 2
-		textureName "sparkles.tga"
-		textureName ""
-		textureAnimationName ""
-		textureAnimationSpawnType "RandomFrames"
-		textureAnimationOnParticleFPS 0.000000
-		ParticlesRotate TRUE
-		MeshParticleRotationAxisType 0
-		MeshParticleRotationAxis [ 0.000000 0.100000 0.000000 ]
-		RotationDirectionType 2
-		AngleVariance 3.141593
-	EmitterType "Point"
-	EmitterContents
-		Name "Arcs"
-		Enabled TRUE
-		EmitRate 10.000000
-		HasInfiniteEmitCount TRUE
-		MaxEmitCount 1
-		hasEmitIntervals FALSE
-		emitIntervalRunDuration 0.000000
-		emitIntervalWaitDuration 0.000000
-		ParticleLifeTime 0.500000
-		ParticleMinStartLinearSpeed 0.000000
-		ParticleMaxStartLinearSpeed 0.000000
-		ParticleMinStartAngularSpeed 1.570796
-		ParticleMaxStartAngularSpeed 3.141593
-		ParticleMinStartRotation 0.000000
-		ParticleMaxStartRotation 6.283185
-		ParticleStartMass 1.000000
-		ParticleStartColor ff4b96e1
-		ParticleWidth 1.000000
-		ParticleHeight 1.000000
-		MeshName ""
-		Position [ 0.000000 0.000000 0.000000 ]
-		Orientation
-			 [ 1.000000 0.000000 0.000000 ]
-			 [ 0.000000 1.000000 0.000000 ]
-			 [ 0.000000 0.000000 1.000000 ]
-		RotateAboutForward 0.000000
-		RotateAboutUp 0.000000
-		RotateAboutCross 0.000000
-		StartTime 0.000000
-		HasInfiniteLifeTime TRUE
-		TotalLifeTime 0.000000
-		BillboardAnchor 0
-		ParticleFacing 1
-		PipelineEffectID "GS_Exhaust.fx"
-		AreParticlesAttached TRUE
-		numTextures 2
-		textureName "firecraigelectrical.dds"
-		textureName "plasma_electric.dds"
-		textureAnimationName ""
-		textureAnimationSpawnType "RandomFrames"
-		textureAnimationOnParticleFPS 0.000000
-		ParticlesRotate TRUE
-		MeshParticleRotationAxisType 0
-		MeshParticleRotationAxis [ 0.000000 0.100000 0.000000 ]
-		RotationDirectionType 2
-		AngleVariance 4.363323
+	NumEmitters 1
 	EmitterType "Sphere"
 	EmitterContents
-		Name "Long Arcs"
+		Name "Electrical Damage"
 		Enabled TRUE
-		EmitRate 20.000000
+		EmitRate 35.000000
 		HasInfiniteEmitCount TRUE
-		MaxEmitCount 1
-		hasEmitIntervals TRUE
-		emitIntervalRunDuration 0.500000
-		emitIntervalWaitDuration 0.200000
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
 		ParticleLifeTime 1.000000
-		ParticleMinStartLinearSpeed 150.000000
-		ParticleMaxStartLinearSpeed 300.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
 		ParticleMinStartAngularSpeed 0.000000
 		ParticleMaxStartAngularSpeed 0.000000
 		ParticleMinStartRotation 0.000000
-		ParticleMaxStartRotation 0.000000
-		ParticleStartMass 1.000000
-		ParticleStartColor ff6495ed
-		ParticleWidth 5.000000
-		ParticleHeight 20.000000
+		ParticleMaxStartRotation 6.283185
+		ParticleStartMass 0.000000
+		ParticleStartColor ffadd8e6
+		ParticleWidth 1.250000
+		ParticleHeight 1.250000
 		MeshName ""
-		Position [ 0.000000 0.000000 0.000000 ]
+		Position [ 0.000000 0.000000 -0.750000 ]
 		Orientation
 			 [ 1.000000 0.000000 0.000000 ]
 			 [ 0.000000 1.000000 0.000000 ]
@@ -181,55 +37,36 @@ ParticleSimulation
 		HasInfiniteLifeTime TRUE
 		TotalLifeTime 0.000000
 		BillboardAnchor 0
-		ParticleFacing 1
+		ParticleFacing 0
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
+		textureName "firecraigelectrical.dds"
 		textureName ""
-		textureName ""
-		textureAnimationName "sparks.texanim"
+		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
 		textureAnimationOnParticleFPS 0.000000
-		ParticlesRotate FALSE
+		ParticlesRotate TRUE
 		MeshParticleRotationAxisType 0
-		MeshParticleRotationAxis [ 0.000000 0.100000 0.000000 ]
-		RotationDirectionType 0
-		SphereRadiusXMax 10.000000
-		SphereRadiusXMin 10.000000
-		SphereRadiusYMax 10.000000
-		SphereRadiusYMin 10.000000
-		SphereRadiusZMax 10.000000
-		SphereRadiusZMin 10.000000
+		MeshParticleRotationAxis [ 0.000000 0.000000 0.000000 ]
+		RotationDirectionType 2
+		SphereRadiusXMax 30.000000
+		SphereRadiusXMin 20.000000
+		SphereRadiusYMax 30.000000
+		SphereRadiusYMin 20.000000
+		SphereRadiusZMax 30.000000
+		SphereRadiusZMin 20.000000
 		ParticleMaxStartSpeedAzimuthalTangential 0.000000
 		ParticleMaxStartSpeedPolarTangential 0.000000
 		ScaleStartSpeedsByRadius FALSE
 		SpawnAngleLatitudinalStart 0.000000
-		SpawnAngleLatitudinalStop 0.130900
+		SpawnAngleLatitudinalStop 1.570796
 		SpawnAngleLongitudinalStart 0.000000
 		SpawnAngleLongitudinalStop 6.283185
-	NumAffectors 5
+	NumAffectors 2
 	AffectorType "Fade"
 	AffectorContents
-		Name "Small fade"
-		Enabled TRUE
-		StartTime 0.000000
-		HasInfiniteLifeTime TRUE
-		TotalLifeTime 0.000000
-		UseYoungParticleAffectThreshold FALSE
-		YoungParticleAffectThreshold 0.000000
-		UseOldParticleAffectThreshold FALSE
-		OldParticleAffectThreshold 0.000000
-		AffectAttachedParticles TRUE
-		numAttachedEmitters 2
-		attachedEmitterName "Core"
-		attachedEmitterName "Long Arcs"
-		DoFadeOut TRUE
-		FadeOutTime 1.000000
-		DoFadeIn FALSE
-		FadeInTime 1.000000
-	AffectorType "LinearInflate"
-	AffectorContents
-		Name "Sparks Inflate"
+		Name ""
 		Enabled TRUE
 		StartTime 0.000000
 		HasInfiniteLifeTime TRUE
@@ -240,31 +77,14 @@ ParticleSimulation
 		OldParticleAffectThreshold 0.000000
 		AffectAttachedParticles TRUE
 		numAttachedEmitters 1
-		attachedEmitterName "Sparks"
-		WidthInflateRate 150.000000
-		HeightInflateRate 150.000000
-	AffectorType "Fade"
-	AffectorContents
-		Name "Quick FadeInOut"
-		Enabled TRUE
-		StartTime 0.000000
-		HasInfiniteLifeTime TRUE
-		TotalLifeTime 0.000000
-		UseYoungParticleAffectThreshold FALSE
-		YoungParticleAffectThreshold 0.000000
-		UseOldParticleAffectThreshold FALSE
-		OldParticleAffectThreshold 0.000000
-		AffectAttachedParticles TRUE
-		numAttachedEmitters 2
-		attachedEmitterName "Sparks"
-		attachedEmitterName "Arcs"
+		attachedEmitterName "Electrical Damage"
 		DoFadeOut TRUE
-		FadeOutTime 0.375000
+		FadeOutTime 0.700000
 		DoFadeIn TRUE
-		FadeInTime 0.125000
+		FadeInTime 0.800000
 	AffectorType "LinearInflate"
 	AffectorContents
-		Name "Arcs Inflate"
+		Name ""
 		Enabled TRUE
 		StartTime 0.000000
 		HasInfiniteLifeTime TRUE
@@ -275,23 +95,7 @@ ParticleSimulation
 		OldParticleAffectThreshold 0.000000
 		AffectAttachedParticles TRUE
 		numAttachedEmitters 1
-		attachedEmitterName "Arcs"
-		WidthInflateRate 125.000000
-		HeightInflateRate 125.000000
-	AffectorType "LinearInflate"
-	AffectorContents
-		Name "LargeArcsInflate"
-		Enabled FALSE
-		StartTime 0.000000
-		HasInfiniteLifeTime TRUE
-		TotalLifeTime 0.000000
-		UseYoungParticleAffectThreshold FALSE
-		YoungParticleAffectThreshold 0.000000
-		UseOldParticleAffectThreshold FALSE
-		OldParticleAffectThreshold 0.000000
-		AffectAttachedParticles TRUE
-		numAttachedEmitters 1
-		attachedEmitterName "Long Arcs"
+		attachedEmitterName "Electrical Damage"
 		WidthInflateRate 80.000000
-		HeightInflateRate 200.000000
+		HeightInflateRate 80.000000
 	length 0.000000

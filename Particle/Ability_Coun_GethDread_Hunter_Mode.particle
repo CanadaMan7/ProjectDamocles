@@ -42,7 +42,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "Geth_Hunter_Mode_Center.dds"
+		textureName "C:\Users\Mattias\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.85 Dev\DOTR-Rebuild\Textures\Geth_Hunter_Mode_Center.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -73,7 +73,7 @@ ParticleSimulation
 		ParticleStartColor ffffffff
 		ParticleWidth 1.000000
 		ParticleHeight 1.000000
-		MeshName "Dreadnought_CounGeth.mesh"
+		MeshName "C:\Users\Mattias\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.85 Dev\DOTR-Rebuild\Mesh\Dreadnought_CounGeth.mesh"
 		Position [ 0.000000 0.000000 0.000000 ]
 		Orientation
 			 [ 1.000000 0.000000 0.000000 ]
@@ -138,7 +138,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "Geth_Hunter_Mode_Center.dds"
+		textureName "C:\Users\Mattias\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.85 Dev\DOTR-Rebuild\Textures\Geth_Hunter_Mode_Center.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -186,7 +186,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "Geth_Hunter_Mode_Top_Left.dds"
+		textureName "C:\Users\Mattias\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.85 Dev\DOTR-Rebuild\Textures\Geth_Hunter_Mode_Top_Left.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -234,7 +234,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "Geth_Hunter_Mode_Top_Left.dds"
+		textureName "C:\Users\Mattias\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.85 Dev\DOTR-Rebuild\Textures\Geth_Hunter_Mode_Top_Left.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -282,7 +282,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "Geth Hexagon.dds"
+		textureName "C:\Users\Mattias\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.85 Dev\DOTR-Rebuild\Textures\Geth Hexagon.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -330,7 +330,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "Geth Hexagon.dds"
+		textureName "C:\Users\Mattias\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.85 Dev\DOTR-Rebuild\Textures\Geth Hexagon.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -378,7 +378,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "Geth Hexagon 2.dds"
+		textureName "C:\Users\Mattias\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.85 Dev\DOTR-Rebuild\Textures\Geth Hexagon 2.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -426,7 +426,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "Geth Hexagon 2.dds"
+		textureName "C:\Users\Mattias\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.85 Dev\DOTR-Rebuild\Textures\Geth Hexagon 2.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -474,7 +474,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "Geth Hexagon 3.dds"
+		textureName "C:\Users\Mattias\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.85 Dev\DOTR-Rebuild\Textures\Geth Hexagon 3.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -522,7 +522,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "Geth Hexagon 3.dds"
+		textureName "C:\Users\Mattias\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.85 Dev\DOTR-Rebuild\Textures\Geth Hexagon 3.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"

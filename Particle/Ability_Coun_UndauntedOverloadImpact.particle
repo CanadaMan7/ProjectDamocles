@@ -44,7 +44,7 @@ ParticleSimulation
 		numTextures 2
 		textureName ""
 		textureName ""
-		textureAnimationName "chaosbolt.texanim"
+		textureAnimationName "C:\Users\Mattias\Desktop\DOTR Particle Effects\TextureAnimations\chaosbolt.texanim"
 		textureAnimationSpawnType "RandomFrames"
 		textureAnimationOnParticleFPS 30.000000
 		ParticlesRotate FALSE
@@ -102,7 +102,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "shockwavecloud.tga"
+		textureName "C:\Users\Mattias\Desktop\DOTR Particle Effects\Textures\shockwavecloud.tga"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"

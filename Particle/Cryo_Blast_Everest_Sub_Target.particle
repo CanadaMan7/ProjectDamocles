@@ -702,7 +702,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "zap.tga"
+		textureName "C:\Users\Mattias\Desktop\DOTR Particle Effects\Textures\zap.tga"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"

@@ -28,7 +28,7 @@ isAutoCastAvailable TRUE
 isAutoCastOnByDefault TRUE
 pickRandomPlanetToExploreForAutoCastTarget FALSE
 ignoreNonCombatShipsForAutoCastTarget TRUE
-onlyAutoCastWhenDamageTakenExceedsPerc 0.100000
+onlyAutoCastWhenDamageTakenExceedsPerc 0.600000
 useCostType "AntiMatter"
 antiMatterCost
 	Level:0 120.000000
@@ -47,6 +47,6 @@ researchPrerequisites
 	RequiredCompletedResearchSubjects 0
 nameStringID "IDS_ABILITY_COUN_GETHDREADWEAPONOVERCLOCK_NAME"
 descStringID "IDS_ABILITY_COUN_GETHDREADWEAPONOVERCLOCK_DESCRIPTION"
-hudIcon "HUDICON_UNSC_MARATHONCOMMAND"
-smallHudIcon ""
+hudIcon "HUDICON_ABILITY_COUNOVERCLOCKWEAPONS"
+smallHudIcon "HUDICON_ABILITY_POWERSURGE"
 infoCardIcon ""

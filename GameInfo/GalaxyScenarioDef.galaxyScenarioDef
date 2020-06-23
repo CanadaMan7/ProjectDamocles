@@ -982,7 +982,7 @@ orbitBodyType
 	typeName "StartVolcanic"
 	entityDefName "PlanetVolcanic"
 	defaultTemplateName "Template:LocalMilitiaWeakNoColonize"
-planetItemTypeCount 142
+planetItemTypeCount 157
 planetItemType
 	designName "Artifact:WeaponBoost"
 	entityDefName "RESEARCHSUBJECT_ARTIFACT_WEAPONBOOST"
@@ -1404,12 +1404,60 @@ planetItemType
 	designName "Council:CapitalShip:Mehrak"
 	entityDefName "DREADNOUGHT_COUNMEHRAK"
 planetItemType
+	designName "Bonus:Homeworld:Reaper"
+	entityDefName "PLANETBONUS_HOMEWORLDREAPER"
+planetItemType
 	designName "Council:PlanetModule:FrigateFactory"
 	entityDefName "STRUCTURE_COUNFRIGATEYARD"
 planetItemType
 	designName "Council:PlanetModule:CapitalshipFactory"
 	entityDefName "STRUCTURE_COUNDREADYARD"
-playerTypeCount 7
+planetItemType
+	designName "Reap:Frigate:Geth"
+	entityDefName "FRIGATE_REAPGETH"
+planetItemType
+	designName "Reap:Frigate:Collector"
+	entityDefName "FRIGATE_REAPCOLLECTORENVOY"
+planetItemType
+	designName "Reap:Cruiser:Collector"
+	entityDefName "CRUISER_REAPCOLLECTOR"
+planetItemType
+	designName "Reap:Dread:Vanguard"
+	entityDefName "DREADNOUGHT_REAPVANGUARD"
+planetItemType
+	designName "Reap:Structure:SuperDreadYard"
+	entityDefName "STRUCTURE_REAPSUPERDREADYARD"
+planetItemType
+	designName "Reap:Structure:Refinery"
+	entityDefName "STRUCTURE_REAPREFINERY"
+planetItemType
+	designName "Reap:Structure:MilLab"
+	entityDefName "STRUCTURE_REAPMILLAB"
+planetItemType
+	designName "Reap:Structure:MetalExtractor"
+	entityDefName "STRUCTURE_REAPMETALEXTRACTOR"
+planetItemType
+	designName "Reap:Structure:Indoctrination"
+	entityDefName "STRUCTURE_REAPINDOCTRINATION"
+planetItemType
+	designName "Reap:Structure:FrigateYard"
+	entityDefName "STRUCTURE_REAPFRIGATEYARD"
+planetItemType
+	designName "Reap:Structure:EezoExtractor"
+	entityDefName "STRUCTURE_REAPEEZOEXTRACTOR"
+planetItemType
+	designName "Reap:Structure:DreadYard"
+	entityDefName "STRUCTURE_REAPDREADYARD"
+planetItemType
+	designName "Reap:Structure:CivLab"
+	entityDefName "STRUCTURE_REAPCIVLAB"
+planetItemType
+	designName "Reap:Structure:ObjectPhi"
+	entityDefName "STRUCTURE_REAPOBJECTPHI"
+playerTypeCount 8
+playerType
+	designName "Reaper"
+	entityDefName "PlayerReaper"
 playerType
 	designName "Cov"
 	entityDefName "PlayerCov"
@@ -1491,7 +1539,7 @@ planetItemsTemplate
 planetItemsTemplate
 	templateName "Template:DefaultHomePlanetSetup"
 	subTemplates 0
-	groups 10
+	groups 12
 		group
 			condition
 				type "PlanetOwnerIsRaceNormalStart"
@@ -1768,11 +1816,67 @@ planetItemsTemplate
 				item "Council:Frigate:Normandy"
 				item "Council:Frigate:Turian"
 				item "Council:Frigate:Turian"
+		group
+			condition
+				type "PlanetOwnerIsRaceNormalStart"
+				param "Reaper"
+			owner "PlanetOwner"
+			colonizeChance 1
+			items 21
+				item "UNSC:Frigate:AI"
+				item "Bonus:Homeworld:Reaper"
+				item "Reap:Structure:CivLab"
+				item "Reap:Structure:MilLab"
+				item "Reap:Structure:FrigateYard"
+				item "Reap:Structure:DreadYard"
+				item "Reap:Structure:MetalExtractor"
+				item "Reap:Structure:MetalExtractor"
+				item "Reap:Structure:EezoExtractor"
+				item "Reap:Structure:EezoExtractor"
+				item "Reap:Structure:EezoExtractor"
+				item "Reap:Structure:EezoExtractor"
+				item "Reap:Structure:ObjectPhi"
+				item "Reap:Frigate:Geth"
+				item "Reap:Frigate:Geth"
+				item "Reap:Frigate:Geth"
+				item "Reap:Frigate:Geth"
+				item "Reap:Frigate:Geth"
+				item "Reap:Frigate:Geth"
+				item "UNSC:Frigate:ModuleConstructor"
+				item "UNSC:Frigate:ModuleConstructor"
+		group
+			condition
+				type "PlanetOwnerIsRaceQuickStart"
+				param "Reaper"
+			owner "PlanetOwner"
+			colonizeChance 1
+			items 21
+				item "UNSC:Frigate:AI"
+				item "Bonus:Homeworld:Reaper"
+				item "Reap:Structure:CivLab"
+				item "Reap:Structure:MilLab"
+				item "Reap:Structure:FrigateYard"
+				item "Reap:Structure:DreadYard"
+				item "Reap:Structure:MetalExtractor"
+				item "Reap:Structure:MetalExtractor"
+				item "Reap:Structure:EezoExtractor"
+				item "Reap:Structure:EezoExtractor"
+				item "Reap:Structure:EezoExtractor"
+				item "Reap:Structure:EezoExtractor"
+				item "Reap:Structure:ObjectPhi"
+				item "Reap:Frigate:Geth"
+				item "Reap:Frigate:Geth"
+				item "Reap:Frigate:Geth"
+				item "Reap:Frigate:Geth"
+				item "Reap:Frigate:Geth"
+				item "Reap:Frigate:Geth"
+				item "UNSC:Frigate:ModuleConstructor"
+				item "UNSC:Frigate:ModuleConstructor"
 planetItemsTemplate
 	templateName "Template:DefaultPreownPlanetSetup"
 	subTemplates 1
 		template "Template:MadVasari"
-	groups 8
+	groups 10
 		group
 			condition
 				type "PlanetOwnerIsRaceQuickStart"
@@ -1945,6 +2049,54 @@ planetItemsTemplate
 			condition
 				type "PlanetOwnerIsRaceQuickStart"
 				param "Council"
+			owner "PlanetOwner"
+			colonizeChance 1
+			items 17
+				item "None:Frigate:PopGrower"
+				item "UNSC:PlanetModule:MetalExtractor"
+				item "UNSC:PlanetModule:MetalExtractor"
+				item "UNSC:PlanetModule:MetalExtractor"
+				item "UNSC:PlanetModule:MetalExtractor"
+				item "UNSC:PlanetModule:MetalExtractor"
+				item "UNSC:PlanetModule:MetalExtractor"
+				item "UNSC:PlanetModule:MetalExtractor"
+				item "UNSC:PlanetModule:MetalExtractor"
+				item "UNSC:PlanetModule:CrystalExtractor"
+				item "UNSC:PlanetModule:CrystalExtractor"
+				item "UNSC:PlanetModule:CrystalExtractor"
+				item "UNSC:PlanetModule:CrystalExtractor"
+				item "UNSC:PlanetModule:CrystalExtractor"
+				item "UNSC:PlanetModule:CrystalExtractor"
+				item "UNSC:PlanetModule:CrystalExtractor"
+				item "UNSC:PlanetModule:CrystalExtractor"
+		group
+			condition
+				type "PlanetOwnerIsRaceNormalStart"
+				param "Reaper"
+			owner "PlanetOwner"
+			colonizeChance 1
+			items 17
+				item "None:Frigate:PopGrower"
+				item "UNSC:PlanetModule:MetalExtractor"
+				item "UNSC:PlanetModule:MetalExtractor"
+				item "UNSC:PlanetModule:MetalExtractor"
+				item "UNSC:PlanetModule:MetalExtractor"
+				item "UNSC:PlanetModule:MetalExtractor"
+				item "UNSC:PlanetModule:MetalExtractor"
+				item "UNSC:PlanetModule:MetalExtractor"
+				item "UNSC:PlanetModule:MetalExtractor"
+				item "UNSC:PlanetModule:CrystalExtractor"
+				item "UNSC:PlanetModule:CrystalExtractor"
+				item "UNSC:PlanetModule:CrystalExtractor"
+				item "UNSC:PlanetModule:CrystalExtractor"
+				item "UNSC:PlanetModule:CrystalExtractor"
+				item "UNSC:PlanetModule:CrystalExtractor"
+				item "UNSC:PlanetModule:CrystalExtractor"
+				item "UNSC:PlanetModule:CrystalExtractor"
+		group
+			condition
+				type "PlanetOwnerIsRaceQuickStart"
+				param "Reaper"
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 17

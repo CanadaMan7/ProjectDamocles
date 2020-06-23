@@ -3,8 +3,8 @@ SinsArchiveVersion 193
 entityType "TitanUpgrade"
 stageCount 5
 stage
-	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_NAME"
-	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_DESCRIPTION"
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEYOUCANNOTHURTME_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEYOUCANNOTHURTME_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -16,8 +16,8 @@ stage
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_NAME"
-	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_DESCRIPTION"
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEYOUCANNOTHURTME_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEYOUCANNOTHURTME_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -26,17 +26,20 @@ stage
 	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade0"
 	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade0"
 	infoCardIcon ""
-	upgradePropertyCount 2
+	upgradePropertyCount 3
 	upgradeProperty
-		propertyType "AntiMatterRestoreRate"
-		value 1.500000
+		propertyType "MaxShieldPoints"
+		value 3000.000000
 	upgradeProperty
-		propertyType "AbilityCooldownRate"
-		value 0.125000
+		propertyType "MaxHullPoints"
+		value 3000.000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 3.000000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_NAME"
-	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_DESCRIPTION"
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEYOUCANNOTHURTME_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEYOUCANNOTHURTME_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -45,17 +48,20 @@ stage
 	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade1"
 	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade1"
 	infoCardIcon ""
-	upgradePropertyCount 2
+	upgradePropertyCount 3
 	upgradeProperty
-		propertyType "AntiMatterRestoreRate"
-		value 3.000000
+		propertyType "MaxShieldPoints"
+		value 6000.000000
 	upgradeProperty
-		propertyType "AbilityCooldownRate"
-		value 0.250000
+		propertyType "MaxHullPoints"
+		value 6000.000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 6.000000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_NAME"
-	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_DESCRIPTION"
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEYOUCANNOTHURTME_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEYOUCANNOTHURTME_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -64,17 +70,20 @@ stage
 	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade2"
 	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade2"
 	infoCardIcon ""
-	upgradePropertyCount 2
+	upgradePropertyCount 3
 	upgradeProperty
-		propertyType "AntiMatterRestoreRate"
-		value 4.500000
+		propertyType "MaxShieldPoints"
+		value 9000.000000
 	upgradeProperty
-		propertyType "AbilityCooldownRate"
-		value 0.375000
+		propertyType "MaxHullPoints"
+		value 9000.000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 9.000000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_NAME"
-	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_DESCRIPTION"
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEYOUCANNOTHURTME_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEYOUCANNOTHURTME_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -83,11 +92,14 @@ stage
 	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade3"
 	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade3"
 	infoCardIcon ""
-	upgradePropertyCount 2
+	upgradePropertyCount 3
 	upgradeProperty
-		propertyType "AntiMatterRestoreRate"
-		value 6.000000
+		propertyType "MaxShieldPoints"
+		value 12000.000000
 	upgradeProperty
-		propertyType "AbilityCooldownRate"
-		value 0.500000
+		propertyType "MaxHullPoints"
+		value 12000.000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 12.000000
 	upgradeBoolPropertyCount 0

@@ -3,8 +3,8 @@ SinsArchiveVersion 193
 entityType "TitanUpgrade"
 stageCount 5
 stage
-	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_NAME"
-	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_DESCRIPTION"
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -16,8 +16,8 @@ stage
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_NAME"
-	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_DESCRIPTION"
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -26,17 +26,23 @@ stage
 	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade0"
 	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade0"
 	infoCardIcon ""
-	upgradePropertyCount 2
+	upgradePropertyCount 4
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 4.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 4.000000
 	upgradeProperty
 		propertyType "AntiMatterRestoreRate"
-		value 1.500000
+		value 1.000000
 	upgradeProperty
 		propertyType "AbilityCooldownRate"
-		value 0.125000
+		value 0.050000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_NAME"
-	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_DESCRIPTION"
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -45,17 +51,23 @@ stage
 	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade1"
 	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade1"
 	infoCardIcon ""
-	upgradePropertyCount 2
+	upgradePropertyCount 4
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 8.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 8.000000
 	upgradeProperty
 		propertyType "AntiMatterRestoreRate"
-		value 3.000000
+		value 2.000000
 	upgradeProperty
 		propertyType "AbilityCooldownRate"
-		value 0.250000
+		value 0.100000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_NAME"
-	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_DESCRIPTION"
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -64,17 +76,23 @@ stage
 	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade2"
 	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade2"
 	infoCardIcon ""
-	upgradePropertyCount 2
+	upgradePropertyCount 4
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 12.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 12.000000
 	upgradeProperty
 		propertyType "AntiMatterRestoreRate"
-		value 4.500000
+		value 3.000000
 	upgradeProperty
 		propertyType "AbilityCooldownRate"
-		value 0.375000
+		value 0.150000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_NAME"
-	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_DESCRIPTION"
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -83,11 +101,17 @@ stage
 	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade3"
 	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade3"
 	infoCardIcon ""
-	upgradePropertyCount 2
+	upgradePropertyCount 4
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 16.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 16.000000
 	upgradeProperty
 		propertyType "AntiMatterRestoreRate"
-		value 6.000000
+		value 4.000000
 	upgradeProperty
 		propertyType "AbilityCooldownRate"
-		value 0.500000
+		value 0.200000
 	upgradeBoolPropertyCount 0

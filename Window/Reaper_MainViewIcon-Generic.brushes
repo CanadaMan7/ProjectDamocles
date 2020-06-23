@@ -1,0 +1,853 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 170
+brush
+	name "MAINVIEWICON_RESOURCEASTEROIDMETAL"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 155 , 80 , 22 , 21 ]
+brush
+	name "MAINVIEWICON_RESOURCEASTEROIDCRYSTAL"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 206 , 80 , 22 , 21 ]
+brush
+	name "MainViewIconEntityOverlayHomePlanet"
+	content "Simple"
+	fileName "Unit_Main_DOTR"
+	pixelBox [ 4 , 67 , 110 , 70 ]
+brush
+	name "MainViewIconEntityOverlayArtifact"
+	content "Simple"
+	fileName "Unit_Main_DOTR"
+	pixelBox [ 279 , 67 , 102 , 25 ]
+brush
+	name "MainViewIconEntityOverlayResourceExtractorMetal"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 145 , 104 , 28 , 28 ]
+brush
+	name "MainViewIconEntityOverlayResourceExtractorCrystal"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 197 , 104 , 28 , 28 ]
+brush
+	name "MainViewIconFleetMerc0"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 421 , 145 , 19 , 29 ]
+brush
+	name "MainViewIconFleetMerc1"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 421 , 179 , 19 , 29 ]
+brush
+	name "MainViewIconFleetMerc2"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 421 , 214 , 29 , 29 ]
+brush
+	name "MainViewIconFleetMerc3"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 421 , 249 , 29 , 29 ]
+brush
+	name "MainViewIconFleetMerc4"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 422 , 284 , 22 , 29 ]
+brush
+	name "MainViewIconFleetMerc5"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 422 , 319 , 22 , 29 ]
+brush
+	name "MainViewIconFleetMerc6"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 423 , 354 , 19 , 29 ]
+brush
+	name "MainViewIconFleetMerc7"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 423 , 390 , 19 , 29 ]
+brush
+	name "MainViewIconFleetMerc8"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 423 , 425 , 24 , 29 ]
+brush
+	name "MainViewIconFleetMerc9"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 423 , 460 , 24 , 29 ]
+brush
+	name "MainViewIconFleetCoun0"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 386 , 145 , 31 , 29 ]
+brush
+	name "MainViewIconFleetCoun1"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 386 , 179 , 31 , 29 ]
+brush
+	name "MainViewIconFleetCoun2"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 386 , 214 , 31 , 29 ]
+brush
+	name "MainViewIconFleetCoun3"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 386 , 249 , 31 , 29 ]
+brush
+	name "MainViewIconFleetCoun4"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 386 , 284 , 31 , 29 ]
+brush
+	name "MainViewIconFleetCoun5"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 386 , 319 , 31 , 29 ]
+brush
+	name "MainViewIconFleetCoun6"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 386 , 354 , 31 , 29 ]
+brush
+	name "MainViewIconFleetCoun7"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 386 , 390 , 31 , 29 ]
+brush
+	name "MainViewIconFleetCoun8"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 386 , 425 , 31 , 29 ]
+brush
+	name "MainViewIconFleetCoun9"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 386 , 460 , 31 , 29 ]
+brush
+	name "MainViewIconFleetCerb0"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 362 , 145 , 17 , 30 ]
+brush
+	name "MainViewIconFleetCerb1"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 362 , 179 , 17 , 30 ]
+brush
+	name "MainViewIconFleetCerb2"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 362 , 214 , 17 , 30 ]
+brush
+	name "MainViewIconFleetCerb3"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 362 , 249 , 17 , 30 ]
+brush
+	name "MainViewIconFleetCerb4"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 362 , 284 , 17 , 30 ]
+brush
+	name "MainViewIconFleetCerb5"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 362 , 319 , 17 , 30 ]
+brush
+	name "MainViewIconFleetCerb6"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 362 , 354 , 17 , 30 ]
+brush
+	name "MainViewIconFleetCerb7"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 362 , 390 , 17 , 30 ]
+brush
+	name "MainViewIconFleetCerb8"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 362 , 425 , 17 , 30 ]
+brush
+	name "MainViewIconFleetCerb9"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 362 , 460 , 17 , 30 ]
+brush
+	name "MainViewIconFleetAlli0"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 327 , 145 , 25 , 30 ]
+brush
+	name "MainViewIconFleetAlli1"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 327 , 179 , 25 , 30 ]
+brush
+	name "MainViewIconFleetAlli2"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 327 , 214 , 25 , 30 ]
+brush
+	name "MainViewIconFleetAlli3"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 327 , 249 , 25 , 30 ]
+brush
+	name "MainViewIconFleetAlli4"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 327 , 284 , 25 , 30 ]
+brush
+	name "MainViewIconFleetAlli5"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 327 , 319 , 25 , 30 ]
+brush
+	name "MainViewIconFleetAlli6"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 327 , 354 , 25 , 30 ]
+brush
+	name "MainViewIconFleetAlli7"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 327 , 390 , 25 , 30 ]
+brush
+	name "MainViewIconFleetAlli8"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 327 , 425 , 25 , 30 ]
+brush
+	name "MainViewIconFleetAlli9"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 327 , 460 , 25 , 30 ]
+brush
+	name "MainViewIconFleetTech0"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 399 , 661 , 32 , 31 ]
+brush
+	name "MainViewIconFleetTech1"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 399 , 694 , 32 , 31 ]
+brush
+	name "MainViewIconFleetTech2"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 399 , 727 , 32 , 31 ]
+brush
+	name "MainViewIconFleetTech3"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 399 , 760 , 32 , 31 ]
+brush
+	name "MainViewIconFleetTech4"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 399 , 793 , 32 , 31 ]
+brush
+	name "MainViewIconFleetTech5"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 399 , 826 , 32 , 31 ]
+brush
+	name "MainViewIconFleetTech6"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 399 , 859 , 32 , 31 ]
+brush
+	name "MainViewIconFleetTech7"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 399 , 892 , 32 , 31 ]
+brush
+	name "MainViewIconFleetTech8"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 399 , 925 , 32 , 31 ]
+brush
+	name "MainViewIconFleetTech9"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 399 , 958 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPsi0"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 365 , 661 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPsi1"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 365 , 694 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPsi2"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 365 , 727 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPsi3"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 365 , 760 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPsi4"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 365 , 793 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPsi5"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 365 , 826 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPsi6"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 365 , 859 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPsi7"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 365 , 892 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPsi8"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 365 , 925 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPsi9"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 365 , 958 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPhase0"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 661 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPhase1"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 694 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPhase2"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 727 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPhase3"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 760 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPhase4"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 793 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPhase5"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 826 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPhase6"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 859 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPhase7"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 892 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPhase8"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 925 , 32 , 31 ]
+brush
+	name "MainViewIconFleetPhase9"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 958 , 32 , 31 ]
+brush
+	name "MainViewIconOverlayMercCapitalShipLevel0"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 109 , 445 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayMercCapitalShipLevel1"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 109 , 427 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayMercCapitalShipLevel2"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 109 , 409 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayMercCapitalShipLevel3"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 109 , 391 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayMercCapitalShipLevel4"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 109 , 373 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayMercCapitalShipLevel5"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 109 , 355 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayMercCapitalShipLevel6"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 109 , 337 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayMercCapitalShipLevel7"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 109 , 319 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayMercCapitalShipLevel8"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 109 , 301 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayMercCapitalShipLevel9"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 109 , 283 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCounCapitalShipLevel0"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 75 , 445 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCounCapitalShipLevel1"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 75 , 427 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCounCapitalShipLevel2"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 75 , 409 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCounCapitalShipLevel3"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 75 , 391 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCounCapitalShipLevel4"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 75 , 373 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCounCapitalShipLevel5"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 75 , 355 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCounCapitalShipLevel6"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 75 , 337 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCounCapitalShipLevel7"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 75 , 319 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCounCapitalShipLevel8"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 75 , 301 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCounCapitalShipLevel9"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 75 , 283 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCerbCapitalShipLevel0"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 41 , 445 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCerbCapitalShipLevel1"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 41 , 427 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCerbCapitalShipLevel2"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 41 , 409 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCerbCapitalShipLevel3"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 41 , 391 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCerbCapitalShipLevel4"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 41 , 373 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCerbCapitalShipLevel5"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 41 , 355 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCerbCapitalShipLevel6"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 41 , 337 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCerbCapitalShipLevel7"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 41 , 319 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCerbCapitalShipLevel8"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 41 , 301 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCerbCapitalShipLevel9"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 41 , 283 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayAlliCapitalShipLevel0"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 7 , 445 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayAlliCapitalShipLevel1"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 7 , 427 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayAlliCapitalShipLevel2"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 7 , 409 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayAlliCapitalShipLevel3"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 7 , 391 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayAlliCapitalShipLevel4"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 7 , 373 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayAlliCapitalShipLevel5"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 7 , 355 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayAlliCapitalShipLevel6"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 7 , 337 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayAlliCapitalShipLevel7"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 7 , 319 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayAlliCapitalShipLevel8"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 7 , 301 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayAlliCapitalShipLevel9"
+	content "Simple"
+	fileName "DOTR_InfoIcon"
+	pixelBox [ 7 , 283 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCapitalShipLevel0"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 479 , 703 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCapitalShipLevel1"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 479 , 685 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCapitalShipLevel2"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 479 , 667 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCapitalShipLevel3"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 479 , 649 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCapitalShipLevel4"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 479 , 631 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCapitalShipLevel5"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 479 , 613 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCapitalShipLevel6"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 479 , 595 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCapitalShipLevel7"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 479 , 577 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCapitalShipLevel8"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 479 , 559 , 30 , 17 ]
+brush
+	name "MainViewIconOverlayCapitalShipLevel9"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 479 , 541 , 30 , 17 ]
+brush
+	name "MainViewIconEntityUnderlayUnderCursorFrame"
+	content "Simple"
+	fileName "Unit_Main_Cursor"
+	pixelBox [ 0 , 0 , 96 , 96 ]
+brush
+	name "MainViewIconEntityUnderlaySubSelectedFrame"
+	content "Simple"
+	fileName "Unit_Main_Cursor"
+	pixelBox [ 0 , 0 , 96 , 96 ]
+brush
+	name "MainViewIconEntityUnderlaySelectedFrame"
+	content "Simple"
+	fileName "Unit_Main_Cursor"
+	pixelBox [ 293 , 0 , 96 , 96 ]
+brush
+	name "MainViewIconEntityUnderlaySubSelectedFill"
+	content "Simple"
+	fileName "Unit_Main_Cursor"
+	pixelBox [ 388 , 0 , 96 , 96 ]
+brush
+	name "MainViewIconEntityUnderlaySelectedFill"
+	content "Simple"
+	fileName "Unit_Main_Cursor"
+	pixelBox [ 0 , 0 , 96 , 96 ]
+brush
+	name "MainViewIconStarUnderlayUnderCursorFrame"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 631 , 85 , 85 ]
+brush
+	name "MainViewIconStarUnderlaySubSelectedFrame"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 121 , 631 , 85 , 85 ]
+brush
+	name "MainViewIconStarUnderlaySelectedFrame"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 631 , 85 , 85 ]
+brush
+	name "MainViewIconStarUnderlaySubSelectedFill"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "MainViewIconStarUnderlaySelectedFill"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "MainViewIconStarBaseUnderlayUnderCursorFrame"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 121 , 931 , 58 , 58 ]
+brush
+	name "MainViewIconStarBaseUnderlaySubSelectedFrame"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 61 , 931 , 58 , 58 ]
+brush
+	name "MainViewIconStarBaseUnderlaySelectedFrame"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 931 , 58 , 58 ]
+brush
+	name "MainViewIconStarBaseUnderlaySubSelectedFill"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 871 , 58 , 58 ]
+brush
+	name "MainViewIconStarBaseUnderlaySelectedFill"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 181 , 871 , 58 , 58 ]
+brush
+	name "MainViewPlanetIconEntityUnderlayIsBusyFill"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 931 , 58 , 58 ]
+brush
+	name "MainViewNonPlanetIconEntityUnderlayIsBusyFill"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 418 , 467 , 39 , 39 ]
+brush
+	name "MainViewIconCannonShellTech"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 481 , 1 , 28 , 28 ]
+brush
+	name "MainViewIconRandomEventStorm"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 11 , 334 , 43 , 43 ]
+brush
+	name "MainViewIconRandomEventLarge"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 155 , 305 , 49 , 19 ]
+brush
+	name "MainViewIconRandomEventSmall"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 208 , 304 , 52 , 21 ]
+brush
+	name "MainViewIconCannonShellPsi"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 481 , 31 , 28 , 28 ]
+brush
+	name "MainViewIconCannonShellPhase"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 481 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_STAR_YELLOW"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 0 , 719 , 175 , 175 ]
+brush
+	name "MAINVIEWICON_STAR_BLUE"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 528 , 719 , 175 , 175 ]
+brush
+	name "MAINVIEWICON_STAR_PULSAR"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 746 , 1210 , 175 , 175 ]
+brush
+	name "MAINVIEWICON_STAR_BLACK_HOLE"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 745 , 1035 , 175 , 175 ]
+brush
+	name "MAINVIEWICON_STAR_NEUTRON"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 537 , 1304 , 175 , 175 ]
+brush
+	name "MAINVIEWICON_STAR_GREEN"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 176 , 719 , 175 , 175 ]
+brush
+	name "MAINVIEWICON_STAR_RED"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 352 , 719 , 175 , 175 ]
+brush
+	name "MAINVIEWICON_SOLARSYSTEM_PLANET"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 146 , 993 , 14 , 14 ]
+brush
+	name "MainViewIconPipCloudOverlayModules"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 89 , 759 , 50 , 23 ]
+brush
+	name "MainViewIconPipCloudOverlayModulesUnderCursor"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 89 , 839 , 50 , 23 ]
+brush
+	name "MainViewIconPipCloudOverlayFriendlyShips"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 721 , 23 , 50 ]
+brush
+	name "MainViewIconPipCloudOverlayFriendlyShipsUnderCursor"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 801 , 23 , 50 ]a
+brush
+	name "MainViewIconPipCloudOverlayEnemyShips"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 204 , 721 , 25 , 50 ]
+brush
+	name "MainViewIconPipCloudOverlayEnemyShipsUnderCursor"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 204 , 801 , 25 , 50 ]
+brush
+	name "MainViewIconStarBaseTech"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 871 , 39 , 39 ]
+brush
+	name "MainViewIconStarBasePsi"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 42 , 871 , 39 , 39 ]
+brush
+	name "MainViewIconStarBasePhase"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 83 , 871 , 39 , 39 ]
+brush
+	name "MainViewIconSpaceMineTech"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 301 , 1 , 28 , 28 ]
+brush
+	name "MainViewIconSpaceMinePsi"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 301 , 31 , 28 , 28 ]
+brush
+	name "MainViewIconSpaceMinePhaseExplosive"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 301 , 61 , 28 , 28 ]
+brush
+	name "MainViewIconSpaceMinePhaseGravity"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 451 , 241 , 28 , 28 ]

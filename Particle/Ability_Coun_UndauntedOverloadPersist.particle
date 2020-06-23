@@ -92,7 +92,7 @@ ParticleSimulation
 		numTextures 2
 		textureName ""
 		textureName ""
-		textureAnimationName "chaosbolt.texanim"
+		textureAnimationName "C:\Users\Mattias\Desktop\DOTR Particle Effects\TextureAnimations\chaosbolt.texanim"
 		textureAnimationSpawnType "FirstFrame"
 		textureAnimationOnParticleFPS 80.000000
 		ParticlesRotate TRUE
@@ -138,7 +138,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "firecraigelectrical.dds"
+		textureName "C:\Users\Mattias\Desktop\DOTR Particle Effects\Textures\firecraigelectrical.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -199,7 +199,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "firecraigelectrical.dds"
+		textureName "C:\Users\Mattias\Desktop\DOTR Particle Effects\Textures\firecraigelectrical.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"

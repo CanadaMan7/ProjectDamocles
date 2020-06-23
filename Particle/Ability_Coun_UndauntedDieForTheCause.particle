@@ -42,7 +42,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "Ability_Coun_UndauntedDieForTheCause.dds"
+		textureName "C:\Users\Mattias\Desktop\DOTR Particle Effects\Completed\Textures\Ability_Coun_UndauntedDieForTheCause.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -90,7 +90,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "Ability_Coun_UndauntedDieForTheCause.dds"
+		textureName "C:\Users\Mattias\Desktop\DOTR Particle Effects\Completed\Textures\Ability_Coun_UndauntedDieForTheCause.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -121,7 +121,7 @@ ParticleSimulation
 		ParticleStartColor ffffffff
 		ParticleWidth 1.000000
 		ParticleHeight 1.000000
-		MeshName "Carrier_CounTurian.mesh"
+		MeshName "C:\Users\Mattias\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.85 Dev\DOTR-Rebuild\Mesh\Carrier_CounTurian.mesh"
 		Position [ 0.000000 0.000000 0.000000 ]
 		Orientation
 			 [ 1.000000 0.000000 0.000000 ]

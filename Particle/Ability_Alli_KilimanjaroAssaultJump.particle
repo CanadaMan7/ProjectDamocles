@@ -1,0 +1,250 @@
+﻿TXT2
+SinsArchiveVersion 194
+ParticleSimulation
+	HasInfiniteLifeTime FALSE
+	TotalLifeTime 10.000000
+	NumEmitters 3
+	EmitterType "Point"
+	EmitterContents
+		Name "flash"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount FALSE
+		MaxEmitCount 1
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 0.250000
+		ParticleMinStartLinearSpeed 5000.000000
+		ParticleMaxStartLinearSpeed 5000.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 0.000000
+		ParticleMaxStartRotation 0.000000
+		ParticleStartMass 0.500000
+		ParticleStartColor ff6495ed
+		ParticleWidth 100.000000
+		ParticleHeight 100.000000
+		MeshName ""
+		Position [ 0.000000 0.000000 250.000000 ]
+		Orientation
+			 [ 1.000000 0.000000 0.000000 ]
+			 [ 0.000000 -1.000000 -0.000000 ]
+			 [ 0.000000 0.000000 -1.000000 ]
+		RotateAboutForward 180.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 0
+		PipelineEffectID "Particle_Additive.fx"
+		AreParticlesAttached FALSE
+		numTextures 2
+		textureName "F:\SteamLibrary\steamapps\common\Sins of a Solar Empire Rebellion\Textures\lightcorona.dds"
+		textureName ""
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate FALSE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.000000 0.100000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "Wave"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount FALSE
+		MaxEmitCount 1
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 0.500000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 0.000000
+		ParticleMaxStartRotation 0.000000
+		ParticleStartMass 1.000000
+		ParticleStartColor ffc0c0ff
+		ParticleWidth 200.000000
+		ParticleHeight 200.000000
+		MeshName ""
+		Position [ 0.000000 0.000000 0.000000 ]
+		Orientation
+			 [ 1.000000 0.000000 0.000000 ]
+			 [ 0.000000 1.000000 0.000000 ]
+			 [ 0.000000 0.000000 1.000000 ]
+		RotateAboutForward 0.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 0
+		PipelineEffectID "Particle_Additive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName "C:\Users\Dylan\Desktop\shockwave.dds"
+		textureName ""
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate FALSE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.000000 0.100000 0.000000 ]
+		RotationDirectionType 0
+		AngleVariance 0.000000
+	EmitterType "Ring"
+	EmitterContents
+		Name "FTL smoke"
+		Enabled TRUE
+		EmitRate 100.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 1.000000
+		ParticleMinStartLinearSpeed 200.000000
+		ParticleMaxStartLinearSpeed 200.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 1.745329
+		ParticleMinStartRotation 0.000000
+		ParticleMaxStartRotation 6.265732
+		ParticleStartMass 1.000000
+		ParticleStartColor ff8080ff
+		ParticleWidth 200.000000
+		ParticleHeight 200.000000
+		MeshName ""
+		Position [ 0.000000 0.000000 -350.000000 ]
+		Orientation
+			 [ 1.000000 0.000000 0.000000 ]
+			 [ 0.000000 1.000000 0.000000 ]
+			 [ 0.000000 0.000000 1.000000 ]
+		RotateAboutForward 0.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime FALSE
+		TotalLifeTime 0.100000
+		BillboardAnchor 0
+		ParticleFacing 0
+		PipelineEffectID "Particle_Additive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName "F:\SteamLibrary\steamapps\common\Sins of a Solar Empire Rebellion\Textures\smoke1.tga"
+		textureName "F:\SteamLibrary\steamapps\common\Sins of a Solar Empire Rebellion\Textures\smokecore.tga"
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate FALSE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.000000 0.100000 0.000000 ]
+		RotationDirectionType 2
+		RingRadiusXMin 3.000000
+		RingRadiusXMax 3.000000
+		RingRadiusYMin 3.000000
+		RingRadiusYMax 3.000000
+		ParticleMaxStartSpeedTangential 0.000000
+		ParticleMaxStartSpeedRingNormal 0.000000
+		ScaleStartSpeedsByRadius FALSE
+		SpawnAngleStart 0.000000
+		SpawnAngleStop 6.265732
+		minSpawnHeight 0.000000
+		maxSpawnHeight 0.000000
+		spawnDirectionIsParallelToPlane TRUE
+		isSpawnAngleRandom TRUE
+		nonRandomSpawnLoopEmittedParticleCount 0
+	NumAffectors 5
+	AffectorType "LinearInflate"
+	AffectorContents
+		Name "(new) LinearInflate-1"
+		Enabled TRUE
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.000000
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.000000
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 1
+		attachedEmitterName "flash"
+		WidthInflateRate 10000.000000
+		HeightInflateRate 10000.000000
+	AffectorType "LinearForceInDirection"
+	AffectorContents
+		Name "(new) LinearForceInDirection-1"
+		Enabled FALSE
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.000000
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.000000
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 1
+		attachedEmitterName "flash"
+		MinForce 900.000000
+		MaxForce 900.000000
+		Direction [ 0.000000 0.000000 -450.000000 ]
+	AffectorType "Fade"
+	AffectorContents
+		Name "Ftl fade"
+		Enabled TRUE
+		StartTime 0.000000
+		HasInfiniteLifeTime FALSE
+		TotalLifeTime 0.000000
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.000000
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.000000
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 1
+		attachedEmitterName "Wave"
+		DoFadeOut TRUE
+		FadeOutTime 0.100000
+		DoFadeIn FALSE
+		FadeInTime 0.300000
+	AffectorType "Fade"
+	AffectorContents
+		Name "wave fade"
+		Enabled TRUE
+		StartTime 0.100000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.000000
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.000000
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 1
+		attachedEmitterName "Wave"
+		DoFadeOut TRUE
+		FadeOutTime 0.200000
+		DoFadeIn FALSE
+		FadeInTime 0.500000
+	AffectorType "LinearInflate"
+	AffectorContents
+		Name "(new) LinearInflate-3"
+		Enabled TRUE
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.000000
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.000000
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 1
+		attachedEmitterName "Wave"
+		WidthInflateRate 3000.000000
+		HeightInflateRate 3000.000000
+	length 0.000000

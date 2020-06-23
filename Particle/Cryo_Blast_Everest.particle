@@ -102,7 +102,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "flakburst2.dds"
+		textureName "C:\Users\Mattias\Desktop\DOTR Particle Effects\Textures\flakburst2.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"

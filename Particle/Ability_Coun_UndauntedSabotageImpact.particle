@@ -42,7 +42,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "firecraigelectrical.dds"
+		textureName "C:\Users\Mattias\Desktop\DOTR Particle Effects\Textures\firecraigelectrical.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -102,7 +102,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "firecraigelectrical.dds"
+		textureName "C:\Users\Mattias\Desktop\DOTR Particle Effects\Textures\firecraigelectrical.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -145,7 +145,7 @@ ParticleSimulation
 		ParticleStartColor ffffffff
 		ParticleWidth 1.000000
 		ParticleHeight 1.000000
-		MeshName "Dreadnought_CounMehrek.mesh"
+		MeshName "C:\Users\Mattias\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.85 Dev\DOTR-Rebuild\Mesh\Dreadnought_CounMehrek.mesh"
 		Position [ 0.000000 0.000000 0.000000 ]
 		Orientation
 			 [ 1.000000 0.000000 0.000000 ]
@@ -210,7 +210,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "firecraigelectrical.dds"
+		textureName "C:\Users\Mattias\Desktop\DOTR Particle Effects\Textures\firecraigelectrical.dds"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"

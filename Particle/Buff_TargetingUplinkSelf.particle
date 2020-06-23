@@ -1,15 +1,15 @@
 ﻿TXT
 ParticleSimulation
-	HasInfiniteLifeTime FALSE
-	TotalLifeTime 3.000000
-	NumEmitters 4
+	HasInfiniteLifeTime TRUE
+	TotalLifeTime 10.000000
+	NumEmitters 6
 	EmitterType "Point"
 	EmitterContents
 		Name "ReticuleUp"
 		Enabled TRUE
-		EmitRate 1.000000
-		HasInfiniteEmitCount FALSE
-		MaxEmitCount 1
+		EmitRate 0.340000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
 		hasEmitIntervals FALSE
 		emitIntervalRunDuration 0.000000
 		emitIntervalWaitDuration 0.000000
@@ -22,8 +22,8 @@ ParticleSimulation
 		ParticleMaxStartRotation 0.000000
 		ParticleStartMass 1.000000
 		ParticleStartColor ffff8080
-		ParticleWidth 150.000000
-		ParticleHeight 150.000000
+		ParticleWidth 37.500000
+		ParticleHeight 37.500000
 		MeshName ""
 		Position [ 0.000000 0.000000 0.000000 ]
 		Orientation
@@ -34,14 +34,14 @@ ParticleSimulation
 		RotateAboutUp 0.000000
 		RotateAboutCross 0.000000
 		StartTime 0.000000
-		HasInfiniteLifeTime FALSE
+		HasInfiniteLifeTime TRUE
 		TotalLifeTime 0.000000
 		BillboardAnchor 0
 		ParticleFacing 2
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "targetuplink_below.dds"
+		textureName "targetuplink_below.tga"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -61,7 +61,7 @@ ParticleSimulation
 		hasEmitIntervals FALSE
 		emitIntervalRunDuration 0.000000
 		emitIntervalWaitDuration 0.000000
-		ParticleLifeTime 3.000000
+		ParticleLifeTime 1000000000.000000
 		ParticleMinStartLinearSpeed 0.000000
 		ParticleMaxStartLinearSpeed 0.000000
 		ParticleMinStartAngularSpeed 0.000000
@@ -70,8 +70,8 @@ ParticleSimulation
 		ParticleMaxStartRotation 0.000000
 		ParticleStartMass 1.000000
 		ParticleStartColor ffffffff
-		ParticleWidth 150.000000
-		ParticleHeight 150.000000
+		ParticleWidth 37.500000
+		ParticleHeight 37.500000
 		MeshName ""
 		Position [ 0.000000 0.000000 0.000000 ]
 		Orientation
@@ -82,14 +82,14 @@ ParticleSimulation
 		RotateAboutUp 0.000000
 		RotateAboutCross 0.000000
 		StartTime 0.000000
-		HasInfiniteLifeTime FALSE
+		HasInfiniteLifeTime TRUE
 		TotalLifeTime 0.000000
 		BillboardAnchor 0
 		ParticleFacing 2
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "laserfront.dds"
+		textureName "laserfront.tga"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -101,6 +101,102 @@ ParticleSimulation
 		AngleVariance 0.000000
 	EmitterType "Point"
 	EmitterContents
+		Name "PuffBack"
+		Enabled FALSE
+		EmitRate 3.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals TRUE
+		emitIntervalRunDuration 1.000000
+		emitIntervalWaitDuration 2.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed -100.000000
+		ParticleMaxStartLinearSpeed -100.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 0.000000
+		ParticleMaxStartRotation 6.283185
+		ParticleStartMass 1.000000
+		ParticleStartColor ffc04000
+		ParticleWidth 4.000000
+		ParticleHeight 1.250000
+		MeshName ""
+		Position [ 0.000000 0.000000 -12.500000 ]
+		Orientation
+			 [ 1.000000 0.000000 0.000000 ]
+			 [ 0.000000 1.000000 0.000000 ]
+			 [ 0.000000 0.000000 1.000000 ]
+		RotateAboutForward 0.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 0
+		PipelineEffectID "Particle_Additive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName "exhaustcore.tga"
+		textureName ""
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.000000 0.100000 0.000000 ]
+		RotationDirectionType 2
+		AngleVariance 0.087266
+	EmitterType "Point"
+	EmitterContents
+		Name "PuffForward"
+		Enabled FALSE
+		EmitRate 3.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals TRUE
+		emitIntervalRunDuration 1.000000
+		emitIntervalWaitDuration 2.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 100.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 0.000000
+		ParticleMaxStartRotation 6.283185
+		ParticleStartMass 1.000000
+		ParticleStartColor ffc04000
+		ParticleWidth 4.000000
+		ParticleHeight 1.250000
+		MeshName ""
+		Position [ 0.000000 0.000000 12.500000 ]
+		Orientation
+			 [ 1.000000 0.000000 0.000000 ]
+			 [ 0.000000 1.000000 0.000000 ]
+			 [ 0.000000 0.000000 1.000000 ]
+		RotateAboutForward 0.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 0
+		PipelineEffectID "Particle_Additive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName "exhaustcore.tga"
+		textureName ""
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.000000 0.100000 0.000000 ]
+		RotationDirectionType 2
+		AngleVariance 0.087266
+	EmitterType "Point"
+	EmitterContents
 		Name "InnerGlowDown"
 		Enabled TRUE
 		EmitRate 1.000000
@@ -109,7 +205,7 @@ ParticleSimulation
 		hasEmitIntervals FALSE
 		emitIntervalRunDuration 0.000000
 		emitIntervalWaitDuration 0.000000
-		ParticleLifeTime 3.000000
+		ParticleLifeTime 1000000000.000000
 		ParticleMinStartLinearSpeed 0.000000
 		ParticleMaxStartLinearSpeed 0.000000
 		ParticleMinStartAngularSpeed 0.000000
@@ -118,8 +214,8 @@ ParticleSimulation
 		ParticleMaxStartRotation 0.000000
 		ParticleStartMass 1.000000
 		ParticleStartColor ffffffff
-		ParticleWidth 150.000000
-		ParticleHeight 150.000000
+		ParticleWidth 37.500000
+		ParticleHeight 37.500000
 		MeshName ""
 		Position [ 0.000000 0.000000 0.000000 ]
 		Orientation
@@ -130,14 +226,14 @@ ParticleSimulation
 		RotateAboutUp 0.000000
 		RotateAboutCross 0.000000
 		StartTime 0.000000
-		HasInfiniteLifeTime FALSE
+		HasInfiniteLifeTime TRUE
 		TotalLifeTime 0.000000
 		BillboardAnchor 0
 		ParticleFacing 2
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "laserfront.dds"
+		textureName "laserfront.tga"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -151,9 +247,9 @@ ParticleSimulation
 	EmitterContents
 		Name "ReticuleDown"
 		Enabled TRUE
-		EmitRate 1.000000
-		HasInfiniteEmitCount FALSE
-		MaxEmitCount 1
+		EmitRate 0.340000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
 		hasEmitIntervals FALSE
 		emitIntervalRunDuration 0.000000
 		emitIntervalWaitDuration 0.000000
@@ -166,8 +262,8 @@ ParticleSimulation
 		ParticleMaxStartRotation 0.000000
 		ParticleStartMass 1.000000
 		ParticleStartColor ffff8080
-		ParticleWidth 150.000000
-		ParticleHeight 150.000000
+		ParticleWidth 37.500000
+		ParticleHeight 37.500000
 		MeshName ""
 		Position [ 0.000000 0.000000 0.000000 ]
 		Orientation
@@ -178,14 +274,14 @@ ParticleSimulation
 		RotateAboutUp 0.000000
 		RotateAboutCross 0.000000
 		StartTime 0.000000
-		HasInfiniteLifeTime FALSE
+		HasInfiniteLifeTime TRUE
 		TotalLifeTime 0.000000
 		BillboardAnchor 0
 		ParticleFacing 2
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "targetuplink_below.dds"
+		textureName "targetuplink_below.tga"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -208,8 +304,10 @@ ParticleSimulation
 		UseOldParticleAffectThreshold FALSE
 		OldParticleAffectThreshold 0.000000
 		AffectAttachedParticles TRUE
-		numAttachedEmitters 2
+		numAttachedEmitters 4
 		attachedEmitterName "InnerGlowUp"
+		attachedEmitterName "PuffBack"
+		attachedEmitterName "PuffForward"
 		attachedEmitterName "InnerGlowDown"
 		TransitionPeriod 3.000000
 		StartColor ffff8080
@@ -228,8 +326,10 @@ ParticleSimulation
 		UseOldParticleAffectThreshold FALSE
 		OldParticleAffectThreshold 0.000000
 		AffectAttachedParticles TRUE
-		numAttachedEmitters 2
+		numAttachedEmitters 4
 		attachedEmitterName "ReticuleUp"
+		attachedEmitterName "PuffBack"
+		attachedEmitterName "PuffForward"
 		attachedEmitterName "ReticuleDown"
 		DoFadeOut TRUE
 		FadeOutTime 2.000000
@@ -247,9 +347,11 @@ ParticleSimulation
 		UseOldParticleAffectThreshold FALSE
 		OldParticleAffectThreshold 0.000000
 		AffectAttachedParticles TRUE
-		numAttachedEmitters 0
-		WidthInflateRate 105.000000
-		HeightInflateRate 264.000000
+		numAttachedEmitters 2
+		attachedEmitterName "PuffBack"
+		attachedEmitterName "PuffForward"
+		WidthInflateRate 26.250000
+		HeightInflateRate 66.000000
 	AffectorType "LinearInflate"
 	AffectorContents
 		Name "ReticuleGrow"
@@ -265,6 +367,6 @@ ParticleSimulation
 		numAttachedEmitters 2
 		attachedEmitterName "ReticuleUp"
 		attachedEmitterName "ReticuleDown"
-		WidthInflateRate 50.000000
-		HeightInflateRate 50.000000
+		WidthInflateRate 12.500000
+		HeightInflateRate 12.500000
 	length 0.000000

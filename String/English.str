@@ -1,5 +1,728 @@
 ﻿TXT
-NumStrings 10574
+NumStrings 10919
+StringInfo
+	ID "IDS_FREIGHTER_CERBREFINERYKOWLOON_NAME"
+	Value "Kowloon Refinery Ship"
+StringInfo
+	ID "IDS_FREIGHTER_CERBREFINERYKOWLOON_DESCRIPTION"
+	Value "This Kowloon class freighter is owned by a Cerberus Shell Corporation, and has been assigned the task of transporting raw materials to Cerberus Refineries."
+StringInfo
+	ID "IDS_ABILITY_NEUTRAL_PLANETSTRUCTURE_NAME"
+	Value "Planetary Installation"
+StringInfo
+	ID "IDS_ABILITY_NEUTRAL_PLANETSTRUCTURE_DESCRIPTION"
+	Value "This structure represents a significant installation on the planets surface. It cannot be destroyed by hostile ships, but can still be demolished by the player. It will automatically be destroyed should the planet fall to an enemy invasion or bombardment."
+StringInfo
+	ID "IDS_COUNTERDESC_FRIGATE_HEAVY"
+	Value "Strong vs. antifighter frigates, long-range frigates, siege frigates, carrier cruisers, utility cruisers, and capital ships."
+StringInfo
+	ID "IDS_COUNTERDESC_LASER_GRUNTS"
+	Value "Laser Platform. Armed with lasers that target fighters and ignore enemy Kinetic Barriers.                                    Infantry: General. This ship can deploy large groups of general infantry that deal damage to enemy planets."
+StringInfo
+	ID "IDS_COUNTERDESC_COLONY"
+	Value "Colony Vessel. An expendable ship that carries civilians and can set up new colonies."
+StringInfo
+	ID "IDS_FRIGATE_CERBCONSTRUCTOR_NAME"
+	Value "Ptah Heavy Tug"
+StringInfo
+	ID "IDS_FRIGATE_CERBCONSTRUCTOR_DESC"
+	Value "The Ptah is a Cerberus adaptation of a common heavy space tug, often used in the construction and maintenance of near orbit space stations."
+StringInfo
+	ID "IDS_FREIGHTER_CERBTRADEKOWLOON_NAME"
+	Value "Kowloon Trade Ship"
+StringInfo
+	ID "IDS_FREIGHTER_CERBTRADEKOWLOON_DESCRIPTION"
+	Value "This Kowloon class freighter is owned by a Cerberus Shell Corporation, and has been assigned the task of trading high value commodities."
+StringInfo
+	ID "IDS_PLANETBONUS_PLANETOID_DESCRIPTION"
+	Value "The Economy of planetoids revolves almost entirely around mining - specifically Eezo mining. Thanks to this, it is expensive to develop orbital infrastructure."
+StringInfo
+	ID "IDS_STRUCTURE_CERBMINUTEMAN_NAME"
+	Value "Minuteman Station"
+StringInfo
+	ID "IDS_STRUCTURE_CERBMINUTEMAN_DESCRIPTION"
+	Value "An important hub station for Cerberus Shell Corporations, the Minuteman design is structured to appear as a simple trade station. In reality, much of the trade going on at these stations results in significant profits for Cerberus."
+StringInfo
+	ID "IDS_ABILITY_CERB_DREADYARDREPAIR_NAME"
+	Value "Dreadnought Repairs"
+StringInfo
+	ID "IDS_ABILITY_CERB_DREADYARDREPAIR_DESCRIPTION"
+	Value "Cerberus Shipyards are versatile platforms easily able to repair the same class of ships they construct. While ships are undergoing repairs, they will be unable to move or fight, and the Shipyard will be unable to construct new ships until repairs are finished."
+StringInfo
+	ID "IDS_ABILITY_CERB_FRIGATEYARDREPAIR_NAME"
+	Value "Cruiser Repairs"
+StringInfo
+	ID "IDS_ABILITY_CERB_FRIGATEYARDREPAIR_DESCRIPTION"
+	Value "Cerberus Shipyards are versatile platforms easily able to repair the same class of ships they construct. While ships are undergoing repairs, they will be unable to move or fight, and the Shipyard will be unable to construct new ships until repairs are finished."
+StringInfo
+	ID "IDS_ABILITY_CERB_MINUTEMANSPY_NAME"
+	Value "Schrodinger Spy Drones"
+StringInfo
+	ID "IDS_ABILITY_CERB_MINUTEMANSPY_DESCRIPTION"
+	Value "Far from a simple trade station, the Minuteman is also a hub for Cerberus espionage. It has a large stock of Schrodinger class spy drones, which its personell will attempt to attach to every trade ship departing its docks. When these drones can be attached to the trade ships of foreign powers, they can be highly useful intel gathering tools indeed."
+StringInfo
+	ID "IDS_ABILITY_CERB_REFINERYEXPLODE_NAME"
+	Value "Unstable Eezo Reserves"
+StringInfo
+	ID "IDS_ABILITY_CERB_REFINERYEXPLODE_DESCRIPTION"
+	Value "Cerberus Refineries eschew safety measures in the name of efficiency. When destroyed, a Cerberus Refinery will catastrophically explode, damaging and slowing all nearby ships and scattering harmful Eezo dust on the planet below. The resulting cancers will harm the populace for a long time, but the abundant Eezo dust will be easy to collect."
+StringInfo
+	ID "IDS_ABILITY_CERB_REFINERYREFUEL_NAME"
+	Value "Refuel"
+StringInfo
+	ID "IDS_ABILITY_CERB_REFINERYREFUEL_DESCRIPTION"
+	Value "Cerberus Refineries are versatile stations, able to refuel a ship with fresh Element Zero and Helium-3 while also providing facilities for static venting - a vital service to keep warships operating at peak capacity. This can even be done during battle, but it may not be wise to position ships near an explosive refinery while hostiles are in the sector..."
+StringInfo
+	ID "IDS_ABILITY_COUN_GETHDREADBARRIEROVERCLOCK_NAME"
+	Value "Overclock Barriers"
+StringInfo
+	ID "IDS_ABILITY_COUN_GETHDREADBARRIEROVERCLOCK_DESCRIPTION"
+	Value "The Navarch's crew can shift processing power from weapons to defenses, overclocking the relevent CPUs to achieve significant temporary performance boosts. However, with fewer Geth monitoring weapons systems, performance in that area will be diminished."
+StringInfo
+	ID "IDS_ABILITY_COUN_GETHDREADWEAPONOVERCLOCK_NAME"
+	Value "Overclock Weapons"
+StringInfo
+	ID "IDS_ABILITY_COUN_GETHDREADWEAPONOVERCLOCK_DESCRIPTION"
+	Value "The Navarch's crew can shift processing power from defenses to weapons, overclocking the relevent CPUs to achieve significant temporary performance boosts. However, with fewer Geth monitoring kinetic barrier systems, performance in that area will be diminished."
+StringInfo
+	ID "IDS_ABILITY_COUN_GETHDREADWEAPONOVERCLOCK_DESCRIPTION"
+	Value "The Navarch's crew can shift processing power from defenses to weapons, overclocking the relevent CPUs to achieve significant temporary performance boosts. However, with fewer Geth monitoring kinetic barrier systems, performance in that area will be diminished."
+StringInfo
+	ID "IDS_ABILITY_COUN_GETHDREADBARRIEROVERCLOCK_NAME"
+	Value "Overclock Barriers"
+StringInfo
+	ID "IDS_ABILITY_NEUTRAL_GETHANTISPAM_DESCRIPTION"
+	Value "Geth Frigates are not limited by the usual coordination issues that large frigate groups suffer from. Instead, they face a different problem, as with more ships present more Geth programs must be dedicated to spatial awareness routines. Because of this, maintaining groups of Geth frigates above 10 will reduce accuracy and evasion, causing more damage to be taken."
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHNETWORKINGFRIGATE_NAME"
+	Value "Geth Networking"
+StringInfo
+	ID "IDS_REAP_RESEARCHFIELD_COMBAT"
+	Value "Tools"
+StringInfo
+	ID "IDS_REAP_RESEARCHFIELD_DEFENSE"
+	Value "Numbers"
+StringInfo
+	ID "IDS_REAP_RESEARCHFIELD_EMPIRE"
+	Value "Harvesting"
+StringInfo
+	ID "IDS_REAP_RESEARCHFIELD_DIPLOMACY"
+	Value "Conversion"
+StringInfo
+	ID "IDS_REAP_RESEARCHFIELD_ARTIFACT"
+	Value "Irrelevant Remnants"
+StringInfo
+	ID "IDS_REAP_RESEARCHFIELD_FLEET"
+	Value "Indoctrination"
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_COLLECTIVEREFINEMENT_NAME"
+	Value "Collective Refinement"
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_COLLECTIVEREFINEMENT_DESCRIPTION"
+	Value "The Geth make use of highly efficient refineries, each station manned by a large number of Geth programs that can work in perfect unison to manage every stage of the refining process. Nothing escapes their notice and they will accept no impurity."
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_HARVESTINGOPTIMIZATION_NAME"
+	Value "Harvesting Optimization"
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_HARVESTINGOPTIMIZATION_DESCRIPTION"
+	Value "Although the process by which organics are harvested into usable genetic material is as old as the cycles themselves, it requires slight adjustments with each new cycle. Accounting for the unique genetic attributes of each species being harvested ensures optimal resource gain from the process, reducing waste and creating more opportunity for birthing new Reapers."
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_MININGPLATFORMS_NAME"
+	Value "Mining Platforms"
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_MININGPLATFORMS_DESCRIPTION"
+	Value "Unlike the Orthodox Geth, who foolishly favor the inefficient bipedal form of the creators, the Heretics do not limit their Mobile Platforms to arbitrary shapes. Instead, they will adapt their forms to suit the tasks at hand. With mining quotas always increasing, the Heretic Consensus has seen fit to design Mobile Platforms expressly for mining, incorporating tools and heavy lift capabilities directly into the bodies used by their miners."
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_NANITEMINING_NAME"
+	Value "Nanite Mining"
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_NANITEMINING_DESCRIPTION"
+	Value "We have long since moved beyond the need for manual labor in the acquisition of inorganic materials. Nano-machinery will be deployed to conduct large scale resource gathering in support of the Harvest."
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_PROCESSOREFFICIENCY_NAME"
+	Value "Processor Efficiency"
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_PROCESSOREFFICIENCY_DESCRIPTION"
+	Value "Our Processors are critical to the continuation of the cycle, and the preservation of organic life. We will incorporate harvesting efficiency improvements into their routines to achieve optimal genetic material reclamation rates."
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_REAPERS_NAME"
+	Value "Reapers"
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_REAPERS_DESCRIPTION"
+	Value "You are playing as the Reapers. The Reaper faction does not use credits, having long since surpassed the need for currency. Thanks to their mindless husk laborers and hyper-efficient resource allocation, they are able to upgrade planets for free, albeit at a much reduced speed. Their culture, or rather the indoctrination signal, is insidious, and while slow, it is almost impossible to stop once it takes hold."
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_REFINEMENTBYROTE_NAME"
+	Value "Refinement By Rote"
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_REFINEMENTBYROTE_DESCRIPTION"
+	Value "The Heretic Geth are ever eager for secrets of technology from their Reaper gods. They rarely understand such secrets, and the enhanced refinment techniques the Reapers have provided them are no different. Yet the Heretics will follow the instructions by rote all the same, leading to the increase in refinment rate the Reapers require."
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_SEEKERSWARMS_NAME"
+	Value "Seeker Swarms"
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_SEEKERSWARMS_DESCRIPTION"
+	Value "An elegant solution to a frustrating problem, Seeker Swarms are comprised of large numbers of insectoid-like machines that blanket an area targetted for harvesting, immobilising potential targets with their stasis-inducing sting. In this way the Collectors are able to go about the harvest in realtive peace, without concern that their targets will escape."
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_TIRELESSMINERS_NAME"
+	Value "Tireless Miners"
+StringInfo
+	ID "IDS_RESEARCH_REAPHARVEST_TIRELESSMINERS_DESCRIPTION"
+	Value "The Geth are ideal manual laborers. They need very little - no food, no rest and minimal time to recharge. Their Mobile Platforms are self repairing and resilient enough to operate without shelter in most environments. Putting them to work in ever greater numbers will ensure resource needs are met."
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_ABYSSALBARGAINS_NAME"
+	Value "Abyssal Bargains"
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_ABYSSALBARGAINS_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_ALLUREOFSURRENDER_NAME"
+	Value "Allure Of Surrender"
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_ALLUREOFSURRENDER_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_BEACONADAPTATION_NAME"
+	Value "Beacon Adaptation"
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_BEACONADAPTATION_DESCRIPTION"
+	Value "Among the creations of the Protheans, their Beacon network was most useful, simply adapted to our ends. Adjusting the extensive network to work with the Collectors provides an additional vector for spreading the indoctrination signal into the communications networks of the organic species."
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_COLLECTORREQUESTS_NAME"
+	Value "Collector Requests"
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_COLLECTORREQUESTS_DESCRIPTION"
+	Value "The Collectors are known to communicate with the galaxy from time to time, making odd requests in exchange for fragments of their highly advanced technology. This behaviour has, if anything, only become more common in recent years, and it is no longer rare for the Collectors to assign missions to pirates and other factions on a near constant basis."
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_FAITHINASCENSION_NAME"
+	Value "Faith In Ascension"
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_FAITHINASCENSION_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_INDOCDIPLOMATS_NAME"
+	Value "Indoctrinate Diplomats"
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_INDOCDIPLOMATS_DESCRIPTION"
+	Value "Diplomats from inferior species will be invited to peace summits held inside the hulls of fellow Reapers. Here they will come to understand the futility of resistance, and upon leaving will be willing to convince others of the truth."
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_PROMISEOFSURVIVAL_NAME"
+	Value "Promise Of Survival"
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_PROMISEOFSURVIVAL_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_UNSTOPPABLEINDOC_NAME"
+	Value "Unstoppable Indoctrination"
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_UNSTOPPABLEINDOC_DESCRIPTION"
+	Value "The reach of our will has no limit. The signal cannot be stopped. All will succumb in time."
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_USEFULPAWNS_NAME"
+	Value "Useful Pawns"
+StringInfo
+	ID "IDS_RESEARCH_REAPINDOC_USEFULPAWNS_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_ARRIVAL_NAME"
+	Value "Arrival"
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_ARRIVAL_DESCRIPTION"
+	Value "We are legion. The time of our return is at hand. Our numbers will darken the sky of every world. You cannot escape your doom."
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_COLLECTOREXPEDITIONS_NAME"
+	Value "Collector Expeditions"
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_COLLECTOREXPEDITIONS_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_CONSENSUS_NAME"
+	Value "Heresy By Consensus"
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_CONSENSUS_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_FORCEDHERESY_NAME"
+	Value "Forced Heresy"
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_FORCEDHERESY_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_HERETICALFAITH_NAME"
+	Value "Heretical Faith"
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_HERETICALFAITH_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_INITIALHARVESTING_NAME"
+	Value "Initial Harvesting"
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_INITIALHARVESTING_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_LARGESCALEHARVESTING_NAME"
+	Value "Large Scale Harvesting"
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_LARGESCALEHARVESTING_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_SCHISM_NAME"
+	Value "Schism"
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_SCHISM_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_SHAREDHERESY_NAME"
+	Value "Shared Heresy"
+StringInfo
+	ID "IDS_RESEARCH_REAPNUMBERS_SHAREDHERESY_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_ASSUMECONTROL_NAME"
+	Value "Assume Direct Control"
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_ASSUMECONTROL_DESCRIPTION"
+	Value "All Collectors are implanted with advanced cybernetics that allow a Reaper to assume direct control and manifest a portion of its will directly onto the battlefield. By adjusting several systems aboard standard Collector ships, this effect can be replicated on a huge scale, greatly empowering a Collector vessel so long as Harbinger wills. These ships are not resilient enough to contain even a fraction of a Reaper's majesty however, and will not survive should Harbinger turn his gaze away."
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_BASEREPLICATION_NAME"
+	Value "Base Replication"
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_BASEREPLICATION_DESCRIPTION"
+	Value "Although the original Collector Base was rendered inoperable by Shepard, it did serve its purpose quite effectively. It has been deemed useful enough to recreate on an as-needed basis, the better to serve the unique needs of this cycle's harvest."
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_COLLECTORGENERAL_NAME"
+	Value "Collector General"
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_COLLECTORGENERAL_DESCRIPTION"
+	Value "A near unique form of Collector, the General is tasked with strategy and management of Collector resources in the time between cycles. Formed from the amalgamated bodies of the Prothean's greatest warriors and leaders, they are given command of the mighty Collector Dreadnoughts and act as local coordinators for Reaper ground forces of all types once their masters inevitably arrive."
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_COLLECTORGENETICIST_NAME"
+	Value "Collector Geneticist"
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_COLLECTORGENETICIST_DESCRIPTION"
+	Value "A rare, advanced Collector form, the Geneticist is endowed with greater intelligence and scientific knowledge than the average Collector, having been formed from what remained of the Prothean science division during the last cycle. These Collectors are tasked with analysing the genetic make up of this cycle's species in advance, drastically shortening the selection process for the next Reapers parent species. They most often operate from and command Collector Cruisers."
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_COLLECTORNEGOTIATOR_NAME"
+	Value "Collector Negotiator"
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_COLLECTORNEGOTIATOR_DESCRIPTION"
+	Value "Forming the public face of the Collectors during the time between harvests, the Collector Negotiator has advanced linguistic and negotiation knowledge, inhereted in part from the Prothean diplomats they were formed from. Tasked with collecting small scale and highly unique samples by any means necessary, these cunning Collectors travel the galaxy in the small Collector Envoys."
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_HERESY_NAME"
+	Value "Heresy"
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_HERESY_DESCRIPTION"
+	Value "The Geth Consensus came to the conclusion that to worship the Reaper known as Nazara was Heresy. They cast out all Geth that wished to follow Nazara, splitting the Consensus. The Heretics now maintain their own Consensus, faithful to the last in the Reapers, and eager to avenge the death of Nazara at the Battle of the Citadel. To that end they have begun to accelerate the production of the Infidel class cruiser, the better to serve their gods."
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_HERETICALUPSCALING_NAME"
+	Value "Heretical Upscaling"
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_HERETICALUPSCALING_DESCRIPTION"
+	Value "When the Heretics were cast out, they did not take any of the mighty Geth dreadnoughts with them. Yet, since that fateful day, the need for ever greater military power has become clear. In order to defend their faith, the heretics have begun construction of the immense Iconoclast class of dreadnought."
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_HERETICGIFTS_NAME"
+	Value "Heretical Gifts"
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_HERETICGIFTS_DESCRIPTION"
+	Value "For their continued devotion, the Reapers have elected to provide the Heretics with gifts of technology. These upgrades are quickly incorproated into Heretic warships, raising their individual combat capacity and helping to ensure the Heretics can fight for their gods whenever necessary."
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_PATHSWEDESIRE_NAME"
+	Value "The Paths We Desire"
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_PATHSWEDESIRE_DESCRIPTION"
+	Value "Organic civilization is based on the technology of the Mass Relays. Our technology. By using it, organic societies develop along the paths we desire."
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_PROTHEANREPURPOSING_NAME"
+	Value "Prothean Repurposing"
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_PROTHEANREPURPOSING_DESCRIPTION"
+	Value "The Prothean species was a magnificent example of an organic species focused around empire building and self improvement. Posessed of many unique biological adaptations and having achieved a higher level of technology than the average cycle, they were considered an ideal candidate for forming a new Reaper. Unfortunately, their unusual quad strand DNA proved incompatible with the Reaper birthing process, and they were instead repurposed as the Collectors - advanced husks adapted for many unique roles."
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_ULTIMATEHERESY_NAME"
+	Value "Ultimate Heresy"
+StringInfo
+	ID "IDS_RESEARCH_REAPTOOLS_ULTIMATEHERESY_DESCRIPTION"
+	Value "There is no act of faith greater than allowing a Reaper to join with the Consensus, and alter the code of the faithful directly. The Orthodox Geth call it the Ultimate Heresy, but the faithful Geth know it for what it truly is - a step closer to ascension."
+StringInfo
+	ID "IDS_ABILITY_REAP_CRUISERPEOPLEMELT_NAME"
+	Value "Deploy Seeker Swarm"
+StringInfo
+	ID "IDS_ABILITY_REAP_CRUISERPEOPLEMELT_DESCRIPTION"
+	Value "The Collector Cruiser will land on the target planet and deploy a Seeker Swarm. This swarm of tiny insectoid machines will paralyse the population and defenders of a settlement or city, allowing the Collectors to move in and prepare them for a harvest. The Collector Cruiser must remain landed while it carries out this operation."
+StringInfo
+	ID "IDS_ABILITY_REAP_SEEKERHARVEST_NAME"
+	Value "The Harvest"
+StringInfo
+	ID "IDS_ABILITY_REAP_SEEKERHARVEST_DESCRIPTION"
+	Value "This Seeker Swarm has paralysed the population on this planet, and the Collectors are now harvesting them aboard their ship. As they are melted down, the population will be converted to resources for the Reapers."
+StringInfo
+	ID "IDS_INFANTRY_REAPATK_SEEKERSWARM_NAME"
+	Value "Seeker Swarm"
+StringInfo
+	ID "IDS_CRUISER_REAPCOLLECTOR_NAME"
+	Value "Collector Cruiser"
+StringInfo
+	ID "IDS_CRUISER_REAPCOLLECTOR_DESCRIPTION"
+	Value "Harbingers favorite Bees flying a Cruiser made just for them."
+StringInfo
+	ID "IDS_CRUISER_REAPDESTROYER_NAME"
+	Value "Destroyer Reaper"
+StringInfo
+	ID "IDS_CRUISER_REAPDESTROYER_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_CRUISER_REAPGETH_NAME"
+	Value "Infidel Laser Cruiser"
+StringInfo
+	ID "IDS_CRUISER_REAPGETH_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_DREADNOUGHT_REAPCOLLECTOR_NAME"
+	Value "Collector Dreadnought"
+StringInfo
+	ID "IDS_DREADNOUGHT_REAPCOLLECTOR_DESCRIPTION"
+	Value "Harbinger likes these Bees less, but still gave them a Dreadnought anyway."
+StringInfo
+	ID "IDS_DREADNOUGHT_REAPGETH_NAME"
+	Value "Iconoclast Dreadnought"
+StringInfo
+	ID "IDS_DREADNOUGHT_REAPGETH_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_DREADNOUGHT_REAPSOVEREIGN_NAME"
+	Value "Sovereign Reaper"
+StringInfo
+	ID "IDS_DREADNOUGHT_REAPSOVEREIGN_DESCRIPTION"
+	Value "Sovereign was #BestReaper."
+StringInfo
+	ID "IDS_DREADNOUGHT_REAPVANGUARD_NAME"
+	Value "Vanguard Reaper"
+StringInfo
+	ID "IDS_DREADNOUGHT_REAPVANGUARD_DESCRIPTION"
+	Value "The Reaper Vanguard is a specialist variant of the Sovereign designed to remain in the galaxy between harvests. Here, it will observe the progress of the organics and influence events to ensure optimal efficiency of the cycle. It is faster than most Reapers and has its Thanix weaponry installed in its fingers for a wider arc of fire, at the cost of power per shot. Unfortunately, its hull is more fragile than most Reapers of its size leaving it vulnerable to organised resistance from the organics."
+StringInfo
+	ID "IDS_SUPERDREAD_REAPHARBINGER_NAME"
+	Value "Harbinger"
+StringInfo
+	ID "IDS_SUPERDREAD_REAPHARBINGER_DESCRIPTION"
+	Value "Sovereign was better. Go play with your Bees and learn to be a good villain Harbinger."
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_ABOMINATIONS_NAME"
+	Value "Abominations"
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_ABOMINATIONS_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_ASARICONVERT_NAME"
+	Value "Asari Conversion"
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_ASARICONVERT_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_BATARIANCONVERT_NAME"
+	Value "Batarian Conversion"
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_BATARIANCONVERT_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_COLLECTORCAPTAINS_NAME"
+	Value "Collector Captains"
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_COLLECTORCAPTAINS_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_COLLECTORPRAETORIAN_NAME"
+	Value "Collector Praetorians"
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_COLLECTORPRAETORIAN_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_COLLECTORSCION_NAME"
+	Value "Collector Scion"
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_COLLECTORSCION_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_DRAGONSTEETH_NAME"
+	Value "Dragon's Teeth"
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_DRAGONSTEETH_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_GETHARMATURES_NAME"
+	Value "Geth Armatures"
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_GETHARMATURES_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_GETHCOLOSSI_NAME"
+	Value "Geth Colossi"
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_GETHCOLOSSI_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_GETHINFANTRY_NAME"
+	Value "Geth Infantry Platforms"
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_GETHINFANTRY_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_GETHSTEALTH_NAME"
+	Value "Geth Stealth Platforms"
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_GETHSTEALTH_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_GETHTERROR_NAME"
+	Value "Geth Terror Platforms"
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_GETHTERROR_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_KROGANCONVERT_NAME"
+	Value "Krogan Conversion"
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_KROGANCONVERT_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_RACHNIREVIVAL_NAME"
+	Value "Rachni Revival"
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_RACHNIREVIVAL_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_TURIANCONVERT_NAME"
+	Value "Turian Conversion"
+StringInfo
+	ID "IDS_RESEARCH_REAPCONVERSION_TURIANCONVERT_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_PLAYERRACENAME_REAPER"
+	Value "Reapers"
+StringInfo
+	ID "IDS_PLAYERFACTIONNAME_REAPNEUTRAL"
+	Value "Heretic Geth"
+StringInfo
+	ID "IDS_PLAYERFACTIONNAME_REAPARRIVAL"
+	Value "Reapers"
+StringInfo
+	ID "IDS_FRIGATE_REAPGETH_NAME"
+	Value "Zealot Laser Frigate"
+StringInfo
+	ID "IDS_FRIGATE_REAPGETH_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_FRIGATE_REAPGETHCOLONISER_NAME"
+	Value "Apostate Transport Frigate"
+StringInfo
+	ID "IDS_FRIGATE_REAPGETHCOLONISER_DESCRIPTION"
+	Value "The Geth make use of this small, unarmed transport frigate to set up remote temples and consecrate new ground for their Reaper gods."
+StringInfo
+	ID "IDS_FRIGATE_REAPCOLLECTORENVOY_NAME"
+	Value "Collector Envoy"
+StringInfo
+	ID "IDS_FRIGATE_REAPCOLLECTORENVOY_DESCRIPTION"
+	Value "Helmed by a Collector Negotiator, the Envoy is the primary means for the Reapers to communicate peacefully with the rest of the galaxy. Once a line of communication has been established, unique genetic samples can be acquired in a mutually beneficial exchange. All the while, the Reaper artifacts aboard the vessel exert their subtle influence on all that come near them..."
+StringInfo
+	ID "IDS_INFANTRY_REAPATK_GETH_NAME"
+	Value "Geth Mobile Platforms"
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHFRIGATEPLATFORMS_NAME"
+	Value "Mobile Platform Drop"
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHFRIGATEPLATFORMS_DESCRIPTION"
+	Value "The Heretic Geth Frigate doubles as a dropship for Geth ground forces. These Geth Mobile Platforms are unique among infantry forces, in that they can be dropped directly into battle from high altitude or even orbit. Even small, infantry class units can be dropped in this way, thanks to the entirely mechanical nature of the units."
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHPLATFORMATTACK_NAME"
+	Value "Tactical Platforms"
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHPLATFORMATTACK_DESCRIPTION"
+	Value "Heretic Geth Tactical platforms form the main Geth line on the surface. They are tireless, well armed and perfectly coordinated. Geth gain strength and complexity of thought as they mass, and the more Geth are present the more likely it is that they will out-think the enemy completely. Once upgraded with Pyros and other Platforms designed for terror attacks, the Geth Assault will be near unstoppable."
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHDURATION_NAME"
+	Value "Geth Infantry"
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHDURATION_DESCRIPTION"
+	Value "This Structure exists to act as a marker for Geth Infantry units that are present on the nearby planet. Geth Infantry are tireless machines that barely need any supplies, and operate for a total of twelve minutes. Infantry units cannot be destroyed by ship based weapons."
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHOCCUPY_NAME"
+	Value "Geth Occupation"
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHOCCUPY_DESCRIPTION"
+	Value "The Geth are supremely suited to occupation of recently conquered worlds. Their mobile platforms are diverse and just as capable of construction and mining tasks as combat. When the Heretic Geth occupy a planet, they waste no time in setting up mines and beginning extraction of precious materials to gift to their gods."
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHARMATURES_NAME"
+	Value "Geth Armature"
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHARMATURES_DESCRIPTION"
+	Value "Geth regularly deploy large scale Mobile Platforms when invading worlds. Some of the more common units are the Armature and Collossus, powerful four legged machines with hard hitting siege pulse weapons. These Mobile Platforms are typically classified as Armor, but are not tanks in the traditional sense. Like all Geth Mobile Platforms, they are single autonomous units crewed by hundreds of individual Geth programs."
+StringInfo
+	ID "IDS_ABILITY_REAP_REFINERYHARVEST_NAME"
+	Value "Harvest Population"
+StringInfo
+	ID "IDS_ABILITY_REAP_REFINERYHARVEST_DESCRIPTION"
+	Value "The population of the planet below has been subjugated and prepared for the harvest. Those that are suitable will be reduced to usable materials and have their consciousness saved for use in new Reapers. Those that are not will be transformed into Husks for use on the battlefield."
+StringInfo
+	ID "IDSPlayerAINameReap0"
+	Value "Reapers"
+StringInfo
+	ID "IDSPlayerAINameReap1"
+	Value "Heretic Geth"
+StringInfo
+	ID "IDSPlayerAINameReap2"
+	Value "Collectors"
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHNETWORKINGFRIGATE_NAME"
+	Value "Geth Networking"
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHNETWORKINGFRIGATE_DESCRIPTION"
+	Value "The Geth programs onboard a Geth starship will automatically network with others of their kind when nearby. This process increases the overall processing power of all Geth in the area, allowing them to push their ships to new levels of performance. The Geth aboard the Zealot or Apostate focus on improving the speed and eezo recharge of surrounding Geth ships."
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHNETWORKINGCRUISER_NAME"
+	Value "Geth Networking"
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHNETWORKINGCRUISER_DESCRIPTION"
+	Value "The Geth programs onboard a Geth starship will automatically network with others of their kind when nearby. This process increases the overall processing power of all Geth in the area, allowing them to push their ships to new levels of performance. The Geth aboard the Infidel focus on improving the fire rate and damage of weapons aboard surrounding Geth ships."
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHNETWORKINGDREAD_NAME"
+	Value "Geth Networking"
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHNETWORKINGDREAD_DESCRIPTION"
+	Value "The Geth programs onboard a Geth starship will automatically network with others of their kind when nearby. This process increases the overall processing power of all Geth in the area, allowing them to push their ships to new levels of performance. The Geth aboard the Iconoclast focus on improving the evasion and barrier regeneration of surrounding Geth ships."
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHUPGRADES_NAME"
+	Value "Fruits of Heresy"
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHUPGRADES_DESCRIPTION"
+	Value "Although the Reapers often ignore their Geth servants, they do occasionally distribute technological improvements to the Heretics, the better to make use of their tools. These upgrades improve the ships basic defensive characteristics, bringing them in line with their Orthodox counterparts."
+StringInfo
+	ID "IDS_RANDOMEVENT_REAPERINVASION_NAME"
+	Value "Reaper Invasion"	
+StringInfo
+	ID "IDS_GAMEMESSAGE_RANDOMEVENT_REAPERINVASION"
+	Value "A large Reaper fleet has been detected."
+StringInfo
+	ID "IDS_PLANETBONUS_HOMEWORLDREAPER_NAME"
+	Value "Heretic Sanctuary"
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHCOLONIZE_NAME"
+	Value "Sanctify"
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHCOLONIZE_DESCRIPTION"
+	Value "The Apostate will descend to the surface and anchor itself, whereupon it will be turned into the center of a new Heretic temple complex. With the ground thus sanctified, the planet will fall under Reaper control. THIS WILL EXPEND THE APOSTATE."
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHCAPTURE_NAME"
+	Value "Consecrate"
+StringInfo
+	ID "IDS_ABILITY_REAP_GETHCAPTURE_DESCRIPTION"
+	Value "The Apostate carries several squads of Geth mobile platforms in order to board and consecrate orbital installations. Once aboard, the Geth will remain to defend and operate the station for their Reaper gods."
+StringInfo
+	ID "IDS_STRUCTURE_REAPCIVLAB_NAME"
+	Value "Reaper Civilian Lab"
+StringInfo
+	ID "IDS_STRUCTURE_REAPCIVLAB_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_STRUCTURE_REAPDREADYARD_NAME"
+	Value "Reaper Dread Yard"
+StringInfo
+	ID "IDS_STRUCTURE_REAPDREADYARD_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_STRUCTURE_REAPEEZOMINE_NAME"
+	Value "Reaper Eezo Mine"
+StringInfo
+	ID "IDS_STRUCTURE_REAPEEZOMINE_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_STRUCTURE_REAPFRIGATEYARD_NAME"
+	Value "Reaper Frigate Yard"
+StringInfo
+	ID "IDS_STRUCTURE_REAPFRIGATEYARD_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_STRUCTURE_REAPHADES_NAME"
+	Value "Orbital Hades Cannon"
+StringInfo
+	ID "IDS_STRUCTURE_REAPHADES_DESCRIPTION"
+	Value "The preferred method of defense for exposed Reaper positions, the Orbital Hades Cannon is a formidable weapon indeed. Essentially a huge Thanix cannon optimsied for long range fire, the Hades will shred enemy cruisers with ease and poses a significant threat to other vessels as well. It is, however, quite vulnerable to strike craft."
+StringInfo
+	ID "IDS_STRUCTURE_REAPINDOCTRINATION_NAME"
+	Value "Reaper Culture Station"
+StringInfo
+	ID "IDS_STRUCTURE_REAPINDOCTRINATION_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_STRUCTURE_REAPMETALMINE_NAME"
+	Value "Reaper Palladium Mine"
+StringInfo
+	ID "IDS_STRUCTURE_REAPMETALMINE_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_STRUCTURE_REAPMILLAB_NAME"
+	Value "Reaper Military Lab"
+StringInfo
+	ID "IDS_STRUCTURE_REAPMILLAB_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_STRUCTURE_REAPREFINERY_NAME"
+	Value "Reaper Refinery"
+StringInfo
+	ID "IDS_STRUCTURE_REAPREFINERY_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_STRUCTURE_REAPSUPERDREADYARD_NAME"
+	Value "Reaper Superdread Yard"
+StringInfo
+	ID "IDS_STRUCTURE_REAPSUPERDREADYARD_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIKNOWYOUFEELTHIS_NAME"
+	Value "I Know You Feel This"
+StringInfo
+	ID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIKNOWYOUFEELTHIS_DESCRIPTION"
+	Value "Harbinger has decided to use a larger fraction of his potential weapon power. He knows his enemies will feel this."
+StringInfo
+	ID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEYOUCANNOTHURTME_NAME"
+	Value "You Cannot Hurt Me"
+StringInfo
+	ID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEYOUCANNOTHURTME_DESCRIPTION"
+	Value "Harbinger has chosen to direct some of his limitless power to his barriers and nano-machine armor systems. He hopes this will help his enemies realise that he cannot be stopped."
+StringInfo
+	ID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_NAME"
+	Value "I Always Survive"
+StringInfo
+	ID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_DESCRIPTION"
+	Value "Harbinger grows tired of waiting, and directs additional energy from his immense reserves towards regeneration and repair systems. He does not die."
+StringInfo
+	ID "IDS_ABILITY_REAP_SOVEREIGNWEWILLENDURE_NAME"
+	Value "We Will Endure"
+StringInfo
+	ID "IDS_ABILITY_REAP_SOVEREIGNWEWILLENDURE_DESCRIPTION"
+	Value "The Reaper diverts the output of its massive element zero core away from mobility enabling mass reduction and into its forward barriers, allowing it to endure any onslaught."
+StringInfo
+	ID "IDS_ABILITY_REAP_VANGUARDYOUCANNOTESCAPE_NAME"
+	Value "You Cannot Escape"
+StringInfo
+	ID "IDS_ABILITY_REAP_VANGUARDYOUCANNOTESCAPE_DESCRIPTION"
+	Value "The Vanguard greatly lowers its mass by adjusting the its element zero core alignment. This allows it to perform incredible manoeuvers, catching any fleeing organics with terrifying ease."
+StringInfo
+	ID "IDS_ABILITY_REAP_VANGUARDBOWBEFORETHEINVADERS_NAME"
+	Value "Bow Before The Invaders"
+StringInfo
+	ID "IDS_ABILITY_REAP_VANGUARDBOWBEFORETHEINVADERS_DESCRIPTION"
+	Value "By sending a carefully modulated signal through the organic communications networks, the Vanguard can activate one of its many indoctrinated agents. This agent will sow chaos on the planet they are present on and relay information back to the Vanguard. Is submission not preferable to extinction?"
+StringInfo
+	ID "IDS_ABILITY_REAP_VANGUARDVANGUARDOFDESTRUCTION_NAME"
+	Value "Vanguard Of Destruction"
+StringInfo
+	ID "IDS_ABILITY_REAP_VANGUARDVANGUARDOFDESTRUCTION_DESCRIPTION"
+	Value "The Vanguard is impatient, shifting its energies to generate a massive surge of acceleration towards its target. Upon impact, the enemy vessel will be knocked spinning and take severe hull damage."
+StringInfo
+	ID "IDS_STRUCTURE_REAPOBJECTPHI_NAME"
+	Value "Object Phi"
+StringInfo
+	ID "IDS_STRUCTURE_REAPOBJECTPHI_DESCRIPTION"
+	Value "The station that spawns heroes."
 StringInfo
 	ID "ABILITY_UNSCPOWERTOWEAPONSDEACTIVATE_NAME"
 	Value "Deactivate Fast Charge"
@@ -31384,6 +32107,12 @@ StringInfo
 	ID "IDS_ABILITY_COUN_UNDAUNTEDOVERLOAD_DESCRIPTION"
 	Value "Turian engineers can adjust the Undaunted's tech projection systems to channel the static electricity build up of its Eezo core into an attack resembling the Overload program used by omni-tools. This attack will deal heavy damage to enemy Kinetic Barriers, light damage to the targets hull and disable their systems temporarily."
 StringInfo
+	ID "IDS_ABILITY_CERB_FIGHTERTORPS_NAME"
+	Value "Fighter Javelin Missiles"
+StringInfo
+	ID "IDS_ABILITY_CERB_FIGHTERTORPS_DESCRIPTION"
+	Value "This ships fighter craft are armed with Javelin Missiles - barrier ignoring weapons that apply a warp effect which reduces a targets barrier mitigation."
+StringInfo
 	ID "IDS_ABILITY_NEUTRAL_ANTISPAM_NAME"
 	Value "Wolfpack Tactics"
 StringInfo
@@ -31698,27 +32427,3 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_COUN_GETHDREADHUNTERMODE_DESCRIPTION"
 	Value "The Navarch is equipped with specialised sensor systems that allow the Geth aboard to initiate Hunter Mode on a massive scale. While in this mode, the Navarch will have superior targetting and manoeuverability. Activating this mode will immediately reduce the ships barrier strength. Hunter Mode will remain active until either the ships Eezo reserve is depleted, or until it is deactived."
-StringInfo
-	ID "IDS_ABILITY_COUN_MANOWARSTORMYSKIES_NAME"
-	Value "Stormy Skies"
-StringInfo
-	ID "IDS_ABILITY_COUN_MANOWARSTORMYSKIES_DESCRIPTION"
-	Value "Mimicing the unique defense mechanism of the Hanar themselves, the Man-O-War is able to deploy an ink-like cloud of micro-particulates into the surrounding space. This cloud contains heat decoys to fool sensors, reflective composites to scramble LADAR and electrical emitters to interfere with other signals. The net effect is a protective screen for all nearby ships that appears as a lightning storm in space, reminscent of the perpetual storm in Kahje's sky."
-StringInfo
-	ID "IDS_ABILITY_COUN_MANOWARVOICEOFENKINDLERS_NAME"
-	Value "Voice Of The Enkindlers"
-StringInfo
-	ID "IDS_ABILITY_COUN_MANOWARVOICEOFENKINDLERS_DESCRIPTION"
-	Value "Hanar tech experts and VIs aboard the Man-O-War are adept at hacking the systems necessary to allow them to broadcast the scripture of the Enkindlers directly into hostile vessels internal communications networks. This creates a form of jamming field that interferes with enemy targetting and the operation of complex systems, and almost always incites the enemy to focus their fire on them due to sheer annoyance."
-StringInfo
-	ID "IDS_ABILITY_COUN_MANOWARDAYOFEXTINGUISHMENT_NAME"
-	Value "Day Of Extinguishment"
-StringInfo
-	ID "IDS_ABILITY_COUN_MANOWARDAYOFEXTINGUISHMENT_DESCRIPTION"
-	Value "The Hanar crew believe that their apocalypse, the Day of Extinguishment, is upon them. In order to better facilitate the destruction of non-Hanar that this event requires, they vent the liquid atmosphere of the ship in order to free up more power from their huge Element Zero Core. This will greatly boost the direct combat capability of the ship, but disables abilities until it can visit a shipyard and be restocked with water."
-StringInfo
-	ID "IDS_ABILITY_COUN_MANOWARDEGRADINGSYSTEMS_NAME"
-	Value "Liquid Atmosphere"
-StringInfo
-	ID "IDS_ABILITY_COUN_MANOWARDEGRADINGSYSTEMS_DESCRIPTION"
-	Value "The Man-O-War is unique among warships in that its atmosphere is liquid water instead of the standard oxygen mix. Though this allows the Hanar crew to operate at peak performance, it also raises the ships mass considerably, slowing it down a great deal. When the ship takes damage, some of this water will vent from the hull breaches, lowering the mass but impeding the crew from moving about easily."

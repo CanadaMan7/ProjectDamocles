@@ -1,0 +1,93 @@
+TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_REAPER_RESEARCH"
+smallHudIcon "HUDICON_REAPER_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_REAPHARVEST_REAPERS_NAME"
+DescriptionStringID "IDS_RESEARCH_REAPHARVEST_REAPERS_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 0 , 0 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 300.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 0.000000
+	metal 150.000000
+	crystal 300.000000
+PerLevelCostIncrease
+	credits 0.000000
+	metal 75.000000
+	crystal 75.000000
+Tier 0
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 0
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 13
+researchModifier
+	modifierType "CultureResistPercent"
+	baseValue 0.500000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "PopulationGrowthRateAdjustment"
+	baseValue -5.000000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue -5.000000
+	perLevelValue 0.000000
+	linkedPlanetType "Invalid"
+researchModifier
+	modifierType "PlanetUpgradeCostAdjustment"
+	baseValue 1.000000
+	perLevelValue 0.000000
+	linkedPlanetUpgradeType "CivilianModules"
+researchModifier
+	modifierType "PlanetUpgradeCostAdjustment"
+	baseValue 1.000000
+	perLevelValue 0.000000
+	linkedPlanetUpgradeType "TacticalModules"
+researchModifier
+	modifierType "PlanetUpgradeCostAdjustment"
+	baseValue 1.000000
+	perLevelValue 0.000000
+	linkedPlanetUpgradeType "Infrastructure"
+researchModifier
+	modifierType "PlanetUpgradeBuildRateAdjustment"
+	baseValue -1.000000
+	perLevelValue 0.000000
+	linkedPlanetUpgradeType "Invalid"
+researchModifier
+	modifierType "ExtractionRateMetalAdjustment"
+	baseValue 0.500000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "ExperienceAwardedAdjustment"
+	baseValue -2.000000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "CapitalShipMaxSlots"
+	baseValue 1.000000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "ShipMaxSlots"
+	baseValue 150.000000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "ShipMaxSlotLevel"
+	baseValue 0.000000
+	perLevelValue 1.000000
+researchModifier
+	modifierType "CapitalShipMaxSlotLevel"
+	baseValue 0.000000
+	perLevelValue 1.000000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

@@ -3,8 +3,8 @@ SinsArchiveVersion 193
 entityType "TitanUpgrade"
 stageCount 5
 stage
-	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_NAME"
-	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_DESCRIPTION"
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIKNOWYOUFEELTHIS_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIKNOWYOUFEELTHIS_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -16,8 +16,8 @@ stage
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_NAME"
-	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_DESCRIPTION"
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIKNOWYOUFEELTHIS_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIKNOWYOUFEELTHIS_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -26,17 +26,14 @@ stage
 	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade0"
 	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade0"
 	infoCardIcon ""
-	upgradePropertyCount 2
+	upgradePropertyCount 1
 	upgradeProperty
-		propertyType "AntiMatterRestoreRate"
-		value 1.500000
-	upgradeProperty
-		propertyType "AbilityCooldownRate"
-		value 0.125000
+		propertyType "WeaponDamage"
+		value 0.150000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_NAME"
-	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_DESCRIPTION"
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIKNOWYOUFEELTHIS_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIKNOWYOUFEELTHIS_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -45,17 +42,14 @@ stage
 	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade1"
 	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade1"
 	infoCardIcon ""
-	upgradePropertyCount 2
+	upgradePropertyCount 1
 	upgradeProperty
-		propertyType "AntiMatterRestoreRate"
-		value 3.000000
-	upgradeProperty
-		propertyType "AbilityCooldownRate"
-		value 0.250000
+		propertyType "WeaponDamage"
+		value 0.300000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_NAME"
-	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_DESCRIPTION"
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIKNOWYOUFEELTHIS_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIKNOWYOUFEELTHIS_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -64,17 +58,14 @@ stage
 	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade2"
 	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade2"
 	infoCardIcon ""
-	upgradePropertyCount 2
+	upgradePropertyCount 1
 	upgradeProperty
-		propertyType "AntiMatterRestoreRate"
-		value 4.500000
-	upgradeProperty
-		propertyType "AbilityCooldownRate"
-		value 0.375000
+		propertyType "WeaponDamage"
+		value 0.450000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_NAME"
-	descStringID "IDS_SUPERDREAD_CERBTHEMIS_UPGRADELOADERS_DESCRIPTION"
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIKNOWYOUFEELTHIS_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIKNOWYOUFEELTHIS_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -83,11 +74,8 @@ stage
 	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade3"
 	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade3"
 	infoCardIcon ""
-	upgradePropertyCount 2
+	upgradePropertyCount 1
 	upgradeProperty
-		propertyType "AntiMatterRestoreRate"
-		value 6.000000
-	upgradeProperty
-		propertyType "AbilityCooldownRate"
-		value 0.500000
+		propertyType "WeaponDamage"
+		value 0.600000
 	upgradeBoolPropertyCount 0

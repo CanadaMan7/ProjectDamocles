@@ -48,7 +48,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_DREADNOUGHT_COUNMEHRAK_NAME"
 DescriptionStringID "IDS_DREADNOUGHT_COUNMEHRAK_DESCRIPTION"
-picture "DREADNOUGHT_COUN_MEHREK"
+picture "PICTURE_CAPITALSHIP_UNSCMARATHON"
 Prerequisites  
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
@@ -91,19 +91,15 @@ Weapon
 			fireDelay 0.000000
 		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds
-			soundCount 6
-			sound "WEAPON_COUN_TURIANSPINALMASSACCMUZZLE1"
-			sound "WEAPON_COUN_TURIANSPINALMASSACCMUZZLE2"
-			sound "WEAPON_COUN_TURIANSPINALMASSACCMUZZLE3"
-			sound "WEAPON_COUN_TURIANSPINALMASSACCMUZZLE4"
-			sound "WEAPON_COUN_TURIANSPINALMASSACCMUZZLE5"
-			sound "WEAPON_COUN_TURIANSPINALMASSACCMUZZLE6"
-		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
-		hitHullEffectSounds
+		muzzleSounds  
+			soundCount 2
+			sound "WEAPON_UNSC_MAC_MUZZLELIGHT"
+			sound "WEAPON_UNSC_MAC_MUZZLELIGHT_ALT1"
+		hitEffectName "Weapon_UNSCMAC_Hit"
+		hitHullEffectSounds  
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds
+		hitShieldsEffectSounds  
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
@@ -134,19 +130,16 @@ Weapon
 			fireDelay 0.000000
 	muzzleEffectName "Weapon_UNSCCoilgun_Muzzle"
 		muzzleSoundMinRespawnTime 0.10000
-		muzzleSounds
-			soundCount 6
-			sound "WEAPON_COUN_TURIANAUXMASSACCMUZZLE1"
-			sound "WEAPON_COUN_TURIANAUXMASSACCMUZZLE2"
-			sound "WEAPON_COUN_TURIANAUXMASSACCMUZZLE3"
-			sound "WEAPON_COUN_TURIANAUXMASSACCMUZZLE4"
-			sound "WEAPON_COUN_TURIANAUXMASSACCMUZZLE5"
-			sound "WEAPON_COUN_TURIANAUXMASSACCMUZZLE6"
-		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
-		hitHullEffectSounds
+		muzzleSounds  
+			soundCount 3
+			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE"
+			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE_ALT1"
+			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE_ALT2"
+		hitEffectName "Weapon_UNSCDeckGun_Hit"
+		hitHullEffectSounds  
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds
+		hitShieldsEffectSounds  
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"

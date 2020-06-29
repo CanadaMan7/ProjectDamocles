@@ -1,0 +1,35 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 100
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 0
+numPeriodicActions 0
+numOverTimeActions 1
+overTimeAction
+	buffOverTimeActionType "RestorePlanetHealth"
+	planetHealthRestoreRate
+		Level:0 0.200000
+		Level:1 0.400000
+		Level:2 0.400000
+		Level:3 0.400000
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "PlanetHealthMaxAdjustment"
+	value
+		Level:0 100.000000
+		Level:1 200.000000
+		Level:2 200.000000
+		Level:3 200.000000
+numEntityBoolModifiers 0
+numFinishConditions 2
+finishCondition
+	finishConditionType "FirstSpawnerNoLongerHasBuff"
+	buffTypeToQuery "Buff_Reap_GethPlatformAttackSelf"
+finishCondition
+	finishConditionType "OwnerChanged"

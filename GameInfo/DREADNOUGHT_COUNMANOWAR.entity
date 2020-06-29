@@ -1,10 +1,10 @@
 TXT2
 SinsArchiveVersion 194
 entityType "CapitalShip"
-ability:0 "Ability_Coun_ManOWarStormySkies"
-ability:1 "Ability_Coun_ManOWarVoiceOfEnkindlers"
-ability:2 ""
-ability:3 "Ability_Coun_ManOWarDayOfExtinguishment"
+ability:0 ""
+ability:1 "AbilityUNSCEpochPointDefense"
+ability:2 "AbilityUNSCEpochBidentMissiles"
+ability:3 ""
 ability:4 ""
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -48,7 +48,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_DREADNOUGHT_COUNMANOWAR_NAME"
 DescriptionStringID "IDS_DREADNOUGHT_COUNMANOWAR_DESCRIPTION"
-picture "DREADNOUGHT_COUN_MANOWAR"
+picture "PICTURE_CAPITALSHIP_UNSCEPOCH"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -94,18 +94,15 @@ Weapon
 		fireDelay 0.000000
 		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds
-			soundCount 5
-			sound "WEAPON_COUN_ASARISPINALMASSACCMUZZLE1"
-			sound "WEAPON_COUN_ASARISPINALMASSACCMUZZLE2"
-			sound "WEAPON_COUN_ASARISPINALMASSACCMUZZLE3"
-			sound "WEAPON_COUN_ASARISPINALMASSACCMUZZLE4"
-			sound "WEAPON_COUN_ASARISPINALMASSACCMUZZLE5"
-		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
-		hitHullEffectSounds
+		muzzleSounds  
+			soundCount 2
+			sound "WEAPON_UNSC_MAC_MUZZLELIGHT"
+			sound "WEAPON_UNSC_MAC_MUZZLELIGHT_ALT1"
+		hitEffectName "Weapon_UNSCMAC_Hit"
+		hitHullEffectSounds  
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds
+		hitShieldsEffectSounds  
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"

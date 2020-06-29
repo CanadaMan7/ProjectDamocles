@@ -1,0 +1,37 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_Reap_GethNetworkingDreadSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 4
+levelSourceType "ResearchStartsAt0"
+improveSourceResearchSubject "RESEARCH_REAPTOOLS_ULTIMATEHERESY"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_REAP_GETHNETWORKINGDREAD_NAME"
+descStringID "IDS_ABILITY_REAP_GETHNETWORKINGDREAD_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_TARGETINGUPLINK"
+smallHudIcon "HUDICON_ABILITY_TARGETINGUPLINK"
+infoCardIcon ""

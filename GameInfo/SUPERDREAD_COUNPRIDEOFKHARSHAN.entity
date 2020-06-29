@@ -97,19 +97,16 @@ Weapon
 			fireDelay 0.000000
 	muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds
-			soundCount 6
-			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE1"
-			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE2"
-			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE3"
-			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE4"
-			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE5"
-			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE6"
-		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
-		hitHullEffectSounds
+		muzzleSounds  
+			soundCount 3
+				sound "SMACNEW1"
+				sound "SMACNEW2"
+				sound "SMACNEW3"
+		hitEffectName "Weapon_UNSCSMAC_Hit"
+		hitHullEffectSounds  
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds
+		hitShieldsEffectSounds  
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
@@ -140,19 +137,16 @@ Weapon
 			fireDelay 0.000000
 	muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
 		muzzleSoundMinRespawnTime 0.10000
-		muzzleSounds
-			soundCount 6
-			sound "WEAPON_COUN_BATARIANAUXMASSACCMUZZLE1"
-			sound "WEAPON_COUN_BATARIANAUXMASSACCMUZZLE2"
-			sound "WEAPON_COUN_BATARIANAUXMASSACCMUZZLE3"
-			sound "WEAPON_COUN_BATARIANAUXMASSACCMUZZLE4"
-			sound "WEAPON_COUN_BATARIANAUXMASSACCMUZZLE5"
-			sound "WEAPON_COUN_BATARIANAUXMASSACCMUZZLE6"
-		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
-		hitHullEffectSounds
+		muzzleSounds  
+			soundCount 3
+			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE"
+			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE_ALT1"
+			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE_ALT2"
+		hitEffectName "Weapon_UNSCDeckGun_Hit"
+		hitHullEffectSounds  
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds
+		hitShieldsEffectSounds  
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"

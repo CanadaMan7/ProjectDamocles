@@ -12,7 +12,7 @@ frigateRoleType "Lrm"
 frigateRoleType "Corvette"
 statCountType "FrigateLongRange"
 mainViewIcon "MAINVIEWICON_FRIGATE_UNSCHILLSBOROUGH"
-picture "FRIGATE_COUN_TUNNERON"
+picture "PICTURE_FRIGATE_UNSCHILLSBOROUGH"
 NameStringID "IDS_FRIGATE_COUNTUNERRON_NAME"
 DescriptionStringID "IDS_FRIGATE_COUNTUNERRON_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_HILLSBOROUGH"
@@ -74,19 +74,15 @@ Weapon
 			fireDelay 0.000000
 	muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds
-			soundCount 6
-			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE1"
-			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE2"
-			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE3"
-			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE4"
-			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE5"
-			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE6"
-		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
-		hitHullEffectSounds
+		muzzleSounds  
+			soundCount 2
+			sound "WEAPON_UNSC_MAC_MUZZLELIGHT"
+			sound "WEAPON_UNSC_MAC_MUZZLELIGHT_ALT1"
+		hitEffectName "Weapon_UNSCMAC_Hit"
+		hitHullEffectSounds  
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds
+		hitShieldsEffectSounds  
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"

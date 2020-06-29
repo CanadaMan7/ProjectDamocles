@@ -1,0 +1,66 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetWithEntryVehicles"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_Reap_GethFrigatePlatformsBounce"
+targetFilter
+	numOwnerships 2
+	ownership "Enemy"
+	ownership "Friendly"
+	numObjects 1
+	object "Planet"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 3000.000000
+	Level:1 3000.000000
+	Level:2 3000.000000
+	Level:3 3000.000000
+entryVehicleType "ENTRYVEHICLE_REAP_GETHFRIGATE"
+numEntryVehicles
+	Level:0 1.000000
+	Level:1 1.000000
+	Level:2 1.000000
+	Level:3 1.000000
+travelTime 15.000000
+entryVehicleLaunchInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget TRUE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "OnlyWhenOrbitingEnemyPlanet"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 300.000000
+	Level:1 300.000000
+	Level:2 300.000000
+	Level:3 300.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_REAPCONVERSION_GETHINFANTRY"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_REAP_GETHFRIGATEPLATFORMS_NAME"
+descStringID "IDS_ABILITY_REAP_GETHFRIGATEPLATFORMS_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_COLONIZETECH"
+smallHudIcon "HUDICON_ABILITY_COLONIZETECH"
+infoCardIcon ""

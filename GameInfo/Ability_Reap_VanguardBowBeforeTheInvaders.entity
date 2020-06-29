@@ -1,0 +1,61 @@
+TXT2
+SinsArchiveVersion 193
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetNoRange"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_Reap_VanguardBowBeforeTheInvaders"
+targetFilter
+	numOwnerships 2
+	ownership "Enemy"
+	ownership "NoOwner"
+	numObjects 1
+	object "Planet"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 4
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 2.000000
+	Level:2 4.000000
+	Level:3 6.000000
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget TRUE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 240.000000
+	Level:1 240.000000
+	Level:2 240.000000
+	Level:3 240.000000
+cooldownTime
+	Level:0 180.000000
+	Level:1 170.000000
+	Level:2 160.000000
+	Level:3 150.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_REAP_VANGUARDBOWBEFORETHEINVADERS_NAME"
+descStringID "IDS_ABILITY_REAP_VANGUARDBOWBEFORETHEINVADERS_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_CERBACTIVATEAGENT"
+smallHudIcon "HUDICON_ABILITY_FARSIGHT"
+infoCardIcon ""

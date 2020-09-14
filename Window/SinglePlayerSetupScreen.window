@@ -1,0 +1,171 @@
+TXT
+tabWindow
+	topLeftOffset [0, 0]
+	buttonTopLeftOffset [0, 151]
+	buttonSize [ 380 , 48 ]
+	buttonIndicatorArea [148, -2, 72, 52]
+	buttonIndicatorBackdrop "None_Blank"
+	titleStringId "blank"
+	titleFontId ""
+	titleArea [0, 0, 0, 0]	
+	titleOverlayArea [-154, 17, 468, 27]
+	titleOverlay "UI_SubMenus_Header_SinglePlayer"
+	buttonsBackdropArea [-448, -156, 1920, 1080]
+	buttonsBackdropDetailArea [0, 0, 158, 749]
+	contentArea [412, 0, 770, 654]
+	buttonsBackdrop "UI_Background_SubMenu1"
+	buttonsBackdropDetail "None_Blank"
+	contentBackdrop "None_Blank"
+	nonActiveButtonInternals
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 212
+		textOffsetFromLeft 10
+		underlay "UI_SubMenu_ButtonNormal"
+		overlay "None_Blank"						
+	activeButtonInternals
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 212
+		textOffsetFromLeft 10
+		underlay "UI_SubMenu_ButtonNormal"
+		overlay "None_Blank"						
+	closeButton
+		area [-10, 700, 140 , 48]
+		fontId ""
+		iconOffsetFromLeft 0
+		textOffsetFromLeft 10
+		underlay "UI_SubMenu_BackButton_MainMenu"
+		overlay "None_Blank"				
+		icon "None_Blank"
+		text "blank"
+newGame
+	tabButtonIcon "UI_SubMenus_Text_NewGame"
+	tabButtonText "blank"
+	galaxySetupWindow
+		area [0, 0, 770, 654]
+	playNewGameButton
+		area [408, 79, 204 , 58]
+		fontId ""
+		iconOffsetFromLeft 0
+		textOffsetFromLeft 0
+		underlay "UI_TopbarButton"
+		overlay "UI_Overlay_SoloNewGame"				
+		icon "UI_TextTop_CreateLobby"
+		text "blank"	
+loadSavedGame
+	tabButtonIcon "UI_SubMenus_Text_LoadGame"
+	tabButtonText "blank"
+	fileNameListLabel
+		area [30, 228, 296 , 32]
+		fontId "Label"
+	fileNameList
+		area [20, 262, 302, 393]
+		itemGap 20
+	selectGameSaveTypeWindow
+		area [20, 152, 302 , 74]
+	loadButton
+		area [408, 79, 204 , 58]
+		fontId ""
+		iconOffsetFromLeft 0
+		textOffsetFromLeft 0
+		underlay "UI_TopbarButton"
+		overlay "UI_Overlay_SoloLoadGame"				
+		icon "UI_TextTop_CreateLobby"
+		text "blank"	
+	galaxyInfoWindow
+		area [328, 152, 440, 228]
+loadRecordedGame
+	tabButtonIcon "UI_SubMenus_Text_TheaterMode"
+	tabButtonText "blank"
+	fileNameListLabel
+		area [30, 228, 296 , 32]
+		fontId "Label"
+	fileNameList
+		area [20, 262, 302, 393]
+		itemGap 20
+	selectGameSaveTypeWindow
+		area [20, 152, 302 , 74]
+	loadButton
+		area [408, 79, 204 , 58]
+		fontId ""
+		iconOffsetFromLeft 0
+		textOffsetFromLeft 0
+		underlay "UI_TopbarButton"
+		overlay "UI_Overlay_SoloTheater"				
+		icon "UI_TextTop_Start"
+		text "blank"	
+	galaxyInfoWindow
+		area [328, 152, 440, 228]
+tutorial
+	tabButtonIcon "None_Blank"
+	tabButtonText "IDSSinglePlayerSetupScreenTutorialTabButton"
+	titleLabel
+		area [0, 0, 0, 0]
+		fontId "WindowSubTitle"
+		text "blank"
+	basicGameplayButton
+		area [0, 0, 0 , 0]
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 32000
+		textOffsetFromLeft 60000
+		underlay "None_Blank"
+		overlay "None_Blank"				
+		icon "None_Blank"
+		text "blank"			
+	resourcingButton
+		area [0, 0, 0 , 0]
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 32000
+		textOffsetFromLeft 60000
+		underlay "None_Blank"
+		overlay "None_Blank"				
+		icon "None_Blank"
+		text "blank"			
+	advancedInterfaceButton
+		area [0, 0, 0 , 0]
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 32000
+		textOffsetFromLeft 60000
+		underlay "None_Blank"
+		overlay "None_Blank"				
+		icon "None_Blank"
+		text "blank"			
+	advancedLogisticsButton
+		area [0, 0, 0 , 0]
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 32000
+		textOffsetFromLeft 60000
+		underlay "None_Blank"
+		overlay "None_Blank"				
+		icon "None_Blank"
+		text "blank"			
+	advancedDefenseButton
+		area [0, 0, 0 , 0]
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 32000
+		textOffsetFromLeft 60000
+		underlay "None_Blank"
+		overlay "None_Blank"				
+		icon "None_Blank"
+		text "blank"			
+	diplomacyButton
+		area [0, 0, 0 , 0]
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 32000
+		textOffsetFromLeft 60000
+		underlay "None_Blank"
+		overlay "None_Blank"				
+		icon "None_Blank"
+		text "blank"			
+playerSetup
+	tabButtonIcon "UI_SubMenus_Text_MyProfile"
+	tabButtonText "blank"
+galaxyRandomizer
+	tabButtonIcon "UI_SubMenus_Text_ForgeMode"
+	tabButtonText "blank"
+	galaxyRandomizerWindow
+		area [0, 0, 770, 654]
+achievements
+	tabButtonIcon "UI_SubMenus_Text_Achivements"
+	tabButtonText "blank"
+	achievementsWindow
+	area [0, 0, 770, 654]

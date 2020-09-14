@@ -1,0 +1,13 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 2
+brush
+	name "PICTURE_PLACEHOLDER"
+	content "Simple"
+	fileName "HUD_Unit_Pictures"
+	pixelBox [ 0 , 0 , 372 , 172 ]
+brush
+	name "PICTURE_CAPITALSHIP_FLOODCARRIER"
+	content "Simple"
+	fileName "HUD_Unit_Pictures"
+	pixelBox [ 744 , 860 , 372 , 172 ]

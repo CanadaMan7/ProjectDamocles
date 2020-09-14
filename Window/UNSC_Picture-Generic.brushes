@@ -1,0 +1,13 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 2
+brush
+	name "PICTURE_STARBASE_UNSCANCHOR"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 1068 , 792 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_UNSCDEEPSPACEMINE"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 1423 , 792 , 354 , 261 ]

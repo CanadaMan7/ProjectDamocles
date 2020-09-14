@@ -1,0 +1,1786 @@
+TXT
+onlyLoadOnDemand FALSE 
+brushCount 99
+brush
+	name "HUDICON_RESEARCH_PLACEHOLDERNEW"
+	content "States"
+	Disabled
+		fileName "SOTP_Research_SheetPlaceHolder"
+		pixelBox [ 2 , 245 , 137 , 79 ] 
+	Pressed
+		fileName "SOTP_Research_SheetPlaceHolder"
+		pixelBox [ 2 , 164 , 137 , 79 ] 
+	CursorOver
+		fileName "SOTP_Research_SheetPlaceHolder"
+		pixelBox [ 2 , 83 , 137 , 79 ] 
+	Focused
+		fileName "SOTP_Research_SheetPlaceHolder"
+		pixelBox [ 2 , 2 , 137 , 79 ] 
+	Normal
+		fileName "SOTP_Research_SheetPlaceHolder"
+		pixelBox [ 2 , 2 , 137 , 79 ] 
+brush
+	name "HUDICON_RESEARCHCOV_APS"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 198 , 525 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 198 , 525 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 198 , 525 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 198 , 525 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 198 , 525 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHCOV_XYTAN4"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 990 , 525 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 990 , 525 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 990 , 525 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 990 , 525 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 990 , 525 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHCOV_XYTAN3"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 891 , 525 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 891 , 525 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 891 , 525 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 891 , 525 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 891 , 525 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHCOV_XYTAN2"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 792 , 525 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 792 , 525 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 792 , 525 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 792 , 525 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 792 , 525 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHCOV_XYTAN1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 693 , 525 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 693 , 525 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 693 , 525 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 693 , 525 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 693 , 525 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHCOV_THEL4"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 594 , 525 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 594 , 525 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 594 , 525 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 594 , 525 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 594 , 525 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHCOV_THEL3"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 495 , 525 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 495 , 525 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 495 , 525 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 495 , 525 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 495 , 525 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHCOV_THEL2"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 396 , 525 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 396 , 525 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 396 , 525 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 396 , 525 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 396 , 525 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHCOV_THEL1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 297 , 525 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 297 , 525 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 297 , 525 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 , 525 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 , 525 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHCOV_XYTAN"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 792 , 450 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 792 , 450 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 792 , 450 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 792 , 450 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 792 , 450 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHCOV_REGRET"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 693 , 450 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 693 , 450 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 693 , 450 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 693 , 450 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 693 , 450 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHCOV_THEL"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 594 , 450 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 594 , 450 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 594 , 450 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 594 , 450 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 594 , 450 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHDESC_COV"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 495 , 450 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 495 , 450 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 495 , 450 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 495 , 450 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 495 , 450 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_PLASMABEAMCPV"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 198 , 450 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 198 , 450 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 198 , 450 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 198 , 450 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 198 , 450 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVMINING4"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 99 , 450 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 99 , 450 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 99 , 450 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 99 , 450 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 99 , 450 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVMINING3"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 0 , 450 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 0 , 450 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 0 , 450 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 0 , 450 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 0 , 450 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVMINING2"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 1089 , 375 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 1089 , 375 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 1089 , 375 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 1089 , 375 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 1089 , 375 , 94 , 70 ]  
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVMINING1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 990 , 375 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 990 , 375 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 990 , 375 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 990 , 375 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 990 , 375 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_PLANETMODULEACCESS_COVREFINERY"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 99 , 75 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 99 , 75 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 99 , 75 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 99 , 75 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 99 , 75 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_PLANETMODULEACCESS_COVTRADE"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 198 , 75 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 198 , 75 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 198 , 75 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 198 , 75 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 198 , 75 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_PLANETMODULEACCESS_COVHANGARDEFENSE"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 0 , 75 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 0 , 75 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 0 , 75 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 0 , 75 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 0 , 75 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_PLANETMODULEACCESS_COVPATROL4"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 1089 , 0 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 1089 , 0 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 1089 , 0 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 1089 , 0 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 1089 , 0 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_PLANETMODULEACCESS_COVPATROL3"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 990 , 0 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 990 , 0 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 990 , 0 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 990 , 0 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 990 , 0 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_PLANETMODULEACCESS_COVPATROL2"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 891 , 0 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 891 , 0 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 891 , 0 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 891 , 0 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 891 , 0 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCH_COVPATROLSTATION"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 792 , 0 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 792 , 0 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 792 , 0 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 792 , 0 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 792 , 0 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_PLANETMODULEACCESS_COVREPAIRPLATFORM"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 909 , 355 , 100 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 909 , 355 , 100 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 909 , 355 , 100 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 909 , 355 , 100 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 909 , 355 , 100 , 70 ]
+brush
+	name "HUDICON_FRIGATE_COVDAVACCESS"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 792 , 375 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 792 , 375 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 792 , 375 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 792 , 375 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 792 , 375 , 94 , 70 ]
+brush
+	name "HUDICON_FRIGATE_COVRCSACCESS"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 990 , 450 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 990 , 450 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 990 , 450 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 990 , 450 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 990 , 450 , 94 , 70 ] 
+brush
+	name "HUDICON_FRIGATE_COVADPACCESS"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 891 , 450 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 891 , 450 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 891 , 450 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 891 , 450 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 891 , 450 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVWEAPONDAMAGE_LASERPSI3"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 594 , 375 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 594 , 375 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 594 , 375 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 594 , 375 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 594 , 375 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVWEAPONDAMAGE_LASERPSI2"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 495 , 375 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 495 , 375 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 495 , 375 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 495 , 375 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 495 , 375 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVWEAPONDAMAGE_LASERPSI1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 396 , 375 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 396 , 375 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 396 , 375 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 396 , 375 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 396 , 375 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVWEAPONDAMAGE_LASERPSI0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 396 , 450 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 396 , 450 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 396 , 450 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 396 , 450 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 396 , 450 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVWEAPONDAMAGE_BEAM3"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 297 , 375 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 297 , 375 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 297 , 375 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 , 375 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 , 375 , 94 , 70 ]  
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVWEAPONDAMAGE_BEAM2"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 198 , 375 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 198 , 375 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 198 , 375 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 198 , 375 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 198 , 375 , 94 , 70 ]  
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVWEAPONDAMAGE_BEAM1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 99 , 375 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 99 , 375 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 99 , 375 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 99 , 375 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 99 , 375 , 94 , 70 ]  
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVWEAPONDAMAGE_BEAM0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 0 , 375 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 0 , 375 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 0 , 375 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 0 , 375 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 0 , 375 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVWEAPONCOOLDOWN_PLASMA"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 1089 , 300 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 1089 , 300 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 1089 , 300 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 1089 , 300 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 1089 , 300 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVWEAPONDAMAGE_PLASMA2"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 990 , 300 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 990 , 300 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 990 , 300 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 990 , 300 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 990 , 300 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVWEAPONDAMAGE_PLASMA1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 891 , 300 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 891 , 300 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 891 , 300 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 891 , 300 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 891 , 300 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVWEAPONDAMAGE_PLASMA0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 792 , 300 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 792 , 300 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 792 , 300 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 792 , 300 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 792 , 300 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVTRADEBOOST"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 594 , 300 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 594 , 300 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 594 , 300 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 594 , 300 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 594 , 300 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVRESOLUTETIOLING"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 693 , 300 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 693 , 300 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 693 , 300 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 693 , 300 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 693 , 300 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYPERSPACE_COVSLIPMONITOR1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 495 , 300 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 495 , 300 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 495 , 300 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 495 , 300 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 495 , 300 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYPERSPACE_COVSLIPMONITOR0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 396 , 300 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 396 , 300 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 396 , 300 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 396 , 300 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 396 , 300 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVTAX"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 297 , 300 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 297 , 300 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 297 , 300 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 , 300 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 , 300 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYPERSPACE_COVWORMHOLETRAVELPHASE"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 0 , 300 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 0 , 300 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 0 , 300 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 0 , 300 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 0 , 300 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVHYPERSPACE_DETECTIONPHASE1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 198 , 300 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 198 , 300 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 198 , 300 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 198 , 300 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 198 , 300 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_HYPERSPACE_COVDETECTIONPHASE0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 99 , 300 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 99 , 300 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 99 , 300 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 99 , 300 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 99 , 300 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVRELICSURVEY"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 1089 , 225 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 1089 , 225 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 1089 , 225 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 1089 , 225 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 1089  , 225 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVPOPULATIONCAPTERRANTECH4"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 990 , 225 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 990 , 225 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 990 , 225 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 990 , 225 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 990  , 225 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVPOPULATIONCAPTERRANTECH3"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 891 , 225 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 891 , 225 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 891 , 225 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 891 , 225 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 891  , 225 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVPOPULATIONCAPTERRANTECH2"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 792 , 225 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 792 , 225 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 792 , 225 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 792 , 225 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 792  , 225 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVOPULATIONCAPTERRANTECH0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 693 , 225 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 693 , 225 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 693 , 225 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 693 , 225 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 693  , 225 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVPOPULATIONCAP_BARREN_0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 594 , 225 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 594 , 225 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 594 , 225 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 594 , 225 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 594 , 225 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVPOPULATIONCAPTERRANTECH1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 495 , 225 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 495 , 225 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 495 , 225 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 495 , 225 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 495 , 225 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVPOPULATIONCAPTERRANTECH0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 396 , 225 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 396 , 225 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 396 , 225 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 396 , 225 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 396 , 225 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVWEAPONDAMAGE_FLASHBEAM1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 297 ,225 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 297 ,225 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 297 ,225 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 ,225 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 ,225 , 94 , 70 ]  
+brush
+	name "HUDICON_ABILITY_COVDISABLESHIELDEMITTERS"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 1111 , 142 , 100 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 1111 , 142 , 100 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 1111 , 142 , 100 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 1111 , 142 , 100 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 1111 , 142 , 100 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVABILITYACCESS_SYNERGY"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 1111 , 142 , 100 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 1111 , 142 , 100 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 1111 , 142 , 100 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 1111 , 142 , 100 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 1111 , 142 , 100 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_ABILITYACCESS_COVDETECTPHASEJUMP"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 0 ,225 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 0 ,225 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 0 ,225 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 0 ,225 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 0 ,225 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_ABILITYACCESS_COVDEPLOYSTARBASEPHASE"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 1089 ,150 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 1089 ,150 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 1089 ,150 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 1089 ,150 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 1089 ,150 , 94 , 70 ]
+brush
+	name "HUDICON_ABILITY_COVDESTABILIZEHYPERSPACE"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 990 ,150 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 990 ,150 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 990 ,150 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 990 ,150 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 990 ,150 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_PLANETACCESS_COVVOLCANICTECH"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 909 , 142 , 100 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 909 , 142 , 100 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 909 , 142 , 100 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 909 , 142 , 100 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 909 , 142 , 100 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_PLANETACCESS_COVICETECH"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 808 , 142 , 100 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 808 , 142 , 100 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 808 , 142 , 100 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 808 , 142 , 100 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 808 , 142 , 100 , 70 ] 
+brush
+	name "HUDICON_ABILITY_COVSPRINT"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 594 ,150 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 594 ,150 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 594 ,150 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 594 ,150 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 594 ,150 , 94 , 70 ]
+brush
+	name "HUDICON_ABILITY_COVSPEEDBOOST"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 693 ,150 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 693 ,150 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 693 ,150 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 693 ,150 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 693 ,150 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_WEAPONDAMAGE_LASERCOV1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 495 ,150 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 495 ,150 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 495 ,150 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 495 ,150 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 495 ,150 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_WEAPONDAMAGE_LASERCOV0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 396 ,150 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 396 ,150 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 396 ,150 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 396 ,150 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 396 ,150 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVPLANETBOMBING_DAMAGE1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 297 ,150 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 297 ,150 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 297 ,150 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 ,150 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 ,150 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVPLANETBOMBING_DAMAGE"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 198 ,150 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 198 ,150 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 198 ,150 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 198 ,150 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 198 ,150 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_ANTIMATTERCOV2"
+	content "States"
+	Disabled
+		fileName "SOTP_RESEARCHICONS_COV_DISABLED"
+		pixelBox [ 87 , 124 , 85 , 60 ]
+	Pressed
+		fileName "SOTP_RESEARCHICONS_COV_PRESSED"
+		pixelBox [ 87 , 124 , 85 , 60 ]
+	CursorOver
+		fileName "SOTP_RESEARCHICONS_COV_CURSOROVER"
+		pixelBox [ 87 , 124 , 85 , 60 ]
+	Focused
+		fileName "SOTP_RESEARCHICONS_COV_NORMAL"
+		pixelBox [ 87 , 124 , 85 , 60 ]
+	Normal
+		fileName "SOTP_RESEARCHICONS_COV_NORMAL"
+		pixelBox [ 87 , 124 , 85 , 60 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ANTIMATTERCOV1"
+	content "States"
+	Disabled
+		fileName "SOTP_RESEARCHICONS_COV_DISABLED"
+		pixelBox [ 0 , 124 , 85 , 60 ]
+	Pressed
+		fileName "SOTP_RESEARCHICONS_COV_PRESSED"
+		pixelBox [ 0 , 124 , 85 , 60 ]
+	CursorOver
+		fileName "SOTP_RESEARCHICONS_COV_CURSOROVER"
+		pixelBox [ 0 , 124 , 85 , 60 ]
+	Focused
+		fileName "SOTP_RESEARCHICONS_COV_NORMAL"
+		pixelBox [ 0 , 124 , 85 , 60 ]
+	Normal
+		fileName "SOTP_RESEARCHICONS_COV_NORMAL"
+		pixelBox [ 0 , 124 , 85 , 60 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ANTIMATTERCOV0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 891 , 375 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 891 , 375 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 891 , 375 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 891 , 375 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 891 , 375 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_SHIELDMAXMITIGATION2"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 792 , 75 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 792 , 75 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 792 , 75 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 792 , 75 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 792 , 75 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_SHIELDSCOV2"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 693 , 75 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 693 , 75 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 693 , 75 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 693 , 75 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 693 , 75 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_SHIELDMAXMITIGATION1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 594 , 75 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 594 , 75 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 594 , 75 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 594 , 75 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 594 , 75 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_SHIELDSCOV1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 495 , 75 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 495 , 75 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 495 , 75 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 495 , 75 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 495 , 75 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_SHIELDMAXMITIGATION0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 396 , 75 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 396 , 75 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 396 , 75 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 396 , 75 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 396 , 75 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_SHIELDSCOV0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 297 , 75 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 297 , 75 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 297 , 75 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 , 75 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 , 75 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_ARMORCOV1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 99 , 150 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 99 , 150 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 99 , 150 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 99 , 150 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 99 , 150 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_HULLCOV1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 0 , 150 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 0 , 150 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 0 , 150 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 0 , 150 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 0 , 150 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_ARMORCOV0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 1089 , 75 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 1089 , 75 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 1089 , 75 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 1089 , 75 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 1089 , 75 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_HULLCOV0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 990 , 75 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 990 , 75 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 990 , 75 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 990 , 75 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 990 , 75 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVREFIT"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 693 , 375 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 693 , 375 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 693 , 375 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 693 , 375 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 693 , 375 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVOAS"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 594 , 0 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 594 , 0 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 594 , 0 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 594 , 0 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 594 , 0 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVDOS"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 495 , 0 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 495 , 0 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 495 , 0 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 495 , 0 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 495 , 0 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVCCS"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 198 , 0 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 198 , 0 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 198 , 0 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 198 , 0 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 198 , 0 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVOSS"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 891 , 75 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 891 , 75 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 891 , 75 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 891 , 75 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 891 , 75 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVCAS"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 693 , 0 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 693 , 0 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 693 , 0 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 693 , 0 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 693 , 0 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVDDS"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 396 , 0 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 396 , 0 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 396 , 0 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 396 , 0 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 396 , 0 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVCRS"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 297 , 450 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 297 , 450 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 297 , 450 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 , 450 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 , 450 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVDSC"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 297 , 450 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 297 , 450 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 297 , 450 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 , 450 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 , 450 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVDIVINEINSP"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 297 , 0 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 297 , 0 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 297 , 0 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 , 0 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 297 , 0 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVPCS"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 99 , 525 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 99 , 525 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 99 , 525 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 99 , 525 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 99 , 525 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVCPV"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 99 , 0 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 99 , 0 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 99 , 0 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 99 , 0 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 99 , 0 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVRPV"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 0 , 525 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 0 , 525 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 0 , 525 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 0 , 525 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 0 , 525 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_COVCAR"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSCOV_NEW_DISABLED"
+		pixelBox [ 0 , 0 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSCOV_NEW_PRESSED"
+		pixelBox [ 0 , 0 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSCOV_NEW_CURSOROVER"
+		pixelBox [ 0 , 0 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 0 , 0 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSCOV_NEW_NORMAL"
+		pixelBox [ 0 , 0 , 94 , 70 ] 
+		

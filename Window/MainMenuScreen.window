@@ -1,0 +1,145 @@
+TXT
+backdrop "UI_Background_MainMenu"
+logoIconRefArea [595, 411,  96 , 144 ]
+logoIcon "UX_MainMenu_NewsFeed_1"
+titleRefArea [0, 0,  0, 0 ]
+titleStringId "blank"
+titleFont "TabbedScreenTitle"
+titleOverlayRefArea [595, 411,  96, 48 ]
+titleOverlay "UX_MainMenu_NewsFeed_2"
+singlePlayerButton
+	area [0, 484, 320, 46 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UX_MainMenu_Button_Underlay"
+	overlay "UX_MainMenu_ButtonHoverInfo_SinglePlayer"		
+	icon "UX_MainMenu_ButtonText_SinglePlayer"
+	text "blank"
+multiPlayerButton
+	area [0, 576, 320, 46 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UX_MainMenu_Button_Underlay"
+	overlay "UX_MainMenu_ButtonHoverInfo_CustomGames"		
+	icon "UX_MainMenu_ButtonText_CustomGames"
+	text "blank"
+icoButton
+	area [0, 530, 320, 46 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UX_MainMenu_Button_Underlay"
+	overlay "UX_MainMenu_ButtonHoverInfo_Matchmaking"		
+	icon "UX_MainMenu_ButtonText_Matchmaking"
+	text "blank"
+optionsButton
+	area [0, 622, 320, 46 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UX_MainMenu_Button_Underlay"
+	overlay "UX_MainMenu_ButtonHoverInfo_Settings"		
+	icon "UX_MainMenu_ButtonText_Settings"
+	text "blank"
+privacyPolicyButton
+	area [620, 363, 45, 45 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "blank"
+	overlay "blank"		
+	icon "blank"
+	text "blank"
+quitButton
+	area [0, 668, 320, 46 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UX_MainMenu_Button_Underlay"
+	overlay "UX_MainMenu_ButtonHoverInfo_QuitGame"		
+	icon "UX_MainMenu_ButtonText_QuitGame"
+	text "blank"
+dlc1Button
+	area [0, 0, 1, 1]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "blank"
+	overlay "blank"		
+	icon "blank"
+	text "blank"
+dlc2Button
+	area [0, 0, 1, 1]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "blank"
+	overlay "blank"		
+	icon "blank"
+	text "blank"
+dlcForbiddenWorldsBack "UX_MainMenu_NewsFeed_3" 
+dlcStellarPhenomenaBack "UX_MainMenu_NewsFeed_3" 
+dlcOutlawSectorsBack "UX_MainMenu_NewsFeed_3" 
+dlcSoundtrackBack "UX_MainMenu_NewsFeed_3" 
+dlcAshesBack "UX_MainMenu_NewsFeed_4"
+dlc1BackFrameRefArea [595, 458,  96 , 50 ] 
+dlc1BackNoFrameRefArea [595, 458,  96 , 50 ] 
+dlc2BackFrameRefArea [595, 507,  96 , 48 ] 
+dlc2BackNoFrameRefArea [595, 458,  96 , 50 ] 
+privacyPolicyCommandLine "SOTPUPDATE.bat"
+gdprDialog
+	backdropDimPercentage 0.8
+	backdropBrush "blank"
+	titleOverlayBrush "blank"
+	size [693 , 645]
+	contentRefArea [93, 100, 508, 435]
+	titleRefArea [90, 40, 508, 30]
+	titleOverlayRefArea [0, 0, 693, 90]
+	cancelButton
+		area [0, 0, 1, 1]
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 0
+		textOffsetFromLeft 0
+		underlay "blank"
+		overlay "blank"		
+		icon "blank"
+		text "blank"
+	acceptButton
+		area [110, 560, 480, 46 ]
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 0
+		textOffsetFromLeft 0
+		underlay "blank"
+		overlay "blank"		
+		icon "blank"
+		text "AcceptPrivacy"
+	titleTextId "IDS_GDPRDialogTitle"
+	privacyPolicyButton
+		area [0, 0, 1, 1]
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 0
+		textOffsetFromLeft 0
+		underlay "blank"
+		overlay "blank"		
+		icon "blank"
+		text "blank"
+	privacyPolicyCommandLine "privacyPolicy.bat"
+	paragraphs 13
+	paragraph "IDS_GDPRParagraph0"
+	paragraph "IDS_GDPRParagraph1"
+	paragraph "IDS_GDPRParagraph2"
+	paragraph "IDS_GDPRParagraph3"
+	paragraph "IDS_GDPRParagraph4"
+	paragraph "IDS_GDPRParagraph5"
+	paragraph "IDS_GDPRParagraph6"
+	paragraph "IDS_GDPRParagraph7"
+	paragraph "IDS_GDPRParagraph8"
+	paragraph "IDS_GDPRParagraph9"
+	paragraph "IDS_GDPRParagraph10"
+	paragraph "IDS_GDPRParagraph11"
+	paragraph "IDS_GDPRParagraph12"
+textEntryDef
+	labelFontId "ButtonLabel"
+	textEntryFontId "ButtonLabel"

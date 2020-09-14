@@ -1,0 +1,183 @@
+TXT
+tabWindow
+	topLeftOffset [0, 80]
+	buttonTopLeftOffset [30, 91]
+	buttonSize [ 170 , 60 ]
+	buttonIndicatorArea [128, 6, 60, 52]
+	buttonIndicatorBackdrop "None_Blank"
+	titleStringId "blank"
+	titleFontId "blank"
+	titleArea [20, 34, 190, 40]
+	titleOverlayArea [12, 18, 208 , 59]
+	titleOverlay ""
+	buttonsBackdropArea [373, 68, 210, 749]
+	buttonsBackdropDetailArea [0, 0, 210, 749]
+	contentArea [230, -32, 814, 749]
+	buttonsBackdrop "TabWindowButtonBackdropInGame"
+	buttonsBackdropDetail ""
+	contentBackdrop "TabWindowContentBackdropInGame"
+nonActiveButtonInternals
+		fontId "Label"
+		iconOffsetFromLeft 40
+		textOffsetFromLeft -2
+		underlay "TabButtonUnderlayNonActive"
+		overlay "TabButtonOverlayNonActive"						
+	activeButtonInternals
+		fontId "Label"
+		iconOffsetFromLeft 40
+		textOffsetFromLeft -2
+		underlay "TabButtonUnderlayActive"
+		overlay "TabButtonOverlayActive"		
+	closeButton
+		area [30, 630, 170 , 60]
+		fontId "Label"
+		iconOffsetFromLeft 40
+		textOffsetFromLeft -2
+		underlay "TabButtonUnderlayNonActive"
+		overlay "TabButtonOverlayNonActive"						
+		icon "blank"
+		text "IDSResearchScreenCloseButton"
+buttonSharedDef
+	requiredAsPrerequisiteOverlayTime 30
+	unknownArtifactPicture "ArtifactPictureUnknown"		
+treeSharedDef
+	basicTreeDef
+		pictureTopLeft [17, 54]
+	fleetTreeDef
+		pictureBackdropArea [70, 25, 153 , 186]
+		pictureArea [72, 26, 153 , 186]
+		pictureBackdrop ""
+		pictureOverlay ""
+		valueSharedDef
+			labelArea [12, 12, 100, 30]
+			valueArea [150, 14, 40, 30]
+			iconArea [125, 14, 20, 30]
+			labelFont "TextEntry"
+			valueFont "TextEntry"
+			backdrop "ResearchScreenFleetLevelValueBackdrop"
+			overlay ""
+		currentCapitalShipMaxSlots
+			area [-5000, -5000, 199 , 56]
+			icon ""
+			labelStringId "IDSResearchScreenCurrentCapitalShipMaxSlots"
+		nextCapitalShipMaxSlots
+			area [-5000, -5000, 199 , 56]
+			icon "ResearchScreenNextLevelIcon"
+			labelStringId "IDSResearchScreenNextCapitalShipMaxSlots"
+		currentShipMaxSlots
+			area [-5000, -5000, 199 , 56]
+			icon ""
+			labelStringId "IDSResearchScreenCurrentShipMaxSlots"
+		nextShipMaxSlots
+			area [-5000, -5000, 199 , 56]
+			icon "ResearchScreenNextLevelIcon"
+			labelStringId "IDSResearchScreenNextShipMaxSlots"
+		currentUpkeep
+			area [-5000, -5000, 199 , 56]
+			icon ""
+			labelStringId "IDSResearchScreenCurrentUpkeep"
+		nextUpkeep
+			area [-5000, -5000, 199 , 56]
+			icon "ResearchScreenNextLevelIcon"
+			labelStringId "IDSResearchScreenNextUpkeep"
+	arrowBrushes
+		Right1 "ResearchWindowArrowRight1"
+		Right2 "ResearchWindowArrowRight2"
+		Right3 "ResearchWindowArrowRight3"
+		Right4 "ResearchWindowArrowRight4"
+		Right1Down1 "ResearchWindowArrowRight1Down1"
+		Right1BlockDown1 "ResearchWindowArrowRight1BlockDown1"
+		Down1 "ResearchWindowArrowDown1"
+		Up2 "ResearchWindowArrowUp2"
+		Up1Right1 "ResearchWindowArrowUp1Right1"
+		Up1Right2 "ResearchWindowArrowUp1Right2"
+		BlockDown1 "ResearchWindowArrowBlockDown1"
+		BlockUp1 "ResearchWindowArrowBlockUp1"
+		OtherTab "ResearchTreeArrowOtherTab"
+	tierStartOffset 242
+	tierStride 64
+combatContentWindow
+	blockWindowSharedDef
+		titleArea [18, 20, 200, 30]
+		titleFontId "Label"
+ 		buttonTopLeftOffset [83, 2]
+  		buttonSize [137 , 79]
+  		buttonSpacing [2, 2]
+		buttonSpecificDef	
+			barsOffsetFromTop 4
+			barsWidthModifier -5
+			backdrop "ResearchWindowButtonBackdrop"
+			overlay ""
+			maxLevelOverlay "ResearchWindowButtonMaxLevelOverlay"		
+		isBackdropStretched TRUE
+defenseContentWindow
+	blockWindowSharedDef
+		titleArea [18, 20, 200, 30]
+		titleFontId "Label"
+ 		buttonTopLeftOffset [83, 2]
+  		buttonSize [137 , 79]
+  		buttonSpacing [2, 2]
+		buttonSpecificDef	
+			barsOffsetFromTop 4
+			barsWidthModifier -5
+			backdrop "ResearchWindowButtonBackdrop"
+			overlay ""
+			maxLevelOverlay "ResearchWindowButtonMaxLevelOverlay"		
+		isBackdropStretched TRUE
+nonCombatContentWindow
+	blockWindowSharedDef
+		titleArea [18, 20, 200, 30]
+		titleFontId "Label"
+ 		buttonTopLeftOffset [83, 2]
+  		buttonSize [137 , 79]
+  		buttonSpacing [2, 2]
+		buttonSpecificDef
+			barsOffsetFromTop 4
+			barsWidthModifier -5
+			backdrop "ResearchWindowButtonBackdrop"
+			overlay ""
+			maxLevelOverlay "ResearchWindowButtonMaxLevelOverlay"
+		isBackdropStretched TRUE
+diplomacyContentWindow
+	blockWindowSharedDef
+		titleArea [18, 20, 200, 30]
+		titleFontId "Label"
+ 		buttonTopLeftOffset [83, 2]
+  		buttonSize [137 , 79]
+  		buttonSpacing [2, 2]
+		buttonSpecificDef	
+			barsOffsetFromTop 4
+			barsWidthModifier -5
+			backdrop "ResearchWindowButtonBackdrop"
+			overlay ""
+			maxLevelOverlay "ResearchWindowButtonMaxLevelOverlay"		
+		isBackdropStretched TRUE
+fleetContentWindow
+	blockWindowSharedDef
+		titleArea [18, 20, 200, 30]
+		titleFontId "Label"
+ 		buttonTopLeftOffset [83, 2]
+  		buttonSize [137 , 79]
+  		buttonSpacing [2, 2]
+		buttonSpecificDef	
+			barsOffsetFromTop 4
+			barsWidthModifier -5
+			backdrop "ScreenButtonUnderlaySupply"
+			overlay ""
+			maxLevelOverlay "ResearchWindowButtonMaxSupplyOverlay"	
+		isBackdropStretched FALSE
+artifactContentWindow
+	blockWindowSharedDef
+		titleArea [0, 0, 200, 30]
+		titleFontId "Label"
+		buttonTopLeftOffset [60, 39]
+		buttonSize [220, 100]
+		buttonSpacing [10, 50]
+		buttonSpecificDef	
+			barsOffsetFromTop 4
+			barsWidthModifier -5
+			backdrop ""
+			overlay ""
+			maxLevelOverlay ""		
+		isBackdropStretched FALSE
+		

@@ -1,0 +1,381 @@
+TXT
+onlyLoadOnDemand FALSE 
+brushCount 21
+brush
+	name "HUDICON_RESEARCHSUBJECT_SENTARTILLERY1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 396 , 75 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 396 , 75 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 396 , 75 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 396 , 75 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 396 , 75 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_SENTARTILLERY0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 297 , 75 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 297 , 75 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 297 , 75 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 297 , 75 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 297 , 75 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_SENTFUSILLADE2"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 198 , 75 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 198 , 75 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 198 , 75 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 198 , 75 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 198 , 75 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_SENTFUSILLADE1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 99 , 75 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 99 , 75 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 99 , 75 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 99 , 75 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 99 , 75 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_SENTFUSILLADE0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 0 , 75 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 0 , 75 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 0 , 75 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 0 , 75 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 0 , 75 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_SENTBEAM2"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 693 , 75 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 693 , 75 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 693 , 75 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 693 , 75 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 693 , 75 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_SENTBEAM1"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 594 , 75 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 594 , 75 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 594 , 75 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 594 , 75 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 594 , 75 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_SENTBEAM0"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 495 , 75 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 495 , 75 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 495 , 75 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 495 , 75 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 495 , 75 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_SENTDESC"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 1089 , 0 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 1089 , 0 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 1089 , 0 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 1089 , 0 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 1089 , 0 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_SOJOURNER"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 891 , 0 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 891 , 0 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 891 , 0 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 891 , 0 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 891 , 0 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_KEYSHIP"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 990 , 0 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 990 , 0 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 990 , 0 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 990 , 0 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 990 , 0 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ASSERTOR"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 792 , 0 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 792 , 0 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 792 , 0 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 792 , 0 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 792 , 0 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_COORDINATOR"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 693 , 0 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 693 , 0 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 693 , 0 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 693 , 0 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 693 , 0 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CLEANSER"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 594 , 0 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 594 , 0 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 594 , 0 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 594 , 0 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 594 , 0 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_RETRIEVER"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 495 , 0 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 495 , 0 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 495 , 0 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 495 , 0 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 495 , 0 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_ARBITRATOR"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 396 , 0 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 396 , 0 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 396 , 0 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 396 , 0 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 396 , 0 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_CONTROLLER"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 297 , 0 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 297 , 0 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 297 , 0 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 297 , 0 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 297 , 0 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_FABRICATOR"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 198 , 0 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 198 , 0 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 198 , 0 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 198 , 0 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 198 , 0 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHPLACEHOLDER"
+	content "States"
+	Disabled
+		fileName "RESEARCH_PLACE_DISABLED"
+		pixelBox [ 25 , 1 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCH_PLACE_PRESSED"
+		pixelBox [ 25 , 1 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCH_PLACE_CURSOROVER"
+		pixelBox [ 25 , 1 , 94 , 70 ]
+	Focused
+		fileName "RESEARCH_PLACE_NORMAL"
+		pixelBox [ 25 , 1 , 94 , 70 ]
+	Normal
+		fileName "RESEARCH_PLACE_NORMAL"
+		pixelBox [ 25 , 1 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_BATTLESTATIONRENEWAL"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 0 , 0 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 0 , 0 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 0 , 0 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 0 , 0 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 0 , 0 , 94 , 70 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_COMBATRIDENT"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSSENT_DISABLED"
+		pixelBox [ 99 , 0 , 94 , 70 ]
+	Pressed
+		fileName "RESEARCHICONSSENT_PRESSED"
+		pixelBox [ 99 , 0 , 94 , 70 ]
+	CursorOver
+		fileName "RESEARCHICONSSENT_CURSOROVER"
+		pixelBox [ 99 , 0 , 94 , 70 ]
+	Focused
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 99 , 0 , 94 , 70 ]
+	Normal
+		fileName "RESEARCHICONSSENT_NORMAL"
+		pixelBox [ 99 , 0 , 94 , 70 ]

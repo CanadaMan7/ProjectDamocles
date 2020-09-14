@@ -1,0 +1,330 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 29
+brush
+	name "HUDICON_PLANETMODULE_FOREORBITALFRIGATEFACTORY"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_FOREORBITALCAPITALSHIPFACTORY"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_FOREORBITALCULTURECENTER"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_FOREORBITALHANGARDEFENSE"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_FOREORBITALBEAMDEFENSE"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_FOREORBITALREPAIRPLATFORM"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_FOREORBITALCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_FOREORBITALNONCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_FOREORBITALANTIMATTERRECHARGER"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_FOREORBITALTRADEPORT"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_FOREMETALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_FORECRYSTALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_FOREORBITALJUMPBLOCKER"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_FOREORBITALCANNON"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_FOREORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 91 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_FOREORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 121 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_FOREORBITALCULTURECENTER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 181 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_FOREORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 31 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_FOREORBITALBEAMDEFENSE"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 1 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_FOREORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 151 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_FOREORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 211 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_FOREORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 211 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_FOREORBITALANTIMATTERRECHARGER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 421 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_FOREORBITALTRADEPORT"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 241 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_FOREORBITALREFINERY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 331 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_FOREMETALEXTRACTOR"
+	content "Simple"
+	fileName "UI_FleetIcons"
+	pixelBox [ 427 , 65 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_FORECRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "UI_FleetIcons"
+	pixelBox [ 460 , 65 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_FOREORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 61 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_FOREORBITALCANNON"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 271 , 31 , 28 , 28 ]

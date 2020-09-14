@@ -1,0 +1,34 @@
+TXT
+characterArea [0, 130, 1024 , 16]
+pictureBackdropArea [-448, -156,  1920 , 1080]
+pictureArea [-141, 170,  1306 , 598]
+tipBackdropArea [0, 0, 0 , 0]
+tipTextArea [0, 0, 0 , 0]
+barBackdropArea [-141, 514, 1306, 4]
+barProgressArea [-141, 514, 1306, 4]
+barBackdrop "UI_LoadBar_Backdrop"
+barOverlay "None_Blank"
+barProgress "UI_LoadBarProgress"
+tipBackdrop "None_Blank"
+tipOverlay "None_Blank"
+pictureBackdrop "UI_Background_LoadScreen"
+pictureOverlay "None_Blank"
+tipTextFont "Label"
+pictureCount 15
+pictureBrush "UI_LoadingScreen_Picture1"
+pictureBrush "UI_LoadingScreen_Picture2"
+pictureBrush "UI_LoadingScreen_Picture3"
+pictureBrush "UI_LoadingScreen_Picture4"
+pictureBrush "UI_LoadingScreen_Picture5"
+pictureBrush "UI_LoadingScreen_Picture6"
+pictureBrush "UI_LoadingScreen_Picture7"
+pictureBrush "UI_LoadingScreen_Picture8"
+pictureBrush "UI_LoadingScreen_Picture9"
+pictureBrush "UI_LoadingScreen_Picture10"
+pictureBrush "UI_LoadingScreen_Picture11"
+pictureBrush "UI_LoadingScreen_Picture12"
+pictureBrush "UI_LoadingScreen_Picture13"
+pictureBrush "UI_LoadingScreen_Picture14"
+pictureBrush "UI_LoadingScreen_Picture15"
+exclusivePictureBrush ""
+tipCount 0

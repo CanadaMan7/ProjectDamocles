@@ -1,0 +1,13 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 2
+brush
+	name "HUDICON_STARBASE_UNSCANCHOR"
+	content "Simple"
+	fileName "SotP_Unit_Infocard"
+	pixelBox [ 208 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_UNSCDEEPSPACEMINE"
+	content "Simple"
+	fileName "SotP_Unit_Infocard"
+	pixelBox [ 231 , 1 , 22 , 22 ]

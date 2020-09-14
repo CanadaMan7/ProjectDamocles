@@ -1,0 +1,109 @@
+TXT
+entityType "StarBaseUpgrade"
+stageCount 3
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADECOVTOUGHNESS_NAME"
+	descStringID "IDS_STARBASEUPGRADECOVTOUGHNESS_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradePhaseToughness0"
+	smallHudIcon "HUDIconStarBaseUpgradePhaseToughness0"
+	infoCardIcon ""
+	upgradePropertyCount 6
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 4000.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 3.00000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 7000.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 50.333333333333333333333333333333
+	upgradeProperty
+		propertyType "MaxShieldMitigation"
+		value 0.000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 6.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADECOVTOUGHNESS_NAME"
+	descStringID "IDS_STARBASEUPGRADECOVTOUGHNESS_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradePhaseToughness0"
+	smallHudIcon "HUDIconStarBaseUpgradePhaseToughness0"
+	infoCardIcon ""
+	upgradePropertyCount 6
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 6000.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 50.000000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 32000.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 90.000000
+	upgradeProperty
+		propertyType "MaxShieldMitigation"
+		value 0.000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 9.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADECOVTOUGHNESS_NAME"
+	descStringID "IDS_STARBASEUPGRADECOVTOUGHNESS_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradePhaseToughness1"
+	smallHudIcon "HUDIconStarBaseUpgradePhaseToughness1"
+	infoCardIcon ""
+	upgradePropertyCount 6
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 7000.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 12.00000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 38000.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 100.666666666666666666666666666667
+	upgradeProperty
+		propertyType "MaxShieldMitigation"
+		value 0.600000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 12.000000
+	upgradeBoolPropertyCount 0
+xpModifier 15.0000000

@@ -1,0 +1,216 @@
+TXT2
+SinsArchiveVersion 193  
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 3
+frigateRoleType "Lrm"
+frigateRoleType "Heavy"
+frigateRoleType "Corvette"
+statCountType "FrigateLongRange"
+mainViewIcon "MAINVIEWICON_FRIGATE_COVCCS"
+picture "PICTURE_FRIGATE_COVCCS"
+NameStringID "FRIGATE_SENTRETRIEVER_NAME"
+DescriptionStringID "FRIGATE_SENTRETRIEVER_DESCRIPTION"
+counterDescriptionStringID "IDS_FRIGATESPEED_INDEX_NORM"
+basePrice  
+	credits 1900.000000
+	metal 400.000000
+	crystal 250.000000
+slotCount 36.000000
+BuildTime 90.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 23.000000
+MaxHullPoints 3500.000000
+MaxShieldPoints 4500.000000
+HullPointRestoreRate 3.3333333
+ShieldPointRestoreRate 20.000000
+BaseArmorPoints 6.000000
+maxMitigation 0.000000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite  
+		Subject "RESEARCHSUBJECT_SENTFRIGATEACCESS_RETRIEVER"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 0
+numSpecificDebris 2
+specificDebrisMeshName "FRIGATE_COVCCSDEBRISFRONT"
+specificDebrisMeshName "FRIGATE_COVCCSDEBRISBACK"
+armorType "VeryHeavy"
+hudIcon "HUDICON_ABILITY_PLACEHOLDER"
+smallHudIcon "MAINVIEWICON_FRIGATE_COVCCS"
+infoCardIcon "MAINVIEWICON_FRIGATE_COVCCS"
+minZoomDistanceMult 2.000000
+NumWeapons 2
+Weapon  
+	WeaponType "Beam"
+	damageEnums  
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "OVERTIME"
+		DamageType "ENERGY"
+		WeaponClassType "LASERPSI"
+	DamagePerBank:FRONT 1800.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 8000.000000
+	PreBuffCooldownTime 10.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.250000
+	TravelSpeed 0.000000
+	Duration 2.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 0.000000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_PsiCapitalLaserHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds  
+			soundCount 1
+			sound ""
+		hitEffectName "Weapon_PsiCapitalBeamHeavy_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound ""
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound ""
+		beamEffectSounds  
+			soundCount 1
+			sound "WEAPON_PSICAPITALBEAMHEAVY_TRAVEL"
+		beamGlowTextureName "PsiCapitalBeam_Glow"
+		beamCoreTextureName "PsiCapitalBeam_Core"
+		beamWidth 10.000000
+		beamGlowColor ffffffff
+		beamCoreColor ffffffff
+		beamTilingRate 3.000000
+Weapon  
+	WeaponType "Projectile"
+	damageEnums  
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "PULSEGUN"
+	DamagePerBank:FRONT 125.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 125.000000
+	DamagePerBank:RIGHT 125.000000
+	Range 8000.000000
+	PreBuffCooldownTime 5.00000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.400000
+	TravelSpeed 6000.000000
+	Duration 0.0000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Projectile"
+		burstCount 6
+		burstDelay 0.500000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_PsiCapitalLaserHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE_ALT1"
+		hitEffectName "Weapon_TechCapitalLaserMedium_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "Weapon_TechCapitalLaserLight_Travel"
+m_weaponIndexForRange 1
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 10000.000000
+ShieldMeshName "FRIGATE_COVCCS_SHIELD"
+renderShield TRUE
+maxAccelerationLinear 425.0000
+maxAccelerationStrafe 10.0000
+maxDecelerationLinear 400.0000
+maxAccelerationAngular 10.0000
+maxDecelerationAngular 15.0000
+maxSpeedLinear 1000.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 6
+SoundID "FRIGATE_COVCCS_ONATTACKORDERISSUED_0"
+SoundID "FRIGATE_COVCCS_ONATTACKORDERISSUED_1"
+SoundID "FRIGATE_COVCCS_ONATTACKORDERISSUED_2"
+SoundID "FRIGATE_COVCCS_ONATTACKORDERISSUED_3"
+SoundID "FRIGATE_COVCCS_ONATTACKORDERISSUED_4"
+SoundID "FRIGATE_COVCCS_ONATTACKORDERISSUED_5"
+NumSoundsFor:ONCREATION 2
+SoundID "FRIGATE_COVCCS_ONCREATION_0"
+SoundID "FRIGATE_COVCCS_ONCREATION_1"
+NumSoundsFor:ONGENERALORDERISSUED 6
+SoundID "FRIGATE_COVCCS_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_COVCCS_ONGENERALORDERISSUED_1"
+SoundID "FRIGATE_COVCCS_ONGENERALORDERISSUED_2"
+SoundID "FRIGATE_COVCCS_ONGENERALORDERISSUED_3"
+SoundID "FRIGATE_COVCCS_ONGENERALORDERISSUED_4"
+SoundID "FRIGATE_COVCCS_ONGENERALORDERISSUED_5"
+NumSoundsFor:ONSELECTED 6
+SoundID "FRIGATE_COVCCS_ONSELECTED_0"
+SoundID "FRIGATE_COVCCS_ONSELECTED_1"
+SoundID "FRIGATE_COVCCS_ONSELECTED_2"
+SoundID "FRIGATE_COVCCS_ONSELECTED_3"
+SoundID "FRIGATE_COVCCS_ONSELECTED_4"
+SoundID "FRIGATE_COVCCS_ONSELECTED_5"
+NumSoundsFor:ONSTARTPHASEJUMP 2
+SoundID "FRIGATE_COVCCS_ONSTARTPHASEJUMP_0"
+SoundID "FRIGATE_COVCCS_ONSTARTPHASEJUMP_1"
+MeshNameInfoCount 1
+MeshNameInfo  
+	meshName "FRIGATE_COVCCS"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_CovCCS"
+ExplosionName "Cov_Frig_Large"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_COVCAPITALSHIP"
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 "AbilityNoneIsBigShip"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 1
+minShadow 0.200000
+maxShadow 0.600000
+allegianceDecreasePerRoundtrip 0.000000

@@ -1,0 +1,161 @@
+TXT2
+SinsArchiveVersion 193  
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 1
+frigateRoleType "Lrm"
+statCountType "FrigateLongRange"
+mainViewIcon "MAINVIEWICON_FRIGATE_UNSCHILLSBOROUGH"
+picture "CRUISER_COUN_HENSA"
+NameStringID "IDS_CRUISER_COUNHENSA_NAME"
+DescriptionStringID "IDS_CRUISER_COUNHENSA_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_HILLSBOROUGH"
+basePrice
+	credits 1025.000000
+	metal 145.000000
+	crystal 115.000000
+slotCount 18.000000
+BuildTime 28.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 110.000000
+MaxHullPoints 2850.000000
+MaxShieldPoints 950.000000
+HullPointRestoreRate 3.000000
+ShieldPointRestoreRate 4.000000
+BaseArmorPoints 5.000000
+maxMitigation 0.600000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNSHEPARD_BATARIAN"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 1
+numRandomDebrisSmall 10
+numSpecificDebris 0
+armorType "VeryHeavy"
+hudIcon "HUDICON_FRIGATE_UNSCHILLSBOROUGH"
+smallHudIcon "MAINVIEWICON_FRIGATE_UNSCHILLSBOROUGH"
+infoCardIcon "MAINVIEWICON_FRIGATE_UNSCHILLSBOROUGH"
+minZoomDistanceMult 1.250000
+NumWeapons 1
+Weapon  
+	WeaponType "Projectile"
+	damageEnums  
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 800.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 24000.000000
+	PreBuffCooldownTime 10.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.000000
+	TravelSpeed 6500.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+			fireDelay 0.000000
+	muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 6
+			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE1"
+			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE2"
+			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE3"
+			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE4"
+			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE5"
+			sound "WEAPON_COUN_BATARIANSPINALMASSACCMUZZLE6"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 14000.000000
+ShieldMeshName "Cruiser_CounHensa_Shield"
+renderShield TRUE
+maxAccelerationLinear 90.000000
+maxAccelerationStrafe 100.000000
+maxDecelerationLinear 900.000000
+maxAccelerationAngular 0.500000
+maxDecelerationAngular 10.000000
+maxSpeedLinear 625.000000
+maxRollRate 6.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 4
+SoundID "FRIGATE_UNSCTHANATOS_ONATTACKORDERISSUED_0"
+SoundID "FRIGATE_UNSCTHANATOS_ONATTACKORDERISSUED_1"
+SoundID "FRIGATE_UNSCTHANATOS_ONATTACKORDERISSUED_2"
+SoundID "FRIGATE_UNSCTHANATOS_ONATTACKORDERISSUED_3"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_UNSCTHANATOS_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 4
+SoundID "FRIGATE_UNSCTHANATOS_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_UNSCTHANATOS_ONGENERALORDERISSUED_1"
+SoundID "FRIGATE_UNSCTHANATOS_ONGENERALORDERISSUED_2"
+SoundID "FRIGATE_UNSCTHANATOS_ONGENERALORDERISSUED_3"
+NumSoundsFor:ONSELECTED 3
+SoundID "FRIGATE_UNSCTHANATOS_ONSELECTED_0"
+SoundID "FRIGATE_UNSCTHANATOS_ONSELECTED_1"
+SoundID "FRIGATE_UNSCTHANATOS_ONSELECTED_2"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "FRIGATE_UNSCTHANATOS_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo  
+	meshName "Cruiser_CounHensa"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "UNSC_Frig_Small"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_UNSCCAPITALSHIP"
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 1
+minShadow 0.100000
+maxShadow 1.500000
+allegianceDecreasePerRoundtrip 0.000000

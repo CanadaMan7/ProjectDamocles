@@ -1,0 +1,73 @@
+TXT2
+SinsArchiveVersion 193
+entityType "PlanetModuleShipFactory"
+minZoomDistanceMult 2.500000
+ability:0 "Ability_Alli_DreadYardRepair"
+ability:1 "Ability_Alli_YardResupply"
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+numRandomDebrisLarge 3
+numRandomDebrisSmall 19
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_STRUCTURE_ALLIDREADYARD"
+smallHudIcon "MAINVIEWICON_STRUCTURE_ALLIDREADYARD"
+infoCardIcon "INFOCARDICON_PLANETMODULE_TECHORBITALCAPITALSHIPFACTORY"
+planetUpgradeSlotType "Civilian"
+planetUpgradeSlotCount 6.000000
+basePrice
+	credits 1200.000000
+	metal 150.000000
+	crystal 200.000000
+NameStringID "IDS_STRUCTURE_ALLIDREADYARD_NAME"
+DescriptionStringID "IDS_STRUCTURE_ALLIDREADYARD_DESCRIPTION"
+planetModuleRoleType "CAPITALSHIPFACTORY"
+statCountType "ModuleCapitalShipFactory"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MaxHullPoints 5000.000000
+HullPointRestoreRate 8.000000
+BaseArmorPoints 4.000000
+MaxShieldPoints 2500.000000
+ShieldPointRestoreRate 10.000000
+maxShieldMitigation 0.700000
+ExperiencePointsForDestroying 100.000000
+resourceExtractionType "Invalid"
+cultureSpreadRate 0.000000
+isAffectedBySimilarModuleCostResearch TRUE
+placementRadius 950.000000
+nearPlacementDistOffset 0.000000
+farPlacementDistOffset 9000.000000
+spawnCount 1
+swapMineType ""
+angularSpeed 0.000000
+rotateSoundName ""
+rotateFacingType "None"
+rotateConstantly FALSE
+ShieldMeshName "Structure_CerbDreadnoughtYard_Shield"
+renderShield TRUE
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "STRUCTURE_CERBDREADYARD_ONSELECTED1"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Structure_CerbDreadnoughtYard"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExplosionName "PlanetModuleLarge"
+mainViewIcon "MAINVIEWICON_STRUCTURE_ALLIDREADYARD"
+picture "STRUCTURE_ALLI_DREADYARD"
+minShadow 0.100000
+maxShadow 1.500000
+formationRank 3
+baseBuildTime 90.000000
+buildEffectName ""

@@ -1,0 +1,276 @@
+TXT
+entityType "StarBase"
+ability:0 "AbilityCovResupply"
+ability:1 "AbilityCovGateStarBase"
+ability:2 "AbilityCovDefenseCoordination"
+ability:3 ""
+ability:4 "AbilityNoneIsBigShipNoEMP"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+numRandomDebrisLarge 12
+numRandomDebrisSmall 24
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_STARBASE_COVHAVEN"
+smallHudIcon "HUDICONSMALL_STARBASE_COVHAVEN"
+infoCardIcon "HUDICONSMALL_STARBASE_COVHAVEN"
+minZoomDistanceMult 1.800000
+NumWeapons 4
+Weapon  
+	WeaponType "Beam"
+	damageEnums  
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "FLASHBEAM"
+	DamagePerBank:FRONT 2000.000000
+	DamagePerBank:BACK 2000.000000
+	DamagePerBank:LEFT 2000.000000
+	DamagePerBank:RIGHT 2000.000000
+	Range 9000.000000
+	PreBuffCooldownTime 15.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.250000
+	TravelSpeed 0.000000
+	Duration 1.000000
+	fireConstraintType "StarBaseUpgradeLevel"
+	requiredStarBaseWeaponLevel 2
+	WeaponEffects
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 0.000000
+			fireDelay 2.000000
+	muzzleEffectName "Weapon_CovEP_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_COVENANTBEAM_MUZZLE"
+		hitEffectName "Weapon_CovEP_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_COVENANTBEAM_HIT"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_COVENANTBEAM_HITSHIELDS"
+		beamEffectSounds
+			soundCount 1
+			sound "WEAPON_TECHCAPITALBEAMHEAVY_TRAVEL"
+	beamGlowTextureName "Weapon_CovEP"
+	beamCoreTextureName "Weapon_CovEP"
+		beamWidth 10.000000
+		beamGlowColor ffffffff
+		beamCoreColor ffffffff
+		beamTilingRate 3.000000
+Weapon  
+	WeaponType "Missile"
+	damageEnums  
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "PLASMA"
+	DamagePerBank:FRONT 1250.000000
+	DamagePerBank:BACK 1250.000000
+	DamagePerBank:LEFT 1250.000000
+	DamagePerBank:RIGHT 1250.000000
+	Range 8000.000000
+	PreBuffCooldownTime 3.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 2000.000000
+	Duration 0.000000
+	fireConstraintType "StarBaseUpgradeLevel"
+	requiredStarBaseWeaponLevel 1
+	WeaponEffects  
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 0.000000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_CovPtorpHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds  
+			soundCount 2
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE_ALT1"
+		hitEffectName "Weapon_CovPtorpHeavy_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_CovPTorpHeavy_Travel"
+		missileStartTurningDistance 100.000000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 12.000000
+Weapon  
+	WeaponType "Beam"
+	damageEnums  
+		AttackType "ANTIVERYLIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "LASERTECH"
+	DamagePerBank:FRONT 30.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 30.00000
+	DamagePerBank:RIGHT 30.000000
+	Range 5500.000000
+	PreBuffCooldownTime 4.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.25000
+	TravelSpeed 0.000000
+	Duration 0.5000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 2.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CovPLaser_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE_ALT1"
+		hitEffectName "Weapon_CovPLaser_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		beamEffectSounds
+			soundCount 1
+			sound "WEAPON_PSICAPITALBEAMHEAVY_TRAVEL"
+		beamGlowTextureName "WeaponCov_PulseBeam"
+		beamCoreTextureName "Black-da"
+		beamWidth 4.000000
+		beamGlowColor ffff80ff
+		beamCoreColor ffff80ff
+		beamTilingRate 3.000000
+Weapon  
+	WeaponType "Projectile"
+	damageEnums  
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "PHASECANNON"
+	DamagePerBank:FRONT 100.000000
+	DamagePerBank:BACK 100.000000
+	DamagePerBank:LEFT 100.000000
+	DamagePerBank:RIGHT 100.000000
+	Range 8000.000000
+	PreBuffCooldownTime 2.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.000000
+	TravelSpeed 0.000000
+	Duration 0.5000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Projectile"
+		burstCount 6
+		burstDelay 0.500000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_PlasmaTorp_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE_ALT1"
+		hitEffectName "Weapon_CovPlasmaProjectile_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "Weapon_CovPCannon_Travel"
+m_weaponIndexForRange 2
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 2
+TargetCountPerBank:BACK 2
+TargetCountPerBank:LEFT 2
+TargetCountPerBank:RIGHT 2
+canOnlyTargetStructures FALSE
+ShieldMeshName "STARBASE_COVCDA_SHIELD"
+renderShield TRUE
+squadTypeEntityDef:0 "SQUAD_COVBANSHEECOMBAT"
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 "SQUAD_COVSERAPHBOMBER"
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+mainViewIcon "MainViewIconStarBaseCov"
+experiencePointsForDestroying 55.000000
+nameStringID "STARBASE_COVHAVEN_NAME"
+picture "PICTURE_PLANETMODULE_COVPATROLSTATION"
+statCountType "StarBase"
+creationSourceAbility "AbilityCovDeployStarBase"
+maxUpgradeLevelCount 10
+UpgradeTypeCount 7
+UpgradeType "STARBASEUPGRADE_COVWEAPONS"
+UpgradeType "STARBASEUPGRADE_COVTOUGHNESS"
+UpgradeType "STARBASEUPGRADE_COVHANGAR"
+UpgradeType "STARBASEUPGRADE_COVTRADEPORT"
+UpgradeType "STARBASEUPGRADE_COVBLOCKCOLONIZE"
+UpgradeType "STARBASEUPGRADE_COVRESUPPLY"
+UpgradeType "STARBASEUPGRADE_COVDEFENSECOORDINATION"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "STARBASE_COVCDA"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+NumSoundsFor:ONATTACKORDERISSUED 6
+SoundID "STARBASE_COVHAVEN_ONATTACKORDERISSUED_0"
+SoundID "STARBASE_COVHAVEN_ONATTACKORDERISSUED_1"
+SoundID "STARBASE_COVHAVEN_ONATTACKORDERISSUED_2"
+SoundID "STARBASE_COVHAVEN_ONATTACKORDERISSUED_3"
+SoundID "STARBASE_COVHAVEN_ONATTACKORDERISSUED_4"
+SoundID "STARBASE_COVHAVEN_ONATTACKORDERISSUED_5"
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 2
+SoundID "STARBASE_COVHAVEN_ONGENERALORDERISSUED_0"
+SoundID "STARBASE_COVHAVEN_ONGENERALORDERISSUED_1"
+NumSoundsFor:ONSELECTED 5
+SoundID "STARBASE_COVHAVEN_ONSELECTED_0"
+SoundID "STARBASE_COVHAVEN_ONSELECTED_1"
+SoundID "STARBASE_COVHAVEN_ONSELECTED_2"
+SoundID "STARBASE_COVHAVEN_ONSELECTED_3"
+SoundID "STARBASE_COVHAVEN_ONSELECTED_4"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+ExplosionName "Starbase_Cov"
+formationRank 3
+minShadow 0.000000
+maxShadow 0.300000
+cargoShipType "FRIGATE_COVTRADESHIP"
+maxCargoShipCount 1
+cargoShipRespawnTime 30.000000
+baseBuildTime 50.000000
+buildEffectName ""
+angularSpeed 0.500000
+rotateSoundName ""
+rotateFacingType "None"
+rotateConstantly FALSE
+maxAccelerationLinear 60.000000
+maxAccelerationStrafe 6.000000
+maxDecelerationLinear 700.000000
+maxAccelerationAngular 0.700000
+maxDecelerationAngular 11.999996
+maxSpeedLinear 1000.000000
+maxRollRate 1.000000
+maxRollAngle 15.000000
+mass 9500.000000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"

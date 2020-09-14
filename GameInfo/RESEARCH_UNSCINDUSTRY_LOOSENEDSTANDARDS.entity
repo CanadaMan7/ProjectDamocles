@@ -1,0 +1,49 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "RESEARCHBUTTON_UNSC_LOOSENEDSTANDARDS"
+smallHudIcon "RESEARCHBUTTON_UNSC_LOOSENEDSTANDARDS"
+infoCardIcon ""
+NameStringID "RESEARCH_UNSCINDUSTRY_LOOSENEDSTANDARDS_NAME"
+DescriptionStringID "RESEARCH_UNSCINDUSTRY_LOOSENEDSTANDARDS_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 4 , 5 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 2
+	ResearchPrerequisite
+		Subject "RESEARCH_UNSCINDUSTRY_ONBOARDMANUFACTURING"
+		Level 1
+	ResearchPrerequisite
+		Subject "RESEARCH_UNSCINDUSTRY_INDUSTRIALSHORTCUTS"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 105.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 2300.000000
+	metal 300.000000
+	crystal 500.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 4
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "ShipBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+researchModifier
+	modifierType "ArmorBaseAdjustment"
+	baseValue 0.000000
+	perLevelValue -1.000000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

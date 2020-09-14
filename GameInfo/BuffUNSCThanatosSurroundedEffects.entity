@@ -1,0 +1,41 @@
+TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 20
+allowFirstSpawnerToStack TRUE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 0
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 3
+entityModifier
+	buffEntityModifierType "HullPointRestoreRate"
+	value
+		Level:0 0.0050000
+		Level:1 0.0100000
+		Level:2 0.0150000
+		Level:3 0.0200000
+entityModifier
+	buffEntityModifierType "WeaponCooldown"
+	value
+		Level:0 -0.005000
+		Level:1 -0.007500
+		Level:2 -0.010000
+		Level:3 -0.012500
+entityModifier
+	buffEntityModifierType "DamageAsDamageDealer"
+	value
+		Level:0 0.005000
+		Level:1 0.007500
+		Level:2 0.010000
+		Level:3 0.012500
+numEntityBoolModifiers 0
+numFinishConditions 2
+finishCondition
+	finishConditionType "LastSpawnerNoLongerHasBuff"
+	buffTypeToQuery "BuffUNSCThanatosSurroundedEnemy"
+finishCondition
+	finishConditionType "OwnerChanged"

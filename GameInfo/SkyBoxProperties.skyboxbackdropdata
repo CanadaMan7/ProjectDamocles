@@ -1,0 +1,114 @@
+TXT
+numProperties 8
+properties
+	meshName "SkyboxStars"
+	diffuseLiteColor ffddffff
+	diffuseDarkColor ff6398d4
+	ambientLiteColor ff22303e
+	ambientDarkColor ff151a1d
+	specularColor ffeaf9fa
+	dustCloudColor ff271a14
+	numFarStarIconCloudTextureNames 3
+	textureName "galaxyspiral"
+	textureName "galaxyspiral2"
+	textureName "galaxyspiral3"
+	environmentMapName "skyboxenvironmentcube"
+	environmentIlluminationMapName "skybox07irradiance"
+properties
+	meshName "Skybox7"
+	diffuseLiteColor ffddffff
+	diffuseDarkColor ff6398d4
+	ambientLiteColor ff22303e
+	ambientDarkColor ff151a1d
+	specularColor ffeaf9fa
+	dustCloudColor ff271a14
+	numFarStarIconCloudTextureNames 3
+	textureName "galaxyspiral"
+	textureName "galaxyspiral2"
+	textureName "galaxyspiral3"
+	environmentMapName "BG_EagleNebula_Cube.dds"	
+	environmentIlluminationMapName "BG_EagleNebula_Irr.dds"	
+properties
+	meshName "Skybox6"
+	diffuseLiteColor ffddffff
+	diffuseDarkColor ff6398d4
+	ambientLiteColor ff22303e
+	ambientDarkColor ff151a1d
+	specularColor ffeaf9fa
+	dustCloudColor ff271a14
+	numFarStarIconCloudTextureNames 3
+	textureName "galaxyspiral"
+	textureName "galaxyspiral2"
+	textureName "galaxyspiral3"
+	environmentMapName "BG_EagleNebula_Cube.dds"	
+	environmentIlluminationMapName "BG_EagleNebula_Irr.dds"	
+properties
+	meshName "Skybox5"
+	diffuseLiteColor ffddffff
+	diffuseDarkColor ff6398d4
+	ambientLiteColor ff22303e
+	ambientDarkColor ff151a1d
+	specularColor ffeaf9fa
+	dustCloudColor ff271a14
+	numFarStarIconCloudTextureNames 3
+	textureName "galaxyspiral"
+	textureName "galaxyspiral2"
+	textureName "galaxyspiral3"
+	environmentMapName "BG_EagleNebula_Cube.dds"	
+	environmentIlluminationMapName "BG_EagleNebula_Irr.dds"	
+properties
+	meshName "Skybox4"
+	diffuseLiteColor ffddffff
+	diffuseDarkColor ff6398d4
+	ambientLiteColor ff22303e
+	ambientDarkColor ff151a1d
+	specularColor ffeaf9fa
+	dustCloudColor ff271a14
+	numFarStarIconCloudTextureNames 3
+	textureName "galaxyspiral"
+	textureName "galaxyspiral2"
+	textureName "galaxyspiral3"
+	environmentMapName "BG_EagleNebula_Cube.dds"	
+	environmentIlluminationMapName "BG_EagleNebula_Irr.dds"	
+properties
+	meshName "Skybox3"
+	diffuseLiteColor ffddffff
+	diffuseDarkColor ff6398d4
+	ambientLiteColor ff22303e
+	ambientDarkColor ff151a1d
+	specularColor ffeaf9fa
+	dustCloudColor ff271a14
+	numFarStarIconCloudTextureNames 3
+	textureName "galaxyspiral"
+	textureName "galaxyspiral2"
+	textureName "galaxyspiral3"
+	environmentMapName "BG_EagleNebula_Cube.dds"	
+	environmentIlluminationMapName "BG_EagleNebula_Irr.dds"	
+properties
+	meshName "Skybox2"
+	diffuseLiteColor ffddffff
+	diffuseDarkColor ff6398d4
+	ambientLiteColor ff22303e
+	ambientDarkColor ff151a1d
+	specularColor ffeaf9fa
+	dustCloudColor ff271a14
+	numFarStarIconCloudTextureNames 3
+	textureName "galaxyspiral"
+	textureName "galaxyspiral2"
+	textureName "galaxyspiral3"
+	environmentMapName "skybox2environmentcube.dds"	
+	environmentIlluminationMapName "skybox2irradiance.dds"	
+properties
+	meshName "Skybox1"
+	diffuseLiteColor ffddffff
+	diffuseDarkColor ff6398d4
+	ambientLiteColor ff22303e
+	ambientDarkColor ff151a1d
+	specularColor ffeaf9fa
+	dustCloudColor ff271a14
+	numFarStarIconCloudTextureNames 3
+	textureName "galaxyspiral"
+	textureName "galaxyspiral2"
+	textureName "galaxyspiral3"
+	environmentMapName "BG_EagleNebula_Cube.dds"	
+	environmentIlluminationMapName "BG_EagleNebula_Irr.dds"	

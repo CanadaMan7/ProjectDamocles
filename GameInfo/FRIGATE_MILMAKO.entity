@@ -1,0 +1,320 @@
+TXT2
+SinsArchiveVersion 193  
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 1
+frigateRoleType "AntiFighter"
+statCountType "FrigateAntiFighter"
+mainViewIcon "MAINVIEWICON_FRIGATE_UNSCMAKO"
+picture "blank"
+NameStringID "FRIGATE_MILMAKO_NAME"
+DescriptionStringID "FRIGATE_UNSCMAKO_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_ANTIFIGHTER"
+basePrice  
+	credits 300.000000
+	metal 40.000000
+	crystal 10.000000
+slotCount 4.000000
+BuildTime 9.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 4.000000
+MaxHullPoints 900.000000
+MaxShieldPoints 0.000000
+HullPointRestoreRate 1.875000
+ShieldPointRestoreRate 1.8181818
+BaseArmorPoints 3.000000
+maxMitigation 0.000000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 0
+numSpecificDebris 0
+armorType "Heavy"
+hudIcon "HUDICON_FRIGATE_UNSCMAKO"
+smallHudIcon "MAINVIEWICON_FRIGATE_UNSCMAKO"
+infoCardIcon "MAINVIEWICON_FRIGATE_UNSCMAKO"
+minZoomDistanceMult 1.500000
+NumWeapons 4
+Weapon  
+	WeaponType "Missile"
+	damageEnums  
+		AttackType "ANTILIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 40.000000
+	DamagePerBank:BACK 40.000000
+	DamagePerBank:LEFT 40.000000
+	DamagePerBank:RIGHT 40.000000
+	Range 8000.000000
+	PreBuffCooldownTime 4.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 6000.000000
+	Duration 0.000000
+	fireConstraintType "Research"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID "IDS_PLAYERFACTIONNAME_UNSCAI"
+		RequiredCompletedResearchSubjects 0
+	WeaponEffects  
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 0.400000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_UNSCHeavyArcherMissile_Muzzle"
+		muzzleSoundMinRespawnTime 0.500000
+		muzzleSounds  
+			soundCount 3
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
+		hitEffectName "Weapon_UNSCHeavyArcherMissile_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_UNSCHeavyArcherMissile_Travel"
+		missileStartTurningDistance 250.000000
+		missileSlowTurnRate 1.000000
+		missileMaxSlowTurnTime 0.750000
+Weapon  
+	WeaponType "Missile"
+	damageEnums  
+		AttackType "ANTILIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 40.000000
+	DamagePerBank:BACK 40.000000
+	DamagePerBank:LEFT 40.000000
+	DamagePerBank:RIGHT 40.000000
+	Range 8000.000000
+	PreBuffCooldownTime 4.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 6000.000000
+	Duration 0.000000
+	fireConstraintType "Research"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID "IDS_PLAYERFACTIONNAME_UNSC"
+		RequiredCompletedResearchSubjects 0
+	WeaponEffects  
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 0.400000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_UNSCHeavyArcherMissile_Muzzle"
+		muzzleSoundMinRespawnTime 0.500000
+		muzzleSounds  
+			soundCount 3
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
+		hitEffectName "Weapon_UNSCHeavyArcherMissile_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_UNSCHeavyArcherMissile_Travel"
+		missileStartTurningDistance 250.000000
+		missileSlowTurnRate 1.000000
+		missileMaxSlowTurnTime 0.750000
+Weapon  
+	WeaponType "Beam"
+	damageEnums  
+		AttackType "ANTILIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "LASERTECH"
+	DamagePerBank:FRONT 40.000000
+	DamagePerBank:BACK 40.000000
+	DamagePerBank:LEFT 40.000000
+	DamagePerBank:RIGHT 40.000000
+	Range 8000.000000
+	PreBuffCooldownTime 4.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.000000
+	TravelSpeed 0.000000
+	Duration 0.5000000
+	fireConstraintType "Research"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COV"
+		RequiredCompletedResearchSubjects 0
+	WeaponEffects
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CovPlasmaProjectile_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_PSICAPITALLASERLIGHT_MUZZLE"
+			sound "WEAPON_PSICAPITALLASERLIGHT_MUZZLE_ALT1"
+			sound "WEAPON_PSICAPITALLASERLIGHT_MUZZLE_ALT2"
+		hitEffectName "Weapon_CovPLaser_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		beamEffectSounds
+			soundCount 1
+			sound ""
+		beamGlowTextureName "WeaponCov_PulseBeam"
+		beamCoreTextureName "Black-da"
+		beamWidth 10.000000
+		beamGlowColor ffff80ff
+		beamCoreColor ffff80ff
+		beamTilingRate 3.000000
+Weapon  
+	WeaponType "Missile"
+	damageEnums  
+		AttackType "ANTIVERYLIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 40.000000
+	DamagePerBank:BACK 40.000000
+	DamagePerBank:LEFT 40.000000
+	DamagePerBank:RIGHT 40.000000
+	Range 8000.000000
+	PreBuffCooldownTime 4.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 6000.000000
+	Duration 0.000000
+	fireConstraintType "Research"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID "IDSScenarioPlayerNamePirates"
+		RequiredCompletedResearchSubjects 0
+	WeaponEffects  
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 0.400000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_UNSCHeavyArcherMissile_Muzzle"
+		muzzleSoundMinRespawnTime 0.500000
+		muzzleSounds  
+			soundCount 3
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
+		hitEffectName "Weapon_UNSCHeavyArcherMissile_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_UNSCHeavyArcherMissile_Travel"
+		missileStartTurningDistance 250.000000
+		missileSlowTurnRate 1.000000
+		missileMaxSlowTurnTime 0.750000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 3
+TargetCountPerBank:BACK 3
+TargetCountPerBank:LEFT 3
+TargetCountPerBank:RIGHT 3
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName ""
+renderShield FALSE
+maxAccelerationLinear 450.0000
+maxAccelerationStrafe 10.0000
+maxDecelerationLinear 500.0000
+maxAccelerationAngular 5.0000
+maxDecelerationAngular 10.0000
+maxSpeedLinear 1500.000000
+maxRollRate 4.000000
+maxRollAngle 45.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 0
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 4
+MeshNameInfo  
+	meshName "FRIGATE_MILMAKO"
+	criteriaType "Research"
+	prerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID "IDS_PLAYERFACTIONNAME_UNSCAI"
+		RequiredCompletedResearchSubjects 0
+MeshNameInfo  
+	meshName "FRIGATE_MILMAKO"
+	criteriaType "Research"
+	prerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID "IDSScenarioPlayerNamePirates"
+		RequiredCompletedResearchSubjects 0
+MeshNameInfo  
+	meshName "FRIGATE_MILMAKO"
+	criteriaType "Research"
+	prerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID "IDS_PLAYERFACTIONNAME_UNSC"
+		RequiredCompletedResearchSubjects 0
+MeshNameInfo  
+	meshName "FRIGATE_MILCAR"
+	criteriaType "Research"
+	prerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COV"
+		RequiredCompletedResearchSubjects 0
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Empty"
+ExplosionName "UNSC_Frig_Small"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_UNSCCAPITALSHIP"
+ability:0 "AbilityNoneFlakburst"
+ability:1 "AbilityMilSwapCAR"
+ability:2 ""
+ability:3 "AbilityForeMakeDead"
+ability:4 "AbilityNoneNoFlood"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 2
+minShadow 0.200000
+maxShadow 0.600000
+allegianceDecreasePerRoundtrip 0.000000

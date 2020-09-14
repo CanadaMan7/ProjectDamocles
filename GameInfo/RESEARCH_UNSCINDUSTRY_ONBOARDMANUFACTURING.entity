@@ -1,0 +1,50 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "RESEARCHBUTTON_UNSC_ONBOARDMANUFACTURING"
+smallHudIcon "RESEARCHBUTTON_UNSC_ONBOARDMANUFACTURING"
+infoCardIcon ""
+NameStringID "RESEARCH_UNSCINDUSTRY_ONBOARDMANUFACTURING_NAME"
+DescriptionStringID "RESEARCH_UNSCINDUSTRY_ONBOARDMANUFACTURING_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 3 , 4 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_UNSCINDUSTRY_STREAMLINEDMANUFACTURING"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 90.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 1700.000000
+	metal 225.000000
+	crystal 350.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 3
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 3
+researchModifier
+	modifierType "CultureAntimatterRegenAmount"
+	baseValue 0.000000
+	perLevelValue 0.020000
+researchModifier
+	modifierType "CapitalShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 4.000000
+researchModifier
+	modifierType "IncomePercLost"
+	baseValue 0.000000
+	perLevelValue 0.030000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

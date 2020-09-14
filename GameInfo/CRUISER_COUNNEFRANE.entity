@@ -1,0 +1,209 @@
+TXT2
+SinsArchiveVersion 193  
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 1
+frigateRoleType "Heavy"
+statCountType "FrigateHeavy"
+mainViewIcon "MAINVIEWICON_FRIGATE_UNSCSTALWART"
+picture "CRUISER_COUN_NEFRANE"
+NameStringID "IDS_CRUISER_COUNNEFRANE_NAME"
+DescriptionStringID "IDS_CRUISER_COUNNEFRANE_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_STALWART"
+basePrice  
+	credits 1325.000000
+	metal 215.000000
+	crystal 190.000000
+slotCount 26.000000
+BuildTime 45.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 180.000000
+MaxHullPoints 4200.000000
+MaxShieldPoints 2350.000000
+HullPointRestoreRate 2.000000
+ShieldPointRestoreRate 7.000000
+BaseArmorPoints 6.000000
+maxMitigation 0.750000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNSHEPARD_ASARIREPUBLICS"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 1
+numRandomDebrisSmall 10
+numSpecificDebris 0
+armorType "VeryHeavy"
+hudIcon "HUDICON_FRIGATE_UNSCSTALWART"
+smallHudIcon "MAINVIEWICON_FRIGATE_UNSCSTALWART"
+infoCardIcon "MAINVIEWICON_FRIGATE_UNSCSTALWART"
+minZoomDistanceMult 2.500000
+NumWeapons 2
+Weapon  
+	WeaponType "Projectile"
+	damageEnums  
+		AttackType "ANTILIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 660.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 16000.000000
+	PreBuffCooldownTime 11.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.250000
+	TravelSpeed 6000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+			fireDelay 0.000000
+	muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 5
+			sound "WEAPON_COUN_ASARISPINALMASSACCMUZZLE1"
+			sound "WEAPON_COUN_ASARISPINALMASSACCMUZZLE2"
+			sound "WEAPON_COUN_ASARISPINALMASSACCMUZZLE3"
+			sound "WEAPON_COUN_ASARISPINALMASSACCMUZZLE4"
+			sound "WEAPON_COUN_ASARISPINALMASSACCMUZZLE5"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
+Weapon  
+	WeaponType "Projectile"
+	damageEnums  
+		AttackType "ANTIVERYHEAVY"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "RAILGUN"
+	DamagePerBank:FRONT 100.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 6000.000000
+	PreBuffCooldownTime 2.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.200000
+	TravelSpeed 3000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.340000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 6
+			sound "WEAPON_COUN_ASARIAUXMASSACCMUZZLE1"
+			sound "WEAPON_COUN_ASARIAUXMASSACCMUZZLE2"
+			sound "WEAPON_COUN_ASARIAUXMASSACCMUZZLE3"
+			sound "WEAPON_COUN_ASARIAUXMASSACCMUZZLE4"
+			sound "WEAPON_COUN_ASARIAUXMASSACCMUZZLE5"
+			sound "WEAPON_COUN_ASARIAUXMASSACCMUZZLE6"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 1600.000000
+ShieldMeshName "Cruiser_CounNefrane_Shield"
+renderShield TRUE
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 30.000000
+maxDecelerationLinear 700.000000
+maxAccelerationAngular 5.000000
+maxDecelerationAngular 10.000000
+maxSpeedLinear 500.000000
+maxRollRate 6.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 5
+SoundID "FRIGATE_UNSCSTALWART_ONATTACKORDERISSUED_0"
+SoundID "FRIGATE_UNSCSTALWART_ONATTACKORDERISSUED_1"
+SoundID "FRIGATE_UNSCSTALWART_ONATTACKORDERISSUED_2"
+SoundID "FRIGATE_UNSCSTALWART_ONATTACKORDERISSUED_3"
+SoundID "FRIGATE_UNSCSTALWART_ONATTACKORDERISSUED_4"
+NumSoundsFor:ONCREATION 2
+SoundID "FRIGATE_UNSCSTALWART_ONCREATION_0"
+SoundID "FRIGATE_UNSCSTALWART_ONCREATION_1"
+NumSoundsFor:ONGENERALORDERISSUED 5
+SoundID "FRIGATE_UNSCSTALWART_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_UNSCSTALWART_ONGENERALORDERISSUED_1"
+SoundID "FRIGATE_UNSCSTALWART_ONGENERALORDERISSUED_2"
+SoundID "FRIGATE_UNSCSTALWART_ONGENERALORDERISSUED_3"
+SoundID "FRIGATE_UNSCSTALWART_ONGENERALORDERISSUED_4"
+NumSoundsFor:ONSELECTED 6
+SoundID "FRIGATE_UNSCSTALWART_ONSELECTED_0"
+SoundID "FRIGATE_UNSCSTALWART_ONSELECTED_1"
+SoundID "FRIGATE_UNSCSTALWART_ONSELECTED_2"
+SoundID "FRIGATE_UNSCSTALWART_ONSELECTED_3"
+SoundID "FRIGATE_UNSCSTALWART_ONSELECTED_4"
+SoundID "FRIGATE_UNSCSTALWART_ONSELECTED_5"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "FRIGATE_UNSCSTALWART_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo  
+	meshName "Cruiser_CounNefrane"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "UNSC_Frig_Small"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_UNSCCAPITALSHIP"
+ability:0 "Ability_Coun_NefraneTaunt"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 0
+minShadow 0.100000
+maxShadow 1.500000
+allegianceDecreasePerRoundtrip 0.000000

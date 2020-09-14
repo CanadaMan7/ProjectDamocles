@@ -1,0 +1,39 @@
+﻿TXT
+entityType "Squad"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+hudIcon "HUDICON_TRADESHIP_PHASE"
+smallHudIcon "HUDICONSMALL_TRADESHIP_PHASE"
+infoCardIcon "INFOCARDICON_TRADESHIP_PHASE"
+fighterEntityDef "FIGHTER_FLOODSPORE"
+fighterIllusionEntityDef ""
+scuttleTime 12.000000
+fighterConstructionTime 33.000000
+decayWithoutOwnerRate 0.100000
+baseMaxNumFighters 1
+role "Combat"
+statCountType "SquadCombat"
+mainViewIcon "MAINVIEWICON_TRADESHIP_PHASE"
+picture "PICTURE_PLACEHOLDER"
+launchIcon "HUDICONLAUNCH_SQUAD_UNSCLONGSWORDCOMBAT"
+dockIcon "HUDICONDOCK_SQUAD_UNSCLONGSWORDCOMBAT"
+nameStringID "FIGHTER_FLOOD_SPOREFIGHTER_NAME"
+descriptionStringID "FIGHTER_UNSCLONGSWORDCOMBAT_DESCRIPTION"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 0
+NumSoundsFor:ONSTARTPHASEJUMP 0
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

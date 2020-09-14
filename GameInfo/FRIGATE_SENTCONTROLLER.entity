@@ -1,0 +1,166 @@
+TXT2
+SinsArchiveVersion 193  
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 2
+frigateRoleType "Heavy"
+frigateRoleType "Corvette"
+statCountType "FrigateHeavy"
+mainViewIcon "MAINVIEWICON_FRIGATE_UNSCTHANATOS"
+picture "PICTURE_FRIGATE_UNSCTHANATOS"
+NameStringID "FRIGATE_SENTCONTROLLER_NAME"
+DescriptionStringID "FRIGATE_SENTCONTROLLER_DESCRIPTION"
+counterDescriptionStringID "IDS_FRIGATESPEED_INDEX_NORM"
+basePrice  
+	credits 1600.000000
+	metal 300.000000
+	crystal 200.000000
+slotCount 8.000000
+BuildTime 60.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 8.000000
+MaxHullPoints 1100.000000
+MaxShieldPoints 1200.000000
+HullPointRestoreRate 3.500000
+ShieldPointRestoreRate 8.000000
+BaseArmorPoints 4.000000
+maxMitigation 0.000000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite  
+		Subject "RESEARCHSUBJECT_SENTFRIGATEACCESS_CONTROLLER"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 0
+numSpecificDebris 1
+specificDebrisMeshName "FRIGATE_UNSCHALBERDDEBRIS"
+armorType "Heavy"
+hudIcon "HUDICON_ABILITY_PLACEHOLDER"
+smallHudIcon "MAINVIEWICON_FRIGATE_UNSCTHANATOS"
+infoCardIcon "MAINVIEWICON_FRIGATE_UNSCTHANATOS"
+minZoomDistanceMult 1.500000
+NumWeapons 1
+Weapon  
+	WeaponType "Beam"
+	damageEnums  
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "OVERTIME"
+		DamageType "ENERGY"
+		WeaponClassType "LASERPSI"
+	DamagePerBank:FRONT 600.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 8000.000000
+	PreBuffCooldownTime 8.00000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.000000
+	TravelSpeed 0.000000
+	Duration 1.750000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 0.000000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_PsiCapitalLaserHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds  
+			soundCount 1
+			sound ""
+		hitEffectName "Weapon_PsiCapitalBeamHeavy_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound ""
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound ""
+		beamEffectSounds  
+			soundCount 1
+			sound "WEAPON_PSICAPITALBEAMHEAVY_TRAVEL"
+		beamGlowTextureName "PsiCapitalBeam_Glow"
+		beamCoreTextureName "PsiCapitalBeam_Core"
+		beamWidth 8.000000
+		beamGlowColor ffffffff
+		beamCoreColor ffffffff
+		beamTilingRate 3.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName "FRIGATE_UNSCHALBERD_SHIELD"
+renderShield FALSE
+maxAccelerationLinear 425.0000
+maxAccelerationStrafe 10.0000
+maxDecelerationLinear 400.0000
+maxAccelerationAngular 10.0000
+maxDecelerationAngular 15.0000
+maxSpeedLinear 1000.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 4
+SoundID "FRIGATE_UNSCTHANATOS_ONATTACKORDERISSUED_0"
+SoundID "FRIGATE_UNSCTHANATOS_ONATTACKORDERISSUED_1"
+SoundID "FRIGATE_UNSCTHANATOS_ONATTACKORDERISSUED_2"
+SoundID "FRIGATE_UNSCTHANATOS_ONATTACKORDERISSUED_3"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_UNSCTHANATOS_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 4
+SoundID "FRIGATE_UNSCTHANATOS_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_UNSCTHANATOS_ONGENERALORDERISSUED_1"
+SoundID "FRIGATE_UNSCTHANATOS_ONGENERALORDERISSUED_2"
+SoundID "FRIGATE_UNSCTHANATOS_ONGENERALORDERISSUED_3"
+NumSoundsFor:ONSELECTED 3
+SoundID "FRIGATE_UNSCTHANATOS_ONSELECTED_0"
+SoundID "FRIGATE_UNSCTHANATOS_ONSELECTED_1"
+SoundID "FRIGATE_UNSCTHANATOS_ONSELECTED_2"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "FRIGATE_UNSCTHANATOS_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo  
+	meshName "FRIGATE_UNSCHALBERD"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "EXHAUST_FRIGATE_UNSCHALBERD"
+ExplosionName "UNSC_Frig_Small"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_UNSCCAPITALSHIP"
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 "AbilityNoneIsBigShip"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 1
+minShadow 0.200000
+maxShadow 0.600000
+allegianceDecreasePerRoundtrip 0.000000

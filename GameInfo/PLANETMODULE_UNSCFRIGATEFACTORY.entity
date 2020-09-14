@@ -1,0 +1,72 @@
+TXT 
+entityType "PlanetModuleShipFactory"
+minZoomDistanceMult 2.000000
+ability:0 "AbilityNoneIsBigShip"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+numRandomDebrisLarge 4
+numRandomDebrisSmall 19
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_PLANETMODULE_UNSCFRIGATEFACTORY"
+smallHudIcon "HUDICONSMALL_PLANETMODULE_UNSCFRIGATEFACTORY"
+infoCardIcon "INFOCARDICON_PLANETMODULE_UNSCFRIGATEFACTORY"
+planetUpgradeSlotType "Civilian"
+planetUpgradeSlotCount 1.000000
+basePrice 
+	credits 500.000000
+	metal 50.000000
+	crystal 0.000000
+NameStringID "PLANETMODULE_UNSCFRIGATEFACTORY_NAME"
+DescriptionStringID "PLANETMODULE_UNSCFRIGATEFACTORY_DESCRIPTION"
+planetModuleRoleType "FRIGATEFACTORY"
+statCountType "ModuleFrigateFactory"
+Prerequisites 
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MaxHullPoints 4000.000000
+HullPointRestoreRate 6.000000
+BaseArmorPoints 6.000000
+MaxShieldPoints 0.000000
+ShieldPointRestoreRate 0.000000
+maxShieldMitigation 0.000000
+ExperiencePointsForDestroying 9.000000
+resourceExtractionType "Invalid"
+cultureSpreadRate 0.000000
+isAffectedBySimilarModuleCostResearch TRUE
+placementRadius 425.000000
+nearPlacementDistOffset 0.000000
+farPlacementDistOffset 9000.000000
+spawnCount 1
+swapMineType ""
+angularSpeed 0.000000
+rotateSoundName ""
+rotateFacingType "None"
+rotateConstantly FALSE
+ShieldMeshName "PLANETMODULE_UNSCFRIGATEYARD_SHIELD"
+renderShield TRUE
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "PLANETMODULE_UNSCFRIGATEFACTORY_ONSELECTION_0"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo 
+	meshName "PLANETMODULE_UNSCFRIGATEYARD"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExplosionName "UNSC_Capitalship_Small"
+mainViewIcon "MAINVIEWICON_PLANETMODULE_UNSCFRIGATEFACTORY"
+picture "PICTURE_PLANETMODULE_UNSCFRIGATEFACTORY"
+minShadow 0.200000
+maxShadow 0.400000
+formationRank 3
+baseBuildTime 60.000000
+buildEffectName ""

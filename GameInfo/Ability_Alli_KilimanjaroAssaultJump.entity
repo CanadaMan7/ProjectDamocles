@@ -1,0 +1,58 @@
+TXT2
+SinsArchiveVersion 193
+entityType "Ability"
+buffInstantActionType "ApplyArbitraryTargettedBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_Alli_KilimanjaroAssaultJump"
+range
+	Level:0 16000.000000
+	Level:1 18000.000000
+	Level:2 6000.000000
+	Level:3 6000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID "FTL_GENERIC_DREADEXIT1"
+needsToFaceTarget FALSE
+canCollideWithTarget FALSE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 2
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 5.000000
+	Level:1 7.000000
+	Level:2 0.000000
+	Level:3 0.000000
+aiUseTime "OnlyWhenMovingThresholdDistance"
+thresholdDistance 5000.000000
+aiUseTargetCondition "Any"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 240.000000
+	Level:1 180.000000
+	Level:2 200.000000
+	Level:3 180.000000
+cooldownTime
+	Level:0 180.000000
+	Level:1 120.000000
+	Level:2 40.000000
+	Level:3 30.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_ALLI_KILIMANJAROASSAULTJUMP_NAME"
+descStringID "IDS_ABILITY_ALLI_KILIMANJAROASSAULTJUMP_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_ALLIASSAULTJUMP"
+smallHudIcon "HUDICON_ABILITY_MICROPHASEJUMP"
+infoCardIcon ""

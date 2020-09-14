@@ -1,0 +1,49 @@
+TXT2
+SinsArchiveVersion 193
+entityType "Ability"
+buffInstantActionType "ApplyOrRemoveBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_Coun_GethDreadHunterMode"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+toggleStateOnNameStringID "IDS_ABILITY_PHASECLOAKACTIVE_NAME"
+toggleStateOnDescStringID "IDS_ABILITY_PHASECLOAKACTIVE_DESCRIPTION"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 2
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 5.000000
+	Level:1 7.000000
+	Level:2 4.000000
+	Level:3 6.000000
+aiUseTime "OnlyWhenAttackTargetIsInFiringSolutionAndHasAttackOrder"
+aiUseTargetCondition "Any"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 60.000000
+	Level:1 60.000000
+	Level:2 10.000000
+	Level:3 10.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_COUN_GETHDREADHUNTERMODE_NAME"
+descStringID "IDS_ABILITY_COUN_GETHDREADHUNTERMODE_DESCRIPTION"
+hudIcon "HUDICON_UNSC_MARATHONCOMMAND"
+smallHudIcon ""
+infoCardIcon ""

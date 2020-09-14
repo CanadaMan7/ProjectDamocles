@@ -1,0 +1,47 @@
+TXT
+entityType "StarBaseUpgrade"
+stageCount 2
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADEUNSCFACTORY_NAME"
+	descStringID "IDS_STARBASEUPGRADEUNSCFACTORY_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_ANCHORFACTORY"
+	smallHudIcon "HUDICON_ANCHORFACTORY"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 600.000000
+		metal 100.000000
+		crystal 50.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADEUNSCFACTORY_NAME"
+	descStringID "IDS_STARBASEUPGRADEUNSCFACTORY_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCH_UNSCMANUFACTORY_CONSTRUCTIONFACILITIES"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_ANCHORFACTORY"
+	smallHudIcon "HUDICON_ANCHORFACTORY"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "FrigateBuildRate"
+		value 1.000000
+	upgradeProperty
+		propertyType "CultureMeshLevel"
+		value 1.000000
+	upgradeBoolPropertyCount 0
+xpModifier 2.0000000

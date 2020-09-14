@@ -1,0 +1,77 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "PlanetModuleTradePort"
+minZoomDistanceMult 2.000000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+numRandomDebrisLarge 4
+numRandomDebrisSmall 17
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_PLANETMODULE_TECHORBITALTRADEPORT"
+smallHudIcon "HUDICONSMALL_PLANETMODULE_TECHORBITALTRADEPORT"
+infoCardIcon "INFOCARDICON_PLANETMODULE_TECHORBITALTRADEPORT"
+planetUpgradeSlotType "Civilian"
+planetUpgradeSlotCount 4.000000
+basePrice
+	credits 1500.000000
+	metal 150.000000
+	crystal 150.000000
+NameStringID "IDS_STRUCTURE_CERBMINUTEMAN_NAME"
+DescriptionStringID "IDS_STRUCTURE_CERBMINUTEMAN_DESCRIPTION"
+planetModuleRoleType "TRADEPORT"
+statCountType "ModuleTradePort"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MaxHullPoints 5000.000000
+HullPointRestoreRate 4.000000
+BaseArmorPoints 3.000000
+MaxShieldPoints 2000.000000
+ShieldPointRestoreRate 6.000000
+maxShieldMitigation 0.700000
+ExperiencePointsForDestroying 50.000000
+resourceExtractionType "Invalid"
+cultureSpreadRate 0.000000
+isAffectedBySimilarModuleCostResearch FALSE
+placementRadius 1120.000000
+nearPlacementDistOffset 0.000000
+farPlacementDistOffset 9000.000000
+spawnCount 1
+swapMineType ""
+angularSpeed 0.000000
+rotateSoundName ""
+rotateFacingType "None"
+rotateConstantly FALSE
+ShieldMeshName "Structure_CerbMinuteman_Shield"
+renderShield TRUE
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "STRUCTURE_CERBMINUTEMAN_ONSELECTED1"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Structure_CerbMinuteman"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExplosionName "PlanetModuleLarge"
+mainViewIcon "MAINVIEWICON_PLANETMODULE_TECHORBITALTRADEPORT"
+picture "PLANETMODULEPICTURE_TECHORBITALTRADEPORT"
+minShadow 0.100000
+maxShadow 1.500000
+formationRank 3
+baseBuildTime 50.000000
+buildEffectName ""
+cargoShipType "FREIGHTER_CERB_KOWLOON"
+maxCargoShipCount 2
+cargoShipRespawnTime 150.000000
+baseTradeIncomeRate 1.500000

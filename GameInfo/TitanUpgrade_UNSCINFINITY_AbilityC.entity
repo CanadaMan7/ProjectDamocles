@@ -1,0 +1,115 @@
+﻿TXT
+entityType "TitanUpgrade"
+stageCount 7
+stage
+	nameStringID "ABILITY_UNSCSHIVA_NAME"
+	descStringID "ABILITY_UNSCSHIVA_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement -1
+	hudIcon "HUDICON_ABILITY_SHIVANORM"
+	smallHudIcon "HUDICON_ABILITY_RADIATION"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityCLevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "ABILITY_UNSCSHIVA_NAME"
+	descStringID "ABILITY_UNSCSHIVA_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 0
+	hudIcon "HUDICON_ABILITY_SHIVANORM"
+	smallHudIcon "HUDICON_ABILITY_RADIATION"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityCLevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "ABILITY_UNSCSHIVA_NAME"
+	descStringID "ABILITY_UNSCSHIVA_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 1
+	hudIcon "HUDICON_ABILITY_SHIVANORM"
+	smallHudIcon "HUDICON_ABILITY_RADIATION"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityCLevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "ABILITY_UNSCSHIVA_NAME"
+	descStringID "ABILITY_UNSCSHIVA_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDICON_ABILITY_SHIVANORM"
+	smallHudIcon "HUDICON_ABILITY_RADIATION"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityCLevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "ABILITY_UNSCSHIVA_NAME"
+	descStringID "ABILITY_UNSCSHIVA_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDICON_ABILITY_SHIVANORM"
+	smallHudIcon "HUDICON_ABILITY_RADIATION"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityCLevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "ABILITY_UNSCSHIVA_NAME"
+	descStringID "ABILITY_UNSCSHIVA_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDICON_ABILITY_SHIVANORM"
+	smallHudIcon "HUDICON_ABILITY_RADIATION"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityCLevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "ABILITY_UNSCSHIVA_NAME"
+	descStringID "ABILITY_UNSCSHIVA_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDICON_ABILITY_SHIVANORM"
+	smallHudIcon "HUDICON_ABILITY_RADIATION"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityCLevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0

@@ -1,0 +1,44 @@
+TXT
+entityType "Squad"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+hudIcon "HUDICON_SQUAD_UNSCSABREBOMBER"
+smallHudIcon "MAINVIEWICON_SQUAD_UNSCSABREBOMBER"
+infoCardIcon "MAINVIEWICON_SQUAD_UNSCSABREBOMBER"
+fighterEntityDef "FIGHTER_UNSCSABREBOMBER"
+fighterIllusionEntityDef ""
+scuttleTime 15.000000
+fighterConstructionTime 37.500000
+decayWithoutOwnerRate 0.100000
+baseMaxNumFighters 1
+role "Bomber"
+statCountType "SquadBomber"
+mainViewIcon "MAINVIEWICON_SQUAD_UNSCSABREBOMBER"
+picture "PICTURE_SQUAD_UNSCSABREBOMBER"
+launchIcon "HUDICONLAUNCH_SQUAD_UNSCSABREBOMBER"
+dockIcon "HUDICONDOCK_SQUAD_UNSCSABREBOMBER"
+nameStringID "FIGHTER_UNSCSABREBOMBER_NAME"
+descriptionStringID "FIGHTER_UNSCSABREBOMBER_DESCRIPTION"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+NumSoundsFor:ONATTACKORDERISSUED 1
+SoundID "SQUAD_UNSCSABERBOMBER_ONATTACKORDERISSUED_0"
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 1
+SoundID "SQUAD_UNSCSABERBOMBER_ONGENERALORDERISSUED_0"
+NumSoundsFor:ONSELECTED 3
+SoundID "SQUAD_UNSCSABERBOMBER_ONSELECTED_0"
+SoundID "SQUAD_UNSCSABERBOMBER_ONSELECTED_1"
+SoundID "SQUAD_UNSCSABERBOMBER_ONSELECTED_2"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

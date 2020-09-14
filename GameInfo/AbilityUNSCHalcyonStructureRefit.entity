@@ -1,0 +1,40 @@
+TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffUNSCHalcyonStructureRefit"
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithBase"
+baseSourceResearchSubject "RESEARCHSUBJECT_UNSC_FACTIONHOOD2"
+improveSourceResearchSubject "RESEARCHSUBJECT_UNSC_FACTIONHOOD2"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_UNSC_FACTIONHOOD2"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_UNSCHOOD"
+	RequiredCompletedResearchSubjects 0
+nameStringID "ABILITY_UNSCORIGINALSTRCUTURE_NAME"
+descStringID "ABILITY_UNSCORIGINALSTRUCTURE_DESCRIPTION"
+hudIcon "HUDICON_VALIANTARMOR"
+smallHudIcon "HUDICONSMALL_RESEARCHSUBJECT_ARMORTECH1"
+infoCardIcon ""

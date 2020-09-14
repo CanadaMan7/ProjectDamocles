@@ -1,0 +1,45 @@
+TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 0
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 3
+entityModifier
+	buffEntityModifierType "ShipBuildTime"
+	value
+		Level:0 -0.8000000
+		Level:1 -0.9000000
+		Level:2 -0.0000000
+		Level:3 -0.0000000
+entityModifier
+	buffEntityModifierType "WeaponCooldown"
+	value
+		Level:0 -0.3000000
+		Level:1 -0.4000000
+		Level:2 -0.0000000
+		Level:3 -0.0000000
+entityModifier
+	buffEntityModifierType "ShieldPointRestoreRate"
+	value
+		Level:0 0.4000000
+		Level:1 0.5000000
+		Level:2 0.0000000
+		Level:3 0.0000000
+numEntityBoolModifiers 4
+entityBoolModifier "DisablePhaseJump"
+entityBoolModifier "DisableAngularEngines"
+entityBoolModifier "DisableLinearEngines"
+entityBoolModifier "InstantBuildFighters"
+numFinishConditions 2
+finishCondition
+	finishConditionType "FirstSpawnerNoLongerHasBuff"
+	buffTypeToQuery "BuffCovWallofFaithCaster"
+finishCondition
+	finishConditionType "OwnerChanged"

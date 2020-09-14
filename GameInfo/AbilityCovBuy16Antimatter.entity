@@ -1,0 +1,75 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffCovBuy16AntimatterTarget"
+targetFilter
+	numOwnerships 1
+	ownership "Friendly"
+	numObjects 4
+	object "Corvette"
+	object "Frigate"
+	object "CapitalShip"
+	object "Titan"
+	numSpaces 1
+	space "Normal"
+	numConstraints 2
+	constraint "HasAntiMatterShortage"
+	constraint "NotSelf"
+range
+	Level:0 8000.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID "EFFECT_TRANSFERANTIMATTER"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Resources"
+creditCost
+	Level:0 160.000000
+	Level:1 160.000000
+	Level:2 160.000000
+	Level:3 160.000000
+metalCost
+	Level:0 32.000000
+	Level:1 32.000000
+	Level:2 32.000000
+	Level:3 32.000000
+crystalCost
+	Level:0 0.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 3.000000
+	Level:1 3.000000
+	Level:2 3.000000
+	Level:3 3.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "ABILITY_COVBUY24ANTIMATTER_NAME"
+descStringID "ABILITY_COVBUY24ANTIMATTER_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_TRANSFERANTIMATTER4"
+smallHudIcon "HUDICON_ABILITY_TRANSFERANTIMATTER4"
+infoCardIcon ""

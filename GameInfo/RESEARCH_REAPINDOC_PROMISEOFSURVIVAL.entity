@@ -1,0 +1,59 @@
+TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_PROMISEOFSURVIVAL_RESEARCH"
+smallHudIcon "HUDICON_PROMISEOFSURVIVAL_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_REAPINDOC_PROMISEOFSURVIVAL_NAME"
+DescriptionStringID "IDS_RESEARCH_REAPINDOC_PROMISEOFSURVIVAL_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 1 , 4 ]
+ResearchField "Fleet"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_REAPINDOC_USEFULPAWNS"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_REAPARRIVAL"
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 50.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 0.000000
+	metal 300.000000
+	crystal 525.000000
+PerLevelCostIncrease
+	credits 0.000000
+	metal 150.000000
+	crystal 150.000000
+Tier 1
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 4
+researchModifier
+	modifierType "PlanetIsColonizable"
+	linkedPlanetType "Asteroid"
+researchModifier
+	modifierType "PlanetIsColonizable"
+	linkedPlanetType "Terran"
+researchModifier
+	modifierType "PlanetIsColonizable"
+	linkedPlanetType "Desert"
+researchModifier
+	modifierType "PlanetIsColonizable"
+	linkedPlanetType "Iron"
+researchFloatModifiers 2
+researchModifier
+	modifierType "PopulationGrowthRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.750000
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.750000
+	linkedPlanetType "Invalid"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

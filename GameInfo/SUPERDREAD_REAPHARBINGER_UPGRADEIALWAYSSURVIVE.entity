@@ -1,0 +1,117 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "TitanUpgrade"
+stageCount 5
+stage
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement -1
+	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade0"
+	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade0"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 0
+	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade0"
+	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade0"
+	infoCardIcon ""
+	upgradePropertyCount 4
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 4.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 4.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 1.000000
+	upgradeProperty
+		propertyType "AbilityCooldownRate"
+		value 0.050000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade1"
+	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade1"
+	infoCardIcon ""
+	upgradePropertyCount 4
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 8.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 8.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 2.000000
+	upgradeProperty
+		propertyType "AbilityCooldownRate"
+		value 0.100000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 4
+	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade2"
+	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade2"
+	infoCardIcon ""
+	upgradePropertyCount 4
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 12.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 12.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 3.000000
+	upgradeProperty
+		propertyType "AbilityCooldownRate"
+		value 0.150000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_NAME"
+	descStringID "IDS_SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 6
+	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade3"
+	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade3"
+	infoCardIcon ""
+	upgradePropertyCount 4
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 16.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 16.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 4.000000
+	upgradeProperty
+		propertyType "AbilityCooldownRate"
+		value 0.200000
+	upgradeBoolPropertyCount 0

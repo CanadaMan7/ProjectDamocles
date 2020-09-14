@@ -1,0 +1,42 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_TRADESHIPCAPACITY2"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_TRADESHIPCAPACITY1"
+infoCardIcon ""
+NameStringID "RESEARCH_UNSC_TRADESHIPINCOME2_NAME"
+DescriptionStringID "RESEARCH_UNSC_TRADESHIPINCOME2_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 5 , 0 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_UNSC_TRADESHIPINCOME1"
+		Level 2
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 55.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1600.000000
+	metal 125.000000
+	crystal 225.000000
+PerLevelCostIncrease
+	credits 200.000000
+	metal 50.000000
+	crystal 50.000000
+Tier 5
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "TradeGoodsValueAdjustment"
+	baseValue 0.0000000
+	perLevelValue 0.050000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

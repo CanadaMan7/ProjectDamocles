@@ -1,0 +1,41 @@
+TXT
+entityType "StarBaseUpgrade"
+stageCount 2
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "STARBASEUPGRADE_COVSLIPDETECTION_NAME"
+	descStringID "STARBASEUPGRADE_COVSLIPDETECTION_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_CDAWALLOFFAITH"
+	smallHudIcon "HUDICON_CDAWALLOFFAITH"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1200.000000
+		metal 500.000000
+		crystal 350.000000
+	upgradeTime 60.000000
+	nameStringID "STARBASEUPGRADE_COVSLIPDETECTION_NAME"
+	descStringID "STARBASEUPGRADE_COVSLIPDETECTION_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_CDAWALLOFFAITH"
+	smallHudIcon "HUDICON_CDAWALLOFFAITH"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityCLevel"
+		value 1.000000
+	upgradeBoolPropertyCount 0
+xpModifier 5.0000000

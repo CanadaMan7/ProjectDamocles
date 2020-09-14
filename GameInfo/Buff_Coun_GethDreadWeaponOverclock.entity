@@ -1,0 +1,46 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 0
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 3
+entityModifier
+	buffEntityModifierType "WeaponCooldown"
+	value
+		Level:0 -0.400000
+		Level:1 -0.500000
+		Level:2 -0.600000
+		Level:3 -0.700000
+entityModifier
+	buffEntityModifierType "ShieldPointRestoreRate"
+	value
+		Level:0 -0.400000
+		Level:1 -0.500000
+		Level:2 -0.600000
+		Level:3 -0.700000
+entityModifier
+	buffEntityModifierType "ShieldMitigation"
+	value
+		Level:0 -0.030000
+		Level:1 -0.060000
+		Level:2 -0.090000
+		Level:3 -0.120000
+numEntityBoolModifiers 0
+numFinishConditions 2
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 30.000000
+		Level:1 40.000000
+		Level:2 50.000000
+		Level:3 60.000000
+finishCondition
+	finishConditionType "OwnerChanged"

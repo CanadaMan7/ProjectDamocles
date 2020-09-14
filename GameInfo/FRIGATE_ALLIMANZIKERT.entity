@@ -1,0 +1,162 @@
+TXT2
+SinsArchiveVersion 193
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 2
+frigateRoleType "Light"
+frigateRoleType "Corvette"
+statCountType "FrigateLight"
+mainViewIcon "MAINVIEWICON_FRIGATE_ALLIMANZIKERT"
+picture "FRIGATE_ALLI_MANZIKERT"
+NameStringID "IDS_FRIGATE_ALLIMANZIKERT_NAME"
+DescriptionStringID "IDS_FRIGATE_ALLIMANZIKERT_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_MISSILE_ARMOR"
+basePrice
+	credits 800.000000
+	metal 65.000000
+	crystal 50.000000
+slotCount 10.000000
+BuildTime 24.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 40.000000
+MaxHullPoints 1050.000000
+MaxShieldPoints 900.000000
+HullPointRestoreRate 1.000000
+ShieldPointRestoreRate 5.000000
+BaseArmorPoints 1.000000
+maxMitigation 0.650000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_ALLIMODERNIZATION_MANZIKERTPROGRAM"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_ALLIPRESERVE"
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 5
+numSpecificDebris 0
+armorType "Medium"
+hudIcon "HUDICON_FRIGATE_MANZIKERT"
+smallHudIcon "HUDICONSMALL_FRIGATE_ALLIMANZIKERT"
+infoCardIcon "INFOCARDICON_ALLI_MANZIKERT"
+minZoomDistanceMult 1.500000
+NumWeapons 1
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIVERYHEAVY"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 120.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 5000.000000
+	PreBuffCooldownTime 5.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.150000
+	TravelSpeed 3000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.340000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_ALLI_AUXMASSACCMUZZLE1"
+			sound "WEAPON_ALLI_AUXMASSACCMUZZLE2"
+			sound "WEAPON_ALLI_AUXMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2480.000000
+ShieldMeshName "Frigate_AlliHastings_Shield"
+renderShield TRUE
+maxAccelerationLinear 400.000000
+maxAccelerationStrafe 180.000000
+maxDecelerationLinear 550.000000
+maxAccelerationAngular 55.000000
+maxDecelerationAngular 85.000000
+maxSpeedLinear 725.000000
+maxRollRate 35.000000
+maxRollAngle 80.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 4
+SoundID "FRIGATE_CERBBOSTON_ONATTACK1"
+SoundID "FRIGATE_CERBBOSTON_ONATTACK2"
+SoundID "FRIGATE_CERBBOSTON_ONATTACK3"
+SoundID "FRIGATE_CERBBOSTON_ONATTACK4"
+NumSoundsFor:ONCREATION 2
+SoundID "FRIGATE_CERBBOSTON_ONCREATION1"
+SoundID "FRIGATE_CERBBOSTON_ONCREATION2"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "FRIGATE_CERBBOSTON_ONGENERAL1"
+SoundID "FRIGATE_CERBBOSTON_ONGENERAL2"
+SoundID "FRIGATE_CERBBOSTON_ONGENERAL3"
+NumSoundsFor:ONSELECTED 4
+SoundID "FRIGATE_CERBBOSTON_ONSELECTED1"
+SoundID "FRIGATE_CERBBOSTON_ONSELECTED2"
+SoundID "FRIGATE_CERBBOSTON_ONSELECTED3"
+SoundID "FRIGATE_CERBBOSTON_ONSELECTED4"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "FRIGATE_CERBBOSTON_ONJUMPSTART1"
+SoundID "FRIGATE_CERBBOSTON_ONJUMPSTART2"
+SoundID "FRIGATE_CERBBOSTON_ONJUMPSTART3"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Frigate_AlliManzikert"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "Frigate1"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_TECHCAPITALSHIP"
+ability:0 "Ability_Alli_ManzikertFTLProbes"
+ability:1 ""
+ability:2 "Ability_Alli_Wolfpack"
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 100.000000
+AntiMatterRestoreRate 0.500000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 0
+minShadow 0.100000
+maxShadow 1.500000
+allegianceDecreasePerRoundtrip 0.000000

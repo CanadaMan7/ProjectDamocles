@@ -1,0 +1,57 @@
+TXT2
+SinsArchiveVersion 193
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffUNSCMarathonDamageMitigation"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget FALSE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired 
+	Level:0 3.000000
+	Level:1 5.000000
+	Level:2 7.000000
+	Level:3 0.000000
+aiUseTime "OnlyWhenTakingDamage"
+aiUseTargetCondition "HullDamageExceedsAmount"
+onlyAutoCastWhenTargetHullDamageExceedsAmount 
+	Level:0 3000.000000
+	Level:1 3500.000000
+	Level:2 4000.000000
+	Level:3 0.000000
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget FALSE
+onlyAutoCastWhenDamageTakenExceedsPerc 50.000000
+useCostType "AntiMatter"
+antiMatterCost 
+	Level:0 0.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime 
+	Level:0 70.000000
+	Level:1 75.000000
+	Level:2 80.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED" 
+researchPrerequisites 
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "ABILITY_UNSCDAMAGECREWS_NAME"
+descStringID "ABILITY_UNSCDAMAGECREWS_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_UNSCREPAIR"
+smallHudIcon ""
+infoCardIcon ""

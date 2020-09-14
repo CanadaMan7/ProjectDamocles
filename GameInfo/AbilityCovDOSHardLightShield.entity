@@ -1,0 +1,44 @@
+TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffCovDOSHardLightShield"
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "DOSShield"
+	mediumEffectName "DOSShield"
+	largeEffectName "DOSShield"
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility TRUE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "OnlyWhenTakingDamage"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 120.000000
+	Level:1 120.000000
+	Level:2 120.000000
+	Level:3 120.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_COV_FACTIONREGRET2"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COVREGRET"
+	RequiredCompletedResearchSubjects 0
+nameStringID "ABILITY_COVDODHARDLIGHTSHIELD_NAME"
+descStringID "ABILITY_COVDODHARDLIGHTSHIELD_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_COVHARDLIGHTSHIELD"
+smallHudIcon "HUDICON_ABILITY_COVHARDLIGHTSHIELD"
+infoCardIcon ""

@@ -1,0 +1,54 @@
+TXT
+entityType "Ability"
+buffInstantActionType "CreateFrigate"
+instantActionTriggerType "OnDelay"
+delayTime 0.000000
+	frigateType "FRIGATE_UNSCRAZORHOLO"
+	numFrigates
+		Level:0 4.000000
+		Level:1 4.000000
+		Level:2 4.000000
+		Level:3 4.000000
+	matchOwnerDamageState FALSE
+	impulse 10000.000000
+	expiryTime
+		Level:0 -1.000000
+		Level:1 -1.000000
+		Level:2 -1.000000
+		Level:3 -1.000000
+	spawnFrigateSoundID ""
+	postSpawnBuff "BuffUNSCRazorHolo"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 2.000000
+	Level:2 4.000000
+	Level:3 6.000000
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 60.000000
+	Level:1 60.000000
+	Level:2 60.000000
+	Level:3 60.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "ABILITY_UNSCHOLOPODS_NAME"
+descStringID "ABILITY_UNSCHOLOPODS_DESCRIPTION"
+hudIcon "HUDICON_UNSC_HOLOPODS"
+smallHudIcon "HUDICON_UNSC_HOLOPODS"
+infoCardIcon ""

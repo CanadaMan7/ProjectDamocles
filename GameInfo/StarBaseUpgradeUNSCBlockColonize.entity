@@ -1,0 +1,40 @@
+TXT
+entityType "StarBaseUpgrade"
+stageCount 2
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADEUNSCBLOCKCOLONIZE_NAME"
+	descStringID "IDS_STARBASEUPGRADETECHBLOCKCOLONIZE_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_ABILITY_ANCHORCOORDRES"
+	smallHudIcon "HUDICON_ABILITY_ANCHORCOORDRES"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 600.000000
+		metal 100.000000
+		crystal 50.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADEUNSCBLOCKCOLONIZE_NAME"
+	descStringID "IDS_STARBASEUPGRADETECHBLOCKCOLONIZE_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_ABILITY_ANCHORCOORDRES"
+	smallHudIcon "HUDICON_ABILITY_ANCHORCOORDRES"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 2
+	upgradeBoolProperty "CanPreventEnemyColonize"
+	upgradeBoolProperty "CanPreventPlanetLossByBombing"
+xpModifier 2.0000000

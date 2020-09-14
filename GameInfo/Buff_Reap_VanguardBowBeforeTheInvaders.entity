@@ -1,0 +1,32 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit -1
+buffExclusivityForAIType "ExclusivePerPlayer"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "DoAllegianceChangeToPlanet"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	allegianceChange
+		Level:0 -0.025000
+		Level:1 -0.050000
+		Level:2 -0.075000
+		Level:3 -0.100000
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 1
+entityBoolModifier "ProxySensor"
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 30.000000
+		Level:1 40.000000
+		Level:2 50.000000
+		Level:3 60.000000

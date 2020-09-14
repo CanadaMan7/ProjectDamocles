@@ -1,0 +1,94 @@
+TXT 
+entityType "Fighter"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack TRUE
+numRandomDebrisLarge 0
+numRandomDebrisSmall 0
+numSpecificDebris 0
+armorType "VeryLight"
+hudIcon "HUDICON_ABILITY_PLACEHOLDER"
+smallHudIcon "HUDICON_ABILITY_PLACEHOLDER"
+infoCardIcon "INFOCARDICON_SQUAD_UNSCSABRECOMBAT"
+minZoomDistanceMult 12.500000
+nameStringID "FIGHTER_SENTAGGRESSORCOMBAT_NAME"
+counterDescriptionStringID "IDS_COUNTERDESC_FIGHTER_LONGSWORDCOMBAT"
+statCountType "FighterCombat"
+formationOffsetDistance 50.000000
+mass 23.000000
+maxAccelerationLinear 680.000000
+maxAccelerationStrafe 200.000000
+maxDecelerationLinear 3000.000000
+maxAccelerationAngular 380.000000
+maxDecelerationAngular 450.000000
+maxSpeedLinear 2000.000000
+maxRollRate 60.000000
+maxRollAngle 89.000000
+NumWeapons 1
+Weapon  
+	WeaponType "Beam"
+	damageEnums  
+		AttackType "ANTILIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "BEAM"
+	DamagePerBank:FRONT 145.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 2500.000000
+	PreBuffCooldownTime 3.00000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.000000
+	TravelSpeed 0.000000
+	Duration 0.250000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Beam"
+		burstCount 2
+		burstDelay 0.000000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_PsiCapitalLaserHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds  
+			soundCount 1
+			sound ""
+		hitEffectName "Weapon_PsiCapitalBeamHeavy_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound ""
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound ""
+		beamEffectSounds  
+			soundCount 1
+			sound "WEAPON_PSICAPITALBEAMHEAVY_TRAVEL"
+		beamGlowTextureName "PsiCapitalBeam_Glow"
+		beamCoreTextureName "PsiCapitalBeam_Core"
+		beamWidth 4.000000
+		beamGlowColor ffffffff
+		beamCoreColor ffffffff
+		beamTilingRate 3.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+meshName "FIGHTER_SENTAGGRESSOR"
+exhaustParticleSystemName ""
+ExplosionName "UNSC_Fighter"
+exhaustTrailTextureName "Black-da.dds"
+exhaustTrailWidth 0.0000001
+engineSoundID "ENGINE_TECHSUPPORTSHIP"
+maxHullPoints 300.000000
+hullPointRestoreRate 0.800000
+armorPoints 1.000000
+maxMitigation 0.600000
+experiencePointsForDestroying 0.000000
+minShadow 0.400000
+maxShadow 0.400000

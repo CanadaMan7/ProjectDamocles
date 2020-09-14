@@ -1,0 +1,35 @@
+TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_UNSCTHANATOSBS"
+smallHudIcon "HUDICONSMALL_FRIGATE_UNSCTHANATOS"
+infoCardIcon "INFOCARDICON_FRIGATE_UNSCTHANATOS"
+NameStringID "RESEARCH_UNSC_CAPSHIP_THANATOS_NAME"
+DescriptionStringID "RESEARCH_UNSC_CAPSHIP_THANATOS_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 7 , 6 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_UNSCSTANFORTH"
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 75
+PerLevelUpgradeTime 0
+BaseCost
+	credits 2000.000000
+	metal 0.000000
+	crystal 500.000000
+PerLevelCostIncrease
+	credits 1000.000000
+	metal 0.000000
+	crystal 25.000000
+Tier 7
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

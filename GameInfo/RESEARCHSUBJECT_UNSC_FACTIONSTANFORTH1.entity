@@ -1,0 +1,50 @@
+TXT
+entityType "ResearchSubject"
+hudIcon "RESEARCHBUTTON_UNSC_ONIREQUISITIONS"
+smallHudIcon "RESEARCHBUTTON_UNSC_ONIREQUISITIONS"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_FACTIONUNSC_STANFORTH1_NAME"
+DescriptionStringID "IDS_RESEARCH_FACTIONUNSC_STANFORTH1_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 1 , 3 ]
+ResearchField "Fleet"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_UNSC_FACTIONSTANFORTH"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_UNSCSTANFORTH"
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 120.000000
+PerLevelUpgradeTime 0.000000
+BaseCost
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+PerLevelCostIncrease
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+Tier 1
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1
+researchBoolModifiers 0
+researchFloatModifiers 3
+researchModifier
+	modifierType "ResearchBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.150000
+researchModifier
+	modifierType "ResearchCostAdjustment"
+	baseValue 0.000000
+	perLevelValue -0.150000
+researchModifier
+	modifierType "BlackMarketBuyPriceAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

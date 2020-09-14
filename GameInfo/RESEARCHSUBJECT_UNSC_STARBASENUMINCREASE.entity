@@ -1,0 +1,39 @@
+TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_STARBASEOPTIMIZATION"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_STARBASEOPTIMIZATION"
+infoCardIcon "INFOCARDICON_FRIGATE_UNSCSBCONSTRUCTOR"
+NameStringID "RESEARCH_UNSC_STARBASENUMINCREASE_NAME"
+DescriptionStringID "RESEARCH_UNSC_STARBASENUMINCREASE_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 7 , 1 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 75
+PerLevelUpgradeTime 0
+BaseCost
+	credits 4500.000000
+	metal 350.000000
+	crystal 600.000000
+PerLevelCostIncrease
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+Tier 7
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "StarBasesPerGravityWellAdjustment"
+	baseValue 0.000000
+	perLevelValue 1.00000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

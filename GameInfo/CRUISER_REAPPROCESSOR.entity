@@ -1,0 +1,120 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 1
+frigateRoleType "Heavy"
+statCountType "FrigateHeavy"
+mainViewIcon "MAINVIEWICON_FRIGATE_PHASEHEAVY"
+picture "PICTURE_FRIGATE_PHASEHEAVY"
+NameStringID "IDS_CRUISER_REAPDESTROYER_NAME"
+DescriptionStringID "IDS_CRUISER_REAPDESTROYER_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_HEAVY"
+basePrice
+	credits 0.000000
+	metal 4200.000000
+	crystal 2100.000000
+slotCount 35.000000
+BuildTime 90.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 350.000000
+MaxHullPoints 5500.000000
+MaxShieldPoints 2750.000000
+HullPointRestoreRate 8.000000
+ShieldPointRestoreRate 10.000000
+BaseArmorPoints 6.000000
+maxMitigation 0.850000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_REAPNUMBERS_ARRIVAL"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_REAPARRIVAL"
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 1
+numRandomDebrisSmall 10
+numSpecificDebris 0
+armorType "Titan"
+hudIcon "HUDICON_FRIGATE_PHASEHEAVY"
+smallHudIcon "HUDICONSMALL_FRIGATE_PHASEHEAVY"
+infoCardIcon "INFOCARDICON_FRIGATE_PHASEHEAVY"
+minZoomDistanceMult 4.000000
+NumWeapons 0
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName "Cruiser_ReapDestroyer_Shield"
+renderShield TRUE
+maxAccelerationLinear 40.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 900.000000
+maxAccelerationAngular 2.000000
+maxDecelerationAngular 10.000000
+maxSpeedLinear 600.000000
+maxRollRate 4.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "CRUISER_REAPDESTROYER_ONATTACK1"
+SoundID "CRUISER_REAPDESTROYER_ONATTACK2"
+SoundID "CRUISER_REAPDESTROYER_ONATTACK3"
+NumSoundsFor:ONCREATION 3
+SoundID "CRUISER_REAPDESTROYER_ONCREATION1"
+SoundID "CRUISER_REAPDESTROYER_ONCREATION2"
+SoundID "CRUISER_REAPDESTROYER_ONCREATION3"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "CRUISER_REAPDESTROYER_ONGENERAL1"
+SoundID "CRUISER_REAPDESTROYER_ONGENERAL2"
+SoundID "CRUISER_REAPDESTROYER_ONGENERAL3"
+NumSoundsFor:ONSELECTED 3
+SoundID "CRUISER_REAPDESTROYER_ONSELECTED1"
+SoundID "CRUISER_REAPDESTROYER_ONSELECTED2"
+SoundID "CRUISER_REAPDESTROYER_ONSELECTED3"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "CRUISER_REAPDESTROYER_ONJUMPSTART1"
+SoundID "CRUISER_REAPDESTROYER_ONJUMPSTART2"
+SoundID "CRUISER_REAPDESTROYER_ONJUMPSTART3"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Cruiser_ReapDestroyer"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "Frigate0"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_PHASECAPITALSHIP"
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 0
+minShadow 0.100000
+maxShadow 1.500000
+allegianceDecreasePerRoundtrip 0.000000

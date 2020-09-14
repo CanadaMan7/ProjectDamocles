@@ -1,0 +1,84 @@
+TXT
+entityType "StarBaseUpgrade"
+stageCount 4
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADEUNSCWEAPONS_NAME"
+	descStringID "IDS_STARBASEUPGRADEUNSCWEAPONS_DESC0"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_ANCHORWEAPONS1"
+	smallHudIcon "HUDICON_ANCHORWEAPONS1"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1500.000000
+		metal 200.000000
+		crystal 80.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADEUNSCWEAPONS_NAME"
+	descStringID "IDS_STARBASEUPGRADEUNSCWEAPONS_DESC0"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_ANCHORWEAPONS2"
+	smallHudIcon "HUDICON_ANCHORWEAPONS2"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponUpgradeLevel"
+		value 1.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 2000.000000
+		metal 400.000000
+		crystal 180.000000
+	upgradeTime 200.000000
+	nameStringID "IDS_STARBASEUPGRADEUNSCWEAPONS_NAME"
+	descStringID "IDS_STARBASEUPGRADEUNSCWEAPONS_DESC1"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_ANCHORWEAPONS3"
+	smallHudIcon "HUDICON_ANCHORWEAPONS3"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponUpgradeLevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 3000.000000
+		metal 400.000000
+		crystal 400.000000
+	upgradeTime 200.000000
+	nameStringID "IDS_STARBASEUPGRADEUNSCSHIVA_NAME"
+	descStringID "IDS_STARBASEUPGRADEUNSCSHIVA_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCH_UNSCMANUFACTORY_SHIVATUBES"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_UNSCSHIVAANCHORUPGRADE"
+	smallHudIcon "HUDICON_UNSCSHIVAANCHORUPGRADE"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponUpgradeLevel"
+		value 3.000000
+	upgradeBoolPropertyCount 0
+xpModifier 0.0000000

@@ -1,0 +1,234 @@
+TXT2
+SinsArchiveVersion 194
+entityType "CapitalShip"
+ability:0 "Ability_Coun_UndauntedDieForTheCause"
+ability:1 "Ability_Coun_UndauntedSabotage"
+ability:2 "Ability_Coun_UndauntedOverload"
+ability:3 "Ability_Coun_TurianCarrierTorps"
+ability:4 "AbilityUNSCCruiserPassiveBundle"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_UNSCVALIANT"
+basePrice
+	credits 3425.000000
+	metal 325.000000
+	crystal 400.000000
+slotCount 55.000000
+BuildTime 81.000000
+MaxHullPoints
+	StartValue 7850.000000
+	ValueIncreasePerLevel 0.000000
+MaxShieldPoints
+	StartValue 9600.000000
+	ValueIncreasePerLevel 0.000000
+HullPointRestoreRate
+	StartValue 4.000000
+	ValueIncreasePerLevel 0.250000
+ShieldPointRestoreRate
+	StartValue 10.000000
+	ValueIncreasePerLevel 0.000000
+ArmorPointsFromExperience
+	StartValue 4.000000
+	ValueIncreasePerLevel 0.000000
+maxMitigation
+	StartValue 0.650000
+	ValueIncreasePerLevel 0.000000
+MaxAntiMatter
+	StartValue 525.000000
+	ValueIncreasePerLevel 0.000000
+AntiMatterRestoreRate
+	StartValue 0.500000
+	ValueIncreasePerLevel 0.050000
+CultureProtectRate
+	StartValue 0.300000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_CARRIER_COUNTURIAN_NAME"
+DescriptionStringID "IDS_CARRIER_COUNTURIAN_DESCRIPTION"
+picture "PICTURE_CAPITALSHIP_UNSCVALIANT"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNSHEPARD_TURIANCOMMIT"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+roleType "Invalid"
+statCountType "CapitalShipCarrier"
+numRandomDebrisLarge 5
+numRandomDebrisSmall 18
+numSpecificDebris 1
+specificDebrisMeshName "DebrisTechLarge"
+armorType "Heavy"
+hudIcon "HUDICON_CARRIER_COUNUNDAUNTED"
+smallHudIcon "MAINVIEWICON_CAPITALSHIP_UNSCVALIANT"
+infoCardIcon "MAINVIEWICON_CAPITALSHIP_UNSCVALIANT"
+minZoomDistanceMult 1.500000
+NumWeapons 2
+Weapon  
+	WeaponType "Missile"
+	damageEnums  
+		AttackType "ANTIHEAVY"
+		DamageAffectType "AFFECTS_ONLY_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 100.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 1500.000000
+	PreBuffCooldownTime 6.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.100000
+	TravelSpeed 1200.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Missile"
+		burstCount 2
+		burstDelay 0.150000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_UNSCHeavyArcherMissile_Muzzle"
+		muzzleSoundMinRespawnTime 0.500000
+		muzzleSounds  
+			soundCount 3
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
+		hitEffectName "Weapon_PhaseCapitalMissileFrigate_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_CerbArcadiaMissle_Travel"
+		missileStartTurningDistance 250.000000
+		missileSlowTurnRate 1.000000
+		missileMaxSlowTurnTime 0.750000
+Weapon  
+	WeaponType "Projectile"
+	damageEnums  
+		AttackType "ANTILIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 120.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 8000.000000
+	PreBuffCooldownTime 2.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.750000
+	TravelSpeed 3000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+			fireDelay 0.000000
+	muzzleEffectName "Weapon_UNSCMAC_MuzzleSmall"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds  
+			soundCount 2
+			sound "WEAPON_UNSC_MAC_MUZZLELIGHT"
+			sound "WEAPON_UNSC_MAC_MUZZLELIGHT_ALT1"
+		hitEffectName "Weapon_UNSCMAC_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"
+m_weaponIndexForRange 1
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+mass 10000.000000
+ShieldMeshName "Carrier_CounTurian_Shield"
+renderShield TRUE
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 700.000000
+maxAccelerationAngular 2.000000
+maxDecelerationAngular 10.000000
+maxSpeedLinear 475.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+useCustomHyperspaceEffects TRUE
+effects
+	chargeUpEffectName "SlipspaceChargeUpUNSCCap"
+	chargeUpEffectNameBetweenStars "SlipspaceChargeUpUNSCCap"
+	chargeUpEffectNameDestabilized "SlipspaceChargeUpUNSCCap"
+	chargeUpEffectSoundID "HYPERSPACE_CHARGEUP"
+	travelEffectName "SlipspaceTravelNoneCap"
+	travelEffectNameBetweenStars "SlipspaceTravelNoneCap"
+	travelEffectNameDestabilized "SlipspaceTravelNoneCap"
+	travelEffectSoundID "HYPERSPACE_TRAVEL"
+	exitEffectName "SlipspaceExitUNSCCap"
+	exitEffectSoundID "HYPERSPACE_EXIT"
+squadTypeEntityDef:0 "SQUAD_COUNTURIAN"
+squadAntiMatterCost:0 90.000000
+squadTypeEntityDef:1 "SQUAD_COUNTURIANINTERCEPTOR"
+squadAntiMatterCost:1 80.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 6
+SoundID "CAPITALSHIP_UNSCVALIANT_ONATTACKORDERISSUED_0"
+SoundID "CAPITALSHIP_UNSCVALIANT_ONATTACKORDERISSUED_1"
+SoundID "CAPITALSHIP_UNSCVALIANT_ONATTACKORDERISSUED_2"
+SoundID "CAPITALSHIP_UNSCVALIANT_ONATTACKORDERISSUED_3"
+SoundID "CAPITALSHIP_UNSCVALIANT_ONATTACKORDERISSUED_4"
+SoundID "CAPITALSHIP_UNSCVALIANT_ONATTACKORDERISSUED_5"
+NumSoundsFor:ONCREATION 1
+SoundID "CAPITALSHIP_UNSCVALIANT_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "CAPITALSHIP_UNSCVALIANT_ONGENERALORDERISSUED_0"
+SoundID "CAPITALSHIP_UNSCVALIANT_ONGENERALORDERISSUED_1"
+SoundID "CAPITALSHIP_UNSCVALIANT_ONGENERALORDERISSUED_2"
+NumSoundsFor:ONSELECTED 6
+SoundID "CAPITALSHIP_UNSCVALIANT_ONSELECTED_0"
+SoundID "CAPITALSHIP_UNSCVALIANT_ONSELECTED_1"
+SoundID "CAPITALSHIP_UNSCVALIANT_ONSELECTED_2"
+SoundID "CAPITALSHIP_UNSCVALIANT_ONSELECTED_3"
+SoundID "CAPITALSHIP_UNSCVALIANT_ONSELECTED_4"
+SoundID "CAPITALSHIP_UNSCVALIANT_ONSELECTED_5"
+NumSoundsFor:ONSTARTPHASEJUMP 2
+SoundID "CAPITALSHIP_UNSCVALIANT_ONSTARTPHASEJUMP_0"
+SoundID "CAPITALSHIP_UNSCVALIANT_ONSTARTPHASEJUMP_1"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Carrier_CounTurian"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "UNSC_Capitalship_Small"
+CommandPoints
+	StartValue 5.000000
+	ValueIncreasePerLevel 0.000000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.030000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.000000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+formationRank 2
+minShadow 0.600000
+maxShadow 1.600000

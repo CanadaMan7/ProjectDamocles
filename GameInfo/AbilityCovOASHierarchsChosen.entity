@@ -1,0 +1,63 @@
+TXT2
+SinsArchiveVersion 193
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffCovOASHierarchsChosen"
+targetFilter
+	numOwnerships 1
+	ownership "Friendly"
+	numObjects 3
+	object "Frigate"
+	object "CapitalShip"
+	object "Corvette"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "NotIsBoarded"
+range
+	Level:0 5000.000000
+	Level:1 5500.000000
+	Level:2 6000.000000
+	Level:3 6500.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget FALSE
+moveThruTarget FALSE
+isUltimateAbility TRUE
+maxNumLevels 4
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 2.000000
+	Level:2 4.000000
+	Level:3 6.000000
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "IsCapitalShipOrStarbaseOrTitan"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 120.000000
+	Level:1 120.000000
+	Level:2 120.000000
+	Level:3 120.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "ABILITY_COVOASHIERARCHSCHOSEN_NAME"
+descStringID "ABILITY_COVOASHIERARCHSCHOSEN_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_COVHIERARCHSCHOSEN"
+smallHudIcon "HUDICON_ABILITY_COVHIERARCHSCHOSEN"
+infoCardIcon ""

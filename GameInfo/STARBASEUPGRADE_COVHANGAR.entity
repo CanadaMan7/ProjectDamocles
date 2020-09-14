@@ -1,0 +1,73 @@
+TXT
+entityType "StarBaseUpgrade"
+stageCount 3
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADECOVHANGAR_NAME"
+	descStringID "IDS_STARBASEUPGRADECOVHANGAR_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_CDAHANGAR"
+	smallHudIcon "HUDICON_CDAHANGAR"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 900.000000
+		metal 105.000000
+		crystal 100.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADECOVHANGAR_NAME"
+	descStringID "IDS_STARBASEUPGRADECOVHANGAR_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_CDAHANGAR"
+	smallHudIcon "HUDICON_CDAHANGAR"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 4.000000
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 64.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 0.200000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADECOVHANGAR_NAME"
+	descStringID "IDS_STARBASEUPGRADECOVHANGAR_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDICON_CDAHANGAR"
+	smallHudIcon "HUDICON_CDAHANGAR"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 8.000000
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 128.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 0.200000
+	upgradeBoolPropertyCount 0
+xpModifier 15.0000000

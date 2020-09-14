@@ -1,0 +1,40 @@
+TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_POPULATIONCAPTERRANTECH0"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_POPULATIONCAPTERRANTECH0"
+infoCardIcon ""
+NameStringID "RESEARCH_UNSC_TERRANPOPGROWTH_NAME"
+DescriptionStringID "RESEARCH_UNSC_TERRANPOPGROWTH_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 4 , 5 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 50
+PerLevelUpgradeTime 10
+BaseCost
+	credits 1400.000000
+	metal 125.000000
+	crystal 225.000000
+PerLevelCostIncrease
+	credits 200.000000
+	metal 50.000000
+	crystal 50.000000
+Tier 4
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 2
+priority 1
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.1000000
+	linkedPlanetType "Terran"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

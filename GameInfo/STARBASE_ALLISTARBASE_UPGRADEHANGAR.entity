@@ -1,0 +1,65 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "StarBaseUpgrade"
+stageCount 3
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASE_ALLISTARBASE_UPGRADEHANGAR_NAME"
+	descStringID "IDS_STARBASE_ALLISTARBASE_UPGRADEHANGAR_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechHangar0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechHangar0"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 3.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1500.000000
+		metal 300.000000
+		crystal 250.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASE_ALLISTARBASE_UPGRADEHANGAR_NAME"
+	descStringID "IDS_STARBASE_ALLISTARBASE_UPGRADEHANGAR_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechHangar0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechHangar0"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 6.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 2500.000000
+		metal 400.000000
+		crystal 350.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASE_ALLISTARBASE_UPGRADEHANGAR_NAME"
+	descStringID "IDS_STARBASE_ALLISTARBASE_UPGRADEHANGAR_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechHangar1"
+	smallHudIcon "HUDIconStarBaseUpgradeTechHangar1"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 12.000000
+	upgradeBoolPropertyCount 0
+xpModifier 100.000000

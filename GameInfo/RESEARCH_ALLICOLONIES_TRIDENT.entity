@@ -1,0 +1,48 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_TRIDENT_RESEARCH"
+smallHudIcon "HUDICON_TRIDENT_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_ALLICOLONIES_TRIDENT_NAME"
+DescriptionStringID "IDS_RESEARCH_ALLICOLONIES_TRIDENT_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 3 , 6 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_ALLICOLONIES_SANCTUM"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 75.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 1200.000000
+	metal 200.000000
+	crystal 325.000000
+PerLevelCostIncrease
+	credits 250.000000
+	metal 100.000000
+	crystal 100.000000
+Tier 3
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedPlanetType "Oceanic"
+researchModifier
+	modifierType "ExtractionRateCrystalAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

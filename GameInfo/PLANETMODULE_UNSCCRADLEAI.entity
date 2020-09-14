@@ -1,0 +1,87 @@
+TXT 
+entityType "PlanetModuleStandard"
+minZoomDistanceMult 2.000000
+ability:0 "AbilityUNSCRepairPlatformAI"
+ability:1 "AbilityUNSCCradlePostSpawnAI"
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+numRandomDebrisLarge 0
+numRandomDebrisSmall 0
+numSpecificDebris 0
+armorType "Titan"
+hudIcon "HUDICON_FRIGATE_UNSCCRADLE"
+smallHudIcon "MAINVIEWICON_FRIGATE_UNSCCRADLE"
+infoCardIcon "MAINVIEWICON_FRIGATE_UNSCCRADLE"
+planetUpgradeSlotType "Tactical"
+planetUpgradeSlotCount 0.000000
+basePrice 
+	credits 400.000000
+	metal 100.000000
+	crystal 75.000000
+NameStringID "FRIGATE_UNSCCRADLE_NAME"
+DescriptionStringID "PLANETMODULE_UNSCCRADLE_DESCRIPTION"
+planetModuleRoleType "REPAIRPLATFORM"
+statCountType "Invalid"
+Prerequisites 
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MaxHullPoints 10000.000000
+HullPointRestoreRate 13.500000
+BaseArmorPoints 8.000000
+MaxShieldPoints 0.000000
+ShieldPointRestoreRate 0.000000
+maxShieldMitigation 0.000000
+ExperiencePointsForDestroying 10.000000
+resourceExtractionType "Invalid"
+cultureSpreadRate 0.000000
+isAffectedBySimilarModuleCostResearch FALSE
+placementRadius 100.000000
+nearPlacementDistOffset 0.000000
+farPlacementDistOffset 9000.000000
+spawnCount 1
+swapMineType ""
+angularSpeed 0.000000
+rotateSoundName ""
+rotateFacingType "None"
+rotateConstantly FALSE
+ShieldMeshName "FRIGATE_UNSCCRADLE_SHIELD"
+renderShield TRUE
+NumSoundsFor:ONATTACKORDERISSUED 4
+SoundID "FRIGATE_UNSCCRADLE_ONATTACKORDERISSUED_0"
+SoundID "FRIGATE_UNSCCRADLE_ONATTACKORDERISSUED_1"
+SoundID "FRIGATE_UNSCCRADLE_ONATTACKORDERISSUED_2"
+SoundID "FRIGATE_UNSCCRADLE_ONATTACKORDERISSUED_3"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_UNSCCRADLE_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 5
+SoundID "FRIGATE_UNSCCRADLE_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_UNSCCRADLE_ONGENERALORDERISSUED_1"
+SoundID "FRIGATE_UNSCCRADLE_ONGENERALORDERISSUED_2"
+SoundID "FRIGATE_UNSCCRADLE_ONGENERALORDERISSUED_3"
+SoundID "FRIGATE_UNSCCRADLE_ONGENERALORDERISSUED_4"
+NumSoundsFor:ONSELECTED 5
+SoundID "FRIGATE_UNSCCRADLE_ONSELECTED_0"
+SoundID "FRIGATE_UNSCCRADLE_ONSELECTED_1"
+SoundID "FRIGATE_UNSCCRADLE_ONSELECTED_2"
+SoundID "FRIGATE_UNSCCRADLE_ONSELECTED_3"
+SoundID "FRIGATE_UNSCCRADLE_ONSELECTED_4"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "FRIGATE_UNSCCRADLE_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo 
+	meshName "FRIGATE_UNSCCRADLE"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExplosionName "UNSC_Capitalship_Small"
+mainViewIcon "MAINVIEWICON_FRIGATE_UNSCCRADLE"
+picture "PICTURE_FRIGATE_UNSCCRADLE"
+minShadow 0.000000
+maxShadow 0.200000
+formationRank 3
+baseBuildTime 60.000000
+buildEffectName ""

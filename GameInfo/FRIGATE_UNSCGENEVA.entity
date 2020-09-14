@@ -1,0 +1,119 @@
+TXT2
+SinsArchiveVersion 193  
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn FALSE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault FALSE
+canBomb FALSE
+typeCount 1
+frigateRoleType "Envoy"
+statCountType "FrigateEnvoy"
+mainViewIcon "MAINVIEWICON_FRIGATE_UNSCGENEVA"
+picture "PICTURE_FRIGATE_UNSCGENEVA"
+NameStringID "FRIGATE_UNSCGENEVA_NAME"
+DescriptionStringID "FRIGATE_UNSCGENEVA_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_GENEVA"
+basePrice  
+	credits 550.000000
+	metal 70.000000
+	crystal 10.000000
+slotCount 4.000000
+BuildTime 30.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 2.000000
+MaxHullPoints 1700.000000
+MaxShieldPoints 0.000000
+HullPointRestoreRate 3.00000
+ShieldPointRestoreRate 1.000000
+BaseArmorPoints 1.000000
+maxMitigation 0.000000
+relationshipChangeRate 0.000667
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite  
+		Subject "RESEARCH_UNSCMANUFACTORY_GENEVA"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 4
+numSpecificDebris 0
+armorType "Medium"
+hudIcon "HUDICON_FRIGATE_UNSCGENEVA"
+smallHudIcon "MAINVIEWICON_FRIGATE_UNSCGENEVA"
+infoCardIcon "MAINVIEWICON_FRIGATE_UNSCGENEVA"
+minZoomDistanceMult 1.800000
+NumWeapons 0
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 0
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName "FRIGATE_UNSCGENEVA_SHIELD"
+renderShield TRUE
+maxAccelerationLinear 200.0000
+maxAccelerationStrafe 50.0000
+maxDecelerationLinear 1000.0000
+maxAccelerationAngular 10.0000
+maxDecelerationAngular 15.0000
+maxSpeedLinear 600.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 2
+SoundID "FRIGATE_UNSCGENEVA_ONATTACKORDERISSUED_0"
+SoundID "FRIGATE_UNSCGENEVA_ONATTACKORDERISSUED_1"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_UNSCGENEVA_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "FRIGATE_UNSCGENEVA_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_UNSCGENEVA_ONGENERALORDERISSUED_1"
+SoundID "FRIGATE_UNSCGENEVA_ONGENERALORDERISSUED_2"
+NumSoundsFor:ONSELECTED 6
+SoundID "FRIGATE_UNSCGENEVA_ONSELECTED_0"
+SoundID "FRIGATE_UNSCGENEVA_ONSELECTED_1"
+SoundID "FRIGATE_UNSCGENEVA_ONSELECTED_2"
+SoundID "FRIGATE_UNSCGENEVA_ONSELECTED_3"
+SoundID "FRIGATE_UNSCGENEVA_ONSELECTED_4"
+SoundID "FRIGATE_UNSCGENEVA_ONSELECTED_5"
+NumSoundsFor:ONSTARTPHASEJUMP 2
+SoundID "FRIGATE_UNSCGENEVA_ONSTARTPHASEJUMP_0"
+SoundID "FRIGATE_UNSCGENEVA_ONSTARTPHASEJUMP_1"
+MeshNameInfoCount 1
+MeshNameInfo  
+	meshName "FRIGATE_UNSCGENEVA"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "EXHAUST_FRIGATE_UNSCGENEVA"
+ExplosionName "UNSC_Frig_Small"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_TECHSUPPORTSHIP"
+ability:0 "AbilityDiplomaticImmunity"
+ability:1 "AbilityGoodwillMinorFaction"
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 2
+minShadow 0.200000
+maxShadow 0.600000
+allegianceDecreasePerRoundtrip 0.050000

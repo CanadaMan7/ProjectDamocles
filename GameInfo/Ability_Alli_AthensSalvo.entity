@@ -1,0 +1,94 @@
+TXT2
+SinsArchiveVersion 193
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetWithTravel"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_Alli_AthensSalvoTarget"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 6
+	object "CapitalShip"
+	object "Frigate"
+	object "PlanetModule"
+	object "StarBase"
+	object "Titan"
+	object "Corvette"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "NotInvulnerable"
+range
+	Level:0 4000.000000
+	Level:1 4000.000000
+	Level:2 4000.000000
+	Level:3 4000.000000
+travelSpeed 1500.000000
+hasWeaponEffects TRUE
+weaponEffectOriginType "Targetter"
+weaponEffectAttachInfo
+	attachType "Ability"
+	abilityIndex 0
+weaponEffectImpactOffsetType "RandomMesh"
+canWeaponEffectHitHull TRUE
+canWeaponEffectHitShields TRUE
+weaponEffectsDef
+		weaponType "Missile"
+		burstCount 2
+		burstDelay 0.250000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CerbArcaida_Muzzle"
+		muzzleSoundMinRespawnTime 0.001000
+		muzzleSounds
+			soundCount 4
+			sound "WEAPON_GENERIC_MISSILEMUZZLE1"
+			sound "WEAPON_GENERIC_MISSILEMUZZLE2"
+			sound "WEAPON_GENERIC_MISSILEMUZZLE3"
+			sound "WEAPON_GENERIC_MISSILEMUZZLE4"
+		hitEffectName "Weapon_PhaseCapitalMissileFrigate_Hit"
+		hitHullEffectSounds
+			soundCount 8
+			sound "WEAPON_GENERIC_MISSILEIMPACT1"
+			sound "WEAPON_GENERIC_MISSILEIMPACT2"
+			sound "WEAPON_GENERIC_MISSILEIMPACT3"
+			sound "WEAPON_GENERIC_MISSILEIMPACT4"
+			sound "WEAPON_GENERIC_MISSILEIMPACT5"
+			sound "WEAPON_GENERIC_MISSILEIMPACT6"
+			sound "WEAPON_GENERIC_MISSILEIMPACT7"
+			sound "WEAPON_GENERIC_MISSILEIMPACT8"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHASEMISSILEMEDIUM_HITGENERIC"
+		missileTravelEffectName "Weapon_CerbArcadiaMissle_Travel"
+		missileStartTurningDistance 50.000000
+		missileSlowTurnRate 5.000000
+		missileMaxSlowTurnTime 1.000000
+needsToFaceTarget TRUE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 120.000000
+	Level:1 120.000000
+	Level:2 120.000000
+	Level:3 120.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_ALLI_ATHENSSALVO_NAME"
+descStringID "IDS_ABILITY_ALLI_ATHENSSALVO_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_ALLIJAVELINSALVO"
+smallHudIcon "HUDICON_ABILITY_NANODISASSEMBLER"
+infoCardIcon ""

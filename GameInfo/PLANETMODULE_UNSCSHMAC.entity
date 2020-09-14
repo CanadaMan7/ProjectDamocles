@@ -1,0 +1,145 @@
+TXT 
+entityType "PlanetModuleHangarDefense"
+minZoomDistanceMult 1.700000
+ability:0 "AbilityUNSCVieryPower"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 12.000000
+AntiMatterRestoreRate 0.020000
+numRandomDebrisLarge 0
+numRandomDebrisSmall 0
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_PLANETMODULE_UNSCSHMAC"
+smallHudIcon "HUDICONSMALL_PLANETMODULE_UNSCVIERY"
+infoCardIcon "HUDICONSMALL_PLANETMODULE_UNSCVIERY"
+planetUpgradeSlotType "Tactical"
+planetUpgradeSlotCount 6.0000000
+basePrice 
+	credits 1400.000000
+	metal 190.000000
+	crystal 165.000000
+NameStringID "PLANETMODULE_UNSCSHMAC_NAME"
+DescriptionStringID "PLANETMODULE_UNSCSHMAC_DESCRIPTION"
+planetModuleRoleType "WEAPONDEFENSE"
+statCountType "ModulePointDefense"
+Prerequisites 
+	NumResearchPrerequisites 1
+	ResearchPrerequisite 
+		Subject "RESEARCH_UNSCMANUFACTORY_VIERY"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MaxHullPoints 6000.000000
+HullPointRestoreRate 8.000000
+BaseArmorPoints 6.000000
+MaxShieldPoints 0.000000
+ShieldPointRestoreRate 0.000000
+maxShieldMitigation 0.000000
+ExperiencePointsForDestroying 20.000000
+resourceExtractionType "Invalid"
+cultureSpreadRate 0.000000
+isAffectedBySimilarModuleCostResearch TRUE
+placementRadius 360.000000
+nearPlacementDistOffset 0.000000
+farPlacementDistOffset 30000.000000
+spawnCount 1
+swapMineType ""
+angularSpeed 5.000000
+rotateSoundName ""
+rotateFacingType "None"
+rotateConstantly FALSE
+ShieldMeshName "PLANETMODULE_UNSCREACHSMAC_SHIELD"
+renderShield TRUE
+NumSoundsFor:ONATTACKORDERISSUED 4
+SoundID "PLANETMODULE_UNSCSHMAC_ONATTACKORDERISSUED_0"
+SoundID "PLANETMODULE_UNSCSHMAC_ONATTACKORDERISSUED_1"
+SoundID "PLANETMODULE_UNSCSHMAC_ONATTACKORDERISSUED_3"
+SoundID "PLANETMODULE_UNSCSHMAC_ONATTACKORDERISSUED_4"
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 5
+SoundID "PLANETMODULE_UNSCSHMAC_ONSELECTION_0"
+SoundID "PLANETMODULE_UNSCSHMAC_ONSELECTION_1"
+SoundID "PLANETMODULE_UNSCSHMAC_ONSELECTION_2"
+SoundID "PLANETMODULE_UNSCSHMAC_ONSELECTION_3"
+SoundID "PLANETMODULE_UNSCSHMAC_ONSELECTION_4"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo 
+	meshName "PLANETMODULE_UNSCREACHSMAC"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExplosionName "UNSC_Capitalship_Small"
+mainViewIcon "MAINVIEWICON_PLANETMODULE_UNSCVIERY"
+picture "PICTURE_PLANETMODULE_UNSCSHMAC"
+minShadow 0.000000
+maxShadow 0.600000
+formationRank 3
+baseBuildTime 150.000000
+buildEffectName ""
+squadTypeEntityDef:0 "SQUAD_UNSCLONGSWORDCOMBAT"
+squadAntiMatterCost:0 3.000000
+squadTypeEntityDef:1 "SQUAD_UNSCBROADSWORDCOMBAT"
+squadAntiMatterCost:1 3.000000
+squadTypeEntityDef:2 "SQUAD_UNSCBASELARDBOMBER"
+squadAntiMatterCost:2 3.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumWeapons 1
+ Weapon
+	WeaponType "Projectile"
+	damageEnums 
+		AttackType "ANTIVERYHEAVY"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 3000.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 30000.000000
+	PreBuffCooldownTime 20.00000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 10.000000
+	TravelSpeed 14000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects 
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+			fireDelay 1.000000
+	muzzleEffectName "Weapon_UNSCSMAC_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds 
+			soundCount 3
+				sound "SMACNEW1"
+				sound "SMACNEW2"
+				sound "SMACNEW3"
+		hitEffectName "Weapon_UNSCSMAC_Hit"
+		hitHullEffectSounds 
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds 
+			soundCount 2
+			sound "WEAPONIMPACT_SMAC_HITSHIELDS_0"
+			sound "WEAPONIMPACT_SMAC_HITSHIELDS_1"
+		projectileTravelEffectName "Weapon_UNSCSMAC_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+baseCommandPoints 2
+defaultAutoAttackRange "None"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE

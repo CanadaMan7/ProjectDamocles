@@ -1,0 +1,48 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_ABILITYACCESS_GAUSSDEFENSERAILGUN"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_ABILITYACCESS_GAUSSDEFENSERAILGUN"
+infoCardIcon ""
+NameStringID "RESEARCHSUBJECT_UNSC_WEAPONDAMAGE_GAUSS2_NAME"
+DescriptionStringID "RESEARCHSUBJECT_UNSC_WEAPONDAMAGE_GAUSS2_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 5 , 2 ]
+ResearchField "Defense"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_UNSC_WEAPONDAMAGE_GAUSS1"
+		Level 2
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 50.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 1800.000000
+	metal 250.000000
+	crystal 300.000000
+PerLevelCostIncrease
+	credits 300.000000
+	metal 150.000000
+	crystal 150.000000
+Tier 5
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "WeaponDamageAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.093750
+	linkedWeaponClass "RAILGUN"
+researchModifier
+	modifierType "WeaponDamageAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.068750
+	linkedWeaponClass "GAUSS"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

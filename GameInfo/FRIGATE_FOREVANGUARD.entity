@@ -1,0 +1,150 @@
+TXT2
+SinsArchiveVersion 193  
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 2
+frigateRoleType "Heavy"
+frigateRoleType "Corvette"
+statCountType "FrigateLongRange"
+mainViewIcon "MAINVIEWICON_FRIGATE_FOREVANGUARD"
+picture "PICTURE_PLACEHOLDER"
+NameStringID "FRIGATE_FOREVANGUARD_NAME"
+DescriptionStringID "FRIGATE_FOREVANGUARD_NAME"
+counterDescriptionStringID "blank"
+basePrice  
+	credits 1500.000000
+	metal 300.000000
+	crystal 250.000000
+slotCount 20.000000
+BuildTime 35.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 65.000000
+MaxHullPoints 12300.000000
+MaxShieldPoints 24200.000000
+HullPointRestoreRate 3.000000
+ShieldPointRestoreRate 50.000000
+BaseArmorPoints 15.000000
+maxMitigation 0.000000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 1
+numRandomDebrisSmall 10
+numSpecificDebris 0
+armorType "CapitalShip"
+hudIcon "HUDICON_FRIGATE_FOREVANGUARD"
+smallHudIcon "MAINVIEWICON_FRIGATE_FOREVANGUARD"
+infoCardIcon "MAINVIEWICON_FRIGATE_FOREVANGUARD"
+minZoomDistanceMult 3.000000
+NumWeapons 1
+Weapon  
+	WeaponType "Beam"
+	damageEnums  
+		AttackType "COMPOSITE"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "BEAM"
+	DamagePerBank:FRONT 3500.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 12000.000000
+	PreBuffCooldownTime 25.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay .250000
+	TravelSpeed 0.000000
+	Duration 2.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects  
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 0.000000
+			fireDelay 2.00000
+	muzzleEffectName "Weapon_PsiCapitalBeamHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.000000
+		muzzleSounds  
+			soundCount 1
+			sound ""
+		hitEffectName "Weapon_PsiCapitalBeamHeavy_Hit"
+		hitHullEffectSounds  
+			soundCount 1
+			sound ""
+		hitShieldsEffectSounds  
+			soundCount 1
+			sound ""
+		beamEffectSounds  
+			soundCount 1
+			sound "WEAPON_PSICAPITALBEAMHEAVY_TRAVEL"
+		beamGlowTextureName "PsiCapitalBeam_Glow"
+		beamCoreTextureName "PsiCapitalBeam_Core"
+		beamWidth 30.000000
+		beamGlowColor ffffffff
+		beamCoreColor ffffffff
+		beamTilingRate 3.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 3000.000000
+ShieldMeshName "FRIGATE_FOREVANGUARD_SHIELD"
+renderShield TRUE
+maxAccelerationLinear 425.0000
+maxAccelerationStrafe 10.0000
+maxDecelerationLinear 400.0000
+maxAccelerationAngular 10.0000
+maxDecelerationAngular 15.0000
+maxSpeedLinear 1000.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 0
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo  
+	meshName "FRIGATE_FOREVANGUARD"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_FrigateForeHeavy"
+ExplosionName "UNSC_Frig_Small"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_FORECAPITALSHIP"
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 "AbilityNoneIsBigShipNoFlood"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 1
+minShadow 0.500000
+maxShadow 1.00000
+allegianceDecreasePerRoundtrip 0.000000
+  

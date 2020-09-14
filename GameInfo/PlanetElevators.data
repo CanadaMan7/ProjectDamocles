@@ -1,9 +1,0 @@
-TXT
-carWidth 40
-carHeight 64
-numCars 0
-carPathMinTDelta .6
-carPathOffsetDist 2
-carPathMaxTravelTimeOffset 20
-explosionEffectName "Null"
-maxTravelTime 60

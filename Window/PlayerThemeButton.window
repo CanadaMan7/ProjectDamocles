@@ -1,0 +1,7 @@
+TXT
+underlayOn "UI_Button_Emblem_On"
+underlayOff "UI_Button_Emblem_Off"
+overlayOn "None_Blank"
+overlayOff "None_Blank"
+themeOffset [0, 0]
+themeOffsetWhenButtonDown [0, 0]

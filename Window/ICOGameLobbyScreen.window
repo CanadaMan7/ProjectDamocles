@@ -1,0 +1,80 @@
+TXT
+backdrop "UI_Background_MatchmakingLobby"
+textEntryDef
+	labelFontId "Label"
+	textEntryFontId "ChatTextEntry"
+backButton
+	area [0, 79, 204 , 58]
+	fontId ""
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_TopbarButton"
+	overlay ""			
+	icon "UI_TextTop_Back"
+	text "blank"
+startGameButton
+	area [612, 79, 204 , 58]
+	fontId ""
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_TopbarButton"
+	overlay ""			
+	icon "UI_TextTop_Start"
+	text "IDSSinglePlayerGameLobbyScreenStartGameButton"
+openInviteOverlayButton
+	area [619, 55, 133 , 38]
+	fontId ""
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay ""
+	overlay ""			
+	icon ""
+	text "blank"
+openGameOptionsDialogButton
+	area [204, 79, 204 , 58]
+	fontId ""
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_TopbarButton"
+	overlay ""			
+	icon "UI_TextTop_GameOptions"
+	text "IDSGalaxySetupWindowOpenGameOptionsDialog"
+openVictoryOptionsDialogButton
+	area [408, 79, 204 , 58]
+	fontId ""
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_TopbarButton"
+	overlay ""			
+	icon "UI_TextTop_VictoryOptions"
+	text "IDSGalaxySetupWindowOpenVictoryOptionsDialog"
+chatReceivedTextList
+	area [740, 470, 440, 217]
+	itemGap 3
+chatEntry
+	area [748, 699, 440, 30]
+	labelWidth 0
+	labelText ""
+playerSetupWindow
+	area [-156, 194, 881, 538]
+galaxyInfoWindow
+	area [740, 152, 440, 228]
+channelNameWindow
+	area [620, 0, 0, 60]
+	labelArea [0, 0, 80, 60]
+	valueArea [90, 0, 220, 60]
+	labelFontId "WindowSubTitle"
+	valueFontId "TabbedScreenTitle"
+	labelStringId "IDSICOLobbyScreenChatChannelName"
+changeChannelButton
+	area [960, 402, 200 , 30]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay ""
+	overlay ""			
+	icon ""
+	text "IDSICOLobbyScreenChangeChannelButton"
+victoryInfoFont ""
+victoryInfoPosition [465,198]
+spaceBetweenVictoryInfo -25

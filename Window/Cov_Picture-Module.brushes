@@ -1,0 +1,78 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 15
+brush
+	name "PICTURE_PLANETMODULE_COVUNYIELDING"
+	content "Simple"
+	fileName "UI_HOLOBOXCOV"
+	pixelBox [ 1070 , 1319 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_COVHEAVYHANGAR"
+	content "Simple"
+	fileName "UI_HOLOBOXCOV"
+	pixelBox [ 715 , 1319 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_COVTITANFACTORY"
+	content "Simple"
+	fileName "UI_HOLOBOXCOV"
+	pixelBox [ 713 , 792 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_COVPHASEGATE"
+	content "Simple"
+	fileName "UI_HOLOBOXCOV"
+	pixelBox [ 358 , 1055 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_COVFRIGATEFACTORY"
+	content "Simple"
+	fileName "UI_HOLOBOXCOV"
+	pixelBox [ 358 , 792 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_COVCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "UI_HOLOBOXCOV"
+	pixelBox [ 3 , 792 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_COVPATROLSTATION"
+	content "Simple"
+	fileName "UI_HOLOBOXCOV"
+	pixelBox [ 358 , 1055 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_COVHANGARDEFENSE"
+	content "Simple"
+	fileName "UI_HOLOBOXCOV"
+	pixelBox [ 713 , 1055 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_COVREPAIRPLATFORM"
+	content "Simple"
+	fileName "UI_HOLOBOXCOV"
+	pixelBox [ 1068 , 1055 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_COVCOMBATLABORATORY"
+	content "Simple"
+	fileName "UI_HOLOBOXCOV"
+	pixelBox [ 1423 , 792 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_COVNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "UI_HOLOBOXCOV"
+	pixelBox [ 1068 , 792 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_COVTRADEPORT"
+	content "Simple"
+	fileName "UI_HOLOBOXCOV"
+	pixelBox [ 1778 , 792 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_COVREFINERY"
+	content "Simple"
+	fileName "UI_HOLOBOXCOV"
+	pixelBox [ 2131 , 792 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_COVMETALEXTRACTOR"
+	content "Simple"
+	fileName "UI_HOLOBOXCOV"
+	pixelBox [ 2486 , 792 , 354 , 261 ]
+brush
+	name "PICTURE_PLANETMODULE_COVCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "UI_HOLOBOXCOV"
+	pixelBox [ 3 , 1055 , 354 , 261 ]

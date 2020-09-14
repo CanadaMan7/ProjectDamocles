@@ -1,0 +1,231 @@
+TXT
+tabWindow
+	topLeftOffset [0, 0]
+	buttonTopLeftOffset [0, 151]
+	buttonSize [ 380 , 48 ]
+	buttonIndicatorArea [148, -2, 72, 52]
+	buttonIndicatorBackdrop "None_Blank"
+	titleStringId "blank"
+	titleFontId ""
+	titleArea [0, 0, 0, 0]	
+	titleOverlayArea [-154, 17, 468, 27]
+	titleOverlay "UI_SubMenus_Header_GameMenu"
+	buttonsBackdropArea [-448, 0, 1920, 1080]
+	buttonsBackdropDetailArea [0, 0, 158, 749]
+	contentArea [412, 0, 770, 768]
+	buttonsBackdrop "UI_Background_Pause"
+	buttonsBackdropDetail "None_Blank"
+	contentBackdrop "None_Blank"
+	nonActiveButtonInternals
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 212
+		textOffsetFromLeft 10
+		underlay "UI_SubMenu_ButtonNormal"
+		overlay "None_Blank"						
+	activeButtonInternals
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 212
+		textOffsetFromLeft 10
+		underlay "UI_SubMenu_ButtonNormal"
+		overlay "None_Blank"						
+	closeButton
+		area [-10, 700, 172 , 48]
+		fontId ""
+		iconOffsetFromLeft 0
+		textOffsetFromLeft 10
+		underlay "UI_InGame_BackButton_ResumeGame"
+		overlay "None_Blank"				
+		icon "None_Blank"
+		text "blank"
+sharedScreenTextEntryDef
+	labelFontId "Label"
+	textEntryFontId "TextEntry"
+quitGame
+	tabButtonIcon "UI_SubMenus_Text_EndGame"
+	tabButtonText "blank"
+	quitGameButton
+		area [0, 151, 380 , 48 ]
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 212
+		textOffsetFromLeft 10
+		underlay "UI_SubMenu_ButtonNormal"
+		overlay "None_Blank"				
+		icon "UI_SubMenus_Text_EndGame"
+		text "blank"
+	surrenderButton
+		area [0, 199, 380 , 48 ]
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 212
+		textOffsetFromLeft 10
+		underlay "UI_SubMenu_ButtonNormal"
+		overlay "None_Blank"				
+		icon "UI_SubMenus_Text_LeaveGame"
+		text "blank"
+saveGame
+	tabButtonIcon "UI_SubMenus_Text_SaveGame"
+	tabButtonText "blank"
+	fileNameTextEntry
+		area [460, 619, 296 , 36]
+		labelWidth 10
+		labelText ""
+	fileNameListLabel
+		area [0, 0, 0 , 0]
+		fontId ""
+		text "blank"
+	fileNameList
+		area [20, 198, 302, 450]
+		itemGap 20
+	saveButton
+		area [408, 79, 204 , 58]
+		fontId "Label"
+		iconOffsetFromLeft 0
+		textOffsetFromLeft 0
+		underlay "UI_TopbarButton"
+		overlay "UI_Overlay_PauseSave"				
+		icon "UI_TextTop_SaveGame"
+		text "blank"
+	autoSaveCheckBoxDef
+		boxWidth 60
+		textFontId "Label"
+		textLeftOffset 0
+		boxBackdrop "None_Blank"
+		boxOverlayWhenOn "CheckBoxCheckStateTrue"
+		boxOverlayWhenOff "CheckBoxCheckStateFalse"
+	autoSaveCheckBox
+		area [344, 460, 60, 30]
+		text "blank"
+	cloudSaveCheckBox
+		area [344, 505, 60, 30]
+		text "blank"
+	galaxyInfoWindow
+		area [328, 152, 440, 228]
+recordGame
+	tabButtonIcon "UI_SubMenus_Text_TheaterRecord"
+	tabButtonText "blank"
+	fileNameTextEntry
+		area [460, 619, 296 , 36]
+		labelWidth 10
+		labelText ""
+	fileNameListLabel
+		area [0, 0, 0 , 0]
+		fontId ""
+		text "blank"
+	fileNameList
+		area [20, 198, 302, 450]
+		itemGap 20
+	saveButton
+		area [408, 79, 204 , 58]
+		fontId ""
+		iconOffsetFromLeft 0
+		textOffsetFromLeft 0
+		underlay "UI_TopbarButton"
+		overlay "UI_Overlay_PauseRecord"				
+		icon "UI_TextTop_Record"
+		text "blank"
+	autoRecordCheckBoxDef
+		boxWidth 60
+		textFontId ""
+		textLeftOffset 0
+		boxBackdrop "None_Blank"
+		boxOverlayWhenOn "CheckBoxCheckStateTrue"
+		boxOverlayWhenOff "CheckBoxCheckStateFalse"
+	autoRecordCheckBox
+		area [344, 460, 60, 30]
+		text "blank"
+	galaxyInfoWindow
+		area [328, 152, 440, 228]
+loadGame
+	tabButtonIcon "UI_SubMenus_Text_LoadGame"
+	tabButtonText "blank"
+	fileNameListLabel
+		area [30, 228, 296 , 32]
+		fontId "Label"
+	fileNameList
+		area [20, 262, 302, 393]
+		itemGap 20
+	selectGameSaveTypeWindow
+		area [20, 152, 302 , 74]
+	loadButton
+		area [408, 79, 204 , 58]
+		fontId ""
+		iconOffsetFromLeft 0
+		textOffsetFromLeft 0
+		underlay "UI_TopbarButton"
+		overlay "UI_Overlay_SoloLoadGame"				
+		icon "UI_TextTop_LoadGame"
+		text "blank"	
+	galaxyInfoWindow
+		area [328, 152, 440, 228]
+watchGame
+	tabButtonIcon "UI_SubMenus_Text_TheaterMode"
+	tabButtonText "blank"
+	fileNameListLabel
+		area [30, 228, 296 , 32]
+		fontId "Label"
+	fileNameList
+		area [20, 262, 302, 393]
+		itemGap 20
+	selectGameSaveTypeWindow
+		area [20, 152, 302 , 74]
+	loadButton
+		area [408, 79, 204 , 58]
+		fontId ""
+		iconOffsetFromLeft 0
+		textOffsetFromLeft 0
+		underlay "UI_TopbarButton"
+		overlay "UI_Overlay_PauseTheater"				
+		icon "UI_TextTop_Play"
+		text "blank"	
+	galaxyInfoWindow
+		area [328, 152, 440, 228]
+networkStatus
+	tabButtonIcon "UI_SubMenus_Text_ConnectedPlayers"
+	tabButtonText "blank"
+	computerSpeedLabelTextId "IDSEscapeMenuScreenNetworkStatusComputerSpeedLabel"
+	networkSpeedLabelTextId "IDSEscapeMenuScreenNetworkStatusNetworkSpeedLabel"
+	playerStatusLabelTextId "IDSEscapeMenuScreenNetworkStatusPlayerStatusLabel"
+	computerSpeedLabelArea [250, 44, 75, 46]
+	networkSpeedLabelArea [325, 44, 75, 46]
+	playerStatusLabelArea [400, 44, 75, 46]
+	firstPlayerWindowArea [50, 94, 700, 46]
+	playerWindowStride [0, 52]
+	playerWindowDef
+		statusOkTextId "IDSEscapeMenuScreenNetworkStatusPlayerStatusOk"
+		statusLaggingTextId "IDSEscapeMenuScreenNetworkStatusPlayerStatusLagging"
+		statusMigratingTextId "IDSEscapeMenuScreenNetworkStatusPlayerStatusMigrating"
+		statusLoadingTextId "IDSEscapeMenuScreenNetworkStatusPlayerStatusLoading"
+		statusDisconnectedTextId "IDSEscapeMenuScreenNetworkStatusPlayerStatusDisconnected"
+		dropLaggingPlayerTextId "IDSEscapeMenuScreenNetworkStatusActionDropLaggingPlayer"
+		dropMigratingPlayerTextId "IDSEscapeMenuScreenNetworkStatusActionDropMigratingPlayer"
+		cancelMigrationTextId "IDSEscapeMenuScreenNetworkStatusActionCancelMigration"
+		dropLaggingPlayerIcon "EscapeMenuScreenNetworkStatusActionDropLaggingPlayer"
+		dropMigratingPlayerIcon "EscapeMenuScreenNetworkStatusActionDropMigratingPlayer"
+		cancelMigrationIcon "EscapeMenuScreenNetworkStatusActionCancelMigration"
+		themeArea [0, 0, 40, 46]
+		nameArea [45, 0, 150, 46]
+		computerSpeedArea [200, 0, 75, 46]
+		networkSpeedArea [275, 0, 75, 46]
+		statusArea [350, 0, 75, 46]
+		actionButtonInternals
+			area [470, 0, 220, 46]
+			fontId "ButtonLabel"
+			iconOffsetFromLeft 22
+			textOffsetFromLeft 70
+			underlay "ScreenButtonUnderlayLarge"
+			overlay "ScreenButtonOverlayLarge"
+optionsScreenSharedDef
+	screenCheckBoxDef
+		boxWidth 56
+		textFontId "Label"
+		textLeftOffset 56
+		boxBackdrop "None_Blank"
+		boxOverlayWhenOn "CheckBoxCheckStateTrue"
+		boxOverlayWhenOff "CheckBoxCheckStateFalse"
+	screenScrollBarDef
+		labelFontId "Label"
+		labelWidth 0
+	anchorOffset [0, 0]	
+	textEntryDef
+		labelFontId "Label"
+		textEntryFontId "TextEntry"
+	

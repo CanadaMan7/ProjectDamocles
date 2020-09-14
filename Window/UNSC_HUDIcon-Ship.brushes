@@ -1,0 +1,1125 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 84
+brush
+	name "HUDICON_TITAN_UNSCINFINITYCLASS"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 217 , 1 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 217 , 1 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 217 , 1 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 217 , 1 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 217 , 1 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_UNSCRAZOR"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 325 , 356 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 325 , 356 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 325 , 356 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 325 , 356 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 325 , 356 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_UNSCPOINTBLANK"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 649 , 427 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 649 , 427 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 649 , 427 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 649 , 427 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 649 , 427 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_UNSCHALCYONREFIT"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 649 , 498 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 649 , 498 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 649 , 498 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 649 , 498 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 649 , 498 , 106 , 69 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_UNSCPHOENIX"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSUNSC_NEW_DISABLED"
+		pixelBox [ 198 , 75 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSUNSC_NEW_PRESSED"
+		pixelBox [ 198 , 75 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSUNSC_NEW_CURSOROVER"
+		pixelBox [ 198 , 75 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSUNSC_NEW_NORMAL"
+		pixelBox [ 198 , 75 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSUNSC_NEW_NORMAL"
+		pixelBox [ 198 , 75 , 94 , 70 ] 
+brush
+	name "ACTIONICON_MISC_UNSC_CLOSE"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 1 , 782 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 1 , 782 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 1 , 782 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 1 , 782 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 1 , 782 , 106 , 69 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCMAKO"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 91 , 181 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_UNSCMAKO"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_UNSCEPOCH"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 109 , 711 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 109 , 711 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 109 , 711 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 109 , 711 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 109 , 711 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_UNSCARTEMIS"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 109 , 143 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 109 , 143 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 109 , 143 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 109 , 143 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 109 , 143 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_UNSCORION"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 109 , 1 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 109 , 1 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 109 , 1 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 109 , 1 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 109 , 1 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_UNSCPUNIC"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 1081 , 356 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 1081 , 356 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 1081 , 356 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 1081 , 356 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 1081 , 356 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_UNSCTHANATOS"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 541 , 427 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 541 , 427 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 541 , 427 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 541 , 427 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 541 , 427 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_UNSCSAHARA"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 1 , 427 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 1 , 427 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 1 , 427 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 1 , 427 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 1 , 427 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_UNSCPHOENIX"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 973 , 356 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 973 , 356 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 973 , 356 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 973 , 356 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 973 , 356 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_UNSCATHENS"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 433 , 711 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 433 , 711 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 433 , 711 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 433 , 711 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 433 , 711 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_UNSCNORYANG"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 325 , 143 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 325 , 143 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 325 , 143 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 325 , 143 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 325 , 143 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_UNSCVALIANT"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 865 , 356 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 865 , 356 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 865 , 356 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 865 , 356 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 865 , 356 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_UNSCAUTUMN"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_UNSCTHERMOPYLAE"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSUNSC_NEW_DISABLED"
+		pixelBox [ 495 , 0 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSUNSC_NEW_PRESSED"
+		pixelBox [ 495 , 0 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSUNSC_NEW_CURSOROVER"
+		pixelBox [ 495 , 0 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSUNSC_NEW_NORMAL"
+		pixelBox [ 495 , 0 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSUNSC_NEW_NORMAL"
+		pixelBox [ 495 , 0 , 94 , 70 ] 
+brush
+	name "HUDICON_RESEARCHSUBJECT_UNSCINFINITY"
+	content "States"
+	Disabled
+		fileName "RESEARCHICONSUNSC_NEW_DISABLED"
+		pixelBox [ 495 , 75 , 94 , 70 ] 
+	Pressed
+		fileName "RESEARCHICONSUNSC_NEW_PRESSED"
+		pixelBox [ 495 , 75 , 94 , 70 ] 
+	CursorOver
+		fileName "RESEARCHICONSUNSC_NEW_CURSOROVER"
+		pixelBox [ 495 , 75 , 94 , 70 ] 
+	Focused
+		fileName "RESEARCHICONSUNSC_NEW_NORMAL"
+		pixelBox [ 495 , 75 , 94 , 70 ] 
+	Normal
+		fileName "RESEARCHICONSUNSC_NEW_NORMAL"
+		pixelBox [ 495 , 75 , 94 , 70 ] 
+brush
+	name "HUDICON_TITAN_UNSCINFINITY"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_UNSC_Disabled"
+		pixelBox [ 444 , 80 , 106 , 69 ]
+	Pressed
+		fileName "SotP_Unit_Hud_UNSC_Pressed"
+		pixelBox [ 444 , 80 , 106 , 69 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_UNSC_CursorOver"
+		pixelBox [ 444 , 80 , 106 , 69 ]
+	Focused
+		fileName "SotP_Unit_Hud_UNSC_Normal"
+		pixelBox [ 444 , 80 , 106 , 69 ]
+	Normal
+		fileName "SotP_Unit_Hud_UNSC_Normal"
+		pixelBox [ 444 , 80 , 106 , 69 ]
+brush
+	name "HUDICONSMALL_TITAN_UNSCINFINITY"
+	content "Simple"
+	fileName "SotP_Unit_Infocard"
+	pixelBox [ 70 , 70 , 22 , 22 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_UNSCORION"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 151 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_UNSCPHOENIX"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 1 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCATHENS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 61 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_UNSCVALIANT"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 31 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_UNSCAUTUMN"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 121 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_UNSCTHERMOPYLAE"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 91 , 91 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_UNSCSTALWART"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 1 , 356 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 1 , 356 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 1 , 356 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 1 , 356 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 1 , 356 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_UNSCGLADIUS"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 973 , 1 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 973 , 1 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 973 , 1 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 973 , 1 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 973 , 1 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_UNSCPHOENIX"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 541 , 1 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 541 , 1 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 541 , 1 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 541 , 1 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 541 , 1 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_UNSCEION"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 1 , 712 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 1 , 712 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 1 , 712 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 1 , 712 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 1 , 712 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_UNSCHALCYON"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 217 , 356 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 217 , 356 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 217 , 356 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 217 , 356 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 217 , 356 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_UNSCHILLSBOROUGH"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 1 , 143 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 1 , 143 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 1 , 143 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 1 , 143 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 1 , 143 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_UNSCHALBERD"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 325 , 711 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 325 , 711 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 325 , 711 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 325 , 711 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 325 , 711 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_UNSCCHARON"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 325 , 427 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 325 , 427 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 325 , 427 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 325 , 427 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 325 , 427 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_UNSCPARIS"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 541 , 498 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 541 , 498 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 541 , 498 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 541 , 498 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 541 , 498 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_UNSCSTRIDENT"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_UNSCWINTER"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 433 , 356 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 433 , 356 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 433 , 356 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 433 , 356 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 433 , 356 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_UNSCGENEVA"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 541 , 356 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 541 , 356 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 541 , 356 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 541 , 356 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 541 , 356 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_UNSCMARATHON"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 757 , 356 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 757 , 356 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 757 , 356 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 757 , 356 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 757 , 356 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_UNSCCRADLE"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 649 , 356 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 649 , 356 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 649 , 356 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 649 , 356 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 649 , 356 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_UNSCMODULECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_UNSCSBCONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCPHOENIX"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 1 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCSTALWART"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 91 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCHALCYON"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 121 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCPHOENIX"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 1 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCTHANATOS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 31 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCCHARON"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 241 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCPARIS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 271 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCSTRIDENT"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 271 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCSLOOP"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 121 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCGENEVA"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 61 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_UNSCMARATHON"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 211 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCCRADLE"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 361 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 181 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCSBCONSTRUCTOR"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 391 , 181 , 28 , 28 ]
+brush
+	name "HUDICON_SQUAD_UNSCSABREBOMBER"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_UNSC_Disabled"
+		pixelBox [ 333 , 78 , 108 , 72 ]
+	Pressed
+		fileName "SotP_Unit_Hud_UNSC_Pressed"
+		pixelBox [ 333 , 78 , 108 , 72 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_UNSC_CursorOver"
+		pixelBox [ 333 , 78 , 108 , 72 ]
+	Focused
+		fileName "SotP_Unit_Hud_UNSC_Normal"
+		pixelBox [ 333 , 78 , 108 , 72 ]
+	Normal
+		fileName "SotP_Unit_Hud_UNSC_Normal"
+		pixelBox [ 333 , 78 , 108 , 72 ]
+brush
+	name "HUDICON_SQUAD_UNSCLONGSWORDBOMBER"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 109 , 498 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 109 , 498 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 109 , 498 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 109 , 498 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 109 , 498 , 106 , 69 ]
+brush
+	name "HUDICON_SQUAD_UNSCBASELARDBOMBER"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 109 , 427 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 109 , 427 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 109 , 427 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 109 , 427 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 109 , 428 , 106 , 69 ]
+brush
+	name "HUDICONLAUNCH_SQUAD_UNSCSABREBOMBER"
+	content "States"
+	Disabled
+		fileName "SOTP_PLANETBUTTONS_DISABLED"
+		pixelBox [ 764 , 214 , 105 , 67 ]
+	Pressed
+		fileName "SOTP_PLANETBUTTONS_PRESSED"
+		pixelBox [ 764 , 214 , 105 , 67 ]
+	CursorOver
+		fileName "SOTP_PLANETBUTTONS_CURSOROVER"
+		pixelBox [ 764 , 214 , 105 , 67 ]
+	Focused
+		fileName "SOTP_PLANETBUTTONS_NORMAL"
+		pixelBox [ 764 , 214 , 105 , 67 ]
+	Normal
+		fileName "SOTP_PLANETBUTTONS_NORMAL"
+		pixelBox [ 764 , 214 , 105 , 67 ]
+brush
+	name "HUDICONLAUNCH_SQUAD_UNSCLONGSWORDBOMBER"
+	content "States"
+	Disabled
+		fileName "SOTP_PLANETBUTTONS_DISABLED"
+		pixelBox [ 764 , 214 , 105 , 67 ]
+	Pressed
+		fileName "SOTP_PLANETBUTTONS_PRESSED"
+		pixelBox [ 764 , 214 , 105 , 67 ]
+	CursorOver
+		fileName "SOTP_PLANETBUTTONS_CURSOROVER"
+		pixelBox [ 764 , 214 , 105 , 67 ]
+	Focused
+		fileName "SOTP_PLANETBUTTONS_NORMAL"
+		pixelBox [ 764 , 214 , 105 , 67 ]
+	Normal
+		fileName "SOTP_PLANETBUTTONS_NORMAL"
+		pixelBox [ 764 , 214 , 105 , 67 ]
+brush
+	name "HUDICONDOCK_SQUAD_UNSCSABREBOMBER"
+	content "States"
+	Disabled
+		fileName "SOTP_PLANETBUTTONS_DISABLED"
+		pixelBox [ 873 , 214 , 105 , 67 ]
+	Pressed
+		fileName "SOTP_PLANETBUTTONS_PRESSED"
+		pixelBox [ 873 , 214 , 105 , 67 ]
+	CursorOver
+		fileName "SOTP_PLANETBUTTONS_CURSOROVER"
+		pixelBox [ 873 , 214 , 105 , 67 ]
+	Focused
+		fileName "SOTP_PLANETBUTTONS_NORMAL"
+		pixelBox [ 873 , 214 , 105 , 67 ]
+	Normal
+		fileName "SOTP_PLANETBUTTONS_NORMAL"
+		pixelBox [ 873 , 214 , 105 , 67 ]
+brush
+	name "HUDICONDOCK_SQUAD_UNSCLONGSWORDBOMBER"
+	content "States"
+	Disabled
+		fileName "SOTP_PLANETBUTTONS_DISABLED"
+		pixelBox [ 873 , 214 , 105 , 67 ]
+	Pressed
+		fileName "SOTP_PLANETBUTTONS_PRESSED"
+		pixelBox [ 873 , 214 , 105 , 67 ]
+	CursorOver
+		fileName "SOTP_PLANETBUTTONS_CURSOROVER"
+		pixelBox [ 873 , 214 , 105 , 67 ]
+	Focused
+		fileName "SOTP_PLANETBUTTONS_NORMAL"
+		pixelBox [ 873 , 214 , 105 , 67 ]
+	Normal
+		fileName "SOTP_PLANETBUTTONS_NORMAL"
+		pixelBox [ 873 , 214 , 105 , 67 ]
+brush
+	name "HUDICONSMALL_SQUAD_UNSCSABREBOMBER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 181 , 120 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUAD_UNSCLONGSWORDBOMBER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 181 , 91 , 28 , 28 ]
+brush
+	name "HUDICON_SQUAD_UNSCBROADSWORDBOMBER"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_UNSC_Disabled"
+		pixelBox [ 113 , 78 , 108 , 72 ]
+	Pressed
+		fileName "SotP_Unit_Hud_UNSC_Pressed"
+		pixelBox [ 113 , 78 , 108 , 72 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_UNSC_CursorOver"
+		pixelBox [ 113 , 78 , 108 , 72 ]
+	Focused
+		fileName "SotP_Unit_Hud_UNSC_Normal"
+		pixelBox [ 113 , 78 , 108 , 72 ]
+	Normal
+		fileName "SotP_Unit_Hud_UNSC_Normal"
+		pixelBox [ 113 , 78 , 108 , 72 ]
+brush
+	name "HUDICON_SQUAD_UNSCBROADSWORDCOMBAT"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 757 , 1 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 757 , 1 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 757 , 1 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 757 , 1 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 757 , 1 , 106 , 69 ]
+brush
+	name "HUDICON_SQUAD_UNSCSABRECOMBAT"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 865, 1 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 865, 1 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 865, 1 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 865, 1 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 865, 1 , 106 , 69 ]
+brush
+	name "HUDICON_SQUAD_UNSCLONGSWORDCOMBAT"
+	content "States"
+	Disabled
+		fileName "UI_BUILDMENUUNSC_DISABLED"
+		pixelBox [ 325, 1 , 106 , 69 ]
+	Pressed
+		fileName "UI_BUILDMENUUNSC_PRESSED"
+		pixelBox [ 325, 1 , 106 , 69 ]
+	CursorOver
+		fileName "UI_BUILDMENUUNSC_CURSOROVER"
+		pixelBox [ 325, 1 , 106 , 69 ]
+	Focused
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 325, 1 , 106 , 69 ]
+	Normal
+		fileName "UI_BUILDMENUUNSC_NORMAL"
+		pixelBox [ 325, 1 , 106 , 69 ]
+brush
+	name "HUDICONLAUNCH_SQUAD_UNSCSABRECOMBAT"
+	content "States"
+	Disabled
+		fileName "SOTP_PLANETBUTTONS_DISABLED"
+		pixelBox [ 763 , 143 , 105 , 67 ]
+	Pressed
+		fileName "SOTP_PLANETBUTTONS_PRESSED"
+		pixelBox [ 763 , 143 , 105 , 67 ]
+	CursorOver
+		fileName "SOTP_PLANETBUTTONS_CURSOROVER"
+		pixelBox [ 763 , 143 , 105 , 67 ]
+	Focused
+		fileName "SOTP_PLANETBUTTONS_NORMAL"
+		pixelBox [ 763 , 143 , 105 , 67 ]
+	Normal
+		fileName "SOTP_PLANETBUTTONS_NORMAL"
+		pixelBox [ 763 , 143 , 105 , 67 ]
+brush
+	name "HUDICONLAUNCH_SQUAD_UNSCLONGSWORDCOMBAT"
+	content "States"
+	Disabled
+		fileName "SOTP_PLANETBUTTONS_DISABLED"
+		pixelBox [ 763 , 143 , 105 , 67 ]
+	Pressed
+		fileName "SOTP_PLANETBUTTONS_PRESSED"
+		pixelBox [ 763 , 143 , 105 , 67 ]
+	CursorOver
+		fileName "SOTP_PLANETBUTTONS_CURSOROVER"
+		pixelBox [ 763 , 143 , 105 , 67 ]
+	Focused
+		fileName "SOTP_PLANETBUTTONS_NORMAL"
+		pixelBox [ 763 , 143 , 105 , 67 ]
+	Normal
+		fileName "SOTP_PLANETBUTTONS_NORMAL"
+		pixelBox [ 763 , 143 , 105 , 67 ]
+brush
+	name "HUDICONDOCK_SQUAD_UNSCSABRECOMBAT"
+	content "States"
+	Disabled
+		fileName "SOTP_PLANETBUTTONS_DISABLED"
+		pixelBox [ 872 , 143 , 105 , 67 ]
+	Pressed
+		fileName "SOTP_PLANETBUTTONS_PRESSED"
+		pixelBox [ 872 , 143 , 105 , 67 ]
+	CursorOver
+		fileName "SOTP_PLANETBUTTONS_CURSOROVER"
+		pixelBox [ 872 , 143 , 105 , 67 ]
+	Focused
+		fileName "SOTP_PLANETBUTTONS_NORMAL"
+		pixelBox [ 872 , 143 , 105 , 67 ]
+	Normal
+		fileName "SOTP_PLANETBUTTONS_NORMAL"
+		pixelBox [ 872 , 143 , 105 , 67 ]
+brush
+	name "HUDICONDOCK_SQUAD_UNSCLONGSWORDCOMBAT"
+	content "States"
+	Disabled
+		fileName "SOTP_PLANETBUTTONS_DISABLED"
+		pixelBox [ 872 , 143 , 105 , 67 ]
+	Pressed
+		fileName "SOTP_PLANETBUTTONS_PRESSED"
+		pixelBox [ 872 , 143 , 105 , 67 ]
+	CursorOver
+		fileName "SOTP_PLANETBUTTONS_CURSOROVER"
+		pixelBox [ 872 , 143 , 105 , 67 ]
+	Focused
+		fileName "SOTP_PLANETBUTTONS_NORMAL"
+		pixelBox [ 872 , 143 , 105 , 67 ]
+	Normal
+		fileName "SOTP_PLANETBUTTONS_NORMAL"
+		pixelBox [ 872 , 143 , 105 , 67 ]
+brush
+	name "HUDICONSMALL_SQUAD_UNSCSABRECOMBAT"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 181 , 120 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUAD_UNSCLONGSWORDCOMBAT"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 181 , 91 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_UNSCTRADESHIP"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCTRADESHIP"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 151 , 181 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_UNSCREFINERYSHIP"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UNSCREFINERYSHIP"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 301 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_REFINERYSHIP_RACE2"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 301 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_REFINERYSHIP_RACE3"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 301 , 241 , 28 , 28 ]

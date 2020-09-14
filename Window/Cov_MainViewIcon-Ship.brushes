@@ -1,0 +1,178 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 35
+brush
+	name "MAINVIEWICON_FRIGATE_COVRPV"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 1 , 156 , 28 , 11 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVPCS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 61 , 129 , 28 , 13 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVDAS"
+	content "Simple"
+	fileName "SotP_Unit_Infocard"
+	pixelBox [ 304 , 72 , 26 , 14 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVLICH"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 618 , 415 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVDRP"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 451 , 210 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_COVOSS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 334 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADCOVCOMBAT"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 181 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_COVDDS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 91 , 149 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_COVCARRIER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 91 , 150 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_COVCAS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 31 , 150 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_COVSUPPORT"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 121 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_COVADJUDICATOR"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 92 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVANTIFIGHTER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 91 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVCCS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 211 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVADP"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 387 , 152 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVRCS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 415 , 152 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVDDR"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 277 , 310 , 31 , 12 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVDSC"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 1 , 244 , 28 , 15 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 451 , 129 , 36 , 14 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVCPV"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 31 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVCAR"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 241 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_COVDOS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 271 , 239 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_COVORS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 156 , 308 , 36 , 14 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVDAV"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 121 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVCRS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 61 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVSDV"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 331 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVUTILITY1"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 361 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVSPAWN"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 421 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVMINELAYER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 421 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 181 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUAD_COVBANSHEECOMBAT"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 586 , 415 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_SQUAD_COVSERAPHBOMBER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 554 , 415 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_SQUAD_COVSERAPHCOMBAT"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 522 , 415 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVTRADESHIP"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 151 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COVREFINERYSHIP"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 301 , 241 , 28 , 28 ]

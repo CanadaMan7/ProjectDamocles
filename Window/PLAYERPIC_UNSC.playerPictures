@@ -1,0 +1,42 @@
+TXT
+pictureCount 9
+LargeScreenPicture
+	textureName "UI_PlayerPortrait_Large.tga"
+	startTopLeft [0,0]
+	width 237
+	height 336
+	rowItemCount 9
+	horizontalStride 237
+	verticalStride 0
+SmallScreenPicture
+	textureName "UI_PlayerPortrait_Medium.tga"
+	startTopLeft [0,0]
+	width 0
+	height 0
+	rowItemCount 9
+	horizontalStride 0
+	verticalStride 0
+BottomBarPicture
+	textureName "UI_PlayerIcon_Window.dds"
+	startTopLeft [0,0]
+	width 372
+	height 172
+	rowItemCount 1
+	horizontalStride 0
+	verticalStride 0
+ButtonIcon
+	textureName "UI_PlayerPortrait_Medium.tga"
+	startTopLeft [0,0]
+	width 0
+	height 0
+	rowItemCount 9
+	horizontalStride 0
+	verticalStride 0
+MediumScreenPicture
+	textureName "UI_PlayerPortrait_Medium.tga"
+	startTopLeft [1,0]
+	width 90
+	height 128
+	rowItemCount 9
+	horizontalStride 90
+	verticalStride 0

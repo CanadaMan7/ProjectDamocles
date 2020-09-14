@@ -1,0 +1,32 @@
+TXT
+backdropDimPercentage 0.7
+backdropBrush "UI_Background_PopUp_XS"
+titleOverlayBrush "UI_Overlay_PopUp_Message"
+size [1920 , 520]
+contentRefArea [448, 200, 350, 110]
+titleRefArea [448, 160, 214, 32]
+titleOverlayRefArea [ 297 , 70 , 420 , 192 ]
+cancelButton
+	area [698, 320, 224, 52]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 80
+	textOffsetFromLeft 1
+	underlay "UI_Button_PopUp"
+	overlay "None_Blank"	
+	icon "UI_Text_PopUp_Close"
+	text "blank"
+acceptButton
+	area [457, 320, 224, 52]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 80
+	textOffsetFromLeft 1
+	underlay "UI_Button_PopUp"
+	overlay "None_Blank"	
+	icon "UI_Text_PopUp_Apply"
+	text "blank"
+titleTextId "IDSConfirmVideoChangesDialogTitle"
+label
+	area [0, 0, 220, 30]
+	fontId "Label"
+	text "IDSConfirmVideoChangesDialogMessage"
+	

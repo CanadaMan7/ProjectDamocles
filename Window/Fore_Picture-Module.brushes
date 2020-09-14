@@ -1,0 +1,78 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 15
+brush
+	name "PLANETMODULEPICTURE_FOREORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "SotP_Unit_Picture"
+	pixelBox [ 512 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_FOREORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "SotP_Unit_Picture"
+	pixelBox [ 682 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_FOREORBITALCULTURECENTER"
+	content "Simple"
+	fileName "SotP_Unit_Picture"
+	pixelBox [ 1022 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_FOREORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "SotP_Unit_Picture"
+	pixelBox [ 172 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_FOREORBITALBEAMDEFENSE"
+	content "Simple"
+	fileName "SotP_Unit_Picture"
+	pixelBox [ 2 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_FOREORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "SotP_Unit_Picture"
+	pixelBox [ 852 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_FOREORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "SotP_Unit_Picture"
+	pixelBox [ 1192 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_FOREORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "SotP_Unit_Picture"
+	pixelBox [ 1192 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_FOREORBITALANTIMATTERRECHARGER"
+	content "Simple"
+	fileName "SotP_Unit_Picture"
+	pixelBox [ 682 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_FOREORBITALTRADEPORT"
+	content "Simple"
+	fileName "SotP_Unit_Picture"
+	pixelBox [ 1362 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_FOREORBITALREFINERY"
+	content "Simple"
+	fileName "SotP_Unit_Picture"
+	pixelBox [ 172 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_PLANETMODULE_FOREMETALEXTRACTOR"
+	content "Simple"
+	fileName "SotP_Unit_Picture"
+	pixelBox [ 342 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_PLANETMODULE_FORECRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "SotP_Unit_Picture"
+	pixelBox [ 512 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_FOREORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "SotP_Unit_Picture"
+	pixelBox [ 342 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_FOREORBITALCANNON"
+	content "Simple"
+	fileName "SotP_Unit_Picture"
+	pixelBox [ 1532 , 158 , 167 , 75 ]

@@ -1,0 +1,80 @@
+TXT
+tabButtonIcon "UI_SubMenus_Text_SkullsAndMods"
+tabButtonText "blank"
+availableModNameList
+	area [0, 218, 305, 336]
+	itemGap 20
+enabledModNameList
+	area [307, 218, 305, 336]
+	itemGap 20
+enableModButton
+	area [4, 194, 44, 22]
+	fontId "ListItem"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_SubWindowButton_Enable"
+	overlay "None_Blank"
+	icon "None_Blank"
+	text "blank"	
+disableModButton
+	area [311, 194, 47, 22]
+	fontId "ListItem"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_SubWindowButton_Disable"
+	overlay "None_Blank"
+	icon "None_Blank"
+	text "blank"	
+increaseModPriorityButton
+	area [358, 194, 53, 22]
+	fontId "ListItem"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_SubWindowButton_MoveUp"
+	overlay "None_Blank"
+	icon "None_Blank"
+	text "blank"	
+decreaseModPriorityButton
+	area [411, 194, 67, 22]
+	fontId "ListItem"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_SubWindowButton_MoveDown"
+	overlay "None_Blank"
+	icon "None_Blank"
+	text "blank"	
+showModPathButton
+	area [478, 194, 65, 22]
+	fontId "ListItem"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_SubWindowButton_ShowPath"
+	overlay "None_Blank"
+	icon "None_Blank"
+	text "blank"		
+applyModChangesButton
+	area [408, 79, 204 , 58]
+	fontId ""
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_TopbarButton"
+	overlay "UI_Overlay_Settings_SkullsAndMods"			
+	icon "UI_TextTop_Apply"
+	text "blank"			
+availableModNameListLabel
+	area [0, 0, 0, 0]
+	fontId "ButtonLabel"
+	text "blank"
+enabledModNameListLabel
+	area [0, 0, 0, 0]
+	fontId "ButtonLabel"
+	text "blank"
+enabledModChecksumHeaderLabel
+	area [0, 0, 0, 0]
+	fontId "Label"
+	text "blank"
+enabledModChecksumValueLabel
+	area [10, 608, 220, 30]
+	fontId "Label"
+showModPathDialogTitleStringId "IDSManageModsShowModPathDialogTitle"
+showModPathDialogContentFontId "Label"

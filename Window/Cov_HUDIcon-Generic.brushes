@@ -1,0 +1,172 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 13
+brush
+	name "HUDIcon_CovAbilityPatrol_SpawnFleet"
+	content "States"
+	Disabled
+		fileName "SotP_CovAbility_Disabled"
+		pixelBox [ 349 , 3 , 86 , 66 ]
+	Pressed
+		fileName "SotP_CovAbility_Pressed"
+		pixelBox [ 349 , 3 , 86 , 66 ]
+	CursorOver
+		fileName "SotP_CovAbility_CursorOver"
+		pixelBox [ 349 , 3 , 86 , 66 ]
+	Focused
+		fileName "SotP_CovAbility_Normal"
+		pixelBox [ 349 , 3 , 86 , 66 ]
+	Normal
+		fileName "SotP_CovAbility_Normal"
+		pixelBox [ 349 , 3 , 86 , 66 ]
+brush
+	name "HUDIcon_CovAbilityPatrol_Tier_IV"
+	content "States"
+	Disabled
+		fileName "SotP_CovAbility_Disabled"
+		pixelBox [ 263 , 3 , 86 , 66 ]
+	Pressed
+		fileName "SotP_CovAbility_Pressed"
+		pixelBox [ 263 , 3 , 86 , 66 ]
+	CursorOver
+		fileName "SotP_CovAbility_CursorOver"
+		pixelBox [ 263 , 3 , 86 , 66 ]
+	Focused
+		fileName "SotP_CovAbility_Normal"
+		pixelBox [ 263 , 3 , 86 , 66 ]
+	Normal
+		fileName "SotP_CovAbility_Normal"
+		pixelBox [ 263 , 3 , 86 , 66 ]
+brush
+	name "HUDIcon_CovAbilityPatrol_Tier_III"
+	content "States"
+	Disabled
+		fileName "SotP_CovAbility_Disabled"
+		pixelBox [ 177 , 3 , 86 , 66 ]
+	Pressed
+		fileName "SotP_CovAbility_Pressed"
+		pixelBox [ 177 , 3 , 86 , 66 ]
+	CursorOver
+		fileName "SotP_CovAbility_CursorOver"
+		pixelBox [ 177 , 3 , 86 , 66 ]
+	Focused
+		fileName "SotP_CovAbility_Normal"
+		pixelBox [ 177 , 3 , 86 , 66 ]
+	Normal
+		fileName "SotP_CovAbility_Normal"
+		pixelBox [ 177 , 3 , 86 , 66 ]
+brush
+	name "HUDIcon_CovAbilityPatrol_Tier_II"
+	content "States"
+	Disabled
+		fileName "SotP_CovAbility_Disabled"
+		pixelBox [ 91 , 3 , 86 , 66 ]
+	Pressed
+		fileName "SotP_CovAbility_Pressed"
+		pixelBox [ 91 , 3 , 86 , 66 ]
+	CursorOver
+		fileName "SotP_CovAbility_CursorOver"
+		pixelBox [ 91 , 3 , 86 , 66 ]
+	Focused
+		fileName "SotP_CovAbility_Normal"
+		pixelBox [ 91 , 3 , 86 , 66 ]
+	Normal
+		fileName "SotP_CovAbility_Normal"
+		pixelBox [ 91 , 3 , 86 , 66 ]
+brush
+	name "HUDIcon_CovAbilityPatrol_Tier_I"
+	content "States"
+	Disabled
+		fileName "SotP_CovAbility_Disabled"
+		pixelBox [ 5 , 3 , 86 , 66 ]
+	Pressed
+		fileName "SotP_CovAbility_Pressed"
+		pixelBox [ 5 , 3 , 86 , 66 ]
+	CursorOver
+		fileName "SotP_CovAbility_CursorOver"
+		pixelBox [ 5 , 3 , 86 , 66 ]
+	Focused
+		fileName "SotP_CovAbility_Normal"
+		pixelBox [ 5 , 3 , 86 , 66 ]
+	Normal
+		fileName "SotP_CovAbility_Normal"
+		pixelBox [ 5 , 3 , 86 , 66 ]
+brush
+	name "HUDIconCannonShellCov"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 447 , 294 , 47 , 33 ]
+brush
+	name "HUDIconSmallCannonShellCov"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 481 , 61 , 28 , 28 ]
+brush
+	name "HUDIconSpaceMineCovExplosive"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+brush
+	name "HUDIconSpaceMineCovGravity"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 398 , 469 , 47 , 33 ]
+brush
+	name "HUDIconSmallSpaceMineCovExplosive"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 301 , 61 , 28 , 28 ]
+brush
+	name "HUDIconSmallSpaceMineCovGravity"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 451 , 241 , 28 , 28 ]
+brush
+	name "HUDIconOverlayPlanetBuildShipNotEnoughShipSlotsCov"
+	content "Simple"
+	fileName "Interface0"
+	pixelBox [ 965 , 351 , 50 , 36 ]
+brush
+	name "HUDIconOverlayPlanetBuildShipNotEnoughCapitalShipSlotsCov"
+	content "Simple"
+	fileName "Interface0"
+	pixelBox [ 965 , 388 , 50 , 36 ]

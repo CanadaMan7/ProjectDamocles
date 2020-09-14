@@ -1,0 +1,694 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 42
+brush
+	name "PICTURE_CAPITALSHIP_UNSCTHANATOS"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 1581 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 713 , 1581 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 713 , 1581 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 1581 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 1581 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCREFITHALCYON"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1778 , 1581 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 1778 , 1581 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 1778 , 1581 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1778 , 1581 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1778 , 1581 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCSAHARA"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1778 , 3 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 1778 , 3 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 1778 , 3 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1778 , 3 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1778 , 3 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCRAZOR"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1423 , 1581 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 1423 , 1581 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 1423 , 1581 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1423 , 1581 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1423 , 1581 , 354 , 261 ]
+brush
+	name "PICTURE_CAPITALSHIP_UNSCPOINTBLANK"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1068 , 1581 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 1068 , 1581 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 1068 , 1581 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1068 , 1581 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1068 , 1581 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCNORYANG"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 358 , 1581 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 358 , 1581 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 358 , 1581 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 358 , 1581 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 358 , 1581 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCHILLSBOROUGH"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 1581 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 3 , 1581 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 3 , 1581 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 1581 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 1581 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCGLADIUS"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1068 , 529 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 1068 , 529 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 1068 , 529 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1068 , 529 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1068 , 529 , 354 , 261 ]
+brush
+	name "PICTURE_SQUAD_UNSCBROADSWORDCOMBAT"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2488 , 529 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 2488 , 529 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 2488 , 529 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2488 , 529 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2488 , 529 , 354 , 261 ]
+brush
+	name "PICTURE_SQUAD_UNSCBROADSWORDBOMBER"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 1055 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 713 , 1055 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 713 , 1055 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 1055 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 1055 , 354 , 261 ]
+brush
+	name "PICTURE_SQUAD_UNSCBASELARDBOMBER"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2488 , 1318 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2488 , 1318 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 2488 , 1318 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2488 , 1318 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2488 , 1318 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCMAKO"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 1068 , 529 , 354 , 261 ]
+brush
+	name "PICTURE_TITAN_UNSCINFINITY"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 529 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 713 , 529 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 713 , 529 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 529 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 529 , 354 , 261 ]
+brush
+	name "PICTURE_CAPITALSHIP_UNSCPHOENIX"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2133 , 3 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 2133 , 3 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 2133 , 3 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2133 , 3 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2133 , 3 , 354 , 261 ]
+brush 
+	name "PICTURE_FRIGATE_UNSCATHENS"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1423 , 529 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 1423 , 529 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 1423 , 529 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1423 , 529 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1423 , 529 , 354 , 261 ]
+brush
+	name "PICTURE_CAPITALSHIP_UNSCEPOCH"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1068 , 3 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 1068 , 3 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 1068 , 3 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1068 , 3 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1068 , 3 , 354 , 261 ]
+brush
+	name "PICTURE_CAPITALSHIP_UNSCVALIANT"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 358 , 3 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 358 , 3 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 358 , 3 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 358 , 3 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 358 , 3 , 354 , 261 ]
+brush
+	name "PICTURE_CAPITALSHIP_UNSCARTEMIS"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1423 , 3 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 1423 , 3 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 1423 , 3 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1423 , 3 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1423 , 3 , 354 , 261 ]
+brush
+	name "PICTURE_CAPITALSHIP_UNSCORION"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 3 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 713 , 3 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 713 , 3 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 3 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 3 , 354 , 261 ]
+brush
+	name "PICTURE_CAPITALSHIP_UNSCAUTUMN"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 792 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 713 , 792 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 713 , 792 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 792 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 792 , 354 , 261 ]
+brush
+	name "PICTURE_CAPITALSHIP_UNSCPUNIC"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2488 , 3 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 2488 , 3 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 2488 , 3 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2488 , 3 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2488 , 3 , 354 , 261 ]
+brush
+	name "PICTURE_CAPITALSHIP_UNSCSAHARA"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1778 , 3 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 1778 , 3 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 1778 , 3 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1778 , 3 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1778 , 3 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCTRADESHIP"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 1778 , 792 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCREFINERYSHIP"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 1778 , 792 , 354 , 261 ]
+brush
+	name "PICTURE_SQUAD_UNSCSABREBOMBER"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 358 , 1055 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 358 , 1055 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 358 , 1055 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 358 , 1055 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 358 , 1055 , 354 , 261 ]
+brush
+	name "PICTURE_SQUAD_UNSCLONGSWORDBOMBER"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 1055 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 3 , 1055 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 3 , 1055 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 1055 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 1055 , 354 , 261 ]
+brush
+	name "PICTURE_SQUAD_UNSCSABRECOMBAT"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2133 , 529 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 2133 , 529 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 2133 , 529 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2133 , 529 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2133 , 529 , 354 , 261 ]
+brush
+	name "PICTURE_SQUAD_UNSCLONGSWORDCOMBAT"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1778 , 529 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 1778 , 529 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 1778 , 529 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1778 , 529 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1778 , 529 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCSTALWART"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 266 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 713 , 266 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 713 , 266 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 266 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 713 , 266 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCEION"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1778 , 266 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 1778 , 266 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 1778 , 266 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1778 , 266 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1778 , 266 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCPHOENIX"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2133 , 266 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 2133 , 266 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 2133 , 266 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2133 , 266 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2133 , 266 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCHALBERD"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1068 , 266 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 1068 , 266 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 1068 , 266 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1068 , 266 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1068 , 266 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCCHARON"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 358 , 266 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 358 , 266 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 358 , 266 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 358 , 266 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 358 , 266 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCPARIS"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 266 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 3 , 266 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 3 , 266 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 266 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 266 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCSTRIDENT"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 792 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 3 , 792 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 3 , 792 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 792 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 792 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCSLOOP"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 529 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 3 , 529 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 3 , 529 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 529 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 529 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCGENEVA"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 358 , 529 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 358 , 529 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 358 , 529 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 358 , 529 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 358 , 529 , 354 , 261 ]
+brush
+	name "PICTURE_CAPITALSHIP_UNSCMARATHON"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 3 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 3 , 3 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 3 , 3 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 3 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 3 , 3 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCCRADLE"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2488 , 266 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 2488 , 266 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 2488 , 266 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2488 , 266 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 2488 , 266 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 358 , 792 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCSBCONSTRUCTOR"
+	content "Simple"
+	fileName "UI_HOLOBOXUNSC"
+	pixelBox [ 2133 , 266 , 354 , 261 ]
+brush
+	name "PICTURE_FRIGATE_UNSCHALCYON"
+	content "States"
+	Disabled
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1423 , 266 , 354 , 261 ]
+	Pressed
+		fileName "UI_HOLOBOXUNSC_DESC"
+		pixelBox [ 1423 , 266 , 354 , 261 ]
+	CursorOver
+		fileName "UI_HOLOBOXUNSC_STATS"
+		pixelBox [ 1423 , 266 , 354 , 261 ]
+	Focused
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1423 , 266 , 354 , 261 ]
+	Normal
+		fileName "UI_HOLOBOXUNSC"
+		pixelBox [ 1423 , 266 , 354 , 261 ]

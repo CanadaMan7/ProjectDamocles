@@ -1,0 +1,13 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 2
+brush
+	name "MAINVIEWICON_SQUAD_SENTAGGRESSORCOMBAT"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 522 , 450 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_SQUAD_SENTAGGRESSORBOMBER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 554 , 450 , 30 , 30 ]

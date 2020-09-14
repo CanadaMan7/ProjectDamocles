@@ -1,0 +1,42 @@
+TXT
+backdrop "UI_Background_SoloLobby"
+backButton
+	area [0, 79, 204 , 58]
+	fontId ""
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_TopbarButton"
+	overlay ""			
+	icon "UI_TextTop_Back"
+	text "blank"
+startGameButton
+	area [612, 79, 204 , 58]
+	fontId ""
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_TopbarButton"
+	overlay ""			
+	icon "UI_TextTop_Start"
+	text "IDSSinglePlayerGameLobbyScreenStartGameButton"
+openGameOptionsDialogButton
+	area [204, 79, 204 , 58]
+	fontId ""
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_TopbarButton"
+	overlay ""			
+	icon "UI_TextTop_GameOptions"
+	text "IDSGalaxySetupWindowOpenGameOptionsDialog"
+openVictoryOptionsDialogButton
+	area [408, 79, 204 , 58]
+	fontId ""
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_TopbarButton"
+	overlay ""			
+	icon "UI_TextTop_VictoryOptions"
+	text "IDSGalaxySetupWindowOpenVictoryOptionsDialog"
+playerSetupWindow
+	area [-156, 194, 881, 538]
+galaxyInfoWindow
+	area [740, 152, 440, 228]

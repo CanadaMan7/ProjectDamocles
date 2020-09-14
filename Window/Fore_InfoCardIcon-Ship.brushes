@@ -1,0 +1,23 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 4
+brush
+	name "INFOCARDICON_CAPITALSHIP_FORECENTURION"
+	content "Simple"
+	fileName "SotP_Unit_Infocard"
+	pixelBox [ 24 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_FOREVANGUARD"
+	content "Simple"
+	fileName "SotP_Unit_Infocard"
+	pixelBox [ 24 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_FORECOMBATSENTINEL"
+	content "Simple"
+	fileName "SotP_Unit_Infocard"
+	pixelBox [ 185 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_FOREGUARDIAN"
+	content "Simple"
+	fileName "SotP_Unit_Infocard"
+	pixelBox [ 277 , 162 , 22 , 22 ]

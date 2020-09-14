@@ -1,0 +1,63 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_HAHNEKEDAR_RESEARCH"
+smallHudIcon "HUDICON_HAHNEKEDAR_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_ALLIMODERNIZATION_HAHNEKEDAR_NAME"
+DescriptionStringID "IDS_RESEARCH_ALLIMODERNIZATION_HAHNEKEDAR_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 0 , 3 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_ALLIMODERNIZATION_MODERNIZATION"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 45.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 600.000000
+	metal 50.000000
+	crystal 100.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 0
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 5
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 5
+researchModifier
+	modifierType "ArmorBaseAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.500000
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.030000
+	linkedWeaponClass "RAILGUN"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.030000
+	linkedWeaponClass "WAVE"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.030000
+	linkedWeaponClass "GAUSS"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.030000
+	linkedWeaponClass "AUTOCANNON"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

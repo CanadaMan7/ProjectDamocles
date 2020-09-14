@@ -1,0 +1,140 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "Fighter"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack TRUE
+numRandomDebrisLarge 0
+numRandomDebrisSmall 0
+numSpecificDebris 0
+armorType "VeryLight"
+hudIcon "HUDICON_SQUADTECHBOMBER"
+smallHudIcon "HUDICONSMALL_SQUADTECHBOMBER"
+infoCardIcon "INFOCARDICON_SQUADTECHBOMBER"
+minZoomDistanceMult 4.500000
+nameStringID "IDS_FIGHTER_ALLIPIKE_NAME"
+counterDescriptionStringID "IDS_COUNTER_FIGHTER"
+statCountType "FighterBomber"
+formationOffsetDistance 50.000000
+mass 100.000000
+maxAccelerationLinear 300.000000
+maxAccelerationStrafe 90.000000
+maxDecelerationLinear 1000.000000
+maxAccelerationAngular 60.000000
+maxDecelerationAngular 100.000000
+maxSpeedLinear 1800.000000
+maxRollRate 40.000000
+maxRollAngle 90.000000
+NumWeapons 2
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIVERYLIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "WAVE"
+	DamagePerBank:FRONT 20.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 650.000000
+	PreBuffCooldownTime 3.500000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.000000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 4
+		burstDelay 0.150000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_ALLI_BROADSIDEMASSACCMUZZLE1"
+			sound "WEAPON_ALLI_BROADSIDEMASSACCMUZZLE2"
+			sound "WEAPON_ALLI_BROADSIDEMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_AutoCannonFighter_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Psi_LaserFighter_Travel"
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "ANTIHEAVY"
+		DamageAffectType "AFFECTS_ONLY_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "PHASEMISSILE"
+	DamagePerBank:FRONT 80.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 1500.000000
+	PreBuffCooldownTime 20.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 1750.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 0.080000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CerbArcaida_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 4
+			sound "WEAPON_GENERIC_MISSILEMUZZLE1"
+			sound "WEAPON_GENERIC_MISSILEMUZZLE2"
+			sound "WEAPON_GENERIC_MISSILEMUZZLE3"
+			sound "WEAPON_GENERIC_MISSILEMUZZLE4"
+		hitEffectName "Weapon_PhaseCapitalMissileFrigate_Hit"
+		hitHullEffectSounds
+			soundCount 8
+			sound "WEAPON_GENERIC_MISSILEIMPACT1"
+			sound "WEAPON_GENERIC_MISSILEIMPACT2"
+			sound "WEAPON_GENERIC_MISSILEIMPACT3"
+			sound "WEAPON_GENERIC_MISSILEIMPACT4"
+			sound "WEAPON_GENERIC_MISSILEIMPACT5"
+			sound "WEAPON_GENERIC_MISSILEIMPACT6"
+			sound "WEAPON_GENERIC_MISSILEIMPACT7"
+			sound "WEAPON_GENERIC_MISSILEIMPACT8"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHASEMISSILEMEDIUM_HITGENERIC"
+		missileTravelEffectName "Weapon_CerbArcadiaMissle_Travel"
+		missileStartTurningDistance 50.000000
+		missileSlowTurnRate 5.000000
+		missileMaxSlowTurnTime 1.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+meshName "Fighter_AlliTrident"
+exhaustParticleSystemName ""
+ExplosionName "Fighter0"
+exhaustTrailTextureName ""
+exhaustTrailWidth 0.000000
+engineSoundID "ENGINE_TECHSUPPORTSHIP"
+maxHullPoints 70.000000
+hullPointRestoreRate 0.750000
+armorPoints 0.000000
+maxMitigation 0.000000
+experiencePointsForDestroying 5.000000
+minShadow 0.100000
+maxShadow 1.500000

@@ -982,7 +982,7 @@ orbitBodyType
 	typeName "StartVolcanic"
 	entityDefName "PlanetVolcanic"
 	defaultTemplateName "Template:LocalMilitiaWeakNoColonize"
-planetItemTypeCount 157
+planetItemTypeCount 184
 planetItemType
 	designName "Artifact:WeaponBoost"
 	entityDefName "RESEARCHSUBJECT_ARTIFACT_WEAPONBOOST"
@@ -1454,7 +1454,91 @@ planetItemType
 planetItemType
 	designName "Reap:Structure:ObjectPhi"
 	entityDefName "STRUCTURE_REAPOBJECTPHI"
-playerTypeCount 8
+planetItemType
+	designName "Alliance:Carrier:Newton"
+	entityDefName "CARRIER_ALLINEWTON"
+planetItemType
+	designName "Alliance:Carrier:Hawking"
+	entityDefName "CARRIER_ALLIHAWKING"
+planetItemType
+	designName "Alliance:Cruiser:Athens"
+	entityDefName "CRUISER_ALLIATHENS"
+planetItemType
+	designName "Alliance:Cruiser:Beijing"
+	entityDefName "CRUISER_ALLIBEIJING"
+planetItemType
+	designName "Alliance:Cruiser:BerlinReserve"
+	entityDefName "CRUISER_ALLIBERLINRESERVE"
+planetItemType
+	designName "Alliance:Cruiser:Geneva"
+	entityDefName "CRUISER_ALLIGENEVA"
+planetItemType
+	designName "Alliance:Cruiser:London"
+	entityDefName "CRUISER_ALLILONDON"
+planetItemType
+	designName "Alliance:Dread:Everest"
+	entityDefName "DREADNOUGHT_ALLIEVEREST"
+planetItemType
+	designName "Alliance:Dread:Kilimanjaro"
+	entityDefName "DREADNOUGHT_ALLIKILIMANJARO"
+planetItemType
+	designName "Alliance:Frigate:Agincourt"
+	entityDefName "FRIGATE_ALLIAGINCOURT"
+planetItemType
+	designName "Alliance:Frigate:Hastings"
+	entityDefName "FRIGATE_ALLIHASTINGS"
+planetItemType
+	designName "Alliance:Frigate:Normandy"
+	entityDefName "FRIGATE_ALLINORMANDY"
+planetItemType
+	designName "Alliance:Frigate:StructureConstructor"
+	entityDefName "FRIGATE_ALLISTRUCTURECONSTRUCTOR"
+planetItemType
+	designName "Alliance:Structure:PatrolBeacon"
+	entityDefName "STRUCTURE_ALLIPATROLBEACON"
+planetItemType
+	designName "Alliance:Structure:SuperDreadYard"
+	entityDefName "STRUCTURE_ALLISUPERDREADYARD"
+planetItemType
+	designName "Alliance:Structure:HeroSpawner"
+	entityDefName "STRUCTURE_ALLIHEROSPAWNER"
+planetItemType
+	designName "Alliance:Structure:InfantryCommand"
+	entityDefName "STRUCTURE_ALLIINFANTRYCOMMAND"
+planetItemType
+	designName "Alliance:Structure:ANN"
+	entityDefName "STRUCTURE_ALLIANNHUB"
+planetItemType
+	designName "Alliance:Structure:Refinery"
+	entityDefName "STRUCTURE_ALLIREFINERY"
+planetItemType
+	designName "Alliance:Structure:Cartagena"
+	entityDefName "STRUCTURE_ALLICARTAGENA"
+planetItemType
+	designName "Alliance:Structure:ColonialHQ"
+	entityDefName "STRUCTURE_ALLICOLONIALHQ"
+planetItemType
+	designName "Alliance:Structure:PalladiumExtractor"
+	entityDefName "STRUCTURE_ALLIMETALEXTRACTOR"
+planetItemType
+	designName "Alliance:Structure:EezoExtractor"
+	entityDefName "STRUCTURE_ALLIEEZOEXTRACTOR"
+planetItemType
+	designName "Alliance:Structure:Frigateyard"
+	entityDefName "STRUCTURE_ALLIFRIGATEYARD"
+planetItemType
+	designName "Alliance:Structure:Dreadyard"
+	entityDefName "STRUCTURE_ALLIDREADYARD"
+planetItemType
+	designName "Alliance:Structure:GrissonAcademy"
+	entityDefName "STRUCTURE_ALLIGRISSOMACADEMY"
+planetItemType
+	designName "Bonus:Homeworld:Alliance"
+	entityDefName "PLANETBONUS_HOMEWORLDALLIANCE"
+playerTypeCount 9
+playerType
+	designName "Alliance"
+	entityDefName "PlayerAlliance"
 playerType
 	designName "Reaper"
 	entityDefName "PlayerReaper"
@@ -1539,7 +1623,61 @@ planetItemsTemplate
 planetItemsTemplate
 	templateName "Template:DefaultHomePlanetSetup"
 	subTemplates 0
-	groups 12
+	groups 14
+		group
+			condition
+				type "PlanetOwnerIsRaceNormalStart"
+				param "Alliance"
+			owner "PlanetOwner"
+			colonizeChance 1
+			items 20
+				item "Alliance:Structure:ColonialHQ"
+				item "Alliance:Structure:GrissonAcademy"
+				item "Bonus:Homeworld:Alliance"
+				item "UNSC:Frigate:AI"
+				item "Alliance:Structure:Frigateyard"
+				item "Alliance:Structure:Frigateyard"
+				item "Alliance:Structure:Dreadyard"
+				item "Alliance:Structure:EezoExtractor"
+				item "Alliance:Structure:EezoExtractor"
+				item "Alliance:Structure:EezoExtractor"
+				item "Alliance:Structure:PalladiumExtractor"
+				item "Alliance:Structure:PalladiumExtractor"
+				item "Alliance:Structure:PalladiumExtractor"
+				item "UNSC:Frigate:ModuleConstructor"
+				item "UNSC:Frigate:ModuleConstructor"
+				item "Alliance:Dread:Everest"
+				item "Alliance:Frigate:Normandy"
+				item "Alliance:Frigate:Normandy"
+				item "Alliance:Frigate:Normandy"
+				item "Alliance:Frigate:Normandy"
+		group
+			condition
+				type "PlanetOwnerIsRaceQuickStart"
+				param "Alliance"
+			owner "PlanetOwner"
+			colonizeChance 1
+			items 20
+				item "Alliance:Structure:ColonialHQ"
+				item "Alliance:Structure:GrissonAcademy"
+				item "Bonus:Homeworld:Alliance"
+				item "UNSC:Frigate:AI"
+				item "Alliance:Structure:Frigateyard"
+				item "Alliance:Structure:Frigateyard"
+				item "Alliance:Structure:Dreadyard"
+				item "Alliance:Structure:EezoExtractor"
+				item "Alliance:Structure:EezoExtractor"
+				item "Alliance:Structure:EezoExtractor"
+				item "Alliance:Structure:PalladiumExtractor"
+				item "Alliance:Structure:PalladiumExtractor"
+				item "Alliance:Structure:PalladiumExtractor"
+				item "UNSC:Frigate:ModuleConstructor"
+				item "UNSC:Frigate:ModuleConstructor"
+				item "Alliance:Dread:Everest"
+				item "Alliance:Frigate:Normandy"
+				item "Alliance:Frigate:Normandy"
+				item "Alliance:Frigate:Normandy"
+				item "Alliance:Frigate:Normandy"
 		group
 			condition
 				type "PlanetOwnerIsRaceNormalStart"

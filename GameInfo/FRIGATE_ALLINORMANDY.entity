@@ -1,0 +1,210 @@
+TXT2
+SinsArchiveVersion 193
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn FALSE
+prefersToFocusFire FALSE
+usesFighterAttack TRUE
+autoJoinFleetDefault FALSE
+canBomb FALSE
+typeCount 1
+frigateRoleType "Scout"
+statCountType "FrigateScout"
+mainViewIcon "MAINVIEWICON_FRIGATE_CERBSR2"
+picture "FRIGATE_ALLI_NORMANDY"
+NameStringID "IDS_FRIGATE_ALLINORMANDY_NAME"
+DescriptionStringID "IDS_FRIGATE_ALLINORMANDY_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_STEALTH_SPECOPS"
+basePrice
+	credits 2000.000000
+	metal 215.000000
+	crystal 400.000000
+slotCount 14.000000
+BuildTime 55.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 180.000000
+MaxHullPoints 1085.000000
+MaxShieldPoints 1150.000000
+HullPointRestoreRate 1.000000
+ShieldPointRestoreRate 3.500000
+BaseArmorPoints 1.000000
+maxMitigation 0.650000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 3
+numSpecificDebris 0
+armorType "Medium"
+hudIcon "HUDICON_FRIGATE_ALLISR1"
+smallHudIcon "HUDICONSMALL_FRIGATE_ALLISR1"
+infoCardIcon "INFOCARDICON_ALLI_SR1"
+minZoomDistanceMult 1.250000
+NumWeapons 2
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "RAILGUN"
+	DamagePerBank:FRONT 525.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 12000.000000
+	PreBuffCooldownTime 12.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.000000
+	TravelSpeed 3500.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_ALLI_SPINALMASSACCMUZZLE1"
+			sound "WEAPON_ALLI_SPINALMASSACCMUZZLE2"
+			sound "WEAPON_ALLI_SPINALMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "ANTIHEAVY"
+		DamageAffectType "AFFECTS_ONLY_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "PHASEMISSILE"
+	DamagePerBank:FRONT 160.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 3500.000000
+	PreBuffCooldownTime 5.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 1500.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 0.080000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CerbArcaida_Muzzle"
+		muzzleSoundMinRespawnTime 0.001000
+		muzzleSounds
+			soundCount 4
+			sound "WEAPON_GENERIC_MISSILEMUZZLE1"
+			sound "WEAPON_GENERIC_MISSILEMUZZLE2"
+			sound "WEAPON_GENERIC_MISSILEMUZZLE3"
+			sound "WEAPON_GENERIC_MISSILEMUZZLE4"
+		hitEffectName "Weapon_PhaseCapitalMissileFrigate_Hit"
+		hitHullEffectSounds
+			soundCount 8
+			sound "WEAPON_GENERIC_MISSILEIMPACT1"
+			sound "WEAPON_GENERIC_MISSILEIMPACT2"
+			sound "WEAPON_GENERIC_MISSILEIMPACT3"
+			sound "WEAPON_GENERIC_MISSILEIMPACT4"
+			sound "WEAPON_GENERIC_MISSILEIMPACT5"
+			sound "WEAPON_GENERIC_MISSILEIMPACT6"
+			sound "WEAPON_GENERIC_MISSILEIMPACT7"
+			sound "WEAPON_GENERIC_MISSILEIMPACT8"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHASEMISSILEMEDIUM_HITGENERIC"
+		missileTravelEffectName "Weapon_CerbArcadiaMissle_Travel"
+		missileStartTurningDistance 50.000000
+		missileSlowTurnRate 5.000000
+		missileMaxSlowTurnTime 1.000000
+m_weaponIndexForRange 1
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 1100.000000
+ShieldMeshName "Frigate_AlliNormandySR1_Shield"
+renderShield TRUE
+maxAccelerationLinear 500.000000
+maxAccelerationStrafe 150.000000
+maxDecelerationLinear 900.000000
+maxAccelerationAngular 60.000000
+maxDecelerationAngular 90.000000
+maxSpeedLinear 900.000000
+maxRollRate 40.000000
+maxRollAngle 80.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 4
+SoundID "FRIGATE_ALLINORMANDY_ONATTACK1"
+SoundID "FRIGATE_ALLINORMANDY_ONATTACK2"
+SoundID "FRIGATE_ALLINORMANDY_ONATTACK3"
+SoundID "FRIGATE_ALLINORMANDY_ONATTACK4"
+NumSoundsFor:ONCREATION 3
+SoundID "FRIGATE_ALLINORMANDY_ONCREATION1"
+SoundID "FRIGATE_ALLINORMANDY_ONCREATION2"
+SoundID "FRIGATE_ALLINORMANDY_ONCREATION3"
+NumSoundsFor:ONGENERALORDERISSUED 4
+SoundID "FRIGATE_ALLINORMANDY_ONGENERAL1"
+SoundID "FRIGATE_ALLINORMANDY_ONGENERAL2"
+SoundID "FRIGATE_ALLINORMANDY_ONGENERAL3"
+SoundID "FRIGATE_ALLINORMANDY_ONGENERAL4"
+NumSoundsFor:ONSELECTED 3
+SoundID "FRIGATE_ALLINORMANDY_ONSELECTED1"
+SoundID "FRIGATE_ALLINORMANDY_ONSELECTED2"
+SoundID "FRIGATE_ALLINORMANDY_ONSELECTED3"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "FRIGATE_ALLINORMANDY_ONJUMPSTART1"
+SoundID "FRIGATE_ALLINORMANDY_ONJUMPSTART2"
+SoundID "FRIGATE_ALLINORMANDY_ONJUMPSTART3"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Frigate_AlliNormandySR1"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "Frigate1"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_TECHCAPITALSHIP"
+ability:0 "Ability_Alli_NormandyExplore"
+ability:1 "Ability_Alli_NormandyStealth"
+ability:2 ""
+ability:3 ""
+ability:4 "Ability_Alli_NormandyPassiveBundle"
+MaxAntiMatter 600.000000
+AntiMatterRestoreRate 2.500000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 1
+minShadow 0.100000
+maxShadow 1.500000
+allegianceDecreasePerRoundtrip 0.000000

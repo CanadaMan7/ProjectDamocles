@@ -1,0 +1,58 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_Alli_YardResupply"
+targetFilter
+	numOwnerships 1
+	ownership "Friendly"
+	numObjects 2
+	object "Frigate"
+	object "CapitalShip"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "NotSelf"
+range
+	Level:0 5000.000000
+	Level:1 5000.000000
+	Level:2 5000.000000
+	Level:3 5000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "Anytime"
+aiUseTargetCondition "HasBuff"
+	buffType "Buff_Alli_DenaliSalvoBounce"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 5.000000
+	Level:1 6.000000
+	Level:2 6.000000
+	Level:3 6.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_ALLI_YARDRESUPPLY_NAME"
+descStringID "IDS_ABILITY_ALLI_YARDRESUPPLY_DESCRIPTION"
+hudIcon "HUDICON_SUPPORTABILITY_REPAIRTECHPLANETMODULE"
+smallHudIcon "HUDICON_SUPPORTABILITY_REPAIRTECHPLANETMODULE"
+infoCardIcon ""

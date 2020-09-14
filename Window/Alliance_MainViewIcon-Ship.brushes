@@ -1,0 +1,1018 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 204
+brush
+	name "MAINVIEWICON_DREAD_COUNHANAR"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 711, 172 , 29 , 27 ]
+brush
+	name "MAINVIEWICON_SUPERDREAD_MERCSHADOWBASE"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 803, 4 , 37 , 27 ]
+brush
+	name "MAINVIEWICON_SUPERDREAD_REAPHARBY"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 165, 269 , 76 , 19 ]
+brush
+	name "MAINVIEWICON_DREAD_REAPSOV"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 86, 271 , 67 , 16 ]
+brush
+	name "MAINVIEWICON_DREAD_COLLECTOR"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 86, 247 , 42 , 16 ]
+brush
+	name "MAINVIEWICON_CRUISER_REAPDESTROYER"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 49, 268 , 15 , 21 ]
+brush
+	name "MAINVIEWICON_CRUISER_COLLECTOR"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 41, 250 , 32 , 10 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COLLECTORSCOUT"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 5, 251 , 23 , 8 ]
+brush
+	name "MAINVIEWICON_SUPERDREADNOUGHT_COUNKWUNU"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 239, 170 , 55 , 35 ]
+brush
+	name "MAINVIEWICON_SUPERDREADNOUGHT_COUNBATARIAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 162, 182 , 73 , 12 ]
+brush
+	name "MAINVIEWICON_SUPERDREADNOUGHT_COUNDESTINY"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 123, 156 , 28 , 62 ]
+brush
+	name "MAINVIEWICON_SUPERDREADNOUGHT_COUNGETH"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 57, 180 , 56 , 14 ]
+brush
+	name "MAINVIEWICON_SUPERDREADNOUGHT_COUNKILI"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 6, 178 , 43 , 17 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNLIVENAUGHT"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 841, 126 , 71 , 33 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNBATARIAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 786, 139 , 48 , 9 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNSALARIAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 743, 135 , 39 , 16 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNCYBAEN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 714, 124 , 18 , 38 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNGETH"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 654, 136 , 52 , 13 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNRAYYA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 576, 127 , 67 , 31 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNMEHRAK"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 529, 129 , 39 , 28 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNUNDAUNTED"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 482, 139 , 42 , 14 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNEVEREST"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 440, 136 , 36 , 11 ]
+brush
+	name "MAINVIEWICON_CRUISER_COUNGETH"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 403, 138 , 32 , 7 ]
+brush
+	name "MAINVIEWICON_CRUISER_COUNSALARIAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 374, 135 , 24 , 14 ]
+brush
+	name "MAINVIEWICON_CRUISER_COUNHENAS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 344, 135 , 24 , 13 ]
+brush
+	name "MAINVIEWICON_CRUISER_COUNQUARIAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 302, 137 , 38 , 9 ]
+brush
+	name "MAINVIEWICON_CRUISER_COUNNEFRANE"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 282, 129 , 13 , 25 ]
+brush
+	name "MAINVIEWICON_CRUISER_COUNVAHRDONA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 249, 134 , 25 , 16 ]
+brush
+	name "MAINVIEWICON_CRUISER_COUNHAWKING"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 214, 138 , 32 , 8 ]
+brush
+	name "MAINVIEWICON_CRUISER_COUNGENEVA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 181, 138 , 29 , 8 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COUNATHABASCA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 160, 139 , 15 , 5 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COUNTUNNERON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 124, 140 , 29 , 3 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COUNGETH"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 92, 138 , 26 , 7 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COUNVERRIKAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 65 , 136 , 20 , 11 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COUNHASTINGS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 33 , 138 , 16 , 7 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COUNSR1"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 6 , 138 , 16 , 7 ]
+brush
+	name "MAINVIEWICON_SUPERDREADNOUGHT_CERBTHEMIS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 682 , 88 , 58 , 20 ]
+brush
+	name "MAINVIEWICON_SUPERDREADNOUGHT_CERBARK"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 618 , 87 , 55 , 21 ]
+brush
+	name "MAINVIEWICON_SUPERDREADNOUGHT_CERBAEOLUS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 562 , 88 , 50 , 19 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_CERBPRAETOR"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 515 , 90 , 42 , 15 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_CERBPOMPEII"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 468 , 92 , 42 , 12 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_CERBADRIATIC"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 426 , 93 , 36 , 11 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_CERBCENTURION"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 383 , 92 , 41 , 13 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_CERBTRAFALGAR"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 338 , 93 , 42 , 12 ]
+brush
+	name "MAINVIEWICON_CRUISER_CERBDYSON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 305 , 95 , 28 , 7 ]
+brush
+	name "MAINVIEWICON_CRUISER_CERBARCADIA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 267 , 94 , 33 , 10 ]
+brush
+	name "MAINVIEWICON_CRUISER_CERBELBRUS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 232 , 95 , 30 , 8 ]
+brush
+	name "MAINVIEWICON_CRUISER_CERBMINERVA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 201 , 95 , 28 , 8 ]
+brush
+	name "MAINVIEWICON_CRUISER_CERBARKROYAL"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 167 , 95 , 30 , 9 ]
+brush
+	name "MAINVIEWICON_FRIGATE_CERBSR2"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 145 , 95 , 19 , 9 ]
+brush
+	name "MAINVIEWICON_FRIGATE_CERBKODIAK"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 124 , 97 , 15 , 5 ]
+brush
+	name "MAINVIEWICON_FRIGATE_CERBGAZA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 92 , 96 , 25 , 7 ]
+brush
+	name "MAINVIEWICON_FRIGATE_CERBZENITH"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 62 , 96 , 25 , 7 ]
+brush
+	name "MAINVIEWICON_FRIGATE_CERBBOSTON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 33 , 96 , 23 , 7 ]
+brush
+	name "MAINVIEWICON_FRIGATE_CERBTEMPEST"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 6 , 95 , 16 , 10 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_MERCARIAPRAETOR"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 756 , 9 , 41 , 15 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_MERCSBEVEREST"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 712 , 11 , 37 , 12 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_MERCCYBAEN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 688 , 2 , 18 , 35 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_MERCUNDAUNTED"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 640 , 13 , 42 , 14 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_MERCSALARIAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 595 , 8 , 39 , 16 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_MERCHARSHAAL"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 541 , 11 , 48 , 9 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_MERCNEWTON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 493 , 9 , 42 , 13 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_MERCMEHREK"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 449 , 2 , 38 , 28 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_MERCCAT6EVEREST"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 410 , 10 , 36 , 10 ]
+brush
+	name "MAINVIEWICON_CRUISER_MERCELBRUS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 374 , 11 , 30 , 9 ]
+brush
+	name "MAINVIEWICON_CRUISER_MERCNEFRANE"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 356 , 8 , 12 , 23 ]
+brush
+	name "MAINVIEWICON_CRUISER_MERCSALARIAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 327 , 9 , 23 , 14 ]
+brush
+	name "MAINVIEWICON_CRUISER_MERCHENSA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 297 , 9 , 24 , 13 ]
+brush
+	name "MAINVIEWICON_CRUISER_MERCBPHAWKING"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 262 , 11 , 32 , 8 ]
+brush
+	name "MAINVIEWICON_CRUISER_MERCVARHDONA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 234 , 7 , 25 , 16 ]
+brush
+	name "MAINVIEWICON_CRUISER_MERCCAT6HAWKING"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 199 , 10 , 32 , 8 ]
+brush
+	name "MAINVIEWICON_CRUISER_MERCGENEVA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 167 , 10 , 29 , 8 ]
+brush
+	name "MAINVIEWICON_FRIGATE_MERCATHABASCA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 145 , 13 , 16 , 5 ]
+brush
+	name "MAINVIEWICON_FRIGATE_MERCSR1"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 123 , 11 , 16 , 7 ]
+brush
+	name "MAINVIEWICON_FRIGATE_MERCTUNNERON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 89 , 13 , 29 , 3 ]
+brush
+	name "MAINVIEWICON_FRIGATE_MERCTALON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 64 , 9 , 20 , 11 ]
+brush
+	name "MAINVIEWICON_FRIGATE_MERCBERLIN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 33 , 10 , 28 , 8 ]
+brush
+	name "MAINVIEWICON_FRIGATE_MERCHASTINGS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 6 , 11 , 24 , 7 ]
+brush
+	name "MAINVIEWICON_FIGHTER_GLAIVESQUAD"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 855 , 52 , 19 , 13 ]
+brush
+	name "MAINVIEWICON_FIGHTER_GLAIVESINGLE"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 834 , 55 , 10 , 7 ]
+brush
+	name "MAINVIEWICON_FIGHTER_TRIDENTSQUAD"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 912 , 53 , 20 , 10 ]
+brush
+	name "MAINVIEWICON_FIGHTER_TRIDENTSINGLE"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 893 , 56 , 10 , 5 ]
+brush
+	name "MAINVIEWICON_SUPERCARRIER_ALLISNOWDON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 662 , 47 , 52 , 23 ]
+brush
+	name "MAINVIEWICON_SUPERCARRIER_ALLISAGAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 606 , 49 , 50 , 20 ]
+brush
+	name "MAINVIEWICON_CARRIER_ALLINEWTON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 557 , 52 , 43 , 13 ]
+brush
+	name "MAINVIEWICON_CARRIER_ALLIEINSTEIN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 513 , 53 , 39 , 12 ]
+brush
+	name "MAINVIEWICON_DREAD_ALLIDENALI"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 468 , 53 , 40 , 12 ]
+brush
+	name "MAINVIEWICON_DREAD_ALLIEVEREST"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 426 , 54 , 36 , 11 ]
+brush
+	name "MAINVIEWICON_DREAD_ALLIKILI"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 377 , 51 , 43 , 17 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ALLIHAWKING"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 340 , 56 , 32 , 8 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ALLILONDON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 304 , 54 , 32 , 11 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ALLIATHENS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 269 , 54 , 31 , 10 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ALLIBEJING"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 234 , 54 , 30 , 9 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ALLIGENEVA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 201 , 55 , 28 , 8 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ALLIBERLIN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 167 , 55 , 28 , 8 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ALLIDIPLO"
+	content "Simple"
+	fileName "Unit_Main_DOTR"
+	pixelBox [ 119 , 29 , 15 , 7 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ALLIATHABASCA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 146 , 56 , 15 , 5 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ALLILEIPZIG"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 123 , 55 , 16 , 7 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ALLIMANZIKERT"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 94 , 55 , 24 , 8 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ALLIAGINCOURT"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 62 , 55 , 26 , 7 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ALLIHASTINGS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 33 , 55 , 24 , 7 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ALLISR1"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 6 , 55 , 16 , 7 ]
+brush
+	name "MAINVIEWICON_INFANTRY_RESISTANCE"
+	content "Simple"
+	fileName "Unit_Main_DOTR"
+	pixelBox [ 234 , 5 , 25 , 14 ]
+brush
+	name "MAINVIEWICON_INFANTRY_GRIZZLY"
+	content "Simple"
+	fileName "Unit_Main_DOTR"
+	pixelBox [ 202 , 6 , 25 , 11 ]
+brush
+	name "MAINVIEWICON_INFANTRY_MANTIS"
+	content "Simple"
+	fileName "Unit_Main_DOTR"
+	pixelBox [ 171 , 6 , 26 , 10 ]
+brush
+	name "MAINVIEWICON_INFANTRY_SPECOPS"
+	content "Simple"
+	fileName "Unit_Main_DOTR"
+	pixelBox [ 142 , 6 , 23 , 8 ]
+brush
+	name "MAINVIEWICON_INFANTRY_MARINE3"
+	content "Simple"
+	fileName "Unit_Main_DOTR"
+	pixelBox [ 105 , 6 , 28 , 12 ]
+brush
+	name "MAINVIEWICON_INFANTRY_MARINE2"
+	content "Simple"
+	fileName "Unit_Main_DOTR"
+	pixelBox [ 70 , 6 , 28 , 12 ]
+brush
+	name "MAINVIEWICON_INFANTRY_MARINE1"
+	content "Simple"
+	fileName "Unit_Main_DOTR"
+	pixelBox [ 37 , 6 , 28 , 12 ]
+brush
+	name "MAINVIEWICON_INFANTRY_LIGHTARMOR"
+	content "Simple"
+	fileName "Unit_Main_DOTR"
+	pixelBox [ 4 , 4 , 28 , 15 ]
+brush
+	name "MAINVIEWICON_TRADE2_PSI"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 421 , 167 , 17 , 7 ]
+brush
+	name "MAINVIEWICON_CORVETTE_PHASE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 416 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CORVETTE_PSI"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 43 , 333 , 19 , 8 ]
+brush
+	name "MAINVIEWICON_CORVETTE_TECH"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 122 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PHASENANITE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 347 , 290 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_TECHTRANSPORT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 304 , 154 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PSIBATTLESHIP2"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 343 , 154 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PHASEBATTLESHIP2"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 382 , 154 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_TITAN_TECHLOYALIST"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 360 , 124 , 47 , 29 ]
+brush
+	name "MAINVIEWICON_TITAN_TECHREBEL"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 305 , 130 , 48 , 14 ]
+brush
+	name "MAINVIEWICON_TITAN_PSILOYALIST"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 452 , 190 , 24 , 47 ]
+brush
+	name "MAINVIEWICON_TITAN_PSIBAT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 159 , 306 , 63 , 18 ]
+brush
+	name "MAINVIEWICON_TITAN_PSIKILI"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 226 , 302 , 55 , 22 ]
+brush
+	name "MAINVIEWICON_TITAN_PSIGETH"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 289 , 307 , 58 , 15 ]
+brush
+	name "MAINVIEWICON_TITAN_PSIREBEL"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 478 , 220 , 32 , 46 ]
+brush
+	name "MAINVIEWICON_TITAN_PHASELOYALIST"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 70 , 333 , 37 , 51 ]
+brush
+	name "MAINVIEWICON_TITAN_PHASEREBEL"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 418 , 127 , 47 , 45 ]
+brush
+	name "MAINVIEWICON_FRIGATE_TECHFLAGSHIP"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 474 , 94 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PSIFLAGSHIP"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 474 , 123 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PHASEFLAGSHIP"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 474 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_TECHCOLONY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_TECHCARRIER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 61 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_TECHBATTLESHIP"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 31 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_TECHSUPPORT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 121 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_TECHSIEGE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 91 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PSICOLONY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PSICARRIER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 61 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PSIBATTLESHIP"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 31 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PSIBATTLEPSIONIC"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 91 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PSIPLANETPSIONIC"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 121 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PHASECOLONY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PHASECARRIER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 61 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PHASEBATTLESHIP"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 31 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PHASESCOUT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 121 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_PHASESIEGE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 91 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_TECHANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 91 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_TECHCARRIER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 211 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_TECHCOLONY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_TECHHEAVY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 31 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_TECHLIGHT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_TECHLONGRANGE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 271 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_TECHSCOUT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 121 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_TECHSIEGE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 61 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_TECHUTILITY0"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_TECHUTILITY1"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 361 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_TECHMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 181 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_TECHSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 391 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_TECHANTIMODULE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 421 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PSIANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 91 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PSICARRIER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 211 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PSICOLONY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 6 , 334 , 28 , 8 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PSIHEAVY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 31 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PSILIGHT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PSILONGRANGE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 271 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PSISCOUT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 121 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PSISIEGE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 61 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PSISTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 391 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PSIUTILITY0"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PSIUTILITY1"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 361 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PSIMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 181 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PSIANTIMODULE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 421 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PHASEANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 91 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PHASECARRIER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 211 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PHASECOLONY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PHASEHEAVY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 31 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PHASELIGHT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PHASELONGRANGE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 271 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PHASESCOUT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 121 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PHASESIEGE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 61 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PHASEUTILITY0"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 331 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PHASEUTILITY1"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 361 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PHASEMINELAYER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 421 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PHASEMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 181 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PIRATEMEDIUM"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 121 , 301 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PIRATEHEAVY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 31 , 301 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PIRATEANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 91 , 301 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PIRATESIEGE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 61 , 301 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_PIRATELIGHT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 301 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_TURRETCOMBAT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_TURRETSIEGE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADTECHCOMBAT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 181 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADTECHBOMBER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 151 , 91 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADPSICOMBAT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 181 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADPSIBOMBER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 151 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADPSIMINELAYER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 451 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADPHASECOMBAT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 181 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADPHASEBOMBER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 151 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_TRADESHIP_TECH"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 151 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_TRADESHIP_PSI"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 151 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_TRADESHIP_PHASE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 151 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_REFINERYSHIP_TECH"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 301 , 181 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_REFINERYSHIP_PSI"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 301 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_REFINERYSHIP_PHASE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 301 , 241 , 28 , 28 ]

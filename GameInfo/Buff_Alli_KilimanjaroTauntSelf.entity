@@ -1,0 +1,76 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 0
+numPeriodicActions 1
+periodicAction
+	actionCountType "Finite"
+	actionCount
+		Level:0 30.000000
+		Level:1 35.000000
+		Level:2 40.000000
+		Level:3 45.000000
+	actionIntervalTime
+		Level:0 1.000000
+		Level:1 1.000000
+		Level:2 1.000000
+		Level:3 1.000000
+	buffInstantActionType "ApplyBuffToTargetsInRadius"
+	instantActionTriggerType "AlwaysPerform"
+	buffType "Buff_Alli_KilimanjaroTauntTarget"
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 5
+		object "Frigate"
+		object "CapitalShip"
+		object "PlanetModule"
+		object "StarBase"
+		object "Titan"
+		numSpaces 1
+		space "Normal"
+		numConstraints 2
+		constraint "HasWeapons"
+		constraint "NotIsIllusionShip"
+	range
+		Level:0 20000.000000
+		Level:1 20000.000000
+		Level:2 20000.000000
+		Level:3 20000.000000
+	maxTargetCount
+		Level:0 6.000000
+		Level:1 7.000000
+		Level:2 8.000000
+		Level:3 9.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+numOverTimeActions 0
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "ShieldMitigation"
+	value
+		Level:0 0.100000
+		Level:1 0.150000
+		Level:2 0.200000
+		Level:3 0.250000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 30.000000
+		Level:1 35.000000
+		Level:2 40.000000
+		Level:3 45.000000

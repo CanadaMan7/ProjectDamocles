@@ -1,5 +1,19 @@
 TXT
-brushFileCount 100
+brushFileCount 114
+brushFile "Alliance_HUDIcon-Ability.brushes"
+brushFile "Alliance_HUDIcon-Action.brushes"
+brushFile "Alliance_HUDIconLarge-Research.brushes"
+brushFile "Alliance_HUDIcon-Module.brushes"
+brushFile "Alliance_HUDIcon-Research.brushes"
+brushFile "Alliance_HUDIcon-Ship.brushes"
+brushFile "Alliance_HUDIcon-StarBase.brushes"
+brushFile "Alliance_InfoCardIcon-Module.brushes"
+brushFile "Alliance_InfoCardIcon-Ship.brushes"
+brushFile "Alliance_MainViewIcon-Generic.brushes"
+brushFile "Alliance_MainViewIcon-Module.brushes"
+brushFile "Alliance_MainViewIcon-Ship.brushes"
+brushFile "Alliance_Picture-Module.brushes"
+brushFile "Alliance_Picture-Ship.brushes"
 brushFile "COV_HUDIcon-ResearchButtons.brushes"
 brushFile "UNSC_HUDIcon-ResearchButtons.brushes"
 brushFile "UNSC_HUDIcon-Research_NEW.brushes"

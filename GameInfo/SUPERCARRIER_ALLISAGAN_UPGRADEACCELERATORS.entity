@@ -1,0 +1,81 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "TitanUpgrade"
+stageCount 5
+stage
+	nameStringID "IDS_SUPERCARRIER_ALLISAGAN_UPGRADEACCELERATORS_NAME"
+	descStringID "IDS_SUPERCARRIER_ALLISAGAN_UPGRADEACCELERATORS_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement -1
+	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade0"
+	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade0"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_SUPERCARRIER_ALLISAGAN_UPGRADEACCELERATORS_NAME"
+	descStringID "IDS_SUPERCARRIER_ALLISAGAN_UPGRADEACCELERATORS_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 0
+	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade0"
+	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade0"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.100000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_SUPERCARRIER_ALLISAGAN_UPGRADEACCELERATORS_NAME"
+	descStringID "IDS_SUPERCARRIER_ALLISAGAN_UPGRADEACCELERATORS_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade1"
+	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade1"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.200000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_SUPERCARRIER_ALLISAGAN_UPGRADEACCELERATORS_NAME"
+	descStringID "IDS_SUPERCARRIER_ALLISAGAN_UPGRADEACCELERATORS_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 4
+	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade2"
+	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade2"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.300000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_SUPERCARRIER_ALLISAGAN_UPGRADEACCELERATORS_NAME"
+	descStringID "IDS_SUPERCARRIER_ALLISAGAN_UPGRADEACCELERATORS_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 6
+	hudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade3"
+	smallHudIcon "HUDIconTitanTechLoyalistDurabilityUpgrade3"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.400000
+	upgradeBoolPropertyCount 0

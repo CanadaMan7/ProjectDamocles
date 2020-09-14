@@ -1,0 +1,286 @@
+TXT2
+SinsArchiveVersion 194
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb TRUE
+hasBombingLevels FALSE
+baseDamage 1.000000
+basePopulationKilled 0.000000
+bombingFreqTime 1000.000000
+baseRange 0.000000
+bombTransitTime 1.000000
+bombEffectCount 1
+bombEffectAngleVariance 0.000000
+bombEffectsDef
+	weaponType "Projectile"
+	burstCount 1
+	burstDelay 0.000000
+	fireDelay 0.000000
+	muzzleEffectName ""
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 1
+		sound "WEAPON_TECH_PLANETBOMB_MUZZLE"
+	hitEffectName ""
+	hitHullEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	hitShieldsEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	projectileTravelEffectName ""
+typeCount 1
+frigateRoleType "Siege"
+statCountType "FrigateSiege"
+mainViewIcon "MAINVIEWICON_FRIGATE_ALLIHAWKING"
+picture "PICTURE_FRIGATE_TECHCARRIER"
+NameStringID "IDS_CARRIER_ALLIHAWKING_NAME"
+DescriptionStringID "IDS_CARRIER_ALLIHAWKING_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_CARRIER_GRUNTS"
+basePrice
+	credits 2050.000000
+	metal 205.000000
+	crystal 265.000000
+slotCount 20.000000
+BuildTime 30.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 120.000000
+MaxHullPoints 1400.000000
+MaxShieldPoints 1550.000000
+HullPointRestoreRate 1.500000
+ShieldPointRestoreRate 5.000000
+BaseArmorPoints 1.000000
+maxMitigation 0.650000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_ALLIAI_DISCOUNT0"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 1
+numRandomDebrisSmall 7
+numSpecificDebris 0
+armorType "Heavy"
+hudIcon "HUDICON_FRIGATE_ALLIHAWKING"
+smallHudIcon "HUDICONSMALL_CRUISER_ALLIHAWKING"
+infoCardIcon "INFOCARDICON_ALLI_HAWKING"
+minZoomDistanceMult 1.000000
+NumWeapons 3
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIVERYHEAVY"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 90.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 6500.000000
+	PreBuffCooldownTime 2.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 1.000000
+	TravelSpeed 3000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 2
+		burstDelay 0.340000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_ALLI_AUXMASSACCMUZZLE1"
+			sound "WEAPON_ALLI_AUXMASSACCMUZZLE2"
+			sound "WEAPON_ALLI_AUXMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIMEDIUM"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 0.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 30.000000
+	DamagePerBank:RIGHT 30.000000
+	Range 5000.000000
+	PreBuffCooldownTime 1.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.450000
+	TravelSpeed 5000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_ALLI_BROADSIDEMASSACCMUZZLE1"
+			sound "WEAPON_ALLI_BROADSIDEMASSACCMUZZLE2"
+			sound "WEAPON_ALLI_BROADSIDEMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Tech_AutoCannonFighter_Travel"
+Weapon
+	WeaponType "Beam"
+	damageEnums
+		AttackType "ANTILIGHT"
+		DamageAffectType "AFFECTS_ONLY_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "POINTDEFENSELASER"
+	DamagePerBank:FRONT 10.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 32000.000000
+	PreBuffCooldownTime 5.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 0.000000
+	Duration 2.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 0.280000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PhaseCapitalFlashBeamCapShip_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_GENERIC_ULTRALADAR"
+		hitEffectName "Weapon_PhaseCapitalFlashBeamCapShip_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound ""
+		hitShieldsEffectSounds
+			soundCount 1
+			sound ""
+		beamEffectSounds
+			soundCount 1
+			sound ""
+		beamGlowTextureName "PhaseCapitalBeam_Glow"
+		beamCoreTextureName "PhaseCapitalBeam_Core"
+		beamWidth 2.000000
+		beamGlowColor ffe50000
+		beamCoreColor ffe50000
+		beamTilingRate 3.000000
+m_weaponIndexForRange 2
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 9000.000000
+ShieldMeshName "Carrier_AlliHawking_Shield"
+renderShield TRUE
+maxAccelerationLinear 120.000000
+maxAccelerationStrafe 30.000000
+maxDecelerationLinear 800.000000
+maxAccelerationAngular 3.000000
+maxDecelerationAngular 10.000000
+maxSpeedLinear 600.000000
+maxRollRate 6.000000
+maxRollAngle 35.000000
+useCustomHyperspaceEffects TRUE
+effects
+	chargeUpEffectName "FTL_CHARGEUP_BLANK"
+	chargeUpEffectNameBetweenStars "FTL_CHARGEUP_BLANK"
+	chargeUpEffectNameDestabilized "FTL_CHARGEUP_BLANK"
+	chargeUpEffectSoundID "FTL_GENERIC_CRUISERCHARGE1"
+	travelEffectName "FTL_Main"
+	travelEffectNameBetweenStars "FTL_Main"
+	travelEffectNameDestabilized "FTL_Main"
+	travelEffectSoundID "HYPERSPACE_TRAVEL"
+	exitEffectName "FTL_FRIGATE_CRUISER_EXIT"
+	exitEffectSoundID "FTL_GENERIC_FRIGATEEXIT1"
+squadTypeEntityDef:0 "SQUAD_ALLIF61TRIDENT"
+squadAntiMatterCost:0 110.000000
+squadTypeEntityDef:1 "SQUAD_ALLIGLAIVE"
+squadAntiMatterCost:1 110.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 "SQUAD_ALLISX2PIKE"
+squadAntiMatterCost:3 110.000000
+maxNumCommandPoints 2
+NumSoundsFor:ONATTACKORDERISSUED 4
+SoundID "CARRIER_ALLIHAWKING_ONATTACK1"
+SoundID "CARRIER_ALLIHAWKING_ONATTACK2"
+SoundID "CARRIER_ALLIHAWKING_ONATTACK3"
+SoundID "CARRIER_ALLIHAWKING_ONATTACK4"
+NumSoundsFor:ONCREATION 1
+SoundID "CARRIER_ALLIHAWKING_ONCREATION1"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "CARRIER_ALLIHAWKING_ONGENERAL1"
+SoundID "CARRIER_ALLIHAWKING_ONGENERAL2"
+SoundID "CARRIER_ALLIHAWKING_ONGENERAL3"
+NumSoundsFor:ONSELECTED 4
+SoundID "CARRIER_ALLIHAWKING_ONSELECTED1"
+SoundID "CARRIER_ALLIHAWKING_ONSELECTED2"
+SoundID "CARRIER_ALLIHAWKING_ONSELECTED3"
+SoundID "CARRIER_ALLIHAWKING_ONSELECTED4"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "CARRIER_ALLIHAWKING_ONJUMPSTART1"
+SoundID "CARRIER_ALLIHAWKING_ONJUMPSTART2"
+SoundID "CARRIER_ALLIHAWKING_ONJUMPSTART3"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Carrier_AlliHawking"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "Frigate0"
+EngineSoundID "AMBIENT_CRUISER"
+ability:0 "Ability_Alli_HawkingPlatoon"
+ability:1 ""
+ability:2 ""
+ability:3 "Ability_Alli_HawkingLADAR"
+ability:4 "Ability_Alli_FighterTorps"
+MaxAntiMatter 200.000000
+AntiMatterRestoreRate 0.500000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 2
+minShadow 0.100000
+maxShadow 1.500000
+allegianceDecreasePerRoundtrip 0.000000

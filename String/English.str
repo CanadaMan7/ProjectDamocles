@@ -1,5 +1,1598 @@
 ﻿TXT
-NumStrings 10807
+NumStrings 11448
+StringInfo
+	ID "IDS_PLAYERRACENAME_PSIREBEL"
+	Value "Alliance"
+StringInfo
+	ID "IDS_CARRIER_ALLIEINSTEIN_NAME"
+	Value "Einstein Fleet Carrier"
+StringInfo
+	ID "IDS_CARRIER_ALLIEINSTEIN_DESCRIPTION"
+	Value "The Einstein is the consumate Fleet Carrier, dedicated entirely to supporting its huge attack wings. With an entire deck dedicated to fighter management as well as 270 degree coverage for its Ultra Hi-Res LADAR, it acts as a significant force multiplier for an Alliance fleet. It improves not only its own fighters, but also those of other nearby carriers. Only lightly armed and armored, it is best kept at the edges of a battle, but if kept safe can have a huge influence on any fleet engagement."
+StringInfo
+	ID "IDS_CARRIER_ALLIHAWKING_NAME"
+	Value "Hawking Light Carrier"
+StringInfo
+	ID "IDS_CARRIER_ALLIHAWKING_DESCRIPTION"
+	Value "The Hawking is the workhorse carrier in the Alliance fleet, bringing two squadrons of strike craft to battle, while also carrying several Kodiak shuttles and a modest compliment of Alliance Marines. Its fragile hull leaves it poorly suited to direct combat, but its extremely powerful LADAR systems allow it to continue influencing battle from afar. Though only lightly scorching enemy armor, these powerful sensors will highlight weak points on enemy vessels for allies to target."
+StringInfo
+	ID "IDS_CARRIER_ALLINEWTON_NAME"
+	Value "Newton Heavy Carrier"
+StringInfo
+	ID "IDS_CARRIER_ALLINEWTON_DESCRIPTION"
+	Value "The Newton class Heavy Carrier stems from the Alliance's desire to field more Dreadnought class vessels without blatantly breaking the Treaty of Farixen, which greatly limits their potential fleet size. Accordingly, it is equipped with Dreadnought grade weapons systems, with its main gun cleverly concealed inside what appears to be a hangar. It also carries large forces of Alliance Marines, and serves as the primary planetary invasion transport for the modern Alliance Navy."
+StringInfo
+	ID "IDS_CRUISER_ALLIATHENS_NAME"
+	Value "Athens Missile Cruiser"
+StringInfo
+	ID "IDS_CRUISER_ALLIATHENS_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_CRUISER_ALLIBEIJING_NAME"
+	Value "Beijing Picket Cruiser"
+StringInfo
+	ID "IDS_CRUISER_ALLIBEIJING_DESCRIPTION"
+	Value "The Beijing is another cousin of the Geneva, this time designed with a fleet support role in mind. It is equipped with a powerful suite of GARDIAN lasers for point defense, as well as extensive electronic warfare systems run by multiple networked VIs. These systems allow it to disrupt enemy vessels even at extreme range, sowing chaos and buying time for nearby friendly ships to strike without fear of reprisal."
+StringInfo
+	ID "IDS_CRUISER_ALLIBERLINREFIT_NAME"
+	Value "Berlin Refit Cruiser"
+StringInfo
+	ID "IDS_CRUISER_ALLIBERLINREFIT_DESCRIPTION"
+	Value "When the fleet modernisation program called for the mass retirement of the Berlin class, there were some among the admiralty that suggested this reliable warhorse be refitted instead. With a comprehensive update to its weapons and kinetic barriers, as well as the addition of advanced  electronic warfare systems, the Berlin has become worthy of the cruiser classification once again. Though expensive to operate, this iconic ship remains an indepensable part of the Alliance Navy."
+StringInfo
+	ID "IDS_CRUISER_ALLIBERLINRESERVE_NAME"
+	Value "Berlin Reserve Cruiser"
+StringInfo
+	ID "IDS_CRUISER_ALLIBERLINRESERVE_DESCRIPTION"
+	Value "The aging Berlin class cruiser was once the primary line warship of the Alliance. A great many Berlins took part in the Battle of the Citadel, proving capable against the Geth and facing down against Sovereign itself. Since then however, the Alliance has begun their fleet modernisation program, and the Berlin has become obselete. The many remaining Berlins are kept in service as reserve light cruisers, called forward to fill out fleet numbers when necessary."
+StringInfo
+	ID "IDS_CRUISER_ALLIGENEVA_NAME"
+	Value "Geneva Cruiser"
+StringInfo
+	ID "IDS_CRUISER_ALLIGENEVA_DESCRIPTION"
+	Value "The Geneva class cruiser is the poster ship of the fleet modernization program. Designed from the ground up to be faster, stronger and more versatile than the Alliance's expected opposition cruisers, the Geneva has quickly become a favorite amongst the Admiralty. Its wide array of weapons and small but well equipped hangar bay allow it to effectively engage almost any opponent. The class has been so successful that a number of more specialised designs now use its hull as a template."
+StringInfo
+	ID "IDS_CRUISER_ALLILONDON_NAME"
+	Value "London Heavy Cruiser"
+StringInfo
+	ID "IDS_CRUISER_ALLILONDON_DESCRIPTION"
+	Value "The London class is the answer to the question: what if we built the Geneva more like a Dreadnought? Doing away with the versatility of the Geneva in the name of greater firepower and armor, the London is favored by the more traditional, big gun focused arm of the Alliance Admiralty. Though it is likely a dead end design, it is still proving its value in fleet combat against the Reaper threat, where its powerful main guns come into their own."
+StringInfo
+	ID "IDS_DREADNOUGHT_ALLIEVEREST_NAME"
+	Value "Everest Dreadnought"
+StringInfo
+	ID "IDS_DREADNOUGHT_ALLIEVEREST_DESCRIPTION"
+	Value "The Everest is the Alliance's most common class of Dreadnought. It is a simple, reliable design that has remained effective despite its age. Equipped with a variety of utility systems and a reasonable fighter launch bay, the Everest has a tool for every situation and is a regular sight in all Alliance fleets."
+StringInfo
+	ID "IDS_DREADNOUGHT_ALLIEVERESTREFIT_NAME"
+	Value "Denali Dreadnought"
+StringInfo
+	ID "IDS_DREADNOUGHT_ALLIEVERESTREFIT_DESCRIPTION"
+	Value "The Denali is the result of the Everest Refit Program, giving a new lease of life to this aging, iconic class of ship. A significant rebuild of the main hull allowed the fitting of a rapid fire Spinal Accelerator and much heavier defenses, while the hangars were stripped out and replaced with additional broadside guns and side firing missile tubes. It is also equipped with external bolt-on Javelin MK2 launch tubes as standard. The Denali is a formidable brawler, uniquely suited for Relay assault missions."
+StringInfo
+	ID "IDS_DREADNOUGHT_ALLIKILIMANJARO_NAME"
+	Value "Kilimanjaro Dreadnought"
+StringInfo
+	ID "IDS_DREADNOUGHT_ALLIKILIMANJARO_DESCRIPTION"
+	Value "The Kilimanjaro class is that Alliance's latest and most powerful full production Dreadnought. It is equipped with one of the largest Spinal Accelerators in the Alliance arsenal, as well as immense broadsides and hangar capacity worthy of decent sized carrier. In addition, it has been fitted with the most advanced shielding technology the Alliance has to offer, making it a into a powerful anchor for the Alliance battle line."
+StringInfo
+	ID "IDS_FRIGATE_ALLIAGINCOURT_NAME"
+	Value "Agincourt Frigate"
+StringInfo
+	ID "IDS_FRIGATE_ALLIAGINCOURT_DESCRIPTION"
+	Value "The Agincourt is a small frigate designed by the Alliance exclsuively for Fleet Escort duties. The Agincourt is primarily designed to keep a fleet safe from enemy fighter attack, however the relatively minimal carrier presence in the Alliances expected foes ensured that it was well equipped to deal with Frigate wolfpacks as well. It may not be able to meaningfully damage large ships, but amongst its own kind it is an apex predator."
+StringInfo
+	ID "IDS_FRIGATE_ALLIATHABASCA_NAME"
+	Value "Athabasca Transport"
+StringInfo
+	ID "IDS_FRIGATE_ALLIATHABASCA_DESCRIPTION"
+	Value "The Alliance makes heavy use of comandeered civilian Athabascas during wartime, using them as part of its sizeable Merchant Marine. These large transports most often carry civilians an supplies that are needed to set up new colonies, but can also carry refugees from one colony to another, quickly growing the population."
+StringInfo
+	ID "IDS_FRIGATE_ALLIHASTINGS_NAME"
+	Value "Hastings Heavy Frigate"
+StringInfo
+	ID "IDS_FRIGATE_ALLIHASTINGS_DESCRIPTION"
+	Value "The Hastings is the workhorse Frigate of the Alliance Navy. Like many Alliance ships, it is designed with versatility and multi-role capacity in mind. Accordingly, it carries a wide array of weapons and has a large central cargo bay that can be easily outfitted with missions specific equipment. Usually however, it carries an M35 Mako IFV. In fleet combat it typically operates in wolfpacks, as a heavy missile frigate."
+StringInfo
+	ID "IDS_FRIGATE_ALLINORMANDY_NAME"
+	Value "Normandy Stealth Frigate"
+StringInfo
+	ID "IDS_FRIGATE_ALLINORMANDY_DESCRIPTION"
+	Value "The Normandy class was designed in a joint effort between the Systems Alliance and the Turian Hierarchy, combining the best technologies of both nations to create the first stealth ship the galaxy had seen. Made famous by the original Normandy SR1 and Commander Shepard, the class entered full production very quickly despite its great cost. The Alliance typically uses the Normandy for scouting and spec ops missions, though it is highly capable in combat as well."
+StringInfo
+	ID "IDS_FRIGATE_ALLINORMANDYREFIT_NAME"
+	Value "Leipzig Stealth Frigate"
+StringInfo
+	ID "IDS_FRIGATE_ALLINORMANDYREFIT_DESCRIPTION"
+	Value "The Leipzig class is an extensive combat refit of the Normandy class. Designed to replicate the successes of the Normandy SR2 on a much smaller budget, the Leipzig replaces its hangar and cargo storage with a Thanix canon for much improved offense. Engineers have also diverted more of the Tantalus core's energy towards shields, and improved the armor scheme to ensure survivability, but at the expense of the Stealth systems."
+StringInfo
+	ID "IDS_ALLI_RESEARCHFIELD_COMBAT"
+	Value "Modernization"
+StringInfo
+	ID "IDS_ALLI_RESEARCHFIELD_DEFENSE"
+	Value "Combined Arms"
+StringInfo
+	ID "IDS_ALLI_RESEARCHFIELD_EMPIRE"
+	Value "Colonies"
+StringInfo
+	ID "IDS_ALLI_RESEARCHFIELD_DIPLOMACY"
+	Value "Leadership"
+StringInfo
+	ID "IDS_ALLI_RESEARCHFIELD_ARTIFACT"
+	Value "Archeology"
+StringInfo
+	ID "IDS_ALLI_RESEARCHFIELD_FLEET"
+	Value "Diplomacy"
+StringInfo
+	ID "IDS_STRUCTURE_ALLIANN_NAME"
+	Value "ANN Broadcast Center"
+StringInfo
+	ID "IDS_STRUCTURE_ALLIANN_DESCRIPTION"
+	Value "The Alliance News Network has invested heavily in dedicated broadcast stations, often equipped with Quantum linked pairs to ensure the news makes it around the galaxy in record time. Navy personnel go without much in wartime, but thanks to these stations, they are never without the latest ANN broadcast."
+StringInfo
+	ID "IDS_STRUCTURE_ALLICARTAGENA_NAME"
+	Value "Cartagena Station"
+StringInfo
+	ID "IDS_STRUCTURE_ALLICARTAGENA_DESCRIPTION"
+	Value "Cartagena class stations are a ubiquitous sight in Alliance territory. Easy to construct and maintain, they serve as important trade hubs for colonies both new and old."
+StringInfo
+	ID "IDS_STRUCTURE_ALLISAKHAROV_NAME"
+	Value "T-GES Mineral Works Refinery"
+StringInfo
+	ID "IDS_STRUCTURE_ALLISAKHAROV_DESC"
+	Value "The Alliance makes use of the largely human run company T-GES Mineral Works for its refineries. These large stations will increase the output of nearby mining operations significantly, and can also supply Eezo to a fleet of ships in need of fuel."
+StringInfo
+	ID "IDS_STRUCTURE_ALLIGAGARIN_NAME"
+	Value "Grissom Academy"
+StringInfo
+	ID "IDS_STRUCTURE_ALLIGAGARIN_DESCRIPTION"
+	Value "Though originally limited to a single station, the success of these Academy stations has seen them become more widely adopted in Alliance space. These new Academys turn out the finest Alliance officers and engineers, and it is here that the Alliance Fleet Modernization Program takes shape."
+StringInfo
+	ID "IDS_STRUCTURE_ALLIFRIGATEYARD_NAME"
+	Value "Nashan Dynamics Shipyard"
+StringInfo
+	ID "IDS_STRUCTURE_ALLIFRIGATEYARD_DESCRIPTION"
+	Value "Nashan Stellar Dynamics is the priamry stakeholder in this small shipyard. Recent corporate scandals have diminished their position in the hierarchy of Alliance sub-contracters, but they remain an important producer of parts for Alliance Frigates and Cruisers."
+StringInfo
+	ID "IDS_STRUCTURE_ALLIHEROSPAWNER_NAME"
+	Value "Hero Spawner"
+StringInfo
+	ID "IDS_STRUCTURE_ALLIHEROSPAWNER_DESCRIPTION"
+	Value "The station that spawns heroes."
+StringInfo
+	ID "IDS_STRUCTURE_ALLIGRISSOM_NAME"
+	Value "Colonial HQ"
+StringInfo
+	ID "IDS_STRUCTURE_ALLIGRISSOM_DESCRIPTION"
+	Value "The Alliance is held together only loosely - Earth does not exert much direct control on her colonies. Yet the Alliance often maintains a significant presence on the surface of its colonies, and it is from these HQ structures that colonial economics are coordinated."
+StringInfo
+	ID "IDS_STRUCTURE_ALLIMETALEXTRACTOR_NAME"
+	Value "Palladium Mine"
+StringInfo
+	ID "IDS_STRUCTURE_ALLIMETALEXTRACTOR_DESC"
+	Value "This Palladium mining facility is staffed by rugged human belters, many of whom live their entire lives moving from asteroid to asteroid, stripping them clean."
+StringInfo
+	ID "IDS_STRUCTURE_ALLIDREADYARD_NAME"
+	Value "Cord-Hislop Shipyard"
+StringInfo
+	ID "IDS_STRUCTURE_ALLIDREADYARD_DESCRIPTION"
+	Value "This large shipyard is run by the primary Alliance navy ship sub-contracter: Cord-Hislop Aerospace. Dreadnoughts and the Alliance's innovative Fleet Carriers are constructed here."
+StringInfo
+	ID "IDS_STRUCTURE_ALLISUPERDREADYARD_NAME"
+	Value "Hahne-Kedar Shipyard"
+StringInfo
+	ID "IDS_STRUCTURE_ALLISUPERDREADYARD_DESCRIPTION"
+	Value "A huge shipyard facility owned and run by the Shadow Works branch of the major Alliance military sub-contractor Hahne Kedar, this shipyard is capable of producing Super Dreadnought class vessels, such as the mighty Olympus class."
+StringInfo
+	ID "IDS_STRUCTURE_ALLIPATROLBEACON_NAME"
+	Value "Fleet Alert Beacon"
+StringInfo
+	ID "IDS_STRUCTURE_ALLIPATROLBEACON_DESCRIPTION"
+	Value "The Alliance does not maintain small patrols, instead preferring to keep large battlefleets at central locations on the Relay network, and respond in overwhelming force upon reports of an attack. Alliance reinforcements can be slow to arrive, but are devastating when they finally appear."
+StringInfo
+	ID "IDS_STRUCTURE_ALLIEEZOEXTRACTOR_NAME"
+	Value "Element Zero Mine"
+StringInfo
+	ID "IDS_STRUCTURE_ALLIEEZOEXTRACTOR_DESC"
+	Value "Alliance Element Zero mines employ a larger number of mechs and make use of greater automation than their other mines, in part to prevent any Eezo being siphoned off by Red Sand chemists."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_ALLIANCE_NAME"
+	Value "Alliance"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_ALLIANCE_DESCRIPTION"
+	Value "You are playing as the Systems Alliance. The Alliance excels at expanding quickly, and puts a great deal of emphasis on exploring planets for Prothean Relics. They can support higher populations on Temperate and Tropical Garden Worlds, and have an overall very balanced economy. However, Alliance colonies are often rebellious, and suffer from slightly reduced maximum allegiance."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_BEKENSTEIN_NAME"
+	Value "Bekenstein"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_BEKENSTEIN_DESCRIPTION"
+	Value "Known as 'the Human's Illium' Bekenstein is a highly populated colony in the Serpent Nebula, and serves as an important manufacturing center for the Alliance. However, it is every bit as seedy and corrupt as Illium. Making use of what Alliance officials learned here will allow us to sponsor criminal networks of our own more quickly and easily, as well as giving us an edge on the black market."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_BENNING_NAME"
+	Value "Benning"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_BENNING_DESCRIPTION"
+	Value "Benning is the closest inhabited planet to Arcturus station, and functions as the primary supplier of food for the vital station. Huge automated farms ensure the Alliance is never without food, increasing civilian population growth rates significantly. The infrastructure needed to ship this food is also important, and this task is mostly achieved via the ubiquitous Cartagena stations."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_DEMETER_NAME"
+	Value "Demeter"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_DEMETER_DESCRIPTION"
+	Value "Demeter was the first human extrasolar colony. It is notable not only for this, but also for the fact that it was reached with conventional FTL from Sol, before the Charon Relay was discovered. This pioneering effort is a testament to humanities grasp of FTL technology, as well as their will to overcome any challenge."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_DOBROVOLSKI_NAME"
+	Value "Dobrovolski"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_DOBROVOLSKI_DESCRIPTION"
+	Value "An near-Earth-sized planet with no atmosphere to speak of, Dobrovolsi's claim to fame is that it is home to Altai Mineral Works, a company known for their expertise in Eezo mining and refining. The planet is also rich in Aluminium. There is much the Alliance can learn from the old cliche 'Where there is Eezo, there is an economy.'"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_EDENPRIME_NAME"
+	Value "Eden Prime"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_EDENPRIME_DESCRIPTION"
+	Value "Eden Prime is uniquely suited to the importation of Earth-native life. This has led to a great deal of immigration, and the colony is known far and wide for being an idyllic symbol of humanities success. Even the Geth attack in 2183 could not tarnish its reputation. Reminding our people of Eden Prime will increase the population of Temperate and Tropical Garden worlds in Alliance space."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_ELYSIUM_NAME"
+	Value "Elysium"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_ELYSIUM_DESCRIPTION"
+	Value "Elysium is known for two reasons: being an idyllic alpine paradise, and being a regular target of large scale mercenary attacks. Successful repulsion of these attacks has led to great confidence in the Alliance, and reminding our population of this success (and the possibility of reitrement such a paradise) will make them more willing to stick with us in dark times."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_GEIHINNOM_NAME"
+	Value "Gei Hinnom"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_GEIHINNOM_DESCRIPTION"
+	Value "Gei Hinnom is the site of an historic Prothean Burial Ground. While several of the sites are considered protected, a great deal of grave robbing and outright exploitation still goes on on this nearly airless planet. Though reprehensible, these deeds nonetheless improve the Alliance's Eezo extraction rates and trade goods value."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_FEHLPRIME_NAME"
+	Value "Fehl Prime"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_FEHLPRIME_DESCRIPTION"
+	Value "One of the top Pharmaceutical producers in the Alliance, Fehl Prime is an arid world with many moons and an instact Prothean site. The drugs exported from this planet aid population growth rates across all our worlds, while also improving population capacity on Desert and Arid Garden worlds."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_FRANKLIN_NAME"
+	Value "Franklin"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_FRANKLIN_DESCRIPTION"
+	Value "The large, airless moon of Watson, Franklin is an important military base for the Alliance Navy. It's presence deters mercenary and pirate activity significantly, and lessons learned in setting up the facilities here help us maintain larger colonies on all airless worlds in Alliance space."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_FEROS_NAME"
+	Value "Feros"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_FEROS_DESCRIPTION"
+	Value "Feros is an ancient world dominated by crumbling Prothean cities that cover two thirds of its landmass. Once home to the strange creature known as the Thorian, it is notable for still having a huge amount of unexplored territory. Exogeni and the Alliance have already begun to develop new Archeological techniques inspired by the unique challenges Feros presents."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_INTAISEI_NAME"
+	Value "Intai'sei"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_INTAISEI_DESCRIPTION"
+	Value "Intai'sei was considered a prime target for early colonization, but was quickly found to be too hot and arid for humans to live comfortably. It's modest population spend most of their time operating wind farms and performing geological research. Despite it's relatively minimal value though, lessons learned here have increased the Alliance's ability to maintain large populations on Desert Garden worlds."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_JOAB_NAME"
+	Value "Joab"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_JOAB_DESCRIPTION"
+	Value "Joab is a habitable Dead World tthat suffered an extinction event thousands of years ago. A large scale targetted orbital bombardment seemingly wiped out its previous inhabitants, leaving only a dust choked husk. Since its recolonization by humans, a Prothean relic has been discovered here, and many valuable lessons learned about sustaining a population on a Dead world."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_MINDOIR_NAME"
+	Value "Mindoir"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_MINDOIR_DESCRIPTION"
+	Value "Mindoir was the site of an horrific Batarian slave raid in 2170. Many of its colonists were slaughtered or abducted, and much of its infrastructure was destroyed. It has since been rebuilt, and the Alliance has learnt much about rebuilding in the process, even though the remaining population claim it is simply not the same."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_ONTAROM_NAME"
+	Value "Ontarom"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_ONTAROM_DESCRIPTION"
+	Value "Ontarom is a prime candidate for habitation by most species despite above average temperatures. Unfortuantely, its moon, Thonal, is also in a decaying orbit that will inevitably result in the planets total anihilation. Despite this, humans have colonized it and begun setting up a communications hub housing hundreds of Quantum Pair communicators, which have since proved invaluable to the war effort."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_SANCTUM_NAME"
+	Value "Sanctum"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_SANCTUM_DESCRIPTION"
+	Value "Despite being classified as a Garden world, Sanctum is hardly a pleasant place to live. Covered mostly in ice and storms, the planet is populated by hardy folk who make a living mining its rich supplies of Platinum and Palladium. Careful analysis of the methods used by the locals will allow all Alliance Tundra worlds and Frozen worlds to support larger populations."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_SHANXI_NAME"
+	Value "Shanxi"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_SHANXI_DESCRIPTION"
+	Value "Shanxi holds the dubious honor of being the only Alliance world ever to be occupied by an enemy force - the Turians during the First Contact War. Post war analysis offered many insights to the Alliance, one of which was how to support a population on a Dextro-amino planet - reverese engineered from Turian methods of supplying their forces on Levo-amino planets."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_TERRANOVA_NAME"
+	Value "Terra Nova"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_TERRANOVA_DESCRIPTION"
+	Value "Terra Nova is the second human extrasolar colony, and the first beyond the Charon Mass Relay. It has a very high population, fueled in part by immigration triggered by the recent discovery of extensive Platinum deposits. New refineries have sprung up to exploit these resources, and the example of rapid population growth is one the Alliance seeks to emulate across its many colonies."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_THERUM_NAME"
+	Value "Therum"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_THERUM_DESCRIPTION"
+	Value "A far flung industrial world, Therum is rich in both heavy metals and Prothean ruins. Many speculate is was more habitable in centuries past, but this has not stopped the Alliance, who developed new methods of dealing with harsh, volcanic environments in order to maintain a larger population there and exploit its great wealth."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_TRIDENT_NAME"
+	Value "Trident"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_TRIDENT_DESCRIPTION"
+	Value "Trident is a rare human dominated Ocean world, rich in valuable materials and Eezo on the sea floor. It is controlled by all manner of shady corporations, and even shadier criminals, but is still considered an Alliance world. Techniques learned here have been put to good use increasing Ocean world populations and underwater mining outputs all over the Alliance."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_WATSON_NAME"
+	Value "Watson"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_WATSON_DESCRIPTION"
+	Value "One of the earlier colonies set up by the Alliance, Watson is known for its frigid temperatures, large tides and extensive bureaucracy. Though the initial colonization process was slow due to disagreements over who first discovered it between Earthbound nations, the resultant legal structure has proven profitable for the Alliance overall."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_ZION_NAME"
+	Value "Zion"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOLONIES_ZION_DESCRIPTION"
+	Value "As the only Gas Giant in the Utopia system, Zion serves as the primary source of fuel for Eden Prime. It is larger even than Jupiter, and its presence no doubt contributed greatly to Eden Prime's pristine state."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_ALDRINLABS_NAME"
+	Value "Aldrin Labs Contracts"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_ALDRINLABS_DESCRIPTION"
+	Value "Aldrin Labs is a manufacturing company based on Luna, and one of the primary military sub-contractors employed by the Alliance. They are known for producing cheap, reliable and safe technology. Their contribution to the fleet modernization project will see our ships made safer and cheaper."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_ARCTURUSMINI_NAME"
+	Value "Arcturus Miniaturization"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_ARCTURUSMINI_DESCRIPTION"
+	Value "Arcturus station has proved to be highly valuable to the Alliance, as a defensive bastion, a seat of government and a potent naval command center. However, it is far too large for us to easily mass produce copies of. Therefore, as part of the modernization program, Alliance engineers have designed a small scale version of the station to act as an easily deployable strategic bastion."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_BYPASSTREATY_NAME"
+	Value "Bypass the Treaty"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_BYPASSTREATY_DESCRIPTION"
+	Value "The Treaty of Farixen, which the Alliance is a signatory of, limits Dreadnought production based on the number of Dreadnoughts the Turian Hierarchy maintains. This has proved quite vexing for the Alliance. Carriers, however, are not limited by the treaty, and so in order to legally expand our fleet, our engineers have come up with a new class of carrier armed with a powerful main gun."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_CRUISERSTUDY_NAME"
+	Value "Cruiser Versatility Study"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_CRUISERSTUDY_DESCRIPTION"
+	Value "Cruisers are a vital part of the Navy, but thus far the Alliance has relied on only a single class of Cruiser at any one time. Command has ordered a study to be carried out on the potential for alternative classes of cruiser that will supplement the generalist Geneva class. The initial stages of this study have already shown ways we can improve our current cruisers, and the engineers tell us they have many new designs waiting for approval."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_EVERESTREFIT_NAME"
+	Value "Everest Refit Program"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_EVERESTREFIT_DESCRIPTION"
+	Value "The Aging Everest class dreadnoughts remain powerful, reliable warships, however modern technology is beginning to limit their role in the fleet. Our engineers have drawn up a plan for a significant mid-life refit that will greatly enhance the Everests usefulness in a direct assault, at the cost of some of its versatility."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_GETHKILLERS_NAME"
+	Value "Geth Killers"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_GETHKILLERS_DESCRIPTION"
+	Value "The brief war with the Geth that followed the battle of the Citadel highlighted many deficiencies in Alliance accelerator design. As part of the modernization program, our engineers have been tasked with improving mass accelerator design, and ensuring the weapons are up to defetaing Geth defenses. The resulting improved weapons quickly gained the nickname 'Geth Killers' among the enlisted personnel."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_HAHNEKEDAR_NAME"
+	Value "Hahne-Kedar Contracts"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_HAHNEKEDAR_DESCRIPTION"
+	Value "Earth based corporation Hahne-Kedar is the primary supplier of arms and armor for the Alliance military. Their weapons are considered only average on the galactic market, but they are known for producing high quality armor. Extending their contracts to fleet supply will see our ships become more durable and our mass accelerators more powerful."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_INNOVATIVECARRIERS_NAME"
+	Value "Innovative Carriers"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_INNOVATIVECARRIERS_DESCRIPTION"
+	Value "The Alliance Navy is well known among the galactic community for its innovative approach to warfare - particularly for the introduction of dedicated carriers to space warfare. Other races have tried to copy the carrier concept, but Alliance carriers remain the most potent in the galaxy."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_JAVELINPLATFORM_NAME"
+	Value "Javelin Deployment Platform"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_JAVELINPLATFORM_DESCRIPTION"
+	Value "Javelin missiles have proven quite effective since their introduction by the Alliance, however the fleet is notably lacking in durable Javelin armed ships. As part of the modernization program, our engineers have come up with a cruiser design featuring internal Javelin launch tubes, as well as large numbers of outboard bolt-on Javelin launch pods."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_KILIMANJARO_NAME"
+	Value "Kilimanjaro Redesign"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_KILIMANJARO_DESCRIPTION"
+	Value "The Kilimanjaro class dreadnought has already proved its worth many times over, however it has also proved extremely time consuming to construct. As part of the modernization program, our engineers have come up with an innovative redesign that will streamline production of these mighty dreadnoughts without significantly compromising their effectiveness."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_LEIPZIGPROGRAM_NAME"
+	Value "Leipzig Program"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_LEIPZIGPROGRAM_DESCRIPTION"
+	Value "The SSV Leipzig was the first Alliance ship to test Thanix weaponry. The captain was so pleased with the newe weapons that he suggested the fleet immediately adopt Thanix cannons for widespread use. Though that is not economically feasible at this time, his recommendation did inspire a refit program for the Normandy class to create a new stealth attack ship that would make the Salarians jealous."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_MANZIKERTPROGRAM_NAME"
+	Value "Manzikert Program"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_MANZIKERTPROGRAM_DESCRIPTION"
+	Value "The Manzikert Program was conceived of a desire to have a potent intelligence and disruption frigate on a considerably cheaper frame than the Normandy class. The vessel that was ultimately designed is only lightly armed and quite large for a frigate, but carries many advanced drones in order to fulfill its wide mission profile."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_MODERNIZATION_NAME"
+	Value "Modernization Program"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_MODERNIZATION_DESCRIPTION"
+	Value "After the battle of the Citadel and brief war with the Geth that followed it, it became abundantly clear the Berlin class cruiser was not sufficient. In order to remain relevent on the Galactic stage, the Alliance has embarked on a large scale fleet modernization program. The Geneva class cruiser is a promising replacement for the Berlin, and should prove as an excellent core around which to build the new fleet."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_MOREWITHLESS_NAME"
+	Value "More with Less"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_MOREWITHLESS_DESCRIPTION"
+	Value "Saving the Destiny Ascension during the battle of the Citadel cost the fifth fleet dearly, and fleet numbers have still not recovered. Command has taken this reality into account, and ordered that our remaining ships be fit with expensive, high quality armor, and that damage control teams be sent on extra training courses. This will ensure we can still achieve our objectives despite having a smaller fleet."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_OLYMPUS_NAME"
+	Value "Olympus Prototype"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_OLYMPUS_DESCRIPTION"
+	Value "The Olympus prototype is the first of the next generation of Alliance dreadnoughts. Incorporating Thanix weaponry into the design from the blueprint stage and employing advancements in Cylconic Barrier technology has produced a powerful warship that is set to rival even the largest and most advanced of Council dreadnoughts."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_PICKETPRINCIPLES_NAME"
+	Value "Advanced Picket Principles"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_PICKETPRINCIPLES_DESCRIPTION"
+	Value "The Alliance Navy has, for a long time, relied solely on the small Agincourt class frigates to fulfill the role of picket ship. However, as other races begin to produce their own carriers, it is only a matter of time until they field a credible strike craft threat. Therefore, as part of the modernization program, an advanced picket cruiser has been designed, equipped with powerful sensors and many GARDIAN lasers with which to defend the fleet."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_POCKETDREAD_NAME"
+	Value "Pocket Dreadnought Concept"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_POCKETDREAD_DESCRIPTION"
+	Value "The Alliance has long flirted with the concept of superheavy mass accelerator armament on cruisers, but the modernization program has given our engineers a chance to see it through to its logial extreme. The new heavy cruisers they have designed are already being referred to as 'pockect dreadnoughts' such is the power of their main gun."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_PRESERVEFLEET_NAME"
+	Value "Preserve the Fleet"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_PRESERVEFLEET_DESCRIPTION"
+	Value "During the battle of the Citadel, Shepard chose to preserve the fleet rather than saving the Council onboard the Destiny Ascension. Thanks to this decision, Alliance fleet strength was preserved, and we now have many Berlin class cruisers that can be re-activated in an emergency. However, the new Council has become suspicous of our seemingly self serving actions, and diplomatic relations have suffered."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_REPERCUSSIONS_NAME"
+	Value "Repercussions"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_REPERCUSSIONS_DESCRIPTION"
+	Value "The battle of the Citadel was a crucial test for the Alliance, and in its aftermath there have been many repercussions. Alliance crews have gained valuable experience in battle, and the large scale proof of the effectiveness of Alliance focused defense doctrine has led to FTL improvements being widely apoted by the Navy."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_SACRIFICE_NAME"
+	Value "Sacrifice"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_SACRIFICE_DESCRIPTION"
+	Value "During the battle of the Citadel, Shepard chose to save the Council aboard the Destiny Ascension, no matter the cost. Many ships were lost because of this, but the Council was saved. The remaining Berlin class cruisers in the fleet have been refitted, so that they remain relevent even in small numbers, and the Council has made their appreciation for this selfless act known."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_SAGANPROTOTYPE_NAME"
+	Value "Sagan Prototype"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_SAGANPROTOTYPE_DESCRIPTION"
+	Value "The Sagan Prototype is the logical extreme of the doctrine for bypassing the Treaty of Farixen. An immense super carrier design born from the wildest dreams of Hahne-Kedar shipwrights who have been given an open budget, the Sagan class is a fleet centerpiece that will redefine the meaning of space superiority for generations to come."
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_TANTALUSCOREANALYSIS_NAME"
+	Value "Tantalus Core Analysis"
+StringInfo
+	ID "IDS_RESEARCH_ALLIMODERNIZATION_TANTALUSCOREANALYSIS_DESCRIPTION"
+	Value "The advanced Tantalus Eezo Core used in the Normandy class was a leap forward in design unheard of in the galaxy in its time. The implications on general Eezo core design were only barely grasped when it was introduced. Now that Alliance engineers have had time to analyse the system in use across multiple ships, new lessons and methods of optimizing existing Eezo cores are coming to light, leading to a performance increase across the entire fleet."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_63SCOUTFLOTILLA_NAME"
+	Value "63rd Scout Flotilla"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_63SCOUTFLOTILLA_DESCRIPTION"
+	Value "Thanks to Shepard's decision to preserve the Alliance fleet, the 63rd Scout Flotilla survived and excelled during the battle of the Citadel. Though made up primarily of frigates, it has nonetheless continued to prove a highly valuable asset for the Alliance, in particular due to the high number of Normandy class frigates assigned to it."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_103MARINES_NAME"
+	Value "103rd Marine Division"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_103MARINES_DESCRIPTION"
+	Value "The old saying 'every marine is a rifleman' still holds true in the Alliance. Thanks to mandatory infantry training, the 103rd is Earth's largest collection of special forces soldiers. They are trained for combat in every environment and are prepared to storm any beach, on any planet at a moments notice. They excel on the offense, but remain a highly effective force even on the defense."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_AMRU_NAME"
+	Value "AMRU"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_AMRU_DESCRIPTION"
+	Value "The Alliance Marine Reconnaissance Unit, or AMRU, makes heavy use of drones to conduct its duties, only rarely putting live recon teams in the field. In order to efficiently disseminate information, they utilize VIs to manage who has what intel when. Thanks to their support, it is rare for Alliance commanders to lack an up to date view of the battlefield."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_ARCTURUSFIRST_NAME"
+	Value "Arcturus First Division"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_ARCTURUSFIRST_DESCRIPTION"
+	Value "The Arcturus First Division, operating on the planet Benning, is prediminantly a militia force comprised of volunteers, paramilitary forces and reservists. Co-ordinated by a small group of Alliance officers, it has quickly developed effective tactics for fighting a war of resistance against the Reapers. The example it sets will help other planetary militias thrive in these dark times."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_EIGHTHFLEET_NAME"
+	Value "Eighth Fleet Remnants"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_EIGHTHFLEET_DESCRIPTION"
+	Value "The Eighth Fleet initially retreated in the face of the Reaper advance, regrouping at Ontarom only to ambushed and nearly destroyed. Since then, surviving Eighth Fleet vessels have adopted a raiding stance, engaging in hit and fade attacks against the Reapers to cover Civilian evacuations. Surviving command staff have a great deal of valuable experience in fighting Reapers, which they eagerly pass on to the rest of the fleet, that they might avoid further calamity."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_ENGINEERINGCORPS_NAME"
+	Value "Engineering Corps"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_ENGINEERINGCORPS_DESCRIPTION"
+	Value "The unsung heroes of the Alliance ground forces, the Engineering Corps cuts roads through mountains and builds bases on asteroids. Though rarely engaged in direct combat, they ensure the smooth operations of the rest of the army. The fortifications and infrastructure they create are vital in the defense of Alliance worlds."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_FIFTHFLEET_NAME"
+	Value "Fifth Fleet"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_FIFTHFLEET_DESCRIPTION"
+	Value "Thanks to their heavy participation in the battle of the Citadel, the Fifth Fleet is perhaps the most famous of the Alliance battlefleets. In the initial hours of the Reaper assault, the Fifth Fleet attempted to defend Arcturus Station, but when the battle was lost they escaped largely intact thanks to the sacrifice of the second fleet."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_FIRSTFLEET_NAME"
+	Value "First Fleet"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_FIRSTFLEET_DESCRIPTION"
+	Value "Once the largest fleet in the Alliance Navy, the First Fleet was stationed near the Charon Relay when the Reapers began their attack. Though they fought valiantly, the fleet had been cut down to approximately forty percent of its size when the retreat order finally came."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_FOURTHFLEET_NAME"
+	Value "Fourth Fleet Survivors"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_FOURTHFLEET_DESCRIPTION"
+	Value "The Fourth Fleet was stationed near Earth when the Reapers attacked. Faced with overwhelming numbers and a technologically superior foe, they did their best to regroup with the nearby First Fleet, but ultimately were almost entirely wiped out. The last remaining stragglers are eager for vengeance, and have much valuable experience to share with command."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_N7_NAME"
+	Value "N7 Elites"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_N7_DESCRIPTION"
+	Value "N7 is the highest proficiency designation attainable in the Alliance military, and only a very few select individuals ever achieve it. Those that do are consumate warriors - the very finest that humanity has to offer, experts in every field of warfare. The presence of just one N7 soldier can turn a battle. Deployed in a squad, they will win a small war single handedly. In this war, humanity needs every N7 they have on the field."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_NAVALEXPLORATION_NAME"
+	Value "Naval Exploration Flotilla"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_NAVALEXPLORATION_DESCRIPTION"
+	Value "During peace time, the Naval Exploration Flotilla is responsible for charting and surveying new systems. However, this does not take away from their combat capability when the need arises. Now that war has come to the Alliance, the cruisers and frigates of the Exploration Flotilla fight alongside the battlefleets, as well as providing patrols that will give the Alliance warning of enemy vessels up to one jump away."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_SECONDFLEET_NAME"
+	Value "Second Fleet Sacrifice"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_SECONDFLEET_DESCRIPTION"
+	Value "Once known for having liberated Shanxi from Turian occupation in the First Contact War, the Second Fleet is now all but destroyed. During the Reaper advance, it stood with the Third and Fifth Fleets in defense of Arcturus Station, but when the battle turned, it was the Second Fleet that was ordered to stay and cover the retreat. The few survivors are embittered and eager for revenge against the Reapers."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_SEVENTHFLEET_NAME"
+	Value "Seventh Fleet"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_SEVENTHFLEET_DESCRIPTION"
+	Value "The Seventh Fleet was stationed at Eden Prime during the initial stages of the Reaper Attack - yet in their haste to strike Earth and Arcturus Station, the Reapers bypassed the planet entirely. Because of this, the Seventh Fleet is essentially intact. Though unblooded, the men and women of the Seventh Fleet are nonetheless eager to get to grips with the enemy."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_SIXTHFLEET_NAME"
+	Value "Sixth Fleet"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_SIXTHFLEET_DESCRIPTION"
+	Value "The Sixth Fleet was touring Council space when the first news of a Reaper attack came in. The men and women of the fleet could only watch as footage of the devastation and reports of casualties began to roll in. Ordered not to engage until the fleets could be gathered, the mood among Sixth Fleet personnel could best be described as 'grimly awaiting a chance for vengeance.'"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_TEAMDELTA_NAME"
+	Value "Spec Ops Team Delta"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_TEAMDELTA_DESCRIPTION"
+	Value "Team Delta is comprised mostly of N5 soldiers, with a few N6 specialists. The specialize in operations outside of Council space, and are known for their strict admission standards, proffesionalism on high-stakes missions, and the Alliance's loudest parties. Their presence in our invasion forces will be a large boost for the morale among the infantry."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_TEAMZETA_NAME"
+	Value "Team Zeta"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_TEAMZETA_DESCRIPTION"
+	Value "Team Zeta is a specialist combat engineer unit tasked with destroying enemy fortifications and infrastructure. Nicknamed the 'Bridge Burners,' they engage in their task with gleeful abandon, paving the way for traditional assaults by Alliance Marines. IMPROVES MARINE PLATOON, COMPANY AND BATTALION."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_THIRDFLEET_NAME"
+	Value "Third Fleet"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_THIRDFLEET_DESCRIPTION"
+	Value "The Third Fleet is known primarily for the heroics of its maverick admiral, as well as its high proportion of dreadnoughts. When the Reaper attack came, it was stationed at Arcturus Station and fought along with the Second and Fifth Fleets. It remains largely intact due in part to the quick thinking of its Admiral, but primarily the noble sacrifice of the Second Fleet."
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_ZHUSHOPE_NAME"
+	Value "Zhu's Hope Colonists"
+StringInfo
+	ID "IDS_RESEARCH_ALLICOMBINED_ZHUSHOPE_DESCRIPTION"
+	Value "Colonists from Feros that were once under the control of the Thorian Creature have formed into a militia force to aid the Alliance in its fight against the Reapers. They have the ability to sense one another, allowing them to think and act as one in battle. This curious ability is thought to be a side effect of the Thorian control, and has resulted in them becoming a surprisingly effective fighting force."
+StringInfo
+	ID "IDS_PLAYERRACENAME_ALLIANCE"
+	Value "Alliance"
+StringInfo
+	ID "IDS_PLAYERFACTIONNAME_ALLINEUTRAL"
+	Value "Alliance"
+StringInfo
+	ID "IDS_PLAYERFACTIONNAME_ALLIPRESERVE"
+	Value "Preserve"
+StringInfo
+	ID "IDS_PLAYERFACTIONNAME_ALLISACRIFICE"
+	Value "Sacrifice"
+StringInfo
+	ID "IDS_ABILITY_ALLI_GENEVAOPTIMALRANGE_NAME"
+	Value "Optimal Range"
+StringInfo
+	ID "IDS_ABILITY_ALLI_GENEVAOPTIMALRANGE_DESCRIPTION"
+	Value "Order this cruiser to close to optimal engagement range. The Geneva's Auxiliary Forward Accelerators do not have the same extensive range as its Spinal Accelerator, and will not fire unless the ship closes in to a shorter range. Similarly, its Broadside Accelerators will only engage targets to either side of the ship at very short ranges."
+StringInfo
+	ID "IDS_INFANTRY_ALLIDEF_ARMORBRIGADE_NAME"
+	Value "Alliance Armor Platoon"
+StringInfo		
+	ID "IDS_INFANTRY_ALLIDEF_ARMORBRIGADE_DESCRIPTION"
+	Value "Deploy a Platoon of M29a Grizzly IFVs to the planet. Adding Armored vehicles to the garrison of a planet improves its damage resistance. The Alliance Armored Platoon is accompanied by the Engineering Corps, who improve the speed at which planetary improvements are constructed. The Armor Platoon cannot be destroyed by conventional means, but will be destroyed if the planet falls."
+StringInfo
+	ID "IDS_INFANTRY_ALLIDEF_AIRBASE_NAME"
+	Value "Alliance Airbase"
+StringInfo		
+	ID "IDS_INFANTRY_ALLIDEF_AIRBASE_DESCRIPTION"
+	Value "Construct an airbase on this planet. This Airbase will house three squadrons of SX3 Trident fighters for near orbit defense, as well as A-61 Mantis Gunships to provide support for planetary forces. The Airbase cannot be destroyed by conventional means, but will be destroyed should the planet fall."
+StringInfo
+	ID "IDS_INFANTRY_ALLIDEF_RESISTANCE_NAME"
+	Value "Alliance Resistance"
+StringInfo		
+	ID "IDS_INFANTRY_ALLIDEF_RESISTANCE_DESCRIPTION"
+	Value "Set up an organized resistance network on this planet, improving its Infantry Strength. Supply caches and setting up covert communications networks will allow Alliance officers to temporarily coordinate resistance efforts even if this planet falls."
+StringInfo
+	ID "IDS_INFANTRY_ALLIDEF_LIGHTARMOR_NAME"
+	Value "Alliance Light Armor"
+StringInfo
+	ID "IDS_INFANTRY_ALLIDEF_SPECOPS_NAME"
+	Value "Alliance Spec Ops"
+StringInfo
+	ID "IDS_INFANTRY_ALLIDEF_MARINEPLATOON_NAME"
+	Value "Alliance Marine Platoon"
+StringInfo
+	ID "IDS_INFANTRY_ALLIDEF_MARINECOMPANY_NAME"
+	Value "Alliance Marine Company"
+StringInfo
+	ID "IDS_ABILITY_ALLI_M29GRIZZLY_NAME"
+	Value "M29a Grizzly IFV Platoon"
+StringInfo
+	ID "IDS_ABILITY_ALLI_M29GRIZZLY_DESCRIPTION"
+	Value "This Platoon of Grizzly Infantry Fighting Vehicles is assigned to a defensive role on this planet, providing transport and fire support for the infantry garrison."
+StringInfo
+	ID "IDS_ABILITY_ALLI_A61MANTIS_NAME"
+	Value "A61 Mantis Gunship Squadron"
+StringInfo
+	ID "IDS_ABILITY_ALLI_A61MANTIS_DESCRIPTION"
+	Value "A61 Mantis Gunships are highly versatile aircraft. The squadron stationed on this planet has been fitted for fire support and light transport duties, allowing them to most optimally support infantry on this planet."
+StringInfo
+	ID "IDS_ABILITY_ALLI_RESISTANCE_NAME"
+	Value "Organized Resistance"
+StringInfo
+	ID "IDS_ABILITY_ALLI_RESISTANCE_DESCRIPTION"
+	Value "The Alliance has set up an organized resistance on this planet, following the model of the Arcturus 1st Division. Though not professional soldiers, this brave militia will still prove useful should this planet be attacked, attacking enemy supply lines and ambushing vulnerable outlying units."
+StringInfo
+	ID "IDS_ABILITY_ALLI_THORIANTRAINING_NAME"
+	Value "Thorian Training"
+StringInfo
+	ID "IDS_ABILITY_ALLI_THORIANTRAINING_DESCRIPTION"
+	Value "Key personnel in the resistance have gone through specialised training at the Zhu's Hope colony in proximity to the Thorian remains. After undergoing such training, these individuals become experts at coordinating within their team members to counter threats with preternatural precision. Even the finest of enemy Spec Ops must operate extra carefully with a Thorian trained resistance cell on the planet."
+StringInfo
+	ID "IDS_ABILITY_ALLI_RESISTANCEENEMY_NAME"
+	Value "Stubborn Resistance"
+StringInfo
+	ID "IDS_ABILITY_ALLI_RESISTANCEENEMY_DESCRIPTION"
+	Value "If this planet falls, the Resistance movement will remain, disrupting enemy construction efforts and interfering with defense efforts until they are finally rooted out and destroyed, or the planet is liberated."
+StringInfo
+	ID "IDS_SUPERCARRIER_ALLISAGAN_NAME"
+	Value "Sagan Assault Carrier"
+StringInfo
+	ID "IDS_SUPERCARRIER_ALLISAGAN_DESCRIPTION"
+	Value "The Sagan class is one of the Alliance's newest designs, still formally in the prototype stage of development. It was designed with one goal in mind: getting huge numbers of Alliance marines onto the surface of a hostile planet. To this end, it is well defended for a carrier, with thicker than average armor and a set of Kinetic Accelerators to make any Dreadnought captain jealous."
+StringInfo
+	ID "IDS_ABILITY_ALLI_NEWTONCOMPANY_NAME"
+	Value "Deploy Marine Company"
+StringInfo
+	ID "IDS_ABILITY_ALLI_NEWTONCOMPANY_DESCRIPTION"
+	Value "The Newton class is equipped to deploy large numbers of infantry to a planets surface rapidly. Deployed to enemy planets, these marines will attack enemy infantry and even establish a permanent garrison should the world fall. Deployed to a friendly world, they will reinforce the standing garrison and make this planet more resilient to assault. TEN MINUTE DURATION."
+StringInfo
+	ID "IDS_ABILITY_ALLI_HAWKINGPLATOON_NAME"
+	Value "Deploy Marine Platoon"
+StringInfo
+	ID "IDS_ABILITY_ALLI_HAWKINGPLATOON_DESCRIPTION"
+	Value "The Hawking class is equipped to deploy platoons of Alliance marines quickly and efficiently. Deployed to enemy planets, these marines will attack enemy infantry and even establish a permanent garrison should the world fall. Deployed to a friendly world, they will reinforce the standing garrison and make this planet more resilient to assault. TEN MINUTE DURATION."
+StringInfo
+	ID "IDS_ABILITY_ALLI_NORMANDYSPECOPS_NAME"
+	Value "Deploy Spec Ops Team"
+StringInfo
+	ID "IDS_ABILITY_ALLI_NORMANDYSPECOPS_DESCRIPTION"
+	Value "The Normandy class regularly carries small teams of N6 and N7 marines. These elite troops can be deployed to friendly or enemy planets to accomplish a variety of goals, ranging from defense to disruption of enemy shipyards to assassination. The Normandy class will need to fly down to the planets surface to deploy these teams."
+StringInfo
+	ID "IDS_ABILITY_ALLI_HASTINGSMAKO_NAME"
+	Value "Deploy Mako IFV"
+StringInfo
+	ID "IDS_ABILITY_ALLI_HASTINGSMAKO_DESCRIPTION"
+	Value "The Hastings class carries a single M35 Mako Infantry Fighting Vehicle in its sizeable cargo bay. This versatile vehicle can be air dropped onto friendly or enemy planets, where it will prove useful for engaging hard targets. Makos are armored units, and reduce infantry damage resistance on enemy worlds while raising infantry damage resistance on friendly worlds. The Hastings must fly down to the planets surface to deploy the Mako."
+StringInfo
+	ID "IDS_ABILITY_ALLI_M35MAKO_NAME"
+	Value "M35 Mako IFV"
+StringInfo
+	ID "IDS_ABILITY_ALLI_M35MAKO_DESCRIPTION"
+	Value "The M35 Mako Infantry Fighting Vehicle is a versatile and resilient piece of light armor. It can transport a squad of marines in shielded safety, and carries a powerful turreted mass accelecerator with which to assault enemy positions. Its Eezo core and verticle thrusters give it many mobility options and allow very easy insertion and extraction by frigate class vessels."
+StringInfo
+	ID "IDS_ABILITY_ALLI_MARINEPLATOON_NAME"
+	Value "Marine Platoon"
+StringInfo
+	ID "IDS_ABILITY_ALLI_MARINEPLATOON_DESCRIPTION"
+	Value "Alliance Marines are equipped to fight in any environment, and are well armed and well trained to a man. This unit is only Platoon strength, but can still deal considerable damage to enemy positions, and even seize poorly garrisoned enemy settlements with only a minimum of support."
+StringInfo
+	ID "IDS_ABILITY_ALLI_MARINESQUAD_NAME"
+	Value "Marine Squad"
+StringInfo
+	ID "IDS_ABILITY_ALLI_MARINESQUAD_DESCRIPTION"
+	Value "Alliance Marines are equipped to fight in any environment, and are well armed and well trained to a man. This unit is only Squad strength, operating as a mobile support unit alongside its Mako IFV. Assigned with missions to raid resource production, they will not deal much damage but can effectively interfere with the enemy economy."
+StringInfo
+	ID "IDS_ABILITY_ALLI_INFANTRYDURATION_NAME"
+	Value "Alliance Infantry"
+StringInfo
+	ID "IDS_ABILITY_ALLI_INFANTRYDURATION_DESCRIPTION"
+	Value "This Structure exists to act as a marker for Alliance Infantry units that are present on the nearby planet. Alliance Infantry operate for a total of ten minutes before running out of supplies. Infantry units cannot be destroyed by ship based weapons."
+StringInfo
+	ID "IDS_COUNTERDESC_ALLIHAWKING"
+	Value "Role:                         Support Carrier           Speed:                      600 m/s                       Infantry DPS:         2.5"
+StringInfo
+	ID "IDS_ABILITY_ALLI_ARMORDURATION_NAME"
+	Value "Alliance Armor"
+StringInfo
+	ID "IDS_ABILITY_ALLI_ARMORDURATION_DESCRIPTION"
+	Value "This Structure exists to act as a marker for Alliance Armor units that are present on the nearby planet. Alliance Armor operates for a total of five minutes before running out of supplies. Armor units cannot be destroyed by ship based weapons."
+StringInfo
+	ID "IDS_ABILITY_ALLI_MARINECOMPANY_NAME"
+	Value "Marine Company"
+StringInfo
+	ID "IDS_ABILITY_ALLI_MARINECOMPANY_DESCRIPTION"
+	Value "Alliance Marines are equipped to fight in any environment, and are well armed and well trained to a man. This Company strength unit is capable of succefully assaulting major enemy positions and single handedly seizing moderately defended enemy worlds."
+StringInfo
+	ID "IDS_ABILITY_ALLI_AMRU_NAME"
+	Value "Marine Reconnaissance Unit"
+StringInfo
+	ID "IDS_ABILITY_ALLI_AMRU_DESCRIPTION"
+	Value "The Alliance collects recon primarily via the use of drones, only rarely risking personnel on the field. Every twenty seconds, recon has a chance of providing intel for a surprise attack, or marking a position for airstrikes, which reduces enemy infantry damage resistance. Deployed on a friendly planet, they have a chance of conducting an ambush against enemy forces, which will restore your own infantry strength."
+StringInfo
+	ID "IDS_ABILITY_ALLI_SPECOPSDURATION_NAME"
+	Value "Alliance Spec Ops"
+StringInfo
+	ID "IDS_ABILITY_ALLI_SPECOPSDURATION_DESCRIPTION"
+	Value "This Structure exists to act as a marker for Alliance Spec Ops units that are present on the nearby planet. Alliance Spec Ops teams operate for a total of seven and a half minutes before running out of supplies. Spec Ops units cannot be destroyed by ship based weapons."
+StringInfo
+	ID "IDS_ABILITY_ALLI_N7_NAME"
+	Value "N7 Team"
+StringInfo
+	ID "IDS_ABILITY_ALLI_N7_DESCRIPTION"
+	Value "N7 soldiers are the best of the best, the finest warriors the Alliance has to offer. This team of N7s has been deployed to carry out assassinations on hostile leadership, as well as raid enemy shipyards and supply lines. In addition, they have some autonomy and may occasionally have a chance to destroy enemy stations in orbit, or even set off chain reactions to eliminate ground based assets."
+StringInfo
+	ID "IDS_ABILITY_ALLI_INFANTRYOCCUPY_NAME"
+	Value "Occupy Planet"
+StringInfo
+	ID "IDS_ABILITY_ALLI_INFANTRYOCCUPY_DESCRIPTION"
+	Value "Once a planet has been successfully invaded, Alliance Infantry can be tasked with establishing a permanent garrison, bringing the planet under your control immediately."
+StringInfo
+	ID "IDS_ABILITY_ALLI_ENGINEERINGCORPS_NAME"
+	Value "Alliance Engineering Corps"
+StringInfo
+	ID "IDS_ABILITY_ALLI_ENGINEERINGCORPS_DESCRIPTION"
+	Value "The Alliance Engineering Corps are the unsung heroes of the ground forces. They maintain the fortifications and infrastructure on Alliance held worlds, and can also fight the enemy directly should the need be dire. Their presence improves the speed and reduces the cost of building planet improvements."
+StringInfo
+	ID "IDS_ABILITY_ALLI_N6_NAME"
+	Value "N6 Team"
+StringInfo
+	ID "IDS_ABILITY_ALLI_N6_DESCRIPTION"
+	Value "N6 teams, also known as Delta teams, as are among humanities finest. Though not at the same level of expertise and determination as the N7s, they are still highly capable special forces. They are usually deployed to crisis situations on Alliance held worlds, where they can turn back even strong enemy assaults on their own. Every fifteen seconds, the N6 team has a chance to restore 100 Infantry strength to a friendly plaent they are deployed on."
+StringInfo
+	ID "IDS_ABILITY_ALLI_COMBATENGINEERS_NAME"
+	Value "Alliance Combat Engineers"
+StringInfo
+	ID "IDS_ABILITY_ALLI_COMBATENGINEERS_DESCRIPTION"
+	Value "Combat Engineers attached to the Marine Corps are tasked with destroying enemy infrastructre and fortifications. Many of them find great enjoyment in completing their task thoroughly and explosively. Deployed to an enemy planet, they will make planet upgrades build more slowly and cost more. Deployed to a friendly planet, they will instead assist in building upgrades."
+StringInfo
+	ID "IDS_HEROALLI_CARRIER_INESNEWTON_NAME"
+	Value "Admiral Ines Lindholm"
+StringInfo
+	ID "IDS_HEROALLI_CARRIER_INESNEWTON_DESCRIPTION"
+	Value "Placeholder"
+StringInfo
+	ID "IDS_HEROALLI_CRUISER_KASTANIELONDON_NAME"
+	Value "Admiral Kastanie Drescher"
+StringInfo
+	ID "IDS_HEROALLI_CRUISER_KASTANIELONDON_DESCRIPTION"
+	Value "Placeholder"
+StringInfo
+	ID "IDS_HEROALLI_DREADNOUGHT_HACKETTEVEREST_NAME"
+	Value "Admiral Steven Hackett"
+StringInfo
+	ID "IDS_HEROALLI_DREADNOUGHT_HACKETTEVEREST_DESCRIPTION"
+	Value "Placeholder"
+StringInfo
+	ID "IDS_HEROALLI_DREADNOUGHT_HANNAHKILIMANJARO_NAME"
+	Value "Captain Hannah Shepard"
+StringInfo
+	ID "IDS_HEROALLI_DREADNOUGHT_HANNAHKILIMANJARO_DESCRIPTION"
+	Value "Placeholder"
+StringInfo
+	ID "IDS_HEROALLI_DREADNOUGHT_NITESHKILIMANJARO_NAME"
+	Value "Admiral Nitesh Singh"
+StringInfo
+	ID "IDS_HEROALLI_DREADNOUGHT_NITESHKILIMANJARO_DESCRIPTION"
+	Value "Placeholder"
+StringInfo
+	ID "IDS_HEROALLI_FRIGATE_ASHLEYLEIPZIG_NAME"
+	Value "Lt.Commander Ashley Williams"
+StringInfo
+	ID "IDS_HEROALLI_FRIGATE_ASHLEYLEIPZIG_DESCRIPTION"
+	Value "Placeholder"
+StringInfo
+	ID "IDS_HEROALLI_FRIGATE_BORISHASTINGS_NAME"
+	Value "Admiral Boris Mikhailovich"
+StringInfo
+	ID "IDS_HEROALLI_FRIGATE_BORISHASTINGS_DESCRIPTION"
+	Value "Placeholder"
+StringInfo
+	ID "IDS_HEROALLI_FRIGATE_KAIDENNORMANDY_NAME"
+	Value "Major Kaiden Alenko"
+StringInfo
+	ID "IDS_HEROALLI_FRIGATE_KAIDENNORMANDY_DESCRIPTION"
+	Value "Placeholder"
+StringInfo
+	ID "IDS_ABILITY_ALLI_RESERVEBERLINTAUNT_NAME"
+	Value "Heroic Sacrifice"
+StringInfo
+	ID "IDS_ABILITY_ALLI_RESERVEBERLINTAUNT_DESCRIPTION"
+	Value "Berlin captains understand that their old, outdated ships are far less valuable than the larger and more modern ships of the Alliance fleet. They are prone to ordering eratic maneuvers and throwing their ships in front of enemy fire meant for more important vessels, taking hits so that new ships don't have to."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_ANDERSON_NAME"
+	Value "Admiral David Anderson"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_ANDERSON_DESCRIPTION"
+	Value "Admiral Anderson was on Earth when the Reapers arrived. Rather than escape to orbit aboard the Normandy however, he chose to stay and coordinate the planetary resistance efforts. By providing him with additional resources and Quantum communicators, we can spread his influence across multiple theaters. This will ensure that our resistance fighters are even more effective, no matter the location, no matter the foe. IMPROVES ORGANIZED RESISTANCE AND STUBBORN RESISTANCE."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_ANNBRYSON_NAME"
+	Value "Doctor Ann Bryson"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_ANNBRYSON_DESCRIPTION"
+	Value "Dr. Ann Bryson is one of the key members of Task Force Aurora, a group created to invesitage ancient legends about the Reapers. She is the only member of the group to emerge relatively unscathed after the projects success, and has now pledged her expertise to the Alliance once more. Her unique experiences will aid Alliance scientists in developing all manner of technologies for use against the Reapers."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_ASHLEY_NAME"
+	Value "Lt.Cmdr Ashley Williams"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_ASHLEY_DESCRIPTION"
+	Value "Ashley Williams was one of the key members of Commander Shepard's crew when he was initially elevated to SPECTRE status. After surviving the Battles of Virmire and the Citadel, then the destruction of the Normandy, she quickly rose through the ranks. Now, in this dire time, she has been elevated to SPECTRE status. Rather than join Shepards crew, she has been assigned her own ship, a Leipzig class stealth frigate, from which she carries out Alliance and Council missions alike."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_BORIS_NAME"
+	Value "Admiral Boris Mikhailovich"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_BORIS_DESCRIPTION"
+	Value "Admiral Boris Mikhailovich is a capable and experienced commander, known for his dislike of the Normandy class stealth ships and his heroism during the Battle of the Citadel. He commands the 63rd Scout Flotilla, and is an expert in applied frigate wolfpack tactics. Despite having the influence to easily secure a cruiser or carrier as a flag vessel, he still maintains his flag aboard a modified Hastings class heavy frigate, the better to keep up with the ships he commands."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_CHAKWAS_NAME"
+	Value "Doctor Karin Chakwas"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_CHAKWAS_DESCRIPTION"
+	Value "Dr. Chakwas served as the Medical officer aboard both the Normandy SR1 and the Normandy SR2, aiding Commander Shepard in his many adventures. When Shepard returned to the Alliance, Dr. Chakwas chose to conclude her service aboard warships, instead working closely with Admiral Hackett in the Alliance R&D lab at Shalta Wards. Her efforts have led to many widely applicable treatments that have drastically improved survival rates for both soldiers and civilian rates on the front lines in the Reaper war."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_DIANA_NAME"
+	Value "Diana Allers"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_DIANA_DESCRIPTION"
+	Value "Diana Allers is a prominent Alliance News Network correspondent and regular on the program 'Battlespace'. After securing a place aboard the Normandy SR2, the programs ratings skyrocketed, and it is thanks to her that the Alliance News Network is now one of the main sources of information about the Reaper war even in Council Space and the Terminus Systems. Alliance culture has never been so pervasive."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_HACKETT_NAME"
+	Value "Admiral Steven Hackett"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_HACKETT_DESCRIPTION"
+	Value "Admiral Steven Hackett is the leader of the Fifth Fleet and a hero of the Battle of the Citadel. After the destruction of Arcturus Station and the eradication of the Alliance high command, he has taken it upon himself to lead the Alliance Navy. He is known for his flexible tactics on the field, prefering simple plans with plenty of room to adapt to the situation as needed."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_HANNAH_NAME"
+	Value "Captain Hannah Shepard"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_HANNAH_DESCRIPTION"
+	Value "Hannah Shepard, mother of the legendary Commander Shepard, is a highly capable and decorated officer in her own right. She commands the Kilimanjaro class Dreadnought SSV Orizaba, one of humanities most powerful warships, yet her true value seems to now be in her name. Her presence in battle inspires the crews of the ships accompanying her, who are honored to fight alongside a Shepard."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_INES_NAME"
+	Value "Admiral Ines Lindholm"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_INES_DESCRIPTION"
+	Value "Admiral Ines Lindholm commands the Alliance First Fleet, a prestigous position indeed, though diminished after the losses sustained by the Fleet in the opening hours of the Reaper advance. She maintains her flag aboard a Newton class Heavy Carrier, and is quickly becoming known for high risk, high reward strategies. These gambles have so far payed off, and combined with a penchant for surprise attacks, she has gained quite the fierce reputation in battle."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_JACK_NAME"
+	Value "Jack"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_JACK_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_JOKER_NAME"
+	Value "Jeff 'Joker' Moreau"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_JOKER_DESCRIPTION"
+	Value "Flight Lieutenant Jeff 'Joker' Moreau is the best helmsman in the Alliance fleet. He secured his position as the helmsman on the Normandy SR1 by stealing the ship and out-flying the fighter wing sent to stop him. He is now the de-facto choice for helmsman of the Normandy, to the degree that he was immediately re-instated to fly the SR2 for the Alliance when the Reapers attacked. He now brings his expertise to the Alliance directly by flying the Normandy SR2 against our foes."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_KAHLEE_NAME"
+	Value "Kahlee Sanders"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_KAHLEE_DESCRIPTION"
+	Value "Daughter of the famed Admiral Grissom and close friend of Admiral David Anderson, First Lieutenant Kahlee Sanders had a long and exciting career in the Alliance. After many years working with then SPECTRE candidate David Anderson and later on several classified projects, she gave up her commission for a position at Grissom Academy. After narrowly escaping a Cerberus trap, she has retaken her military position and works to pass on her experience to front line Alliance personnel."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_KAIDEN_NAME"
+	Value "Major Kaiden Alenko"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_KAIDEN_DESCRIPTION"
+	Value "Kaiden Alenko was one of the key members of Commander Shepard's crew when he was initially elevated to SPECTRE status. He survived the Battles of Virmire and the Citadel, as well as the destruction of the Normandy, soon coming to outrank his former commander. Kaiden has now been elevated to SPECTRE status, and has opted to take command of a Normandy class stealth frigate of his own, conducting covert Alliance and Council missions at the head of the 1st Spec Ops Biotic Company."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_KASTANIE_NAME"
+	Value "Admiral Kastanie Drescher"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_KASTANIE_DESCRIPTION"
+	Value "Admiral Kastanie Drescher commands what remains of the Second Fleet. She is a long serving veteran, having commanded the Second Fleet during the first contact war. After being forced to sacrifice her entire fleet at the Battle of Arcturus, she has developed a nearly unmatched hatred of the Reapers, which she channels into highly aggressive strategies on the battlefield. She commands from the one remaining London class heavy cruiser of the Second Fleet."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_KASUMI_NAME"
+	Value "Kasumi Goto"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_KASUMI_DESCRIPTION"
+	Value "Although she is not officially affiliated with the Alliance, the renowned master thief Kasumi Goto has, in this time of need, turned her skills towards the betterment of humanity. She regularly steals valuable technology and information from the Alliance's foes and deposits them in friendly stockpiles without ever being seen. Stories of her exploits have quickly circulated among the troops, providing levity and hope in a dark time."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_KHALISA_NAME"
+	Value "Khalisa Bint Sinan al-Jilani"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_KHALISA_DESCRIPTION"
+	Value "The primary anchor of Westerlund News, Khalisa al'Jilani is well known for her scathing and direct journalistic style. She travels the galaxy, fearlessly interviewing all manner of high profile subjects and cutting straight to the juicy details of a story. Her following may not be large, but is extremely loyal, and in this moment of crisis for the Alliance, her dogged persistance has proved inspiring."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_NITESH_NAME"
+	Value "Admiral Nitesh Singh"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_NITESH_DESCRIPTION"
+	Value "Admiral Singh, leader of the Third Fleet, is a charasmatic leader well loved by his subordinates for his propensity to lead by example. When the Reapers attacked, he placed his flagship in harms way, single handedly facing down a Reaper Destroyer, in order to cover the retreat. Though he was not victorious, he survived and his bravery rapidly became legend across the fleet. He and the crew of his flagship remain eager to prove that they are tougher than any Reaper that cares to take them on."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_SHIALA_NAME"
+	Value "Shiala"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_SHIALA_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_UDINA_NAME"
+	Value "Councilor Donnel Udina"
+StringInfo
+	ID "IDS_RESEARCH_ALLILEADERSHIP_UDINA_DESCRIPTION"
+	Value "Although quite unpopular with the Military, Councilor Donnel Udina is an excellent politician and a capable representative for humanity on the Council. His leadership has served as a unifying force for the disparate colonies, even more so since the destruction of the Alliance government on Arcturus Station."
+StringInfo
+	ID "IDS_ABILITY_ALLI_GENEVAAPAMMO_NAME"
+	Value "Armor Piercing Ammo"
+StringInfo
+	ID "IDS_ABILITY_ALLI_GENEVAAPAMMO_DESCRIPTION"
+	Value "Loading Armor Piercing Ammo into the Genevas accelerators will increase the ships damage output by five percent, while also reducing the Ablative Armor value of the target temporarily."
+StringInfo
+	ID "IDS_ABILITY_ALLI_GENEVASHIELDBOOST_NAME"
+	Value "Shield Boost"
+StringInfo
+	ID "IDS_ABILITY_ALLI_GENEVASHIELDBOOST_DESCRIPTION"
+	Value "The Geneva carries redundant Kinetic Barrier generators that can be activated in an emergency to restore or even overcharge the ships defenses."
+StringInfo
+	ID "IDS_ABILITY_ALLI_EINSTEINARMOREDFIGHTERS_NAME"
+	Value "Armored Fighters"
+StringInfo
+	ID "IDS_ABILITY_ALLI_EINSTEINARMOREDFIGHTERS_DESCRIPTION"
+	Value "The Einstein carries many advanced machine shops for maintaining and upgrading its fighter compliment. One of the more common upgrades carried out by these facilities is the affixing of prototype light-weight ablative armor plating to fighter craft. This plating will significantly increase the survivability of the Einsteins fighter compliment, but also weighs them down, reducing their speed and agility."
+StringInfo
+	ID "IDS_ABILITY_ALLI_HAWKINGLADAR_NAME"
+	Value "Ultra Hi-Res LADAR"
+StringInfo
+	ID "IDS_ABILITY_ALLI_HAWKINGLADAR_DESCRIPTION"
+	Value "The Hawking Light Carrier is equipped with advanced sensor systems, including an Ultra Hi-Res LADAR system that it can use to acquire detailed scans of single targets. These scans often highlight structural weaknesses or armor imperfections, and the data gathered is broadcast to the rest of the Alliance fleet, allowing them to target these weak points for extra damage. In addition, the LADAR is designed to periodically sweep nearby space for signs of stealthed ships, revealing them if they stray too close."
+StringInfo
+	ID "IDS_ABILITY_ALLI_EINSTEINCARRIERJAVELINSLADAR_NAME"
+	Value "LADAR and Javelins"
+StringInfo
+	ID "IDS_ABILITY_ALLI_EINSTEINCARRIERJAVELINSLADAR_DESCRIPTION"
+	Value "The Einstein Fleet Carrier is equipped with Ultra Hi-Res LADAR, which will increase the damage taken by enemy ships hit by the LADAR. The Einsteins fighters also carry Javelin Missiles, which bypass barriers and reduce enemy barrier mitigation. Like the Hawking, the Einstein's LADAR will periodically sweep the local area for signs of stealthed vessels, revealing them should they fly close to the carrier."
+StringInfo
+	ID "IDS_ABILITY_ALLI_EINSTEINDESIGNATETARGET_NAME"
+	Value "Designate Target"
+StringInfo
+	ID "IDS_ABILITY_ALLI_EINSTEINDESIGNATETARGET_DESCRIPTION"
+	Value "The Einstein has an entire deck dedicated to the coordination of Alliance fighter craft. By leveraging these facilities and skills of the expert staff assigned to them, a ship in the enemy fleet can be designated as a priority target for all Alliance F-61 Tridents in the gravity well. They will immediately make a carefully orchestrated attack run on this target, gaining a bonus to damage dealt and rate of fire while they do so."
+StringInfo
+	ID "IDS_ABILITY_ALLI_LADARBONUS_NAME"
+	Value "Advanced LADAR"
+StringInfo
+	ID "IDS_ABILITY_ALLI_LADARBONUS_DESCRIPTION"
+	Value "The Ultra Hi-Res LADAR systems aboard the Einstein are augmented even further than those found on other Alliance ships. While the LADAR itself is no better, the ships powerful computer systems and multiple combat analysis VIs allow weak points in enemy ships to be determined faster and more consistently, leading to an overall increase in the effectiveness of the system."
+StringInfo
+	ID "IDS_ABILITY_ALLI_EINSTEINWITHDRAW_NAME"
+	Value "Emergency Retreat Protocol"
+StringInfo
+	ID "IDS_ABILITY_ALLI_EINSTEINWITHDRAW_DESCRIPTION"
+	Value "When the battle turns against the Einstein, its crew can activate the Emergency Retreat Protocol. This command orders all fighters called back and seals off all hangars with thickly armored blast doors. In addition, weapon and sensor power is diverted to the Eezo core and engines, greatly lowering the ships mass and allowing it to achieve incredible feats of speed and maneuvering. Finally, advanced self repair systems are activated to seal hull breaches and ensure the ship makes it back to a repair yard."
+StringInfo
+	ID "IDS_ABILITY_ALLI_NEWTONCRYOAMMO_NAME"
+	Value "Cryo Ammo"
+StringInfo
+	ID "IDS_ABILITY_ALLI_NEWTONCRYOAMMO_DESCRIPTION"
+	Value "The Newton can activate an ammo modification system to fire Cryo rounds from its accelerators. This system converts any rounds fired into Bose-Einstein condensate. When this substance strikes an enemies hull, it will make their armor brittle while also interfering with the operation of thrusters. Active Ammo powers drain Eezo every time a weapon is fired."
+StringInfo
+	ID "IDS_ABILITY_ALLI_FIGHTERMISSILES_NAME"
+	Value "Javelin Missiles"
+StringInfo
+	ID "IDS_ABILITY_ALLI_FIGHTERMISSILES_DESCRIPTION"
+	Value "This ships fighter craft are armed with Javelin Missiles - barrier ignoring weapons that apply a warp effect that reduces a targets barrier mitigation."
+StringInfo
+	ID "IDS_RESEARCH_ALLIDIPLOMACY_ATTICANSECURITY_NAME"
+	Value "Attican Security"
+StringInfo
+	ID "IDS_RESEARCH_ALLIDIPLOMACY_ATTICANSECURITY_DESCRIPTION"
+	Value "The Attican Traverse is the Alliance's backyard and frontier all at the same time - yet it is a relatively lawless place prone to pirate attacks. Though usually this is mitgated with effective military defense, some among the Alliance diplomatic staff have taken it upon themselves to solve the problem more subtly. Directing pirates towards other targets in the Traverse not only improves safety for the colonies, but also hinders the Alliance's foes."
+StringInfo
+	ID "IDS_RESEARCH_ALLIDIPLOMACY_CORPORATEDIPLO_NAME"
+	Value "Corporate Diplomacy"
+StringInfo
+	ID "IDS_RESEARCH_ALLIDIPLOMACY_CORPORATEDIPLO_DESCRIPTION"
+	Value "The Alliance has many large corporations based within its territory, and it has been known to leverage this advantage during interactions with other stellar nations. Gifts of corporate resources, tacitly encouraged by Alliance diplomatic staff, often serve to buy the friendship of other factions even when they do not agree with Alliance ideals or policies."
+StringInfo
+	ID "IDS_RESEARCH_ALLIDIPLOMACY_CORPORATEHEGEMON_NAME"
+	Value "Corporate Hegemony"
+StringInfo
+	ID "IDS_RESEARCH_ALLIDIPLOMACY_CORPORATEHEGEMON_DESCRIPTION"
+	Value "The speed and efficiency at which Human run corporations have come to dominate the Galactic market has been truly remarkable. In mere decades, such corporations have become household names across the galaxy, and this has elevated the value of their goods greatly. Accordingly, when the Alliance arranges favorable deals between these corporations and other governments, relations will improve even more rapidly."
+StringInfo
+	ID "IDS_RESEARCH_ALLIDIPLOMACY_COUNCILINFLUENCE_NAME"
+	Value "Council Influence"
+StringInfo
+	ID "IDS_RESEARCH_ALLIDIPLOMACY_COUNCILINFLUENCE_DESCRIPTION"
+	Value "Since achieving a place on the Council, the Alliance has gained considerable diplomatic clout in the galaxy. Diplomats have been quick to make use of this new found importance to pressure other stellar nations into following Alliance mission directives, in exchange for pacts of allegiance and financial rewards."
+StringInfo
+	ID "IDS_RESEARCH_ALLIDIPLOMACY_DIPLOMATICCORPS_NAME"
+	Value "Diplomatic Corps"
+StringInfo
+	ID "IDS_RESEARCH_ALLIDIPLOMACY_DIPLOMATICCORPS_DESCRIPTION"
+	Value "The Alliance wasted no time in assemblying a Diplomatic Corps upon its entrance to the galactic community, training its people in diplomatic arts from all throughout Earths history and beyond. Though the fleet is mighty, it is the Diplomatic Corps that acts as humanities first line of defense, smoothing relations with the other stellar nations of the galaxy in order to avoid any more conflicts on the scale of the First Contact War."
+StringInfo
+	ID "IDS_RESEARCH_ALLIDIPLOMACY_FEARTHEGIANT_NAME"
+	Value "Fear The Giant"
+StringInfo
+	ID "IDS_RESEARCH_ALLIDIPLOMACY_FEARTHEGIANT_DESCRIPTION"
+	Value "The Alliance's actions at the Battle of the Citadel sent a clear message to the galaxy: all the predictions of the Alliance's potential are true. Though as yet untapped, the population and industrial potential of humanity is immense, and deserves respect. Other factions will be careful not to underestimate the sleeping giant, and the Alliance will exploit this fear of their potential to the fullest, furthering their unique strategies and ramping up their industry."
+StringInfo
+	ID "IDS_RESEARCH_ALLIDIPLOMACY_HEROICREP_NAME"
+	Value "Heroic Reputation"
+StringInfo
+	ID "IDS_RESEARCH_ALLIDIPLOMACY_HEROICREP_DESCRIPTION"
+	Value "The noble sacrifice made by the Alliance Navy at the Battle of the Citadel was noticed by all across the galaxy. Many detractors of the Alliance were converted by this act, for it was proof beyond doubt that humanity sought to join the galactic community and uphold its ideals of peace and unity with all their might. Far from upstarts, it proved that humans were every bit as dedicated as the Turians, as wise as the Asari and as decisive as the Salarians."
+StringInfo
+	ID "IDS_RESEARCH_ALLIDIPLOMACY_SWIFTACTION_NAME"
+	Value "Swift Action"
+StringInfo
+	ID "IDS_RESEARCH_ALLIDIPLOMACY_SWIFTACTION_DESCRIPTION"
+	Value "In the short time that humanity has been present on the galactic stage, they have already gained a reputation for acting quickly, decisively and perhaps a little rashly. Such is this reputation, that when another faction approaches the Alliance with a mission they will expect it to be completed with great speed. Living up to the reputation can reap dividends - providing a unique advantage in the diplomatic field that no other faction can claim."
+StringInfo
+	ID "IDS_CRUISER_ALLIPATROLBEIJING_NAME"
+	Value "Beijing Patrol Cruiser"
+StringInfo
+	ID "IDS_CRUISER_ALLIPATROLBERLIN_NAME"
+	Value "Berlin Patrol Cruiser"
+StringInfo
+	ID "IDS_CRUISER_ALLIPATROLLONDON_NAME"
+	Value "London Patrol Cruiser"
+StringInfo
+	ID "IDS_CRUISER_ALLIPATROLGENEVA_NAME"
+	Value "Geneva Patrol Cruiser"
+StringInfo
+	ID "IDS_FRIGATE_ALLIPATROLHASTINGS_NAME"
+	Value "Hastings Patrol Frigate"
+StringInfo
+	ID "IDS_ABILITY_ALLI_PATROLBEACONSUMMON_NAME"
+	Value "Alliance Reinforcement Fleet"
+StringInfo
+	ID "IDS_ABILITY_ALLI_PATROLBEACONSUMMON_DESCRIPTION"
+	Value "The Fleet Alert Beacon will automatically summon an Alliance Reinforcement fleet when an enemy fleet is detected in system. The Reinforcement fleet is quite large, but will take some time to arrive on scene. After eight minutes, the fleet will automatically depart the system."
+StringInfo
+	ID "IDS_ABILITY_ALLI_ATHABASCACOLONIZE_NAME"
+	Value "Colonize"
+StringInfo
+	ID "IDS_ABILITY_ALLI_ATHABASCACOLONIZE_DESCRIPTION"
+	Value "The Athabasca will land on the planet and disembark colonists before being cannibalised to create the initial infrastructure of the colony. Thanks to the enthusiasm of the Alliance colonists and the prefabricated structures of the colony, this planet will have double the maximum population for a period of ten minutes. THIS WILL EXPEND THE ATHABASCA."
+StringInfo
+	ID "IDS_ABILITY_ALLI_ATHABASCAIMMIGRANTS_NAME"
+	Value "Immigrants"
+StringInfo
+	ID "IDS_ABILITY_ALLI_ATHABASCAIMMIGRANTS_DESCRIPTION"
+	Value "The Athabasca will land on the planet and disembark immigrants and prefabricated housing for them on the target friendly colony, instantly raising the population by 50 points. THIS WILL EXPEND THE ATHABASCA."
+StringInfo
+	ID "IDS_ABILITY_ALLI_NEWTONGUN_NAME"
+	Value "Hidden Weapon"
+StringInfo
+	ID "IDS_ABILITY_ALLI_NEWTONGUN_DESCRIPTION"
+	Value "Though officially a Carrier, the Newton has been fitted with a Dreadnought grade Spinal Accelerator concealed within its upper hangar bay. The crew will deploy this weapon just before the ship reaches firing range, surprising enemies with their first volley of fire. Thanks to this surprise attack, the Newton gains a 30% bonus to weapon accuraccy for 30 seconds after the gun deploys."
+StringInfo
+	ID "IDS_ABILITY_ALLI_NORMANDYSTEALTH_NAME"
+	Value "Normandy Stealth"
+StringInfo
+	ID "IDS_ABILITY_ALLI_NORMANDYSTEALTH_DESCRIPTION"
+	Value "The Normandy SR1 was the original prototype platform for the IES Stealth system. While it initially suffered from several limitations and efficiency problems, further refinement and study has led to significant improvements for the production version of the Normandy Stealth Frigate. Thanks to these improvements, this ship is now only exceeded by the high tech Tempest class Survery Ships in stealth efficiency."
+StringInfo
+	ID "IDS_SQUAD_ALLIPIKE_NAME"
+	Value "SX2 Pike Fighters"
+StringInfo
+	ID "IDS_SQUAD_ALLIPIKE_DESC"
+	Value "The Pike is the previous model of Alliance Fighter, and was in heavy use at the time of the Battle of the Citadel. It is slower, less agile and has weaker accerlerators compared to the Trident, but still carries modern Javelin Missiles. Meanwhile, it is deployed in larger squads compared to the Trident, allowing it to carry out powerful attacks against larger targets."
+StringInfo
+	ID "IDS_SQUAD_ALLITRIDENT_NAME"
+	Value "SX3 Trident Fighters"
+StringInfo
+	ID "IDS_SQUAD_ALLITRIDENT_DESC"
+	Value "The most recent full production model of the ubiquitous Alliance Fighter, the Trident is fast, agile and heavily armed. It is equipped to engage both enemy strike craft with its light mass accelerators, and larger warships with its Javelin missiles. Though not especially resilient, these fighters are a significant threat to enemy warships when in numbers."
+StringInfo
+	ID "IDS_SQUAD_ALLITRIDENTSOLO_NAME"
+	Value "SX3 Trident Solo Fighter"
+StringInfo
+	ID "IDS_SQUAD_ALLITRIDENTSOLO_DESC"
+	Value "Alliance Cruisers carry a single Trident class fighter for self defense purposes. Without a squadron, this craft is able to evade more effectively, but cruiser hangars are not equipped to replace it quickly should it be destroyed in combat."
+StringInfo
+	ID "IDS_SQUAD_ALLIGLAIVE_NAME"
+	Value "SX4 Glaive Interceptors"
+StringInfo
+	ID "IDS_SQUAD_ALLIGLAIVE_DESC"
+	Value "The SX4 Glaive is the next generation Alliance Interceptor - based on captured Cerberus Sudan fighters, the Glaive has had its heavier armament removed in favor of maintaining maneuverability. Its unique set of characteristics makes it heavy for an interceptor, but this gives it unmatched staying power in a dogfight."
+StringInfo
+	ID "IDS_FIGHTER_ALLIPIKE_NAME"
+	Value "SX2 Pike Fighter"
+StringInfo
+	ID "IDS_FIGHTER_ALLITRIDENT_NAME"
+	Value "SX3 Trident Fighter"
+StringInfo
+	ID "IDS_FIGHTER_ALLIGLAIVE_NAME"
+	Value "SX4 Glaive Interceptor"
+StringInfo
+	ID "IDS_ABILITY_ALLI_BERLINREFITTAUNT_NAME"
+	Value "Hack Targeting Computers"
+StringInfo
+	ID "IDS_ABILITY_ALLI_BERLINREFITTAUNT_DESCRIPTION"
+	Value "The Berlin Refit carries an advanced VI network and powerful communications systems that allow for powerful, if temporary, electronic warfare attacks on enemy ships. When activated, the VIs aboard the Berlin will attack enemy targetting computers, forcing them to retarget onto the Berlin and scrambling their firing solutions."
+StringInfo
+	ID "IDSPlayerAINameAlli0"
+	Value "First Fleet"
+StringInfo
+	ID "IDSPlayerAINameAlli1"
+	Value "Second Fleet"
+StringInfo
+	ID "IDSPlayerAINameAlli2"
+	Value "Third Fleet"
+StringInfo
+	ID "IDSPlayerAINameAlli3"
+	Value "Fourth Fleet"
+StringInfo
+	ID "IDSPlayerAINameAlli4"
+	Value "Fifth Fleet"
+StringInfo
+	ID "IDSPlayerAINameAlli5"
+	Value "Sixth Fleet"
+StringInfo
+	ID "IDSPlayerAINameAlli6"
+	Value "Seventh Fleet"
+StringInfo
+	ID "IDSPlayerAINameAlli7"
+	Value "Eighth Fleet"
+StringInfo
+	ID "IDS_ABILITY_ALLIEVEREST_DISRUPTORAMMO_NAME"
+	Value "Disruptor Ammo"
+StringInfo
+	ID "IDS_ABILITY_ALLIEVEREST_DISRUPTORAMMO_DESCRIPTION"
+	Value "The Everest can activate an ammo modification system to fire Disruptor rounds from its accelerators. These highly charged rounds will improve its damage output against enemy kinetic barriers and give it a small chance to temporarily disable enemy weapons and engines with every hit. Additional levels increase the chance of disabling the target. Active Ammo powers drain Eezo every time a weapon is fired."
+StringInfo
+	ID "IDS_ABILITY_ALLIEVEREST_NAVSENSORS_NAME"
+	Value "Navigational Sensors"
+StringInfo
+	ID "IDS_ABILITY_ALLIEVEREST_NAVSENSORS_DESCRIPTION"
+	Value "The Everest can be fitted with advanced navigational sensor equipment that is far more sensitive than that usually used on Alliance warships. The data these sensors provide will allow the Everest and any nearby Alliance vessels to adjust the mass effect fields and thruster trimmings to achieve small but noticeable increases in speed and agility."
+StringInfo
+	ID "IDS_ABILITY_ALLI_BEIJINGJAMMING_NAME"
+	Value "LADAR Jamming"
+StringInfo
+	ID "IDS_ABILITY_ALLI_BEIJINGJAMMING_DESCRIPTION"
+	Value "Among the Beijing's extensive arsenal are a number of LADAR jamming systems, which can interfere with enemy active sensors to reduce accuracy and effective maximum range."
+StringInfo
+	ID "IDS_ABILITY_ALLI_BEIJINGHACKING_NAME"
+	Value "Rampant Hacking"
+StringInfo
+	ID "IDS_ABILITY_ALLI_BEIJINGHACKING_DESCRIPTION"
+	Value "The Beijing is equipped with an advanced suite of VIs dedicated to electronic warfare. When it engages them, they will sweep through the systems of a target enemy ship, causing cascade glitches and malfunctions. These problems would not be significant normally, but in the midst of a battle they are just enough of a problem to have a noticeable effect on the ships performance."
+StringInfo
+	ID "IDS_ABILITY_ALLI_EVERESTSHIELDREGEN_NAME"
+	Value "Backup Barrier Capacitors"
+StringInfo
+	ID "IDS_ABILITY_ALLI_EVERESTSHIELDREGEN_DESCRIPTION"
+	Value "The Everest is equipped with several backup capacitors for its Kinetic Barriers. When activated, these systems rapidly recharge the ships barrier, ensuring that it is always ready to fight. Once fully discharged though, they require a significant period of time to be charged again."
+StringInfo
+	ID "IDS_ABILITY_ALLI_EVERESTCRYOBLAST_NAME"
+	Value "Cryo Blast"
+StringInfo
+	ID "IDS_ABILITY_ALLI_EVERESTCRYOBLAST_DESCRIPTION"
+	Value "The Everest is equipped with a complex and difficult to maintain system that allows it to project Bose-Einstein condensate on a massive scale. This ability is broadly analagous to Cryo Blast, as used by engineers on the ground. The blast is large enough to effect not only the target, but nearby enemy ships as well, making their hulls brittle and significantly interfering with their drive systems."
+StringInfo
+	ID "IDS_ABILITY_ALLI_KILIMANJAROSHIELDBOOST_NAME"
+	Value "Shield Boost"
+StringInfo
+	ID "IDS_ABILITY_ALLI_KILIMANJAROSHIELDBOOST_DESCRIPTION"
+	Value "The Kilimanjaro was designed with a much larger and more powerful variant of the Shield Boost system used by smaller Alliance ships. It is capable of not only restoring a significant portion of the ships own barrier, but also sending out a wave of energy that will partially restore the barriers of nearby friendly ships as well, albeit to a lesser extent."
+StringInfo
+	ID "IDS_ABILITY_ALLI_KILIMANJAROCYCLONICBARRIERS_NAME"
+	Value "Cyclonic Barriers"
+StringInfo
+	ID "IDS_ABILITY_ALLI_KILIMANJAROCYCLONICBARRIERS_DESCRIPTION"
+	Value "Among the Kilimanjaros advanced shielding systems are a set of Cyclonic Barrier generators. When activated, these generators create a rapidly oscilating set of Barriers designed to slap away incoming fire. This increases the ships Barrier Mitigation significantly, but also raises the ships signature, making it a preferred target for nearby enemy ships."
+StringInfo
+	ID "IDS_ABILITY_ALLI_KILIMANJAROASSAULTJUMP_NAME"
+	Value "Assault Jump"
+StringInfo
+	ID "IDS_ABILITY_ALLI_KILIMANJAROASSAULTJUMP_DESCRIPTION"
+	Value "The Kilimanjaros captain orders the crew to carry out an in-system FTL jump to take the ship straight into the heart of the enemy formation. Once there, a weapons free command is given, with all guns firing as soon as they have an individual lock."
+StringInfo
+	ID "IDS_DREADNAME_ALLI00"
+	Value "SSV Curie"
+StringInfo
+	ID "IDS_DREADNAME_ALLI01"
+	Value "SSV Darwin"
+StringInfo
+	ID "IDS_DREADNAME_ALLI02"
+	Value "SSV Galileo"
+StringInfo
+	ID "IDS_DREADNAME_ALLI03"
+	Value "SSV Edison"
+StringInfo
+	ID "IDS_DREADNAME_ALLI04"
+	Value "SSV Tesla"
+StringInfo
+	ID "IDS_DREADNAME_ALLI05"
+	Value "SSV Faraday"
+StringInfo
+	ID "IDS_DREADNAME_ALLI06"
+	Value "SSV Copernicus"
+StringInfo
+	ID "IDS_DREADNAME_ALLI07"
+	Value "SSV Rutherford"
+StringInfo
+	ID "IDS_DREADNAME_ALLI08"
+	Value "SSV Franklin"
+StringInfo
+	ID "IDS_DREADNAME_ALLI09"
+	Value "SSV Tyson"
+StringInfo
+	ID "IDS_DREADNAME_ALLI10"
+	Value "SSV Archimedes"
+StringInfo
+	ID "IDS_DREADNAME_ALLI11"
+	Value "SSV Pythagoras"
+StringInfo
+	ID "IDS_DREADNAME_ALLI12"
+	Value "SSV Planck"
+StringInfo
+	ID "IDS_DREADNAME_ALLI13"
+	Value "SSV Lavoisier"
+StringInfo
+	ID "IDS_DREADNAME_ALLI14"
+	Value "SSV Hubble"
+StringInfo
+	ID "IDS_DREADNAME_ALLI15"
+	Value "SSV Nobel"
+StringInfo
+	ID "IDS_DREADNAME_ALLI16"
+	Value "SSV Matterhorn"
+StringInfo
+	ID "IDS_DREADNAME_ALLI17"
+	Value "SSV Blanc"
+StringInfo
+	ID "IDS_DREADNAME_ALLI18"
+	Value "SSV Kailash"
+StringInfo
+	ID "IDS_DREADNAME_ALLI19"
+	Value "SSV Aoraki"
+StringInfo
+	ID "IDS_DREADNAME_ALLI20"
+	Value "SSV Denali"
+StringInfo
+	ID "IDS_DREADNAME_ALLI21"
+	Value "SSV Wutai"
+StringInfo
+	ID "IDS_DREADNAME_ALLI22"
+	Value "SSV Fitz Roy"
+StringInfo
+	ID "IDS_DREADNAME_ALLI23"
+	Value "SSV Emei"
+StringInfo
+	ID "IDS_DREADNAME_ALLI24"
+	Value "SSV Huangshan"
+StringInfo
+	ID "IDS_DREADNAME_ALLI25"
+	Value "SSV Lhotse"
+StringInfo
+	ID "IDS_DREADNAME_ALLI26"
+	Value "SSV Rainier"
+StringInfo
+	ID "IDS_DREADNAME_ALLI27"
+	Value "SSV Aconcagua"
+StringInfo
+	ID "IDS_DREADNAME_ALLI28"
+	Value "SSV Helvellyn"
+StringInfo
+	ID "IDS_DREADNAME_ALLI29"
+	Value "SSV Skiddaw"
+StringInfo
+	ID "IDS_DREADNAME_ALLI30"
+	Value "SSV Carnedd Llewelyn"
+StringInfo
+	ID "IDS_DREADNAME_ALLI31"
+	Value "SSV Shasta"
+StringInfo
+	ID "IDS_DREADNAME_ALLI32"
+	Value "SSV Foraker"
+StringInfo
+	ID "IDS_DREADNAME_ALLI33"
+	Value "SSV Blackburn"
+StringInfo
+	ID "IDS_DREADNAME_ALLI34"
+	Value "SSV Hayes"
+StringInfo
+	ID "IDS_DREADNAME_ALLI35"
+	Value "SSV Eolus"
+StringInfo
+	ID "IDS_DREADNAME_ALLI36"
+	Value "SSV Taranaki"
+StringInfo
+	ID "IDS_DREADNAME_ALLI37"
+	Value "SSV Aspiring"
+StringInfo
+	ID "IDS_DREADNAME_ALLI38"
+	Value "SSV Hutt"
+StringInfo
+	ID "IDS_DREADNAME_ALLI39"
+	Value "SSV Earnslaw"
+StringInfo
+	ID "IDS_DREADNAME_ALLI40"
+	Value "SSV Glittertind"
+StringInfo
+	ID "IDS_DREADNAME_ALLI41"
+	Value "SSV Skarstind"
+StringInfo
+	ID "IDS_DREADNAME_ALLI42"
+	Value "SSV Watzmann"
+StringInfo
+	ID "IDS_DREADNAME_ALLI43"
+	Value "SSV Arcalod"
+StringInfo
+	ID "IDS_DREADNAME_ALLI44"
+	Value "SSV Etna"
+StringInfo
+	ID "IDS_DREADNAME_ALLI45"
+	Value "SSV Vesuvius"
+StringInfo
+	ID "IDS_FRIGATE_ALLIDIPLO_NAME"
+	Value "Goyle Diplomatic Shuttle"
+StringInfo
+	ID "IDS_FRIGATE_ALLIDIPLO_DESCRIPTION"
+	Value "Named for the first human Ambassador to the Citadel - Anita Goyle, the Goyle class Diplomatic shuttle is the Alliance's primary means of transporting dignitaries and diplomats."
+StringInfo
+	ID "IDS_SUPERCARRIER_ALLISAGAN_UPGRADEACCELERATORS_NAME"
+	Value "Enhanced Accelerators"
+StringInfo
+	ID "IDS_SUPERCARRIER_ALLISAGAN_UPGRADEACCELERATORS_DESCRIPTION"
+	Value "The Sagan's accelerators can be fitted with a supersized Scram Pulsar system. This upgrade improves the mass effect field generator, allowing it to increase the mass and acceleration of every slug the ship fires, resulting in improved damage dealing capacity."
+StringInfo
+	ID "IDS_SUPERCARRIER_ALLISAGAN_UPGRADECORE_NAME"
+	Value "Core Modifications"
+StringInfo
+	ID "IDS_SUPERCARRIER_ALLISAGAN_UPGRADECORE_DESCRIPTION"
+	Value "The Sagan was built with a standard Eezo Core, but information gleaned from Cerberus defectors has revealed a way to safely boost output through the judicial application of fusion cell technology."
+StringInfo
+	ID "IDS_SUPERCARRIER_ALLISAGAN_UPGRADESHIELDS_NAME"
+	Value "Hardened Shields"
+StringInfo
+	ID "IDS_SUPERCARRIER_ALLISAGAN_UPGRADESHIELDS_DESCRIPTION"
+	Value "Nanocrystal Shield technology recently recovered from the Normandy SR2 has been reverse engineered and scaled up by Alliance scientists, and the Sagan has been chosen as the testbed. This Geth-based upgrade makes the ships kinetic barrier less susceptible to damage, effectively raising its capacity and regeneration rate."
+StringInfo
+	ID "IDS_ABILITY_ALLI_SAGANBATTALION_NAME"
+	Value "Deploy Marine Battalion"
+StringInfo
+	ID "IDS_ABILITY_ALLI_SAGANBATTALION_DESCRIPTION"
+	Value "The Sagan class is equipped to deploy immense numbers of infantry to a planets surface rapidly. Deployed to enemy planets, these marines will attack enemy infantry and even establish a permanent garrison should the world fall. Deployed to a friendly world, they will reinforce the standing garrison and make this planet more resilient to assault. TEN MINUTE DURATION."
+StringInfo
+	ID "IDS_INFANTRY_ALLIDEF_MARINEBATTALION_NAME"
+	Value "Alliance Marine Battalion"
+StringInfo
+	ID "IDS_ABILITY_ALLI_MARINEBATTALION_NAME"
+	Value "Marine Battalion"
+StringInfo
+	ID "IDS_ABILITY_ALLI_MARINEBATTALION_DESCRIPTION"
+	Value "Alliance Marines are equipped to fight in any environment, and are well armed and well trained to a man. This Battalion strength unit is a force to be rekoned with, consistently dominating engagements on its own, all but guaranteeing Alliance victory."
+StringInfo
+	ID "IDS_ABILITY_ALLI_NEWTONAIRSTRIKE_NAME"
+	Value "Airstrike"
+StringInfo
+	ID "IDS_ABILITY_ALLI_NEWTONAIRSTRIKE_DESCRIPTION"
+	Value "The Newton carries special ordnance and skilled atmospheric pilots onboard, allowing it to dedicate a squadron of strike craft to planetary support. These brave pilots will perform attack runs on enemy positions on the ground, causing considerable damage without much collateral."
+StringInfo
+	ID "IDS_ABILITY_ALLI_NEWTONBURSTCAPACITOR_NAME"
+	Value "Burst Capacitor"
+StringInfo
+	ID "IDS_ABILITY_ALLI_NEWTONBURSTCAPACITOR_DESCRIPTION"
+	Value "Though a notoriously unreliable system, the Newton has been fitted with large scale burst capacitors for its main gun. When charged, these capacitors can rapidly recycle the main weapon, allowing the Newton to rapidly fire a two shot burst no matter the state of its normal firing cycle. Should this attack be executed immediately after the gun has been deployed, it will take advantage of the surprise and gain extra damage."
+StringInfo
+	ID "IDS_FRIGATE_ALLIMANZIKERT_NAME"
+	Value "Manzikert Frigate"
+StringInfo
+	ID "IDS_FRIGATE_ALLIMANZIKERT_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_ABILITY_ALLI_DENALIARMOR_NAME"
+	Value "Heavy Ablative Armor"
+StringInfo
+	ID "IDS_ABILITY_ALLI_DENALIARMOR_DESCRIPTION"
+	Value "Although the Denali has already been up-armored compared to the Everest, it is possible to affix even more plating to the forward surfaces, fitted in much the same way as the bolt-on missile tubes. This will increase the ships survivability greatly, especially when faced with enemies ahead."
+StringInfo
+	ID "IDS_ABILITY_ALLI_DENALIJAMMING_NAME"
+	Value "Advanced LADAR Jamming"
+StringInfo
+	ID "IDS_ABILITY_ALLI_DENALIJAMMING_DESCRIPTION"
+	Value "During the Denali refit, Alliance engineers took the opportunity to minaturize the Everest LADAR systems, making use of the additional space and power now available to fit advanced sensor jamming systems. Though not achieving a significantly greater effect than the systems aboard the Beijing, the Denali is able to simultaneously jam a vast number of ships, allowing the experienced crew of this vessel to drastically impact a fleet battle."
+StringInfo
+	ID "IDS_ABILITY_ALLI_DENALISALVO_NAME"
+	Value "Javelin MK2 Salvo"
+StringInfo
+	ID "IDS_ABILITY_ALLI_DENALISALVO_DESCRIPTION"
+	Value "The Denali fires a sizeable salvo of advanced Javelin MK2 missiles at a single enemy ship. Such a significant volley of these next generation missiles will cause immense damage to the target, disrupting and ignoring kinetic barriers to maul the enemy hull. This attack expends the ships entire supply of these advanced munitions, emptying the bolt-on external tubes they are housed in. As such, the Denali must visit a shipyard to resupply before being able to use this attack again."
+StringInfo
+	ID "IDS_ABILITY_ALLI_DENALITHRUSTERS_NAME"
+	Value "Modernized Thrusters"
+StringInfo
+	ID "IDS_ABILITY_ALLI_DENALITHRUSTERS_DESCRIPTION"
+	Value "Although the fusion torches of the Everest were reliable and powerful engines, they have begun to show their age. During the Denali refit, the ships anti-proton injector assembly was updated to a new, state of the art model. When properly manipulated by the ships engineers, these improvements allow the Denali to achieve incredible top speeds and impressive acceleration."
+StringInfo
+	ID "IDS_ABILITY_ALLI_YARDRESUPPLY_NAME"
+	Value "Resupply Missiles"
+StringInfo
+	ID "IDS_ABILITY_ALLI_YARDRESUPPLY_DESCRIPTION"
+	Value "Alliance shipyards keep large stocks of pre-made Javelin MK2 Missiles in their launch tubes, ready to be exchanged with expended tubes at a moments notice on appropriate ship class. Athens Cruisers and Denali Dreadnoughts can be brought back to full combat readiness in record times by the skilled shipyard stuff."
+StringInfo
+	ID "IDS_ABILITY_ALLI_ATHENSSALVO_NAME"
+	Value "Javelin MK2 Salvo"
+StringInfo
+	ID "IDS_ABILITY_ALLI_ATHENSSALVO_DESCRIPTION"
+	Value "The Athens fires a sizeable salvo of advanced Javelin MK2 missiles at a single enemy ship. Such a significant volley of these next generation missiles will cause immense damage to the target, disrupting and ignoring kinetic barriers to maul the enemy hull. This attack expends the ships entire supply of these advanced munitions, emptying the bolt-on external tubes they are housed in. As such, the Athens must visit a shipyard to resupply before being able to use this attack again."
+StringInfo
+	ID "IDS_ABILITY_ALLI_ATHENSJAVELINS_NAME"
+	Value "Javelin Missiles"
+StringInfo
+	ID "IDS_ABILITY_ALLI_ATHENSJAVELINS_DESCRIPTION"
+	Value "This ship carries Javelin Missiles - a special type of missile that ignores the barriers of its target. Javelin Missiles have reasonable initial damage, and the warp fields they create slightly reduce the mitigation of the targets barriers."
+StringInfo
+	ID "IDS_ABILITY_ALLI_DENALIHEAVYJAVELINS_NAME"
+	Value "Heavy Javelin Missiles"
+StringInfo
+	ID "IDS_ABILITY_ALLI_DENALIHEAVYJAVELINS_DESCRIPTION"
+	Value "This ship carries a heavy variant of the Javelin Missile with greater range and damage dealing capacity. Like regular Javelins, this weapon ignores the targets barriers and applies a warp effect that reduces the targets barrier mitigation."
+StringInfo
+	ID "IDS_ABILITY_ALLI_LONDONPOWERTOWEAPONS_NAME"
+	Value "Power to Weapons"
+StringInfo
+	ID "IDS_ABILITY_ALLI_LONDONPOWERTOWEAPONS_DESCRIPTION"
+	Value "The London is designed with multiple additional power conduits that allow the ships reactor output to be diverted on the the fly between the maneuvering mass effect fields and the accelerator mass effect fields. Shunting power into the accelerators allow the weapons to be charged faster, unleashing an unrelenting hail of fire at the cost of significantly reduced maneuvering capacity."
+StringInfo
+	ID "IDS_ABILITY_ALLI_MANZIKERTFTLPROBES_NAME"
+	Value "FTL Scout Probes"
+StringInfo
+	ID "IDS_ABILITY_ALLI_MANZIKERTFTLPROBES_DESCRIPTION"
+	Value "The Manzikert is equipped with state of the art scout probes designed to eliminate the need for risking frigates on patrol. These probes are essentially a sensor suite strapped to a one use FTL drive and unstable quantum communicator. They will travel to all adjacent systems and relay data back to the Manzikert for a brief period before being rendered inert."
+StringInfo
+	ID "IDS_ABILITY_ALLI_COLONYHQTAX_NAME"
+	Value "Colonial Loyalty"
+StringInfo
+	ID "IDS_ABILITY_ALLI_COLONYHQTAX_DESCRIPTION"
+	Value "The presence of a Colonial HQ actively supplied by the Systems Alliance helps to engender a greater sense of loyalty and safety among the colonist population of this planet. With thir concerns allayed, higher taxes can be levied without causing undue unrest."
+StringInfo
+	ID "IDS_ABILITY_ALLI_CARTAGENATRADEFOOD_NAME"
+	Value "Colony Supplies"
+StringInfo
+	ID "IDS_ABILITY_ALLI_CARTAGENATRADEFOOD_DESCRIPTION"
+	Value "Thanks to the colonisation focus of the Alliance economy, it is not uncommon for transport ships traveling through their territory to stock large amounts of foodstuffs, colony supplies and prefabricated buildings. Such a heightened trade in these materials results in enlarged population centers everywhere these transports go."
+StringInfo
+	ID "IDS_ABILITY_ALLI_HASTINGSCAPTURE_NAME"
+	Value "Boarding Team"
+StringInfo
+	ID "IDS_ABILITY_ALLI_HASTINGSCAPTURE_DESCRIPTION"
+	Value "The Hasting's onboard squad of Alliance Marines can deploy onto capturable stations and bring them under friendly control rapidly and efficiently."
+StringInfo
+	ID "IDS_PLANETBONUS_HOMEWORLDALLIANCE_NAME"
+	Value "Cradle of Humanity"
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseAlliMilitary"
+	Value "The enemies of the Alliance have been destroyed. Earth will be safe at last."
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseAlliMilitary"
+	Value "Our fleets have been shattered, there is nothing left between our enemies and Earth itself."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseAlliFlagship"
+	Value "The enemy leadership has been eliminated. Their fleets stand no chance against us now."
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseAlliFlagship"
+	Value "The Admiralty is dead. Earth will surely fall now."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseAlliHomeworld"
+	Value "Earth still stands, and the enemy homeworlds have fallen. The Alliance is victorious."
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseAlliHomeworld"
+	Value "Earth has been lost, the fleets scattered. Only Shepard can save us now."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseAlliDiplomatic"
+	Value "Our Councilor has used his position to secure a human led coaltion that will bring peace to the galaxy."
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseAlliDiplomatic"
+	Value "The colonies have defected to other powers. The Systems Alliance is dissolved. Earth stands alone now."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseAlliResearch"
+	Value "Human innovation have brought about an unsurmountable advantage for the Alliance."
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseAlliResearch"
+	Value "The enemies of Earth have surpassed human science in every way. We cannot hope to stand against them now."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseAlliOccupation"
+	Value "Our extra-galactic colony reports that it has become self sufficient. The future of humanity is secure."
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseAlliOccupation"
+	Value "Our foes have secured an extra-galactic colony. Our efforts against them are pointless now."
+StringInfo
+	ID "IDS_CRUISER_ALLISHANGRILA_NAME"
+	Value "Shangri-La Cruiser"
+StringInfo
+	ID "IDS_CRUISER_ALLISHANGRILA_DESCRIPTION"
+	Value "The most modern of Alliance cruisers, the Shangri-La is the testbed for a new generation of Thanix armed line vessels. In order to properly test these new weapons, the ship has been stripped of extraneous systems and weapons and fitted with internal and external analytical sensors insted."
+StringInfo
+	ID "IDS_ABILITY_ALLI_LEIPZIGSTEALTH_NAME"
+	Value "Leipzig Stealth"
+StringInfo
+	ID "IDS_ABILITY_ALLI_LEIPZIGSTEALTH_DESCRIPTION"
+	Value "Built around the Normandy hull design, the Leipzig retains an IES stealth system, enabling it to vanish from enemy sensors on demand. Unfortunately, in the course of fitting heavier armaments and thicker armor, the ship lost efficiency compared to the Normandy, leaving it less able to maintain or recover from stealth."
+StringInfo
+	ID "IDS_ABILITY_ALLI_KILIMANJAROEXPLOSIVEAMMO_NAME"
+	Value "Explosive Ammo"
+StringInfo
+	ID "IDS_ABILITY_ALLI_KILIMANJAROEXPLOSIVEAMMO_DESCRIPTION"
+	Value "The Kilimanjaro can activate an ammo modification system to fire Explosive rounds from its accelerators. Explosive ammo takes longer to longer to reload, but will cause area of effect damage around any target hit by it, decimating tightly packed fleet formations. Active Ammo powers drain Eezo every time a weapon is fired."
+StringInfo
+	ID "IDS_ABILITY_ALLI_BEIJINGLADARSWEEP_NAME"
+	Value "LADAR Sweep"
+StringInfo
+	ID "IDS_ABILITY_ALLI_BEIJINGLADARSWEEP_DESCRIPTION"
+	Value "Although the multitude of laser systems aboard the Beijing are primarily intended for more directly offensive purposes, their adaptable design allows them to be reconfigured for a short lived LADAR sweep of nearby space. Any ship trying to maintain Stealth within range of the Beijing while this system is active will be spotted and rendered targetable. Unfortunately, such intense scanning cannot be maintained for long before risk of permanent damage to the adaptable laser systems becomes too great."
+StringInfo
+	ID "IDS_ABILITY_ALLI_DEPLOYSTARBASE_NAME"
+	Value "Deploy Da-Jiao Starbase"
+StringInfo
+	ID "IDS_ABILITY_ALLI_DEPLOYSTARBASE_DESCRIPTION"
+	Value "Deploy a massive Da-Jiao class starbase at the target location. These powerful Alliance starbases serve as hubs for fleet activity, able to repair and resupply all manner of warships, while also acting as secure economic and governmental centers."
+StringInfo
+	ID "IDS_STARBASE_ALLIARCTURUS_NAME"
+	Value "Da-Jiao Starbase"
+StringInfo
+	ID "IDS_STARBASE_ALLISTARBASE_UPGRADECULTURE_NAME"
+	Value "Embed ANN Reporter"
+StringInfo
+	ID "IDS_STARBASE_ALLISTARBASE_UPGRADECULTURE_DESC"
+	Value "Allow an Alliance News Network reporter to embed on the station and give them permission to regularly interview station command staff. Although this will prove annoying for the station commander, it has a very positive impact on the public view of Alliance military spending, making the colonies feel safe and secure."
+StringInfo
+	ID "IDS_STARBASE_ALLISTARBASE_UPGRADEGOVERNMENT_NAME"
+	Value "Orbital Government"
+StringInfo
+	ID "IDS_STARBASE_ALLISTARBASE_UPGRADEGOVERNMENT_DESC"
+	Value "Alliance Starbases are often used as seats of government, both on a local and grand scale. By bringing aboard both expert administrators from Earth and colonial leadership, seperatist sentiment on the nearby colony can be quelled, greatly increasing the planets output."
+StringInfo
+	ID "IDS_STARBASE_ALLISTARBASE_UPGRADEHANGAR_NAME"
+	Value "Modular Launch Bays"
+StringInfo
+	ID "IDS_STARBASE_ALLISTARBASE_UPGRADEHANGAR_DESC"
+	Value "Although unarmed, Alliance Starbases are often covered in many small hangars, including dedicated fighter launch and recovery bays. Dedicating more modular space to expanding these facilities can raise the bases fighter compliment considerably, providing a potent and far reaching defense."
+StringInfo
+	ID "IDS_STARBASE_ALLISTARBASE_UPGRADEHULL_NAME"
+	Value "Strategic Hardening"
+StringInfo
+	ID "IDS_STARBASE_ALLISTARBASE_UPGRADEHULL_DESC"
+	Value "Starbases perform a key role in Alliance defensive strategy, acting as sparse but critical static locations where fleets can resupply and VIPs can be secured. Because of this importance they often recieve the most advanced and up to date defensive systems, ensuring that no matter how fierce the foe, the Alliance will endure."
+StringInfo
+	ID "IDS_STARBASE_ALLISTARBASE_UPGRADEPATROL_NAME"
+	Value "Fleet Beacon"
+StringInfo
+	ID "IDS_STARBASE_ALLISTARBASE_UPGRADEPATROL_DESC"
+	Value "Given the great strategic value of Starbases, it is rare that the Alliance ever leaves them unguarded. Even if there is not fleet in the immediate proximity, there is almost always a fleet within a single jump ready to aid the station in an emergency."
+StringInfo
+	ID "IDS_STARBASE_ALLISTARBASE_UPGRADEPOPULATION_NAME"
+	Value "Onboard Living Space"
+StringInfo
+	ID "IDS_STARBASE_ALLISTARBASE_UPGRADEPOPULATION_DESC"
+	Value "The massive Starbases of the Alliance often serve as some of the most important central locations in human territory, and with importance comes much civilian interest. Formally setting aside internal space for civilian amenities and larger quarters will attract a large taxable population the station, ensuring a constant, secure revenue stream."
+StringInfo
+	ID "IDS_STARBASE_ALLISTARBASE_UPGRADEREPAIR_NAME"
+	Value "Supply Stockpiles"
+StringInfo
+	ID "IDS_STARBASE_ALLISTARBASE_UPGRADEREPAIR_DESC"
+	Value "The primary military purpose of an Alliance Starbase is to provide a secure central location for efficient resupply and repair of the fleet. To this end, there is significant internal space set aside for stockpiling of munitions, prefabricated parts and basic consumables. Allocating even more space to these stockpiles will greatly improve the turn around time for fleets in need of resupply."
+StringInfo
+	ID "IDS_ABILITY_ALLI_DREADYARDREPAIR_NAME"
+	Value "Dreadnought Servicing"
+StringInfo
+	ID "IDS_ABILITY_ALLI_DREADYARDREPAIR_DESCRIPTION"
+	Value "Alliance doctrine calls for its shipyards to be highly versatile, not only capable of constructing warships but also servicing them to reduce downtime as much as possible for vital fleet elements. While ships are undergoing repairs, they will be unable to move or fight, and the Shipyard will be unable to construct new ships until repairs are finished."
+StringInfo
+	ID "IDS_ABILITY_ALLI_FRIGATEYARDREPAIR_NAME"
+	Value "Cruiser Servicing"
+StringInfo
+	ID "IDS_ABILITY_ALLI_FRIGATEYARDREPAIR_DESCRIPTION"
+	Value "Alliance doctrine calls for its shipyards to be highly versatile, not only capable of constructing warships but also servicing them to reduce downtime as much as possible for vital fleet elements. While ships are undergoing repairs, they will be unable to move or fight, and the Shipyard will be unable to construct new ships until repairs are finished."
 StringInfo
 	ID "IDS_ABILITY_NEUTRAL_PLANETSTRUCTURE_NAME"
 	Value "Planetary Installation"

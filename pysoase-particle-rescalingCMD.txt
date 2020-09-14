@@ -1,7 +1,0 @@
-pysoase modify "Position:[x1.124,x1.124,x1.124]" Particle\SaharaCloak.particle
-pysoase modify "ParticleHeight:x1.124" Particle\SaharaCloak.particle
-pysoase modify "ParticleWidth:x1.124" Particle\SaharaCloak.particle
-pysoase modify "BeginSizeX:x1.124" Particle\SaharaCloak.particle
-pysoase modify "BeginSizeY:x1.124" Particle\SaharaCloak.particle
-pysoase modify "EndSizeX:x1.124" Particle\SaharaCloak.particle
-pysoase modify "EndSizeY:x1.124" Particle\SaharaCloak.particle

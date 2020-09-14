@@ -1,0 +1,79 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 15
+brush
+	name "MAINVIEWICON_PLANETMODULE_FOREORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 91 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_FOREORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 121 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_FOREORBITALCULTURECENTER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 181 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_FOREORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 31 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_FOREORBITALBEAMDEFENSE"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 1 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_FOREORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 151 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_FOREORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 211 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_FOREORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 211 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_FOREORBITALANTIMATTERRECHARGER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 421 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_FOREORBITALTRADEPORT"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 241 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_FOREORBITALREFINERY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 331 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_FOREMETALEXTRACTOR"
+	content "Simple"
+	fileName "UI_FleetIcons"
+	pixelBox [ 427 , 65 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_FORECRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "UI_FleetIcons"
+	pixelBox [ 460 , 65 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_FOREORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 61 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_FOREORBITALCANNON"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 271 , 31 , 28 , 28 ]
+	

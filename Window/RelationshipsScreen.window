@@ -1,0 +1,181 @@
+TXT
+tabWindow
+	topLeftOffset [0,95]
+	buttonTopLeftOffset [28, 35]
+	buttonSize [ 210 , 60 ]
+	buttonIndicatorArea [120, -2, 72, 52]
+	buttonIndicatorBackdrop "TabWindowButtonIndicatorBackdrop"
+	titleStringId "blank"
+	titleFontId "TabbedScreenTitle"
+	titleArea [20, 20, 190, 40]
+	titleOverlayArea [12, 4, 208 , 59]
+	titleOverlay "TabWindowTitleOverlay"
+	buttonsBackdropArea [370, 68, 210, 749]
+	buttonsBackdropDetailArea [0, 0, 210, 749]
+	contentArea [230, 0, 814, 749]
+	buttonsBackdrop "TabWindowButtonBackdropInGame"
+	buttonsBackdropDetail ""
+	contentBackdrop ""
+	nonActiveButtonInternals
+		fontId "Label"
+		iconOffsetFromLeft -35
+		textOffsetFromLeft 14
+		underlay "TabButtonUnderlayNonActive"
+		overlay "TabButtonOverlayNonActive"						
+	activeButtonInternals
+		fontId "Label"
+		iconOffsetFromLeft -35
+		textOffsetFromLeft 14
+		underlay "TabButtonUnderlayActive"
+		overlay "TabButtonOverlayActive"		
+	closeButton
+		area [42, 640, 183 , 46]
+		fontId "AssetAndResourceAmount"
+		iconOffsetFromLeft -35
+		textOffsetFromLeft 2
+		underlay "TabButtonUnderlayNonActive"
+		overlay "TabButtonOverlayNonActive"						
+		icon "blank"
+		text "IDSResearchScreenCloseButton"
+relationshipsTabContentWindowDef
+	currentPlayerFrame
+		hoverArea [250,45,265,350]
+		portraitFrameArea [145, 120, 0 , 0]
+		portraitPictureArea [145, 205, 0 , 0]
+		portraitDeadOverlayArea [145, 120, 0 , 0]
+		diplomaticPointsArea [145, 310, 0, 0]
+		diplomaticPointsLabelArea [145, 280, 0, 0]
+		portraitUnderlay "PlayerScreenPortraitUnderlay"
+		portraitOverlay "PlayerScreenPortraitOverlay"
+		portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDead"
+		portraitBackdrop "PlayerScreenHappinessBackdropForHumanPlayer"
+		portraitBackdropArea [146,400,0,0]
+		iconArea [145000000, -100, 0, 0]
+		nameArea [1450000000, -40, 0, 0]	
+		nameFont "NotificationPlayer"
+		diplomacyPointsFont "WindowSubTitle2"
+		diplomacyPointsLabelFont "Label"
+	otherPlayersCount 9
+		otherPlayerFrame
+			hoverArea [115,-10,104,122]
+			portraitFrameArea [44, 138, 0 , 0]
+			portraitPictureArea [20, 80, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "PlayerScreenPortraitOverlayMedium"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [11, 195, 0, 0]
+			relationshipArea [50, 195, 0, 0]	
+			relationshipFont "ResearchTreeName"
+		otherPlayerFrame
+			hoverArea [115,210,104,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "PlayerScreenPortraitOverlayMedium"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 147, 0, 0]
+			relationshipArea [53, 146, 0, 0]	
+			relationshipFont "ResearchTreeName"
+		otherPlayerFrame
+			hoverArea [115,380,104,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "PlayerScreenPortraitOverlayMedium"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 147, 0, 0]
+			relationshipArea [53, 146, 0, 0]	
+			relationshipFont "ResearchTreeName"
+		otherPlayerFrame
+			hoverArea [229,502,104,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "PlayerScreenPortraitOverlayMedium"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 147, 0, 0]
+			relationshipArea [53, 146, 0, 0]	
+			relationshipFont "ResearchTreeName"
+		otherPlayerFrame
+			hoverArea [356,502,104,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "PlayerScreenPortraitOverlayMedium"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 147, 0, 0]
+			relationshipArea [53, 146, 0, 0]	
+			relationshipFont "ResearchTreeName"
+		otherPlayerFrame
+			hoverArea [482,502,104,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "PlayerScreenPortraitOverlayMedium"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 147, 0, 0]
+			relationshipArea [53, 146, 0, 0]	
+			relationshipFont "ResearchTreeName"
+		otherPlayerFrame
+			hoverArea [593,380,104,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "PlayerScreenPortraitOverlayMedium"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 147, 0, 0]
+			relationshipArea [53, 146, 0, 0]	
+			relationshipFont "ResearchTreeName"
+		otherPlayerFrame
+			hoverArea [593,210,104,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "PlayerScreenPortraitOverlayMedium"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 147, 0, 0]
+			relationshipArea [53, 146, 0, 0]	
+			relationshipFont "ResearchTreeName"
+		otherPlayerFrame
+			hoverArea [593,36,104,122]
+			portraitFrameArea [45, 90, 0 , 0]
+			portraitPictureArea [20, 35, 43 , 68]
+			portraitDeadOverlayArea [21, 25, 43 , 68]
+			portraitUnderlay "PlayerScreenPortraitUnderlay"
+			portraitOverlay "PlayerScreenPortraitOverlayMedium"
+			portraitOverlayWhenDead "PlayerScreenPortraitOverlayWhenDeadMedium"
+			iconArea [15, 147, 0, 0]
+			relationshipArea [53, 146, 0, 0]	
+			relationshipFont "ResearchTreeName"
+	leftUpTube "RelationshipScreenTubeUpLeft"
+	rightUpTube "RelationshipScreenTubeUpRight"
+	sideTube "RelationshipScreenTubeSide"
+	leftDownTube "RelationshipScreenTubeDownLeft"
+	rightDownTube "RelationshipScreenTubeDownRight"
+	downTube "RelationshipScreenTubeDown"
+	leftUpTubeCaps "RelationshipScreenTubeUpLeftCaps"
+	rightUpTubeCaps "RelationshipScreenTubeUpRightCaps"
+	sideTubeCaps "RelationshipScreenTubeSideCaps"
+	leftDownTubeCaps "RelationshipScreenTubeDownLeftCaps"
+	rightDownTubeCaps "RelationshipScreenTubeDownRightCaps"
+	downTubeCaps "RelationshipScreenTubeDownCaps"
+	otherPlayerOneTubeArea [237, 180, 0, 0]
+	otherPlayerTwoTubeArea [237, 300, 0, 0]
+	otherPlayerThreeTubeArea [237, 440, 0, 0]
+	otherPlayerFourTubeArea [300, 487, 0, 0]
+	otherPlayerFiveTubeArea [395, 487, 0, 0]
+	otherPlayerSixTubeArea [490, 487, 0, 0]
+	otherPlayerSevenTubeArea [553, 440, 0, 0]
+	otherPlayerEightTubeArea [553, 300, 0, 0]
+	otherPlayerNineTubeArea [553, 180, 0, 0]
+	legendArea [395,145,0,0]
+	legendFont "ResearchTreeName"
+				

@@ -1,0 +1,89 @@
+TXT
+tabWindow
+	topLeftOffset [0, -28]
+	buttonTopLeftOffset [16, 85]
+	buttonSize [ 210 , 60 ]
+	buttonIndicatorArea [148, -2, 72, 52]
+	buttonIndicatorBackdrop "TabWindowButtonIndicatorBackdrop"
+	titleStringId "blank"
+	titleFontId "TabbedScreenTitle"
+	titleArea [20, 40, 190, 40]
+	titleOverlayArea [21, 33, 190, 40]
+	titleOverlay "TabWindowTitleOverlay"
+	buttonsBackdropArea [0, 0, 210, 808]
+	buttonsBackdropDetailArea [0, 0, 210, 749]
+	contentArea [230, 0, 814, 808]
+	buttonsBackdrop "TabWindowButtonBackdropFrontEnd"
+	buttonsBackdropDetail ""
+	contentBackdrop "TabWindowContentBackdropFrontEnd"
+	nonActiveButtonInternals
+		fontId "Label"
+		iconOffsetFromLeft 40
+		textOffsetFromLeft 35
+		underlay "TabButtonUnderlayNonActive"
+		overlay "TabButtonOverlayNonActive"						
+	activeButtonInternals
+		fontId "Label"
+		iconOffsetFromLeft 40
+		textOffsetFromLeft 35
+		underlay "TabButtonUnderlayActive"
+		overlay "TabButtonOverlayActive"						
+	closeButton
+		area [36, 690, 170 , 46]
+		fontId "Label"
+		iconOffsetFromLeft 0
+		textOffsetFromLeft 16
+		underlay "TabButtonUnderlayNonActive"
+		overlay "TabButtonOverlayNonActive"					
+		icon "blank"
+		text "IDSStatsScreenCloseButton"
+statsContentWindowSharedDef
+	gameStatTypeListArea [50, 516, 690, 228]
+	gameStatTypeListItemGap 3
+	minValueArea [70, 389, 81 , 34]
+	maxValueArea [70, 114, 81 , 34]
+	maxTimeArea [640, 440, 81 , 34]
+	graphArea [158, 119, 555, 298]
+	graphBackdropArea [30, 70, 730 , 442]
+	showPlayerButtonTopLeft [149, 422]
+	showPlayerButtonSize [56 , 52]
+	showPlayerButtonStride [47, 0]
+	spacingBetweenGraphLines 0
+	minValueUnderlay "StatsScreenMinValueUnderlay"
+	minValueOverlay "StatsScreenMinValueOverlay"
+	maxValueUnderlay "StatsScreenMaxValueUnderlay"
+	maxValueOverlay "StatsScreenMaxValueOverlay"
+	maxTimeUnderlay "StatsScreenMaxTimeUnderlay"
+	maxTimeOverlay "StatsScreenMaxTimeOverlay"
+	graphUnderlay "StatsScreenGraphUnderlay"
+	graphOverlay "StatsScreenGraphOverlay"
+creditsStatsContentWindow
+	tabButtonIcon "blank"
+	tabButtonText "IDSStatsScreenTabButtonCredits"
+metalStatsContentWindow
+	tabButtonIcon "blank"
+	tabButtonText "IDSStatsScreenTabButtonMetal"
+crystalStatsContentWindow
+	tabButtonIcon "blank"
+	tabButtonText "IDSStatsScreenTabButtonCrystal"	
+shipsStatsContentWindow
+	tabButtonIcon "blank"
+	tabButtonText "IDSStatsScreenTabButtonShips"	
+capitalShipsStatsContentWindow
+	tabButtonIcon "blank"
+	tabButtonText "IDSStatsScreenTabButtonCapitalShips"
+titansStatsContentWindow
+	tabButtonIcon "blank"
+	tabButtonText "IDSStatsScreenTabButtonTitans"	
+modulesStatsContentWindow
+	tabButtonIcon "blank"
+	tabButtonText "IDSStatsScreenTabButtonModules"	
+planetsStatsContentWindow
+	tabButtonIcon "blank"
+	tabButtonText "IDSStatsScreenTabButtonPlanets"	
+combatStatsContentWindow
+	tabButtonIcon "blank"
+	tabButtonText "IDSStatsScreenTabButtonCombat"	
+empireStatsContentWindow
+	tabButtonIcon "blank"
+	tabButtonText "IDSStatsScreenTabButtonEmpire"	

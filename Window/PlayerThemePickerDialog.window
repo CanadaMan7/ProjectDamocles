@@ -1,0 +1,35 @@
+TXT
+backdropDimPercentage 0.7
+backdropBrush "UI_Background_PopUp_N"
+titleOverlayBrush "UI_Overlay_PopUp_EmblemSelection"
+size [1920 , 768]
+contentRefArea [448, 0, 1024, 768]
+titleRefArea [0, 0, 0, 0]
+titleOverlayRefArea [294, 61, 1180, 561]
+cancelButton
+	area [1248, 640, 224, 52]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 80
+	textOffsetFromLeft 1
+	underlay "UI_Button_PopUp"
+	overlay "None_Blank"	
+	icon "UI_Text_PopUp_Close"
+	text "blank"
+acceptButton
+	area [1006, 640, 224, 52]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 80
+	textOffsetFromLeft 1
+	underlay "UI_Button_PopUp"
+	overlay "None_Blank"	
+	icon "UI_Text_PopUp_Apply"
+	text "blank"
+titleTextId "blank"
+themeButtonSize [65 , 60]
+themeButtonStride [67, 84]
+themeButtonTopLeftOffset [222, 226]
+themeButtonMaxRowCount 12
+colorButtonSize [78 , 60]
+colorButtonStride [84, 84]
+colorButtonTopLeftOffset [ 0 , 226]
+colorButtonMaxRowCount 2

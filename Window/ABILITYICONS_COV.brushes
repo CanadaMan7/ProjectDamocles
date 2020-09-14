@@ -1,0 +1,1713 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 95
+brush
+	name "HUDICON_ABILITY_COVPROPHETSVENGEANCE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 219 , 995 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 219 , 995 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 219 , 995 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 995 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 995 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVINESCAPABLECERTAILY"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 110 , 995 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 110 , 995 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 110 , 995 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 995 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 995 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVDIVINEJUDGEMENT"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 437 , 73 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 437 , 73 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 437 , 73 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 73 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 73 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVSANCTIFIEDVAULT"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 995 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 995 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 995 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 995 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 995 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVSEIGELICHES"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 546 , 357 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 546 , 357 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 546 , 357 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 357 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 357 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVSEARINGDOOM"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1091 , 711 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1091 , 711 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1091 , 711 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 711 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 711 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVHIERARCHSCHOSEN"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1200 , 924 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1200 , 924 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1200 , 924 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 924 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 924 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVSHIELDDOME"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 219 , 1139 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 219 , 1139 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 219 , 1139 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 1139 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 1139 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVUHHANGAR"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 982 , 924 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 982 , 924 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 982 , 924 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 924 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 924 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVUHTRADE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1091 , 924 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1091 , 924 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1091 , 924 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 924 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 924 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVUHBLOCKCOLONIZE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 639 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 639 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 639 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 639 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 639 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVORSWEAPONBOOSTEXIT"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 873 , 924 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 873 , 924 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 873 , 924 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 924 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 924 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVSTEALTHSYSTEMS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 110 , 1139 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 110 , 1139 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 110 , 1139 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 1139 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 1139 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVBOLDSTRATEGY"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1091 , 144 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1091 , 144 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1091 , 144 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 144 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 144 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVALACRITOUSADVANCE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 982 , 144 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 982 , 144 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 982 , 144 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 144 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 144 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVHOLODECOY"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 873 , 570 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 873 , 570 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 873 , 570 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 570 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 570 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVSWEEPINGBEAMS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 1139 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 1139 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 1139 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 1139 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 1139 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVHARDLIGHTSHIELD"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 764 , 924 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 764 , 924 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 764 , 924 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 924 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 924 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVCLEANSINGLIGHT"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 655 , 924 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 655 , 924 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 655 , 924 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 924 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 924 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVCRITICALSCOURGING"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 546 , 924 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 546 , 924 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 546 , 924 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 924 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 924 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVHALLOFMIRRORS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1200 , 1067 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1200 , 1067 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1200 , 1067 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 1067 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 1067 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVCLOAKFRIGATEEXIT"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1200 , 357 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1200 , 357 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1200 , 357 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 357 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 357 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVCLOAKFRIGATE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 982 , 499 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 982 , 499 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 982 , 499 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 499 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 499 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVDRPDETECT"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1200 , 499 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1200 , 499 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1200 , 499 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 499 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 499 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVRPVDEBUFF"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1091 , 853 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1091 , 853 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1091 , 853 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 853 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 853 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVRPVSPEED"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1091 , 1067 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1091 , 1067 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1091 , 1067 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 1067 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 1067 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVPCSOVERLOAD"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 982 , 1067 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 982 , 1067 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 982 , 1067 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 1067 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 1067 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVORSCLOAK"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 982 , 499 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 982 , 499 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 982 , 499 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 499 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 499 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVCASSYNENGINEERING"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 437 , 924 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 437 , 924 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 437 , 924 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 924 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 924 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVCASLEADBYEXAMPLE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 328 , 924 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 328 , 924 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 328 , 924 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 924 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 924 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVCASHUNTING"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 873 , 711 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 873 , 711 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 873 , 711 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 711 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 711 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVOSSFLOW"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 219 , 924 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 219 , 924 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 219 , 924 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 924 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 924 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITYCOVOSS1"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 1067 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 1067 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 1067 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 1067 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 1067 , 106 , 69 ] 
+brush
+	name "HUDICON_COVSKILLEDINTERP"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 110 , 924 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 110 , 924 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 110 , 924 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 924 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 924 , 106 , 69 ] 
+brush
+	name "HUDICON_COVPLACEHOLDER"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 982 , 499 , 106 , 69 ] 
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 982 , 499 , 106 , 69 ] 
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 982 , 499 , 106 , 69 ] 
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 499 , 106 , 69 ] 
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 499 , 106 , 69 ] 
+brush
+	name "HUDICON_ABILITY_COVDDSBOARDING"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 924 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 924 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 924 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 924 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 924 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVDRPJAMMING"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 764 , 1067 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 764 , 1067 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 764 , 1067 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 1067 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 1067 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVDRPATTENUATION"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1200 , 853 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1200 , 853 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1200 , 853 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 853 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 853 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVCIVASSISTANCE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 873 , 853 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 873 , 853 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 873 , 853 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 853 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 853 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVMILASSISTANCE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 982 , 853 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 982 , 853 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 982 , 853 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 853 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 853 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVOASGLASSING"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 328 , 1067 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 328 , 1067 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 328 , 1067 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 1067 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 1067 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVDESTROY"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 437 , 782 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 437 , 782 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 437 , 782 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 782 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 782 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVBUILD"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 219 , 1067 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 219 , 1067 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 219 , 1067 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 1067 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 1067 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_PLASMABEAM"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 110 , 1067 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 110 , 1067 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 110 , 1067 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 1067 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 1067 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_TRANSFERANTIMATTER32ALT"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 219 , 782 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 219 , 782 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 219 , 782 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 782 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 782 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_TRANSFERANTIMATTER16ALT"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 110 , 782 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 110 , 782 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 110 , 782 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 782 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 782 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_TRANSFERANTIMATTER16"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 110 , 782 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 110 , 782 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 110 , 782 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 782 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 782 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_TRANSFERANTIMATTER4"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 782 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 782 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 782 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 782 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 782 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVREPAIR"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 437 , 711 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 437 , 711 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 437 , 711 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 711 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 711 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVDEPLOYSTARBASE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 328 , 782 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 328 , 782 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 328 , 782 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 782 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 782 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVHONORPILOTS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 219 , 711 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 219 , 711 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 219 , 711 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 711 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 711 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVPLANETREINFORCE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 110 , 711 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 110 , 711 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 110 , 711 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 711 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 711 , 106 , 69 ]
+brush
+	name "HUDICON_COVCOORDSYSTEMS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 982 , 357 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 982 , 357 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 982 , 357 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 357 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 357 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_DOSDECLOAK"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 215 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 219 , 215 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 219 , 215 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 215 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 215 , 106 , 69 ]
+brush
+	name "HUDICON_COVRESUPPLY"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 711 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 711 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 711 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 711 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 711 , 106 , 69 ]
+brush
+	name "HUDICON_CDAWALLOFFAITH2"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 764 , 357 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 764 , 357 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 764 , 357 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 357 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 357 , 106 , 69 ]
+brush
+	name "HUDICON_CDADIVINEENTANGLE2"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 873 , 357 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 873 , 357 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 873 , 357 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 357 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 357 , 106 , 69 ]
+brush
+	name "HUDICON_CDAFACTORY"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 546 , 780 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 546 , 780 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 546 , 780 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 780 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 780 , 106 , 69 ]
+brush
+	name "HUDICON_CDADIVINEENTANGLE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 873 , 357 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 873 , 357 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 873 , 357 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 357 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 357 , 106 , 69 ]
+brush
+	name "HUDICON_CDAWALLOFFAITH"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 764 , 357 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 764 , 357 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 764 , 357 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 357 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 357 , 106 , 69 ]
+brush
+	name "HUDICON_CDATOUGH"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 655 , 357 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 655 , 357 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 655 , 357 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 357 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 357 , 106 , 69 ]
+brush
+	name "HUDICON_CDAHANGAR"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 110 , 215 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 110 , 215 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 110 , 215 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 215 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 215 , 106 , 69 ]
+brush
+	name "HUDICON_COVEXTRACTORCAP"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 764 , 215 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 764 , 215 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 764 , 215 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 215 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 215 , 106 , 69 ]
+brush
+	name "HUDICON_COV_NONEDETECTMINES"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 437 , 357 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 437 , 357 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 437 , 357 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 357 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 357 , 106 , 69 ]
+brush
+	name "HUDICON_COV_DETECTMINES"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 437 , 357 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 437 , 357 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 437 , 357 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 357 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 357 , 106 , 69 ]
+brush
+	name "HUDICON_COVCLOAKING"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 328 , 357 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 328 , 357 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 328 , 357 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 357 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 357 , 106 , 69 ]
+brush
+	name "HUDICON_COVEXPLORE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1091 , 73 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1091 , 73 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1091 , 73 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 73 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 73 , 106 , 69 ]
+brush
+	name "HUDIcon_OASWEAPONDAMAGE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 1 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 1 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 1 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 1 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 1 , 106 , 69 ]
+brush
+	name "HUDIcon_OASDURABILITY"
+	content "States"
+	Disabled
+		fileName "SOTP_ABILITYSHEETDISABLED_COV"
+		pixelBox [ 11 , 81 , 86 , 50 ]
+	Pressed
+		fileName "SOTP_ABILITYSHEETPRESSED_COV"
+		pixelBox [ 11 , 81 , 86 , 50 ]
+	CursorOver
+		fileName "SOTP_ABILITYSHEETCURSOROVER_COV"
+		pixelBox [ 11 , 81 , 86 , 50 ]
+	Focused
+		fileName "SOTP_ABILITYSHEETNORMAL_COV"
+		pixelBox [ 11 , 81 , 86 , 50 ]
+	Normal
+		fileName "SOTP_ABILITYSHEETNORMAL_COV"
+		pixelBox [ 11 , 81 , 86 , 50 ]
+brush
+	name "HUDICON_ABILITY_PTORPSPLASH"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 219 , 357 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 219 , 357 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 219 , 357 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 357 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 357 , 106 , 69 ]
+brush
+	name "HUDICON_POWERTOSHIELDSCOVOAS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 110 , 357 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 110 , 357 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 110 , 357 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 357 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 357 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_OASEPLANCE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1200 , 144 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1200 , 144 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1200 , 144 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 144 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 144 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_OASHAND"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 437 , 144 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 437 , 144 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 437 , 144 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 144 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 144 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_PIOUSINSPIRATION"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1091 , 144 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1091 , 144 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1091 , 144 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 144 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 144 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVCASWEAPONS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 982 , 144 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 982 , 144 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 982 , 144 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 144 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 144 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVVOIDBEACON"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 873 , 73 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 873 , 73 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 873 , 73 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 73 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 73 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVPROTECTOROFTHEJOURNEY"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 873 , 144 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 873 , 144 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 873 , 144 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 144 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 144 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVMICROPHASEJUMP"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 764 , 144 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 764 , 144 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 764 , 144 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 144 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 144 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_FOREENERGYCAPACITOR"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 764 , 73 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 764 , 73 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 764 , 73 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 73 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 73 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVDESIGNATETARGET"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 655 , 144 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 655 , 144 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 655 , 144 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 144 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 144 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_ELUSIVESHADOW"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 546 , 144 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 546 , 144 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 546 , 144 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 144 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 144 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_OVERCHARGEWEAPONS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 655 , 73 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 655 , 73 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 655 , 73 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 73 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 73 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_FLAKBURSTCOV"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 546 , 73 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 546 , 73 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 546 , 73 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 73 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 73 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_MOBILEPHASE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 357 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 357 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 357 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 357 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 357 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_CLAIRVOYANCE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 110 , 144 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 110 , 144 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 110 , 144 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 144 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 144 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COVMOREFIGHTERS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 873 , 1067 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 873 , 1067 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 873 , 1067 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 1067 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 1067 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_HEAVYSTRIKECRAFT"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 328 , 73 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 328 , 73 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 328 , 73 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 73 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 73 , 106 , 69 ]
+brush
+	name "HUDICON_COVCAPGLASSING"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 328 , 144 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 328 , 144 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 328 , 144 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 144 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 144 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_FRIGATECOLONIZECOV"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 73 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 73 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 73 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 73 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 73 , 106 , 69 ]
+brush
+	name "HUDICON_POWERTOSHIELDSCOV"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 219 , 73 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 219 , 73 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 219 , 73 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 73 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 73 , 106 , 69 ]
+brush
+	name "HUDICON_COVCCSGLASSING"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 110 , 73 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 110 , 73 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 110 , 73 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 73 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 73 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_ORSEMP"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 219 , 144 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 219 , 144 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 219 , 144 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 144 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 144 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_ORSFLEETMANAGE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1200 , 73 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1200 , 73 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1200 , 73 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 73 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 73 , 106 , 69 ]
+brush
+	name "HUDICON_ORSWEAPONBOOST"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 144 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 144 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 144 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 144 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 144 , 106 , 69 ]
+brush
+	name "HUDICON_ABILITY_COLONIZECOV"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 73 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 73 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 73 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 73 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 73 , 106 , 69 ]

@@ -1,0 +1,466 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 38
+brush
+	name "HUDICON_PLANETMODULE_COVORBITALSHIELD"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 437 , 995 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 437 , 995 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 437 , 995 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 995 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 995 , 106 , 69 ]
+brush
+	name "HUDICON_PLANETMODULE_COVCULTURESTATION"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 328 , 994 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 328 , 994 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 328 , 994 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 994 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 994 , 106 , 69 ]
+brush
+	name "HUDICON_PLANETMODULE_COVHANGARPLATFORM"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1200 , 782 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1200 , 782 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1200 , 782 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 782 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 782 , 106 , 69 ]
+brush
+	name "HUDICON_PLANETMODULE_COVPATROLSTATION"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 546 , 1065 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 546 , 1065 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 546 , 1065 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 1065 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 1065 , 106 , 69 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVTITANFACTORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 121 , 61 , 28 , 28 ]
+brush
+	name "HUDICON_PLANETMODULE_COVTITANFACTORY"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COVFRIGATEFACTORY"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 655 , 782 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 655 , 782 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 655 , 782 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 782 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 782 , 106 , 69 ]
+brush
+	name "HUDICON_PLANETMODULE_COVCAPITALSHIPFACTORY"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 764 , 780 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 764 , 781 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 764 , 781 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 781 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 781 , 106 , 69 ]
+brush
+	name "HUDICON_PLANETMODULE_COVCULTURECENTER"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COVHANGARDEFENSE"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 853 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 853 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 853 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 853 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 853 , 106 , 69 ]
+brush
+	name "HUDICON_PLANETMODULE_COVMISSILEDEFENSE"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COVREPAIRPLATFORM"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 110 , 853 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 110 , 853 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 110 , 853 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 853 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 853 , 106 , 69 ]
+brush
+	name "HUDICON_PLANETMODULE_COVCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 982 , 782 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 982 , 782 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 982 , 782 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 782 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 782 , 106 , 69 ]
+brush
+	name "HUDICON_PLANETMODULE_COVNONCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 873 , 780 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 873 , 780 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 873 , 780 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 780 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 780 , 106 , 69 ]
+brush
+	name "HUDICON_PLANETMODULE_COVPHASEGATE"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COVNANOWEAPONJAMMER"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COVTRADEPORT"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1091 , 782 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1091 , 782 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1091 , 782 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 782 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 782 , 106 , 69 ]
+brush
+	name "HUDICON_PLANETMODULE_COVREFINERY"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 982 , 215 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 982 , 215 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 982 , 215 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 215 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 215 , 106 , 69 ]
+brush
+	name "HUDICON_PLANETMODULE_COVMETALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 437 , 1067 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 437 , 1067 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 437 , 1067 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 1067 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 1067 , 106 , 69 ]
+brush
+	name "HUDICON_PLANETMODULE_COVCRYSTALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 1280 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 1280 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 1280 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 1280 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 1280 , 106 , 69 ]
+brush
+	name "HUDICON_PLANETMODULE_COVJUMPBLOCKER"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_COVCANNON"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVFRIGATEFACTORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 91 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 121 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVCULTURECENTER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 181 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVHANGARDEFENSE"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 31 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVMISSILEDEFENSE"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 1 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVREPAIRPLATFORM"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 151 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVCOMBATLABORATORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 211 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 211 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVPHASEGATE"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 421 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVNANOWEAPONJAMMER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 451 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVTRADEPORT"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 241 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVREFINERY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 331 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVMETALEXTRACTOR"
+	content "Simple"
+	fileName "UI_FleetIcons"
+	pixelBox [ 427 , 34 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "UI_FleetIcons"
+	pixelBox [ 460 , 34 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVJUMPBLOCKER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 61 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_COVCANNON"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 271 , 61 , 28 , 28 ]

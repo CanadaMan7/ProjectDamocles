@@ -1,0 +1,103 @@
+TXT
+tabButtonIcon "UI_SubMenus_Text_UISetings"
+tabButtonText "blank"
+resetButton
+	area [408, 79, 204 , 58]
+	fontId ""
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_TopbarButton"
+	overlay "UI_Overlay_Settings_UISettings"			
+	icon "UI_TextTop_Reset"
+	text "blank"
+toggleScreenShotModeButton														
+	area [180, 167, 56, 10]
+	fontId "ListItem"
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "None_Blank"
+	overlay "None_Blank"			
+	onIcon "CheckBoxCheckStateTrue"
+	offIcon "CheckBoxCheckStateFalse"
+	onText "blank"	
+	offText "blank"	
+showInfoCardsCheckBox
+	area [16, 360, 56, 10]
+	text "blank"	
+showGavWellCheckBox
+	area [16, 404, 56, 10]
+	text "blank"	
+showConnectionsCheckBox
+	area [16, 448, 56, 10]
+	text "blank"	
+showNamesCheckBox
+	area [16, 228, 56, 10]
+	text "blank"						
+showTeamColorsCheckBox															
+	area [268, 631, 48, 10]
+	text "blank"					
+showMainViewIconsCheckBox														
+	area [16, 492, 56, 10]
+	text "blank"
+showMeshPlayerOwnerIconAlwaysCheckBox
+	area [16, 536, 56, 10]
+	text "blank"	
+showEmpireWindowAlliesCheckBox												
+	area [521, 228, 56, 10]
+	text "blank"	
+showEmpireWindowBackdropCheckBox
+	area [521, 272, 56, 10]
+	text "blank"		
+showEmpireWindowFleetsCheckBox
+	area [521, 316, 56, 10]
+	text "blank"
+showEmpireWindowHyperspacersCheckBox
+	area [521, 360, 56, 10]
+	text "blank"	
+alwaysShowEmpireWindowFleetsCheckBox
+	area [521, 404, 56, 10]
+	text "blank"		
+autoPinPlanetsCheckBox
+	area [521, 448, 56, 10]
+	text "blank"	
+autoPinCapitalShipsCheckBox
+	area [521, 492, 56, 10]
+	text "blank"	
+autoPinFrigatesCheckBox
+	area [521, 536, 56, 10]
+	text "blank"					
+showCargoShipMainViewIconsCheckBox												
+	area [16, 316, 56, 10]
+	text "blank"	
+showTacticalGridCheckBox
+	area [16, 272, 56, 10]
+	text "blank"					
+alwaysAutoPlaceExtractorsCheckBox												
+	area [16, 631, 56, 10]
+	text "blank"		
+invertCameraHorizontalRotationCheckBox										
+	area [269, 228, 56, 10]
+	text "blank"	
+invertCameraVerticalRotationCheckBox
+	area [268, 272, 56, 10]
+	text "blank"	
+isCameraZoomToCursorCheckBox
+	area [268, 316, 56, 10]
+	text "blank"	
+isCameraFreeRotateEnabledCheckBox
+	area [268, 360, 56, 10]
+	text "blank"	
+enableAutoStrafeCheckBox
+	area [268, 404, 56, 10]
+	text "blank"			
+showQuickNPCWindowCheckBox														
+	area [520, 631, 56, 10]
+	text "blank"		
+zoomSensitivityScrollBar
+	area [266, 448, 185, 10]
+	text "IDSOptionsScreenUserInterfaceOptionsZoomSensitivity"	
+uiScaleTextEntry
+	area [266, 468, 195, 30]
+	labelWidth 110
+	labelText "IDSOptionsScreenUserInterfaceOptionsUIScale"
+		

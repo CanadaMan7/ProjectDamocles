@@ -1,0 +1,62 @@
+TXT
+pipCloud(Modules)
+	segmentCount 10
+	segmentLayout
+		textureName "UX_MainView_Assets"
+		startTopLeft [50,246]
+		width 50
+		height 21
+		rowItemCount 5
+		horizontalStride 50
+		verticalStride 0
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+pipCloud(FriendlyShips)
+	segmentCount 10
+	segmentLayout
+		textureName "UX_MainView_Assets"
+		startTopLeft [25,142]
+		width 25
+		height 52
+		rowItemCount 10
+		horizontalStride 25
+		verticalStride 52
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+pipCloud(EnemyShips)
+	segmentCount 10
+	segmentLayout
+		textureName "UX_MainView_Assets"
+		startTopLeft [25,194]
+		width 25
+		height 52
+		rowItemCount 10
+		horizontalStride 25
+		verticalStride 52
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	segmentOffset [0, 0]
+	

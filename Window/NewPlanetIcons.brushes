@@ -1,0 +1,1073 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 214
+brush
+	name "PICTURE_PLANET_STARWIP"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 359 , 793 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_ASTEROIDBELT1"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 714 , 4 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_MAGNETICCLOUD1"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 1069 , 530 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_PLASMASTORM1"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 1424 , 530 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_BLACKHOLE1"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 1779 , 4 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_SHIELDWORLD"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 2135 , 530 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_UNKNOWN1"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 4 , 793 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_FLOODWORLD"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 1779 , 530 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_ASTEROID"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 359 , 4 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_GLASSED"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 714 , 267 , 352 , 259 ]
+brush
+	name "HUDICONSMALL_PLANET_GGIANT_TEAL"
+	content "Simple"
+	fileName "20x20GGiantIcons"
+	pixelBox [ 0 , 40 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_UNDETECTED_GGIANT_TEAL"
+	content "Simple"
+	fileName "40x40UndetectGGiantIcons"
+	pixelBox [ 0 , 80 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_GGIANT_TEAL"
+	content "Simple"
+	fileName "40x40GGiantIcons"
+	pixelBox [ 0 , 80 , 40 , 40 ]
+brush
+	name "HUDICONSMALL_PLANET_GGIANT_PINK"
+	content "Simple"
+	fileName "20x20GGiantIcons"
+	pixelBox [ 0 , 20 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_UNDETECTED_GGIANT_PINK"
+	content "Simple"
+	fileName "40x40UndetectGGiantIcons"
+	pixelBox [ 0 , 40 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_GGIANT_PINK"
+	content "Simple"
+	fileName "40x40GGiantIcons"
+	pixelBox [ 0 , 40 , 40 , 40 ]
+brush
+	name "HUDICONSMALL_PLANET_GGIANT_GREEN"
+	content "Simple"
+	fileName "20x20GGiantIcons"
+	pixelBox [ 0 , 0 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_UNDETECTED_GGIANT_GREEN"
+	content "Simple"
+	fileName "40x40UndetectGGiantIcons"
+	pixelBox [ 0 , 0 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_GGIANT_GREEN"
+	content "Simple"
+	fileName "40x40GGiantIcons"
+	pixelBox [ 0 , 0 , 40 , 40 ]
+brush
+	name "HUDICONSMALL_PLANET_DOISAC"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 520 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_DOISAC_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 1040 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_DOISAC"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 1040 , 40 , 40 ]
+brush
+	name "HUDICONSMALL_PLANET_SHIELD_WORLD2"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 500 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_SHIELD_WORLD2_UNDETECTED"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 750 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_SHIELD_WORLD2"
+	content "Simple"
+	fileName "30x30PlanetIcons"
+	pixelBox [ 0 , 750 , 30 , 30 ]
+brush
+	name "HUDICONSMALL_PLANET_TERRANSHIELD"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 480 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_TERRANSHIELD_UNDETECTED"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 720 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_TERRANSHIELD"
+	content "Simple"
+	fileName "30x30PlanetIcons"
+	pixelBox [ 0 , 720 , 30 , 30 ]
+brush
+	name "HUDICONSMALL_PLANET_GLASSED"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 460 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_GLASSED_UNDETECTED"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 690 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_GLASSED"
+	content "Simple"
+	fileName "30x30PlanetIcons"
+	pixelBox [ 0 , 690 , 30 , 30 ]
+brush
+	name "HUDICONSMALL_PLANET_BLACKHOLE"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 440 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_BLACKHOLE_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 880 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_BLACKHOLE"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 880 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_TEMPERATE_UNDETECTED"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 630 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_TEMPERATE_UNDETECTED"
+	content "Simple"
+	fileName "20x20UndetectPlanetIcons"
+	pixelBox [ 0 , 420 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_TEMPERATE_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 840 , 40 , 40 ]
+brush
+	name "HUDICONSMALL_PLANET_TEMPERATE"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 420 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_DWARF_TEMPERATE"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 420 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_LARGE_TEMPERATE"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 420 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_TEMPERATE"
+	content "Simple"
+	fileName "30x30PlanetIcons"
+	pixelBox [ 0 , 630 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_TEMPERATE"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 420 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_TEMPERATE"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 840 , 40 , 40 ]
+brush
+	name "HUDICONSMALL_PLANET_MARS"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 400 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_MARS_UNDETECTED"
+	content "Simple"
+	fileName "20x20UndetectPlanetIcons"
+	pixelBox [ 0 , 400 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_MARS"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 400 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_LUNA"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 380 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LUNA_UNDETECTED"
+	content "Simple"
+	fileName "20x20UndetectPlanetIcons"
+	pixelBox [ 0 , 380 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LUNA"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 380 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_HIGHCHARITY"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 360 , 20 , 20 ]
+brush
+	name "PICTURE_PLANET_HIGHCHARITY"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 1350 , 167 , 75 ]
+brush
+	name "MAINVIEWICON_PLANET_HIGHCHARITY_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 720 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_HIGHCHARITY"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 720 , 40 , 40 ]
+brush
+	name "HUDICONSMALL_PLANET_TACOPIMP"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 340 , 20 , 20 ]
+brush
+	name "PICTURE_PLANET_TACOPIMP"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 4 , 530 , 352 , 259 ]
+brush
+	name "MAINVIEWICON_PLANET_TACOPIMP_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 680 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_TACOPIMP"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 680 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_ARCHIPELAGO"
+	content "Simple"
+	fileName "30x30PlanetIcons"
+	pixelBox [ 0 , 0 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_ARCHIPELAGO"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 0 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_ARCHIPELAGO"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 0 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_BARREN1"
+	content "Simple"
+	fileName "30x30PlanetIcons"
+	pixelBox [ 0 , 30 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_BARREN"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 20 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_BARREN"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 40 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_DESERT"
+	content "Simple"
+	fileName "30x30PlanetIcons"
+	pixelBox [ 0 , 60 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_DESERT"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 40 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_DESERT"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 80 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_FERROUS"
+	content "Simple"
+	fileName "30x30PlanetIcons"
+	pixelBox [ 0 , 90 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_FERROUS"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 60 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_FERROUS"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 120 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_FROZEN"
+	content "Simple"
+	fileName "30x30PlanetIcons"
+	pixelBox [ 0 , 120 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_FROZEN"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 80 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_FROZEN"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 160 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_GREENHOUSE1"
+	content "Simple"
+	fileName "30x30PlanetIcons"
+	pixelBox [ 0 , 150 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_GREENHOUSE"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 100 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_GREENHOUSE"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 200 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_METHANE"
+	content "Simple"
+	fileName "30x30PlanetIcons"
+	pixelBox [ 0 , 180 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_METHANE"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 120 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_METHANE"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 240 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_TEMPERATE2"
+	content "Simple"
+	fileName "30x30PlanetIcons"
+	pixelBox [ 0 , 210 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_TEMPERATE2"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 140 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_TEMPERATE2"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 280 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_OCEAN"
+	content "Simple"
+	fileName "30x30PlanetIcons"
+	pixelBox [ 0 , 240 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_OCEAN"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 160 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_OCEAN"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 320 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_VOLCANIC"
+	content "Simple"
+	fileName "30x30PlanetIcons"
+	pixelBox [ 0 , 270 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_VOLCANIC"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 180 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_VOLCANIC"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 360 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_HALO"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 400 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_WORMHOLE11"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 440 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_SHIELD_WORLD"
+	content "Simple"
+	fileName "30x30PlanetIcons"
+	pixelBox [ 0 , 360 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_GAS_GIANT"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 520 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_EARTH"
+	content "Simple"
+	fileName "30x30PlanetIcons"
+	pixelBox [ 0 , 420 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_REACH"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 600 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_SANGHELIOS"
+	content "Simple"
+	fileName "40x40PlanetIcons"
+	pixelBox [ 0 , 640 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_ARCHIPELAGO_UNDETECTED"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 0 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_ARCHIPELAGO_UNDETECTED"
+	content "Simple"
+	fileName "20x20UndetectPlanetIcons"
+	pixelBox [ 0 , 0 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_ARCHIPELAGO_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 0 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_BARREN_UNDETECTED1"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 30 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_BARREN_UNDETECTED"
+	content "Simple"
+	fileName "20x20UndetectPlanetIcons"
+	pixelBox [ 0 , 20 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_BARREN_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 40 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_DESERT_UNDETECTED"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 60 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_DESERT_UNDETECTED"
+	content "Simple"
+	fileName "20x20UndetectPlanetIcons"
+	pixelBox [ 0 , 40 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_DESERT_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 80 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_FERROUS_UNDETECTED"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 90 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_FERROUS_UNDETECTED"
+	content "Simple"
+	fileName "20x20UndetectPlanetIcons"
+	pixelBox [ 0 , 60 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_FERROUS_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 120 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_FROZEN_UNDETECTED"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 120 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_FROZEN_UNDETECTED"
+	content "Simple"
+	fileName "20x20UndetectPlanetIcons"
+	pixelBox [ 0 , 80 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_FROZEN_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 160 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_GREENHOUSE_UNDETECTED1"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 150 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_GREENHOUSE_UNDETECTED"
+	content "Simple"
+	fileName "20x20UndetectPlanetIcons"
+	pixelBox [ 0 , 100 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_GREENHOUSE_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 200 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_METHANE_UNDETECTED"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 180 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_METHANE_UNDETECTED"
+	content "Simple"
+	fileName "20x20UndetectPlanetIcons"
+	pixelBox [ 0 , 120 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_METHANE_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 240 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_METHANE2_UNDETECTED"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 180 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_METHANE2_UNDETECTED"
+	content "Simple"
+	fileName "20x20UndetectPlanetIcons"
+	pixelBox [ 0 , 120 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_METHANE2_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 240 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_TEMPERATE2_UNDETECTED"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 210 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_TEMPERATE2_UNDETECTED"
+	content "Simple"
+	fileName "20x20UndetectPlanetIcons"
+	pixelBox [ 0 , 140 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_TEMPERATE2_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 280 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_OCEAN_UNDETECTED"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 240 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_OCEAN_UNDETECTED"
+	content "Simple"
+	fileName "20x20UndetectPlanetIcons"
+	pixelBox [ 0 , 160 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_OCEAN_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 320 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_VOLCANIC_UNDETECTED"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 270 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_DWARF_VOLCANIC_UNDETECTED"
+	content "Simple"
+	fileName "20x20UndetectPlanetIcons"
+	pixelBox [ 0 , 180 , 20 , 20 ]
+brush
+	name "MAINVIEWICON_PLANET_LARGE_VOLCANIC_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 360 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_HALO_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 400 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_WORMHOLE_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 440 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_SHIELD_WORLD_UNDETECTED"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 360 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_GAS_GIANT_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 520 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_EARTH_UNDETECTED"
+	content "Simple"
+	fileName "30x30UndetectPlanetIcons"
+	pixelBox [ 0 , 420 , 30 , 30 ]
+brush
+	name "MAINVIEWICON_PLANET_REACH_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 600 , 40 , 40 ]
+brush
+	name "MAINVIEWICON_PLANET_SANGHELIOS_UNDETECTED"
+	content "Simple"
+	fileName "40x40UndetectPlanetIcons"
+	pixelBox [ 0 , 640 , 40 , 40 ]
+brush
+	name "HUDICONSMALL_PLANET_ARCHIPELAGO"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 0 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_DWARF_ARCHIPELAGO"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 0 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_LARGE_ARCHIPELAGO"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 0 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_BARREN1"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 20 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_DWARF_BARREN"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 20 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_LARGE_BARREN"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 20 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_DESERT"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 40 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_DWARF_DESERT"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 40 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_LARGE_DESERT"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 40 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_FERROUS"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 60 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_DWARF_FERROUS"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 60 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_LARGE_FERROUS"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 60 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_FROZEN"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 80 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_DWARF_FROZEN"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 80 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_LARGE_FROZEN"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 80 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_GREENHOUSE1"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 100 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_DWARF_GREENHOUSE"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 100 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_LARGE_GREENHOUSE"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 100 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_METHANE"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 120 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_DWARF_METHANE"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 120 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_LARGE_METHANE"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 120 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_METHANE2"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 120 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_DWARF_METHANE2"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 120 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_LARGE_METHANE2"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 120 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_TEMPERATE2"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 140 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_DWARF_TEMPERATE2"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 140 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_LARGE_TEMPERATE2"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 140 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_OCEAN"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 160 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_DWARF_OCEAN"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 160 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_LARGE_OCEAN"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 160 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_VOLCANIC"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 180 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_DWARF_VOLCANIC"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 180 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_LARGE_VOLCANIC"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 180 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_HALO"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 200 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_WORMHOLE1"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 220 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_SHIELD_WORLD"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 240 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_GAS_GIANT"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 260 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_EARTH"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 280 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_REACH"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 300 , 20 , 20 ]
+brush
+	name "HUDICONSMALL_PLANET_SANGHELIOS"
+	content "Simple"
+	fileName "20x20PlanetIcons"
+	pixelBox [ 0 , 320 , 20 , 20 ]
+brush
+	name "PICTURE_PLANET_ARCHIPELAGO"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 4 , 4 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_DWARF_ARCHIPELAGO"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 0 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_LARGE_ARCHIPELAGO"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 0 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_BARREN1"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 1424 , 4 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_DWARF_BARREN"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 75 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_LARGE_BARREN"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 75 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_DESERT"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 2489 , 4 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_DWARF_DESERT"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 150 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_LARGE_DESERT"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 150 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_FERROUS"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 4 , 267 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_DWARF_FERROUS"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 225 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_LARGE_FERROUS"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 225 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_FROZEN"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 359 , 267 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_DWARF_FROZEN"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 1424 , 4 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_LARGE_FROZEN"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 300 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_GREENHOUSE1"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 1069 , 267 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_DWARF_GREENHOUSE"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 1069 , 267 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_LARGE_GREENHOUSE"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 1069 , 267 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_METHANE"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 1424 , 267 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_DWARF_METHANE"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 1425 , 267 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_LARGE_METHANE"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 1425 , 267 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_METHANE2"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 1425 , 267 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_DWARF_METHANE2"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 1425 , 267 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_LARGE_METHANE2"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 1425 , 267 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_TEMPERATE"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 2135 , 267 , 351 , 259 ]
+brush
+	name "PICTURE_PLANET_DWARF_TEMPERATE"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 525 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_LARGE_TEMPERATE"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 525 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_OCEAN"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 1779 , 267 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_DWARF_OCEAN"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 600 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_LARGE_OCEAN"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 600 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_VOLCANIC"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 2489 , 267 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_DWARF_VOLCANIC"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 675 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_LARGE_VOLCANIC"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 675 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_HALO"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 750 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_WORMHOLE1"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 2489 , 530, 352 , 259 ]
+brush
+	name "PICTURE_PLANET_SHIELD_WORLD"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 900 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_GAS_GIANT"
+	content "Simple"
+	fileName "UI_HOLOBOXPLANETS"
+	pixelBox [ 4 , 530 , 352 , 259 ]
+brush
+	name "PICTURE_PLANET_EARTH"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 1050 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_REACH"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 1125 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_SANGHELIOS"
+	content "Simple"
+	fileName "PlanetPictures"
+	pixelBox [ 0 , 1200 , 167 , 75 ]

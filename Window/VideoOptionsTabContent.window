@@ -1,0 +1,50 @@
+TXT
+tabButtonIcon "UI_SubMenus_Text_DisplayOptions"
+tabButtonText "blank"
+resolutionListArea [0, 194, 228, 157]
+refreshRateListArea [378, 194, 228, 157]
+multiSampleTypeListArea [378, 398, 228, 158]
+anisotropyLevelListArea [0, 398, 228, 158]
+resetButton
+	area [204, 79, 204 , 58]
+	fontId ""
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_TopbarButton"
+	overlay ""			
+	icon "UI_TextTop_Reset"
+	text "blank"
+applyChangesButton
+	area [408, 79, 204 , 58]
+	fontId ""
+	iconOffsetFromLeft 0
+	textOffsetFromLeft 0
+	underlay "UI_TopbarButton"
+	overlay "UI_Overlay_Settings_DisplayOptions"				
+	icon "UI_TextTop_Apply"
+	text "blank"	
+resolutionListLabel
+	area [0, 0, 0, 0]
+	fontId "ButtonLabel"
+	text "blank"
+refreshRateListLabel
+	area [0, 0, 0, 0]
+	fontId "ButtonLabel"
+	text "blank"
+multiSampleTypeListLabel
+	area [0, 0, 0, 0]
+	fontId "ButtonLabel"
+	text "blank"
+anisotropyLevelListLabel
+	area [0, 0, 0, 0]
+	fontId "ButtonLabel"
+	text "blank"
+isWindowedCheckBox
+	area [520, 631, 56, 10]
+	text "blank"
+gammaScrollBar
+	area [14, 631, 168, 10]
+	text "IDSOptionsScreenVideoOptionsGamma"
+useSystemCursorCheckBox
+	area [268, 631, 56, 10]
+	text "blank"

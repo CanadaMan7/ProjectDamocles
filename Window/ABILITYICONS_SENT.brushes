@@ -1,0 +1,21 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 1
+brush
+	name "HUDICON_ABILITY_PLACEHOLDER"
+	content "States"
+	Disabled
+		fileName "RESEARCH_PLACE_DISABLED"
+		pixelBox [ 125 , 2 , 106 , 69 ]
+	Pressed
+		fileName "RESEARCH_PLACE_PRESSED"
+		pixelBox [ 125 , 2 , 106 , 69 ]
+	CursorOver
+		fileName "RESEARCH_PLACE_CURSOROVER"
+		pixelBox [ 125 , 2 , 106 , 69 ]
+	Focused
+		fileName "RESEARCH_PLACE_NORMAL"
+		pixelBox [ 125 , 2 , 106 , 69 ]
+	Normal
+		fileName "RESEARCH_PLACE_NORMAL"
+		pixelBox [ 125 , 2 , 106 , 69 ]

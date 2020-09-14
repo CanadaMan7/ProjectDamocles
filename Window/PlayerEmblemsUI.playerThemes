@@ -1,0 +1,34 @@
+TXT
+themeCount 60
+Icon
+	textureName "RaceLogos.tga"
+	startTopLeft [1,791]
+	width 32
+	height 32
+	rowItemCount 30
+	horizontalStride 40
+	verticalStride 40
+IconOverlay
+	textureName "RaceLogos.tga"
+	startTopLeft [1440 , 791]
+	width 14
+	height 14
+	rowItemCount 30
+	horizontalStride 20
+	verticalStride 20
+Picture
+	textureName "UI_PlayerEmblems.dds"
+	startTopLeft [0 , 96]
+	width 80
+	height 80
+	rowItemCount 30
+	horizontalStride 80
+	verticalStride 80
+PlanetIcon
+	textureName "UI_PlayerEmblems.dds"
+	startTopLeft [0 , 0]
+	width 48
+	height 48
+	rowItemCount 30
+	horizontalStride 48
+	verticalStride 48

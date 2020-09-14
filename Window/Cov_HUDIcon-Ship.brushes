@@ -1,0 +1,1015 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 75
+brush
+	name "HUDICON_CAPITALSHIP_COVCASSYFON"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 569 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 569 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 569 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 569 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 569 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_COVCASKEREL"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 546 , 639 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 546 , 639 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 546 , 639 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 639 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 639 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_COVAPS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 568 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 568 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 568 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 568 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 568 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_COVOAS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1 , 568 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1 , 568 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1 , 568 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 568 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1 , 568 , 106 , 69 ]
+brush
+	name "HUDICON_TITAN_COVOAS2"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 873 , 570 , 106 , 68 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 873 , 570 , 106 , 68 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 873 , 570 , 106 , 68 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 570 , 106 , 68 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 570 , 106 , 68 ]
+brush
+	name "HUDICON_TITAN_COVOAS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1091 , 711 , 106 , 68 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1091 , 711 , 106 , 68 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1091 , 711 , 106 , 68 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 711 , 106 , 68 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 711 , 106 , 68 ]
+brush
+	name "HUDICON_TITAN_COVBATTLESHIP"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 655 , 215 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 655 , 215 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 655 , 215 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 215 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 215 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_COVDOS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 328 , 570 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 328 , 570 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 328 , 570 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 570 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 570 , 106 , 69 ]
+brush
+	name "HUDICONLAUNCH_SQUADCOVCOMBAT"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled"
+		pixelBox [ 260 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed"
+		pixelBox [ 260 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver"
+		pixelBox [ 260 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 260 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 260 , 179 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_SQUADCOVCOMBAT"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 181 , 151 , 28 , 28 ]
+brush
+	name "HUDICONDOCK_SQUADCOVCOMBAT"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled"
+		pixelBox [ 311 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed"
+		pixelBox [ 311 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver"
+		pixelBox [ 311 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 311 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 311 , 179 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADCOVCOMBAT"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 300 , 294 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 300 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 294 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 300 , 294 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 300 , 294 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_COVCORVETTE"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_COVDDS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 219 , 570 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 219 , 570 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 219 , 570 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 570 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 570 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_COVCARRIER"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 104 , 294 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 104 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 294 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 104 , 294 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 104 , 294 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_COVCAS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 437 , 570 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 437 , 570 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 437 , 570 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 570 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 570 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_COVSUPPORT"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 202 , 294 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 202 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 294 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 202 , 294 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 202 , 294 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_COVADJUDICATOR"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 153 , 294 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 153 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 294 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 153 , 294 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 153 , 294 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_COVDDS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 92 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_COVADJUDICATOR"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 1 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_COVCARRIER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 61 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_COVCAS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 31 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_COVSUPPORT"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 121 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_COVSIEGE"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 91 , 151 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_COVSDV"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 982 , 570 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 982 , 570 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 982 , 570 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 570 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 570 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_COVPCS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1200 , 568 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1200 , 568 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1200 , 568 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 568 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 568 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_COVADP"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 219 , 853 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 219 , 853 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 219 , 853 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 853 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 853 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_COVRCS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 328 , 851 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 328 , 851 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 328 , 851 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 851 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 851 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_COVDDR"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 873 , 215 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 873 , 215 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 873 , 215 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 215 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 215 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_COVRPV"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 546 , 215 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 546 , 215 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 546 , 215 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 215 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 215 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_COVCCS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 437 , 851 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 437 , 851 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 437 , 851 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 851 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 851 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_COVDRP"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 655 , 853 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 655 , 853 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 655 , 853 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 853 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 853 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_COVPIOUS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1091 , 499 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1091 , 499 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1091 , 499 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 499 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 499 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_COVSTARBASECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 873 , 499 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 873 , 499 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 873 , 499 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 499 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 873 , 499 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_COVCPV"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 437 , 639 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 437 , 639 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 437 , 639 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 639 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 437 , 639 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_COVCAR"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 764 , 853 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 764 , 853 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 764 , 853 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 853 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 853 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_COVDAS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 764 , 711 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 764 , 711 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 764 , 711 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 711 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 711 , 106 , 69 ]
+brush
+	name "HUDICON_CAPITALSHIP_COVORS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 982 , 711 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 982 , 711 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 982 , 711 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 711 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 982 , 711 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_COVDAV"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 655 , 1067 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 655 , 1067 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 655 , 1067 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 1067 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 1067 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_COVDDA"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 328 , 639 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 328 , 639 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 328 , 639 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 639 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 328 , 639 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_COVCRS"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 110 , 570 , 106 , 65 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 110 , 570 , 106 , 65 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 110 , 570 , 106 , 65 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 570 , 106 , 65 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 570 , 106 , 65 ]
+brush
+	name "HUDICON_FRIGATE_COVUTILITY0"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_COVUTILITY1"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_COVMINELAYER"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 251 , 469 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 251 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 469 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 251 , 469 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 251 , 469 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_COVMODULECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 300 , 399 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 300 , 399 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 399 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 300 , 399 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 300 , 399 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COVANTIFIGHTER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 91 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COVCCS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 211 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COVCARRIER"
+	content "Simple"
+	fileName "SotP_Unit_Infocard"
+	pixelBox [ 162 , 185 , 22 , 22 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COVPIOUS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 1 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COVSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 391 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COVCPV"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 31 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COVCAR"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 241 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_COVORS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 271 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COVDAV"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 121 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COVCRS"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 61 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COVSDV"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 331 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COVUTILITY1"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 361 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COVMINELAYER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 421 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COVMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 181 , 241 , 28 , 28 ]
+brush
+	name "HUDICON_SQUAD_COVBANSHEECOMBAT"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1200 , 711 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1200 , 711 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1200 , 711 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 711 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1200 , 711 , 106 , 69 ]
+brush
+	name "HUDICON_FRIGATE_COVLICH"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 546 ,853 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 546 ,853 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 546 ,853 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 ,853 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 ,853 , 106 , 69 ]
+brush
+	name "HUDICON_SQUAD_COVSERAPHBOMBER"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 1091 , 570 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 1091 , 570 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 1091 , 570 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 570 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 1091 , 570 , 106 , 69 ]
+brush
+	name "HUDICON_SQUAD_COVSERAPHCOMBAT"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 546 , 570 , 106 , 69 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 546 , 570 , 106 , 69 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 546 , 570 , 106 , 69 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 570 , 106 , 69 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 546 , 570 , 106 , 69 ]
+brush
+	name "HUDICONLAUNCH_SQUAD_COVBANSHEECOMBAT"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 219 , 639 , 106 , 68 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 219 , 639 , 106 , 68 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 219 , 639 , 106 , 68 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 639 , 106 , 68 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 219 , 639 , 106 , 68 ]
+brush
+	name "HUDICONLAUNCH_SQUAD_COVSERAPHBOMBER"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 764 , 570 , 106 , 68 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 764 , 570 , 106 , 68 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 764 , 570 , 106 , 68 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 570 , 106 , 68 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 764 , 570 , 106 , 68 ]
+brush
+	name "HUDICONDOCK_SQUAD_COVBANSHEECOMBAT"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 110 , 639 , 106 , 68 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 110 , 639 , 106 , 68 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 110 , 639 , 106 , 68 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 639 , 106 , 68 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 110 , 639 , 106 , 68 ]
+brush
+	name "HUDICONDOCK_SQUAD_COVSERAPHBOMBER"
+	content "States"
+	Disabled
+		fileName "UI_ICONSHEETCOV_DISABLED"
+		pixelBox [ 655 , 570 , 106 , 68 ]
+	Pressed
+		fileName "UI_ICONSHEETCOV_PRESSED"
+		pixelBox [ 655 , 570 , 106 , 68 ]
+	CursorOver
+		fileName "UI_ICONSHEETCOV_CURSOROVER"
+		pixelBox [ 655 , 570 , 106 , 68 ]
+	Focused
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 570 , 106 , 68 ]
+	Normal
+		fileName "UI_ICONSHEETCOV_NORMAL"
+		pixelBox [ 655 , 570 , 106 , 68 ]
+brush
+	name "HUDICONSMALL_SQUAD_COVBANSHEECOMBAT"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 181 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUAD_COVSERAPHBOMBER"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 151 , 151 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_COVTRADESHIP"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 251 , 399 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 251 , 399 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 399 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 251 , 399 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 251 , 399 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COVTRADESHIP"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 151 , 241 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_COVREFINERYSHIP"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COVREFINERYSHIP"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 301 , 241 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_COVENVOY"
+	content "States"
+	Disabled
+		fileName "SotP_Unit_Hud_Disabled"
+		pixelBox [ 447 , 469 , 47 , 33 ]
+	Pressed
+		fileName "SotP_Unit_Hud_Pressed"
+		pixelBox [ 447 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "SotP_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 469 , 47 , 33 ]
+	Focused
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 447 , 469 , 47 , 33 ]
+	Normal
+		fileName "SotP_Unit_Hud_Normal"
+		pixelBox [ 447 , 469 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COVENVOY"
+	content "Simple"
+	fileName "SotP_Unit_Main"
+	pixelBox [ 301 , 91 , 28 , 28 ]	

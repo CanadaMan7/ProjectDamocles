@@ -1,0 +1,152 @@
+TXT
+animation-BottomWindowCoinDrop
+	numFrames 15
+	textureName "Coindrop.tga"
+	startTopLeft [0,0]
+	width 21
+	height 21
+	numPerRow 3
+	horizontalStride 21
+	verticalStride 24
+	framesPerSecond 15
+animation-ResearchButtonOverlay
+	numFrames 16
+	textureName "Animation_TopGlow.tga"
+	startTopLeft [0,0]
+	width 123
+	height 93
+	numPerRow 4
+	horizontalStride 125
+	verticalStride 94
+	framesPerSecond 10
+animation-OpenNPCWindowButtonOverlay
+	numFrames 16
+	textureName "Animation_TopGlow.tga"
+	startTopLeft [0,0]
+	width 123
+	height 93
+	numPerRow 4
+	horizontalStride 125
+	verticalStride 94
+	framesPerSecond 15
+animation-OpenPlayersWindowButtonOverlay
+	numFrames 16
+	textureName "Animation_TopGlow.tga"
+	startTopLeft [0,0]
+	width 123
+	height 93
+	numPerRow 4
+	horizontalStride 125
+	verticalStride 94
+	framesPerSecond 15
+animation-ResearchSubjectButtonTopOfQueueOverlay
+	numFrames 12
+	textureName "ANIMATION_RESEARCHCLEARED.tga"
+	startTopLeft [4,4]
+	width 139
+	height 79
+	numPerRow 3
+	horizontalStride 159
+	verticalStride 99
+	framesPerSecond 14
+animation-ResearchSubjectButtonRequiredAsPrerequisiteOverlay
+	numFrames 12
+	textureName "ANIMATION_RESEARCHNEEDED.tga"
+	startTopLeft [4,4]
+	width 139
+	height 79
+	numPerRow 3
+	horizontalStride 159
+	verticalStride 99
+	framesPerSecond 14
+animation-AutoCastEnabledOverlay
+	numFrames 15
+	textureName "ANIMATION_AUTOCASTCIRCLE.tga"
+	startTopLeft [4,3]
+	width 24
+	height 24
+	numPerRow 1
+	horizontalStride 24
+	verticalStride 27
+	framesPerSecond 12
+animation-ActionInProgressOverlay
+	numFrames 12
+	textureName "ANIMATION_HUD_ACTIONINPROGRESS.tga"
+	startTopLeft [20,1]
+	width 69
+	height 69
+	numPerRow 3
+	horizontalStride 109
+	verticalStride 73
+	framesPerSecond 15
+animation-PirateRaidWarning
+	numFrames 12
+	textureName "Animation_Pirate.tga"
+	startTopLeft [0,0]
+	width 63
+	height 73
+	numPerRow 2
+	horizontalStride 65
+	verticalStride 76
+	framesPerSecond 40
+animation-TabWindowActiveButtonIndicator
+	numFrames 9
+	textureName "None_Blank.dds"
+	startTopLeft [0,0]
+	width 1
+	height 1
+	numPerRow 1
+	horizontalStride 1
+	verticalStride 1
+	framesPerSecond 1
+animation-PirateTabButtonAttentionIndicator
+	numFrames 18
+	textureName "Animation_OrangeLight.tga"
+	startTopLeft [0,0]
+	width 72
+	height 81
+	numPerRow 3
+	horizontalStride 75
+	verticalStride 84
+	framesPerSecond 16
+animation-PlayerTabButtonAttentionIndicator
+	numFrames 18
+	textureName "Animation_OrangeLight.tga"
+	startTopLeft [0,0]
+	width 72
+	height 81
+	numPerRow 3
+	horizontalStride 75
+	verticalStride 84
+	framesPerSecond 16
+animation-PlayerSetupReadyToStartTrue
+	numFrames 1
+	textureName "REX_Player_Setup"
+	startTopLeft [500,572]
+	width 50
+	height 52
+	numPerRow 1
+	horizontalStride 0
+	verticalStride 33
+	framesPerSecond 3
+animation-PlayerSetupReadyToStartFalse
+	numFrames 1
+	textureName "REX_Player_Setup"
+	startTopLeft [500,520]
+	width 50
+	height 52
+	numPerRow 1
+	horizontalStride 0
+	verticalStride 33
+	framesPerSecond 15
+animation-OpenRelationshipWindowButtonOverlay
+	numFrames 16
+	textureName "Animation_TopGlow.tga"
+	startTopLeft [0,0]
+	width 123
+	height 93
+	numPerRow 4
+	horizontalStride 125
+	verticalStride 94
+	framesPerSecond 15
+	

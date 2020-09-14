@@ -1,4 +1,5 @@
 TXT
+<<<<<<< HEAD
 brushFileCount 114
 brushFile "Alliance_HUDIcon-Ability.brushes"
 brushFile "Alliance_HUDIcon-Action.brushes"
@@ -14,6 +15,9 @@ brushFile "Alliance_MainViewIcon-Module.brushes"
 brushFile "Alliance_MainViewIcon-Ship.brushes"
 brushFile "Alliance_Picture-Module.brushes"
 brushFile "Alliance_Picture-Ship.brushes"
+=======
+brushFileCount 100
+>>>>>>> master
 brushFile "COV_HUDIcon-ResearchButtons.brushes"
 brushFile "UNSC_HUDIcon-ResearchButtons.brushes"
 brushFile "UNSC_HUDIcon-Research_NEW.brushes"

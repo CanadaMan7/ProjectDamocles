@@ -6,6 +6,7 @@ size [1920 ,1080]
 contentRefArea [0, 0, 1920, 1080]
 titleRefArea [90, 40, 508, 30]
 titleOverlayRefArea [450, 240, 693, 90]
+<<<<<<< HEAD
 numFactionWindows 5
 	factionSelectWindowDef
 		backdropBrush "FACTIONPAGE_UNSC"
@@ -197,6 +198,9 @@ numFactionWindows 5
 			buttonTextFont "ButtonLabel"
 			buttonTextID "blank"
 			buttonTextArea [18,0,126,50]
+=======
+numFactionWindows 3
+>>>>>>> master
 	factionSelectWindowDef
 		backdropBrush "FACTIONPAGE_UNSC"
 		backdropArea [5, 30, 946, 717]

@@ -53,19 +53,22 @@ Weapon
 		fireDelay 0.000000
 		muzzleEffectName "FighterWeapon_UNSCMuzzle"
 		muzzleSoundMinRespawnTime 1.000000
-		muzzleSounds 
-			soundCount 3
-			sound "WEAPON_TECHSUPPORTAUTOCANNONLIGHT_MUZZLE"
-			sound "WEAPON_TECHSUPPORTAUTOCANNONLIGHT_MUZZLE_ALT1"
-			sound "WEAPON_TECHSUPPORTAUTOCANNONLIGHT_MUZZLE_ALT2"
-		hitEffectName ""
-		hitHullEffectSounds 
+		muzzleSounds
+			soundCount 6
+			sound "WEAPON_COUN_TURIANAUXMASSACCMUZZLE1"
+			sound "WEAPON_COUN_TURIANAUXMASSACCMUZZLE2"
+			sound "WEAPON_COUN_TURIANAUXMASSACCMUZZLE3"
+			sound "WEAPON_COUN_TURIANAUXMASSACCMUZZLE4"
+			sound "WEAPON_COUN_TURIANAUXMASSACCMUZZLE5"
+			sound "WEAPON_COUN_TURIANAUXMASSACCMUZZLE6"
+		hitEffectName "Weapon_Tech_AutoCannonFighter_Hit"
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
-		hitShieldsEffectSounds 
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
-		projectileTravelEffectName "FighterWeapon_UNSCCanon"
+		projectileTravelEffectName "Weapon_Psi_LaserFighter_Travel"
 Weapon 
 	WeaponType "Missile"
 	damageEnums 

@@ -1,11 +1,5 @@
 ﻿TXT
-NumStrings 10919
-StringInfo
-	ID "IDS_FREIGHTER_CERBREFINERYKOWLOON_NAME"
-	Value "Kowloon Refinery Ship"
-StringInfo
-	ID "IDS_FREIGHTER_CERBREFINERYKOWLOON_DESCRIPTION"
-	Value "This Kowloon class freighter is owned by a Cerberus Shell Corporation, and has been assigned the task of transporting raw materials to Cerberus Refineries."
+NumStrings 10807
 StringInfo
 	ID "IDS_ABILITY_NEUTRAL_PLANETSTRUCTURE_NAME"
 	Value "Planetary Installation"

@@ -11,7 +11,7 @@ typeCount 1
 frigateRoleType "Heavy"
 statCountType "FrigateHeavy"
 mainViewIcon "MAINVIEWICON_FRIGATE_UNSCCHARON"
-picture "PICTURE_FRIGATE_UNSCCHARON"
+picture "CRUISER_COUN_ALAREI"
 NameStringID "IDS_CRUISER_COUNALAREI_NAME"
 DescriptionStringID "IDS_CRUISER_COUNALAREI_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_CHARON"
@@ -73,18 +73,22 @@ Weapon
 			fireDelay 0.000000
 	muzzleEffectName "Weapon_UNSCAAA_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
-			soundCount 2
-			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE"
-			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE_ALT1"
-		hitEffectName "Weapon_UNSCAAA_Hit"
-		hitHullEffectSounds  
+		muzzleSounds
+			soundCount 6
+			sound "WEAPON_COUN_QUARIANBROADMASSACCMUZZLE1"
+			sound "WEAPON_COUN_QUARIANBROADMASSACCMUZZLE2"
+			sound "WEAPON_COUN_QUARIANBROADMASSACCMUZZLE3"
+			sound "WEAPON_COUN_QUARIANBROADMASSACCMUZZLE4"
+			sound "WEAPON_COUN_QUARIANBROADMASSACCMUZZLE5"
+			sound "WEAPON_COUN_QUARIANBROADMASSACCMUZZLE6"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
-		projectileTravelEffectName "Weapon_UNSCAAA_Travel"
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Tech_AutoCannonFighter_Travel"
 m_weaponIndexForRange 0
 firingAlignmentType "Default"
 TargetCountPerBank:FRONT 1

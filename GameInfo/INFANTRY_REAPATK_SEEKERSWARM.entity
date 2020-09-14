@@ -64,7 +64,7 @@ MeshNameInfo
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExplosionName "PlanetModuleSmall"
-mainViewIcon "MAINVIEWICON_INFANTRY_SPECOPS"
+mainViewIcon "MAINVIEWICON_INFANTRY_ALLIRESISTANCE"
 picture "PLANETMODULEPICTURE_TECHORBITALREPAIRPLATFORM"
 minShadow 0.000000
 maxShadow 0.000000

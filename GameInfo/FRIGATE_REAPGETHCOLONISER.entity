@@ -9,7 +9,6 @@ autoJoinFleetDefault FALSE
 canBomb FALSE
 typeCount 3
 frigateRoleType "Colony"
-frigateRoleType "Corvette"
 frigateRoleType "ResourceCapturer"
 statCountType "FrigateLight"
 mainViewIcon "MAINVIEWICON_FRIGATE_COUNGETH"
@@ -19,8 +18,8 @@ DescriptionStringID "IDS_FRIGATE_REAPGETHCOLONISER_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_COLONY"
 basePrice
 	credits 0.000000
-	metal 200.000000
-	crystal 120.000000
+	metal 100.000000
+	crystal 60.000000
 slotCount 5.000000
 BuildTime 22.000000
 hasLevels FALSE

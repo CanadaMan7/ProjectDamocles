@@ -1,5 +1,5 @@
 TXT
-brushFileCount 101
+brushFileCount 100
 brushFile "COV_HUDIcon-ResearchButtons.brushes"
 brushFile "UNSC_HUDIcon-ResearchButtons.brushes"
 brushFile "UNSC_HUDIcon-Research_NEW.brushes"
@@ -96,7 +96,6 @@ brushFile "Reaper_HUDIcon-Ship.brushes"
 brushFile "Reaper_InfoCardIcon-Generic.brushes"
 brushFile "Reaper_InfoCardIcon-Module.brushes"
 brushFile "Reaper_InfoCardIcon-Ship.brushes"
-brushFile "Reaper_MainViewIcon-Generic.brushes"
 brushFile "Reaper_MainViewIcon-Module.brushes"
 brushFile "Reaper_MainViewIcon-Ship.brushes"
 brushFile "Reaper_Picture-Module.brushes"

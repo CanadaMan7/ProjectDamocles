@@ -1,0 +1,80 @@
+CURRENT SHIP COMBAT BENEFITS FROM RESEARCH - UPDATE THIS AS YOU DO RESEARCH CHANGES
+
+====UNSC====
+
+Capital Ship purchasable levels: +1
+
+Ship build time: 16% (Ship build time, civil tree) + 10% (Last hull point tech) = 26%
+
+Planet Bombing: 30% (Spartan Assault Teams, combat tree) + 15% (Sophisticated A.I., combat tree) = 45%
+
+MAC: 
+	Rate of Fire: 0%
+	Damage: 55% (MAC/Deck Gun tree) + 5% (Intelligent A.I., combat tree) = 60%
+	
+Deck Guns: 
+	Rate of Fire: 10% (Intelligent A.I., combat tree)
+	Damage: 75% (MAC/Deck Gun tree) + 5% (Intelligent A.I., combat tree) = 80%
+	
+Archers:
+	Rate of Fire: 20% (Archer tree) + 10% (Intelligent A.I., combat tree) = 30%
+	Damage: 35% (Archer tree) + 5% (Intelligent A.I., combat tree) = 40%
+
+AA Helix:
+	Rate of Fire: 30% (AA Helix tree) + 5% (Intelligent A.I., combat tree) = 35%
+	Damage: 10% (AA Helix tree) + 5% (Intelligent A.I., combat tree) = 15%
+	
+Hull Restore Rate: 25% (Main Hull Point tree)
+
+Hull Points: 36% (Main Hull Point tree)
+
+Armor: 3.0 (Main Armor tree)
+
+Starbase Hull Points: 20% (Unbreachable Hull, defense tree) 
+
+
+
+
+====Covenant====
+
+Slipspace Speed (Slipspace tree, civilian): 40%
+
+Between Slipspace Nodes Speed (Slipspace tree, civilian): 20%
+
+Slipspace charge up time (Slipspace tree, civilian): 120%
+
+Planet Bombing: 50% (Planet Bombing tree)
+
+Plasma Torpedoes: 
+	Rate of Fire: 45% (Main Plasma Torpedo Tree) 
+	Damage: 25% (Main Plasma Torpedo Tree) 
+	
+Plasma Cannons [Seraph's weapon]: 
+	Rate of Fire: 30% (Main Plasma Cannon Tree) 
+	Damage: 40% (Main Plasma Cannon Tree) 
+	
+Pulse Lasers:
+	Rate of Fire: 35% (Main Pulse Laser Tree) 
+	Damage: 15% (Main Pulse Laser Tree) 
+	
+Energy Projector:
+	Rate of Fire: 30% (Main Energy Projector Tree) 
+	Damage: 40% (Main Energy Projector Tree) 
+	
+Shield Points: 45% (Main Shield Point tree)
+
+Shield Regeneration: 30% (Main Shield Point tree)
+	
+Hull Restore Rate: 25% (Main Hull Point tree)
+
+Hull Points: 26% (Main Hull Point tree)
+
+Mass Reduction: 15% (Ship movement tree)
+
+Capital Ship Turn Rate: 15% (Ship movement tree)
+
+Armor: 2.0 (Main Hull Point tree)
+
+
+
+

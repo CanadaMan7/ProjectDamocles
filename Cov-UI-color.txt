@@ -1,0 +1,5 @@
+The blue used for tweaking the Cov UI was #4669a4
+
+For the HUD itself, this was applied via a gradient map with it and black, but also the bottom most border in the alpha channel was brightened by 75
+
+For build buttons, the curse over, take regular icons and increase brightness by 50. Pressed is decrease brightness by 50

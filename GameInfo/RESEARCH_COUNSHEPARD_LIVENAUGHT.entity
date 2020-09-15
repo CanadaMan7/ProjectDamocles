@@ -1,17 +1,23 @@
 ﻿TXT2
 SinsArchiveVersion 193
 entityType "ResearchSubject"
-hudIcon "RESEARCHBUTTON_UNSC_UNSCDESC"
-smallHudIcon "RESEARCHBUTTON_UNSC_UNSCDESC"
+hudIcon ""
+smallHudIcon ""
 infoCardIcon ""
 NameStringID "IDS_RESEARCH_COUNSHEPARD_RENEGADE_NAME"
 DescriptionStringID "IDS_RESEARCH_COUNSHEPARD_RENEGADE_DESCRIPTION"
 researchWindowLocation
 	block 0
 	pos [ 4 , 7 ]
-ResearchField "Fleet"
+ResearchField "Defense"
 Prerequisites
-	NumResearchPrerequisites 0
+	NumResearchPrerequisites 2
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNINFANTRY_ELCOR1"
+		Level 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNCIVILIAN_COLONIZATIONFEVER"
+		Level 1
 	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COUNNEUTRAL"
 	RequiredCompletedResearchSubjects 10
 MinimumArtifactLevel -1

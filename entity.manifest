@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	4564
+entityNameCount	4566
 entityName "Ability_Neutral_DiplomaticImmunity.entity"
 entityName "Buff_Neutral_DiplomaticImmunity.entity"
 entityName "Ability_Neutral_FactionControl.entity"
@@ -4564,3 +4564,5 @@ entityName "RESEARCH_COUNCIVILIAN_STRIPMINING.entity"
 entityName "RESEARCH_COUNCIVILIAN_TEMPLEOFATHAME.entity"
 entityName "RESEARCH_COUNCIVILIAN_TURIANGARRISONS.entity"
 entityName "RESEARCH_COUNCIVILIAN_VOLUSEXPAND.entity"
+entityName "Buff_Coun_STGReportsSensor.entity"
+entityName "Buff_Coun_STGReportStart.entity"

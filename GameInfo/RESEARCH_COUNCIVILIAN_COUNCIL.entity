@@ -1,0 +1,67 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_CITADELCOUNCIL_RESEARCH"
+smallHudIcon "HUDICON_CITADELCOUNCIL_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_COUNCIVILIAN_COUNCIL_NAME"
+DescriptionStringID "IDS_RESEARCH_COUNCIVILIAN_COUNCIL_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 0 , 0 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 45.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 600.000000
+	metal 50.000000
+	crystal 100.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 0
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 0
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 7
+researchModifier
+	modifierType "ShipMaxSlots"
+	baseValue 200.000000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "CapitalShipMaxSlots"
+	baseValue 1.000000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "ShipMaxSlotLevel"
+	baseValue 1.000000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "CapitalShipMaxSlotLevel"
+	baseValue 1.000000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 1.000000
+	perLevelValue 0.000000
+	linkedPlanetType "Iron"
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.500000
+	perLevelValue 0.000000
+	linkedPlanetType "Asteroid"
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.500000
+	perLevelValue 0.000000
+	linkedPlanetType "Greenhouse"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

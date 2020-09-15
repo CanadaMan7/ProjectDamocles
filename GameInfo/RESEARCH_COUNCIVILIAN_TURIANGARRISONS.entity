@@ -1,0 +1,68 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_TURIANGARR_RESEARCH"
+smallHudIcon "HUDICON_TURIANGARR_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_COUNCIVILIAN_TURIANGARRISONS_NAME"
+DescriptionStringID "IDS_RESEARCH_COUNCIVILIAN_TURIANGARRISONS_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 1 , 3 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNSHEPARD_TURIANCOMMIT"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 50.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 800.000000
+	metal 100.000000
+	crystal 175.000000
+PerLevelCostIncrease
+	credits 150.000000
+	metal 50.000000
+	crystal 50.000000
+Tier 1
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 6
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.250000
+	linkedPlanetType "Iron"
+researchModifier
+	modifierType "PlanetUpgradeCostAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.250000
+	linkedPlanetUpgradeType "Infrastructure"
+researchModifier
+	modifierType "PlanetUpgradeBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.250000
+	linkedPlanetUpgradeType "Infrastructure"
+researchModifier
+	modifierType "PlanetUpgradeCostAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.250000
+	linkedPlanetUpgradeType "TacticalModules"
+researchModifier
+	modifierType "PlanetUpgradeBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.250000
+	linkedPlanetUpgradeType "TacticalModules"
+researchModifier
+	modifierType "BombingPopulationKilledPercAsDamageTarget"
+	baseValue 0.000000
+	perLevelValue 0.075000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

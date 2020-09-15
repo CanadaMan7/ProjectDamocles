@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 11448
+NumStrings 11378
 StringInfo
 	ID "IDS_PLAYERRACENAME_PSIREBEL"
 	Value "Alliance"
@@ -34014,3 +34014,135 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_COUN_GETHDREADHUNTERMODE_DESCRIPTION"
 	Value "The Navarch is equipped with specialised sensor systems that allow the Geth aboard to initiate Hunter Mode on a massive scale. While in this mode, the Navarch will have superior targetting and manoeuverability. Activating this mode will immediately reduce the ships barrier strength. Hunter Mode will remain active until either the ships Eezo reserve is depleted, or until it is deactived."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_ASARIMEGACITIES_NAME"
+	Value "Asari Mega Cities"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_ASARIMEGACITIES_DESCRIPTION"
+	Value "Asari architecture is famous across the galaxy for its beauty and grace, yet it conceals many more practical properties as well. The long term view taken by Asari architects has led to efficiency and longevity of design quite unlike anything else seen in the more short-lived races, with skyscrapers easily lasting thousands of years without problems. Employing these architects drastically reduces the cost of cities and megacities, while also increasing population on Temperate and Tropical Garden Worlds."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_BOOKOFPLENIX_NAME"
+	Value "Book Of Plenix"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_BOOKOFPLENIX_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_COLONIZATIONFEVER_NAME"
+	Value "Colonization Fever"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_COLONIZATIONFEVER_DESCRIPTION"
+	Value "Human Colonists are well known as being among the most enthusiastic, if not the most well preparred, anywhere in the galaxy. With Council support, their enthusiasm is only somewhat tempered, but they always have materials they need to rapidly set up both cities and megacities, populating them all much faster than most other Council races could dream of."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_CONSENSUSCOMPUTING_NAME"
+	Value "Consensus Computing"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_CONSENSUSCOMPUTING_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_COUNCIL_NAME"
+	Value "Citadel Council"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_COUNCIL_DESCRIPTION"
+	Value "You are playing as the Citadel Council. The Council economy is focused on generating credits, both through trade and tax. Thanks to the diverse species that live in Council Space, they have large innate bonuses to population on several types of Garden Worlds, specifically Dextro Worlds, Oceanic Worlds and Ammonia Worlds. Their culture is among the most prolific in the galaxy, and with research provides many powerful bonuses to vessels within it."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_DYNAMISCORP_NAME"
+	Value "Dynamis Corp"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_DYNAMISCORP_DESCRIPTION"
+	Value "A Boltzmann based corporation specializing in the exploitation of Gas Giants, Dynamis Corporation has recently gained a great deal of favor within the Council. Between its Helium-3 refueling stations and its metastable metallic hydrogen manufacturing plants, the corporation has greatly assisted in rapidly bringing Boltzmann to prominence. Dynamis experts are now being employed across the Council to help exploit Gas Giants and rapidly set up High Tech Industry."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_ELCORSTRATEGY_NAME"
+	Value "Elcor Economic Strategy"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_ELCORSTRATEGY_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_ELDFELLASHLAND_NAME"
+	Value "Eldfell-Ashland Energy"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_ELDFELLASHLAND_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_ELKOSSCOMBINE_NAME"
+	Value "Elkoss Combine"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_ELKOSSCOMBINE_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_ENKINDLERSGIFT_NAME"
+	Value "Enkindlers Gift"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_ENKINDLERSGIFT_DESCRIPTION"
+	Value "Hanar culture is based around the faith in the Enklindlers - also known as the Protheans to the galaxy at large. They believe that the Enklindlers gave them the gift of speech, allowing them to develop an advanced civilisation. By acknowledging this religion and the Hanar governments requests for more control over archeological sites, more Hanar will be attracted to help populate Council Ocean worlds, and Archeology will become cheaper."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_POLITEFACADE_NAME"
+	Value "Polite Facade"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_POLITEFACADE_DESCRIPTION"
+	Value "The Hanar are renowned across the galaxy for their polite and proper speech, yet those who understand the Hanar come to realise that this is but a facade. The Hanar are keenly aware of their physical vulnerability and percieved weakness as a galactic nation, and in order to compensate they have developed some extremely underhanded and brutal strategies. Despite their appearances, they are every bit as capable of vicious subterfuge as the Salarians or Batarians."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_EXOGENICONTRACTS_NAME"
+	Value "Exogeni Contracts"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_EXOGENICONTRACTS_DESCRIPTION"
+	Value "Exogeni is a major Corporation specialising in exploration and colonisation. Known for being highly efficient, repurposing anything and everything towards their ends, and in doing so, cutting costs. This efficiency has led to them recieving several favorable colonization contracts with the Council, and they are responsible for the initial settlement and exploitation of airless terrestrial worlds."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_KROGANHARDINESS_NAME"
+	Value "Krogan Hardiness"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_KROGANHARDINESS_DESCRIPTION"
+	Value "Not all Krogans are warriors, but all Krogans are survivors. Now that they have more united leadership and Council aid once more, their natural resilience as colonists can be leveraged more, their strength leading to greater mining outputs and their tenacity ensuring they survive in a war torn galaxy. They are also partial to dry worlds similar to their home, increasing population cap on Arid, Desert and Tundra worlds."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_MATERIALSEXPERTISE_NAME"
+	Value "Materials Expertise"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_MATERIALSEXPERTISE_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_NOVERIA_NAME"
+	Value "Noveria Labs"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_NOVERIA_DESCRIPTION"
+	Value "Noveria is a prominent planet in the galactic scientific community, known for its especially lax law in the realms of corporate research. Although officially not a Council world, many of its largest customers are companies with major stakes in Council affairs. Thanks to this, research can be outsourced and expedited at the Noverian Hot-Labs for only a small extra cost. In addition, the experts who designed these labs will help the Council to build new High Tech Industrial sectors for a reduced price."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_QUARIANEFFICIENCY_NAME"
+	Value "Quarian Efficiency"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_QUARIANEFFICIENCY_DESCRIPTION"
+	Value "Long centuries of life in the cramped confines of the Migrant Fleet have taught the Quarians a great many things about efficient use of space. By inviting Quarian experts to contribute towards Council trade regualtions, cargo space can be more efficiently used, increasing trade and refinery output. In addition, by adopting several Quarian customs, life on remote colonies can be improved, allowing many new citizens, Quarian and otherwise, to populate Planetoids, Moons and Asteroids."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_SALARIANSCIENCE_NAME"
+	Value "Salarian Scientists"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_SALARIANSCIENCE_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_STGREPORTS_NAME"
+	Value "STG Reports"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_STGREPORTS_DESCRIPTION"
+	Value "The Salarian Special Tasks Group is one of the finest intelligence agencies in the galaxy. By leveraging their superb spy network and exentisive surveillance technology, the Salarian Union can gather information on every planet that has Council culture present. In addition, all planets colonized after the STG has become active will continue to relay data back to the Council long after they fall to enemy forces."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_STRIPMINING_NAME"
+	Value "Strip Mining"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_STRIPMINING_DESCRIPTION"
+	Value "The Quarians are a resourceful people pushed to the limit to survive. Among the many talents they have developed since the loss of their homeworld is the capability to rapidly reduce mineral rich sites to barren wastelands. Although invasive, the advanced strip mining techniques they use are undeniably effective, bringing in resources that the Council desperately needs in this dire time."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_TEMPLEOFATHAME_NAME"
+	Value "Temple of Athame"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_TEMPLEOFATHAME_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_TURIANGARRISONS_NAME"
+	Value "Turian Garrisons"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_TURIANGARRISONS_DESCRIPTION"
+	Value "For the Turians, every City is a Garrison, and every Garrison a City. They make no distinction between civilian and military, and deploying larger infantry units comes along with natural city growth for the Turians. Accordingly, they have cheaper and faster infantry deployment on planets. The Hierarchy also directs much of its expeditionary colonization force towards Dextro Garden worlds, leading to much higher populations on these worlds."
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_VOLUSEXPAND_NAME"
+	Value "Volus Expansionism"
+StringInfo
+	ID "IDS_RESEARCH_COUNCIVILIAN_VOLUSEXPAND_DESCRIPTION"
+	Value "Although most Volus stay on Irune, it is less by choice and more by necessity. Planets with the correct atmospheric and gravitational conditions to support their unique biology are rare, which has artificially limited the species' colonization efforts. However, when an Ammonia world is discovered in Council Space, the Volus often immediately petition for settlement rights no matter whose territory it was discovered in. By granting them these rights, population on Ammonia worlds will be greatly increased."

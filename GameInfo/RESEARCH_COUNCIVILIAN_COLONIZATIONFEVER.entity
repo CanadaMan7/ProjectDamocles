@@ -1,0 +1,53 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_COLONIZATIONFEVER_RESEARCH"
+smallHudIcon "HUDICON_COLONIZATIONFEVER_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_COUNCIVILIAN_COLONIZATIONFEVER_NAME"
+DescriptionStringID "IDS_RESEARCH_COUNCIVILIAN_COLONIZATIONFEVER_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 1 , 2 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNSHEPARD_SYSTEMSALLIANCE"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 50.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 800.000000
+	metal 100.000000
+	crystal 175.000000
+PerLevelCostIncrease
+	credits 150.000000
+	metal 50.000000
+	crystal 50.000000
+Tier 1
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 3
+researchModifier
+	modifierType "PopulationGrowthRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.050000
+researchModifier
+	modifierType "PlanetUpgradeBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.075000
+	linkedPlanetUpgradeType "Population"
+researchModifier
+	modifierType "PlanetUpgradeBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.075000
+	linkedPlanetUpgradeType "Social"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

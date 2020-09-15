@@ -1,0 +1,48 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_QUARIANEFFICIENCY_RESEARCH"
+smallHudIcon "HUDICON_QUARIANEFFICIENCY_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_COUNCIVILIAN_QUARIANEFFICIENCY_NAME"
+DescriptionStringID "IDS_RESEARCH_COUNCIVILIAN_QUARIANEFFICIENCY_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 1 , 0 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNSHEPARD_MIGRANTFLEET"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COUNPARAGON"
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 50.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 800.000000
+	metal 100.000000
+	crystal 175.000000
+PerLevelCostIncrease
+	credits 150.000000
+	metal 50.000000
+	crystal 50.000000
+Tier 1
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.300000
+	linkedPlanetType "Moon"
+researchModifier
+	modifierType "CargoShipCapacityAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.050000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

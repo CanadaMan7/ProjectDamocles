@@ -32,10 +32,7 @@ Tier 1
 onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
-researchBoolModifiers 1
-researchModifier
-	modifierType "PlanetIsColonizable"
-	linkedPlanetType "Ice"
+researchBoolModifiers 0
 researchFloatModifiers 1
 researchModifier
 	modifierType "PlanetUpgradeBuildRateAdjustment"

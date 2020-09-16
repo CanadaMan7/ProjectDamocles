@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 11382
+NumStrings 11390
 StringInfo
 	ID "IDS_PLAYERRACENAME_PSIREBEL"
 	Value "Alliance"
@@ -34146,3 +34146,27 @@ StringInfo
 StringInfo
 	ID "IDS_RESEARCH_COUNCIVILIAN_VOLUSEXPAND_DESCRIPTION"
 	Value "Although most Volus stay on Irune, it is less by choice and more by necessity. Planets with the correct atmospheric and gravitational conditions to support their unique biology are rare, which has artificially limited the species' colonization efforts. However, when an Ammonia world is discovered in Council Space, the Volus often immediately petition for settlement rights no matter whose territory it was discovered in. By granting them these rights, population on Ammonia worlds will be greatly increased."
+StringInfo
+	ID "IDS_ABILITY_COUN_MANOWARSTORMYSKIES_NAME"
+	Value "Stormy Skies"
+StringInfo
+	ID "IDS_ABILITY_COUN_MANOWARSTORMYSKIES_DESCRIPTION"
+	Value "Mimicing the unique defense mechanism of the Hanar themselves, the Man-O-War is able to deploy an ink-like cloud of micro-particulates into the surrounding space. This cloud contains heat decoys to fool sensors, reflective composites to scramble LADAR and electrical emitters to interfere with other signals. The net effect is a protective screen for all nearby ships that appears as a lightning storm in space, reminscent of the perpetual storm in Kahje's sky."
+StringInfo
+	ID "IDS_ABILITY_COUN_MANOWARVOICEOFENKINDLERS_NAME"
+	Value "Voice Of The Enkindlers"
+StringInfo
+	ID "IDS_ABILITY_COUN_MANOWARVOICEOFENKINDLERS_DESCRIPTION"
+	Value "Hanar tech experts and VIs aboard the Man-O-War are adept at hacking the systems necessary to allow them to broadcast the scripture of the Enkindlers directly into hostile vessels internal communications networks. This creates a form of jamming field that interferes with enemy targetting and the operation of complex systems, and almost always incites the enemy to focus their fire on them due to sheer annoyance."
+StringInfo
+	ID "IDS_ABILITY_COUN_MANOWARDAYOFEXTINGUISHMENT_NAME"
+	Value "Day Of Extinguishment"
+StringInfo
+	ID "IDS_ABILITY_COUN_MANOWARDAYOFEXTINGUISHMENT_DESCRIPTION"
+	Value "The Hanar crew believe that their apocalypse, the Day of Extinguishment, is upon them. In order to better facilitate the destruction of non-Hanar that this event requires, they vent the liquid atmosphere of the ship in order to free up more power from their huge Element Zero Core. This will greatly boost the direct combat capability of the ship, but disables abilities until it can visit a shipyard and be restocked with water."
+StringInfo
+	ID "IDS_ABILITY_COUN_MANOWARDEGRADINGSYSTEMS_NAME"
+	Value "Liquid Atmosphere"
+StringInfo
+	ID "IDS_ABILITY_COUN_MANOWARDEGRADINGSYSTEMS_DESCRIPTION"
+	Value "The Man-O-War is unique among warships in that its atmosphere is liquid water instead of the standard oxygen mix. Though this allows the Hanar crew to operate at peak performance, it also raises the ships mass considerably, slowing it down a great deal. When the ship takes damage, some of this water will vent from the hull breaches, lowering the mass but impeding the crew from moving about easily."

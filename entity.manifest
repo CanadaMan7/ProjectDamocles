@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	4566
+entityNameCount	4575
 entityName "Ability_Neutral_DiplomaticImmunity.entity"
 entityName "Buff_Neutral_DiplomaticImmunity.entity"
 entityName "Ability_Neutral_FactionControl.entity"
@@ -4566,3 +4566,12 @@ entityName "RESEARCH_COUNCIVILIAN_TURIANGARRISONS.entity"
 entityName "RESEARCH_COUNCIVILIAN_VOLUSEXPAND.entity"
 entityName "Buff_Coun_STGReportsSensor.entity"
 entityName "Buff_Coun_STGReportStart.entity"
+entityName "Ability_Coun_ManOWarStormySkies.entity"
+entityName "Buff_Coun_ManOWarStormySkiesSelf.entity"
+entityName "Buff_Coun_ManOWarStormySkiesTarget.entity"
+entityName "Buff_Coun_ManOWarStormySkiesTargetEnemy.entity"
+entityName "Ability_Coun_ManOWarDayOfExtinguishment.entity"
+entityName "Buff_Coun_ManOWarDayOfExtinguishment.entity"
+entityName "Ability_Coun_ManOWarVoiceOfEnkindlers.entity"
+entityName "Buff_Coun_ManOWarVoiceOfEnkindlersSelf.entity"
+entityName "Buff_Coun_ManOWarVoiceOfEnkindlersTarget.entity"

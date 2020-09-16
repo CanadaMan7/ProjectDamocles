@@ -38,7 +38,7 @@ researchModifier
 	modifierType "PlanetPopulationCapAdjustment"
 	baseValue 0.000000
 	perLevelValue 0.250000
-	linkedPlanetType "Iron"
+	linkedPlanetType "Volcanic"
 researchModifier
 	modifierType "PlanetUpgradeCostAdjustment"
 	baseValue 0.000000

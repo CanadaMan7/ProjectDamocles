@@ -51,7 +51,7 @@ researchModifier
 	modifierType "PlanetPopulationCapAdjustment"
 	baseValue 1.000000
 	perLevelValue 0.000000
-	linkedPlanetType "Iron"
+	linkedPlanetType "Barren"
 researchModifier
 	modifierType "PlanetPopulationCapAdjustment"
 	baseValue 0.500000
@@ -61,7 +61,7 @@ researchModifier
 	modifierType "PlanetPopulationCapAdjustment"
 	baseValue 0.500000
 	perLevelValue 0.000000
-	linkedPlanetType "Greenhouse"
+	linkedPlanetType "Methane"
 artifactPicture ""
 uniqueOverlayBrush ""
 dlcId 204880

@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 11390
+NumStrings 11396
 StringInfo
 	ID "IDS_PLAYERRACENAME_PSIREBEL"
 	Value "Alliance"
@@ -34170,3 +34170,21 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_COUN_MANOWARDEGRADINGSYSTEMS_DESCRIPTION"
 	Value "The Man-O-War is unique among warships in that its atmosphere is liquid water instead of the standard oxygen mix. Though this allows the Hanar crew to operate at peak performance, it also raises the ships mass considerably, slowing it down a great deal. When the ship takes damage, some of this water will vent from the hull breaches, lowering the mass but impeding the crew from moving about easily."
+StringInfo
+	ID "IDS_COUN_RESEARCHFIELD_COMBAT"
+	Value "War Assets: Fleets"
+StringInfo
+	ID "IDS_COUN_RESEARCHFIELD_DEFENSE"
+	Value "War Assets: Infantry"
+StringInfo
+	ID "IDS_COUN_RESEARCHFIELD_EMPIRE"
+	Value "War Assets: Civilian"
+StringInfo
+	ID "IDS_COUN_RESEARCHFIELD_DIPLOMACY"
+	Value "War Assets: Diplomatic"
+StringInfo
+	ID "IDS_COUN_RESEARCHFIELD_ARTIFACT"
+	Value "War Assets: Prothean Relics"
+StringInfo
+	ID "IDS_COUN_RESEARCHFIELD_FLEET"
+	Value "War Assets: Shepard"

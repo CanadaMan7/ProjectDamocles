@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	4599
+entityNameCount	4600
 entityName "Ability_Neutral_DiplomaticImmunity.entity"
 entityName "Buff_Neutral_DiplomaticImmunity.entity"
 entityName "Ability_Neutral_FactionControl.entity"
@@ -4599,3 +4599,5 @@ entityName "RESEARCH_COUNFLEET_TURIAN6.entity"
 entityName "RESEARCH_COUNFLEET_TURIAN7.entity"
 entityName "RESEARCH_COUNFLEET_TURIAN79TH.entity"
 entityName "RESEARCH_COUNFLEET_VOLUS.entity"
+entityName "Buff_Coun_ValernExitFTL.entity"
+

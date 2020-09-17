@@ -32,16 +32,18 @@ Tier 1
 onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
-researchBoolModifiers 1
-researchModifier
-	modifierType "PlanetIsColonizable"
-	linkedPlanetType "Ice"
-researchFloatModifiers 1
+researchBoolModifiers 0
+researchFloatModifiers 2
 researchModifier
 	modifierType "PlanetUpgradeBuildRateAdjustment"
 	baseValue 0.000000
 	perLevelValue 0.250000
 	linkedPlanetUpgradeType "Industry"
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+	linkedPlanetType "Ice"
 artifactPicture ""
 uniqueOverlayBrush ""
 dlcId 204880

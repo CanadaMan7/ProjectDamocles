@@ -11,7 +11,7 @@ typeCount 2
 frigateRoleType "Light"
 frigateRoleType "Heavy"
 statCountType "FrigateHeavy"
-mainViewIcon "MAINVIEWICON_FRIGATE_UNSCGLADIUS"
+mainViewIcon "MAINVIEWICON_CRUISER_COUNGENEVA"
 picture "CRUISER_COUN_GENEVA"
 NameStringID "IDS_CRUISER_COUNGENEVA_NAME"
 DescriptionStringID "IDS_CRUISER_COUNGENEVA_DESCRIPTION"
@@ -43,8 +43,8 @@ numRandomDebrisSmall 10
 numSpecificDebris 0
 armorType "VeryHeavy"
 hudIcon "HUDICON_FRIGATE_UNSCGLADIUS"
-smallHudIcon "MAINVIEWICON_FRIGATE_UNSCGLADIUS"
-infoCardIcon "MAINVIEWICON_FRIGATE_UNSCGLADIUS"
+smallHudIcon "MAINVIEWICON_CRUISER_COUNGENEVA"
+infoCardIcon "MAINVIEWICON_CRUISER_COUNGENEVA"
 minZoomDistanceMult 1.500000
 NumWeapons 3
 Weapon  

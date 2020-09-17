@@ -10,7 +10,7 @@ canBomb FALSE
 typeCount 1
 frigateRoleType "Heavy"
 statCountType "FrigateHeavy"
-mainViewIcon "MAINVIEWICON_FRIGATE_UNSCCHARON"
+mainViewIcon "MAINVIEWICON_CRUISER_COUNQUARIAN"
 picture "CRUISER_COUN_ALAREI"
 NameStringID "IDS_CRUISER_COUNALAREI_NAME"
 DescriptionStringID "IDS_CRUISER_COUNALAREI_DESCRIPTION"
@@ -42,8 +42,8 @@ numRandomDebrisSmall 10
 numSpecificDebris 0
 armorType "VeryHeavy"
 hudIcon "HUDICON_FRIGATE_UNSCCHARON"
-smallHudIcon "MAINVIEWICON_FRIGATE_UNSCCHARON"
-infoCardIcon "MAINVIEWICON_FRIGATE_UNSCCHARON"
+smallHudIcon "MAINVIEWICON_CRUISER_COUNQUARIAN"
+infoCardIcon "MAINVIEWICON_CRUISER_COUNQUARIAN"
 minZoomDistanceMult 1.500000
 NumWeapons 1
 Weapon  

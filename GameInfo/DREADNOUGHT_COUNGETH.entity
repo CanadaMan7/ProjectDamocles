@@ -11,7 +11,7 @@ prefersToFocusFire FALSE
 usesFighterAttack FALSE
 autoJoinFleetDefault TRUE
 canBomb FALSE
-mainViewIcon "MAINVIEWICON_CAPITALSHIP_UNSCVALIANT"
+mainViewIcon "MAINVIEWICON_DREADNOUGHT_COUNGETH"
 basePrice
 	credits 3750.000000
 	metal 575.000000
@@ -62,8 +62,8 @@ numRandomDebrisSmall 17
 numSpecificDebris 0
 armorType "CapitalShip"
 hudIcon "HUDICON_DREADNOUGHT_COUNNAVARCH"
-smallHudIcon "MAINVIEWICON_CAPITALSHIP_UNSCVALIANT"
-infoCardIcon "MAINVIEWICON_CAPITALSHIP_UNSCVALIANT"
+smallHudIcon "MAINVIEWICON_DREADNOUGHT_COUNGETH"
+infoCardIcon "MAINVIEWICON_DREADNOUGHT_COUNGETH"
 minZoomDistanceMult 1.250000
 NumWeapons 2
 Weapon

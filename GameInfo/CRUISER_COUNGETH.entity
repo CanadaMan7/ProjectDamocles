@@ -10,7 +10,7 @@ canBomb FALSE
 typeCount 1
 frigateRoleType "Heavy"
 statCountType "FrigateHeavy"
-mainViewIcon "MAINVIEWICON_FRIGATE_UNSCTHANATOS"
+mainViewIcon "MAINVIEWICON_CRUISER_COUNGETH"
 picture "CRUISER_COUN_CATAPHRACT"
 NameStringID "IDS_CRUISER_COUNGETH_NAME"
 DescriptionStringID "IDS_CRUISER_COUNGETH_DESCRIPTION"
@@ -42,8 +42,8 @@ numRandomDebrisSmall 10
 numSpecificDebris 0
 armorType "VeryHeavy"
 hudIcon "HUDICON_FRIGATE_UNSCHALBERD"
-smallHudIcon "MAINVIEWICON_FRIGATE_UNSCTHANATOS"
-infoCardIcon "MAINVIEWICON_FRIGATE_UNSCTHANATOS"
+smallHudIcon "MAINVIEWICON_CRUISER_COUNGETH"
+infoCardIcon "MAINVIEWICON_CRUISER_COUNGETH"
 minZoomDistanceMult 1.250000
 NumWeapons 2
 Weapon  

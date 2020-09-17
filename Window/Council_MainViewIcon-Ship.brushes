@@ -1,0 +1,148 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 29
+brush
+	name "MAINVIEWICON_DREAD_COUNHANAR"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 711, 172 , 29 , 27 ]
+brush
+	name "MAINVIEWICON_SUPERDREADNOUGHT_COUNKWUNU"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 239, 170 , 55 , 35 ]
+brush
+	name "MAINVIEWICON_SUPERDREADNOUGHT_COUNBATARIAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 162, 182 , 73 , 12 ]
+brush
+	name "MAINVIEWICON_SUPERDREADNOUGHT_COUNDESTINY"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 123, 156 , 28 , 62 ]
+brush
+	name "MAINVIEWICON_SUPERDREADNOUGHT_COUNGETH"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 57, 180 , 56 , 14 ]
+brush
+	name "MAINVIEWICON_SUPERDREADNOUGHT_COUNKILI"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 6, 178 , 43 , 17 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNLIVENAUGHT"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 841, 126 , 71 , 33 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNBATARIAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 786, 139 , 48 , 9 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNSALARIAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 743, 135 , 39 , 16 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNCYBAEN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 714, 124 , 18 , 38 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNGETH"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 654, 136 , 52 , 13 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNRAYYA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 576, 127 , 67 , 31 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNMEHRAK"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 529, 129 , 39 , 28 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNUNDAUNTED"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 482, 139 , 42 , 14 ]
+brush
+	name "MAINVIEWICON_DREADNOUGHT_COUNEVEREST"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 440, 136 , 36 , 11 ]
+brush
+	name "MAINVIEWICON_CRUISER_COUNGETH"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 403, 138 , 32 , 7 ]
+brush
+	name "MAINVIEWICON_CRUISER_COUNSALARIAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 374, 135 , 24 , 14 ]
+brush
+	name "MAINVIEWICON_CRUISER_COUNHENSA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 344, 135 , 24 , 13 ]
+brush
+	name "MAINVIEWICON_CRUISER_COUNQUARIAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 302, 137 , 38 , 9 ]
+brush
+	name "MAINVIEWICON_CRUISER_COUNNEFRANE"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 282, 129 , 13 , 25 ]
+brush
+	name "MAINVIEWICON_CRUISER_COUNVAHRDONA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 249, 134 , 25 , 16 ]
+brush
+	name "MAINVIEWICON_CRUISER_COUNHAWKING"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 214, 138 , 32 , 8 ]
+brush
+	name "MAINVIEWICON_CRUISER_COUNGENEVA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 181, 138 , 29 , 8 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COUNATHABASCA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 160, 139 , 15 , 5 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COUNTUNNERON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 124, 140 , 29 , 3 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COUNGETH"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 92, 138 , 26 , 7 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COUNVERRIKAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 65 , 136 , 20 , 11 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COUNHASTINGS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 33 , 138 , 16 , 7 ]
+brush
+	name "MAINVIEWICON_FRIGATE_COUNSR1"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships"
+	pixelBox [ 6 , 138 , 16 , 7 ]

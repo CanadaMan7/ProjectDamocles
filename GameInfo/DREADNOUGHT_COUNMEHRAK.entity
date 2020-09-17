@@ -12,7 +12,7 @@ prefersToFocusFire FALSE
 usesFighterAttack FALSE
 autoJoinFleetDefault TRUE
 canBomb FALSE
-mainViewIcon "MAINVIEWICON_CAPITALSHIP_UNSCMARATHON"
+mainViewIcon "MAINVIEWICON_DREADNOUGHT_COUNMEHRAK"
 basePrice
 	credits 3650.000000
 	metal 450.000000
@@ -60,8 +60,8 @@ numRandomDebrisSmall 17
 numSpecificDebris 0
 armorType "CapitalShip"
 hudIcon "HUDICON_CAPITALSHIP_UNSCMARATHON"
-smallHudIcon "MAINVIEWICON_CAPITALSHIP_UNSCMARATHON"
-infoCardIcon "MAINVIEWICON_CAPITALSHIP_UNSCMARATHON"
+smallHudIcon "MAINVIEWICON_DREADNOUGHT_COUNMEHRAK"
+infoCardIcon "MAINVIEWICON_DREADNOUGHT_COUNMEHRAK"
 minZoomDistanceMult 1.700000
 NumWeapons 2
 Weapon  

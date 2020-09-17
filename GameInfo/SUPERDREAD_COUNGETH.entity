@@ -12,7 +12,7 @@ prefersToFocusFire TRUE
 usesFighterAttack FALSE
 autoJoinFleetDefault TRUE
 canBomb FALSE
-mainViewIcon "MAINVIEWICON_TITAN_UNSCINFINITY"
+mainViewIcon "MAINVIEWICON_SUPERDREADNOUGHT_COUNGETH"
 basePrice
 	credits 12275.000000
 	metal 2775.000000
@@ -66,8 +66,8 @@ numRandomDebrisSmall 30
 numSpecificDebris 0
 armorType "CapitalShip"
 hudIcon "HUDICON_SUPERDREAD_COUNGETH"
-smallHudIcon "MAINVIEWICON_TITAN_UNSCINFINITY"
-infoCardIcon "MAINVIEWICON_TITAN_UNSCINFINITY"
+smallHudIcon "MAINVIEWICON_SUPERDREADNOUGHT_COUNGETH"
+infoCardIcon "MAINVIEWICON_SUPERDREADNOUGHT_COUNGETH"
 minZoomDistanceMult 1.250000
 NumWeapons 2
 Weapon  

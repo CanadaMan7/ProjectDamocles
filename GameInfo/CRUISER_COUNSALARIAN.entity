@@ -42,8 +42,8 @@ numRandomDebrisSmall 10
 numSpecificDebris 0
 armorType "VeryHeavy"
 hudIcon "HUDICON_CRUISER_COUNSALARIAN"
-smallHudIcon "MAINVIEWICON_FRIGATE_UNSCHALCYON"
-infoCardIcon "MAINVIEWICON_FRIGATE_UNSCHALCYON"
+smallHudIcon "MAINVIEWICON_CRUISER_COUNSALARIAN"
+infoCardIcon "MAINVIEWICON_CRUISER_COUNSALARIAN"
 minZoomDistanceMult 1.750000
 NumWeapons 2
 Weapon  

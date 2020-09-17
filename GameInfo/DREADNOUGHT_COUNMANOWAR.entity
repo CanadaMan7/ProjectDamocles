@@ -12,7 +12,7 @@ prefersToFocusFire FALSE
 usesFighterAttack FALSE
 autoJoinFleetDefault TRUE
 canBomb FALSE
-mainViewIcon "MAINVIEWICON_CAPITALSHIP_UNSCEPOCH"
+mainViewIcon "MAINVIEWICON_DREAD_COUNHANAR"
 basePrice
 	credits 5125.000000
 	metal 395.000000
@@ -63,8 +63,8 @@ numRandomDebrisSmall 17
 numSpecificDebris 0
 armorType "CapitalShip"
 hudIcon "HUDICON_CAPITALSHIP_COUNMANOWAR"
-smallHudIcon "MAINVIEWICON_CAPITALSHIP_UNSCEPOCH"
-infoCardIcon "MAINVIEWICON_CAPITALSHIP_UNSCEPOCH"
+smallHudIcon "MAINVIEWICON_DREAD_COUNHANAR"
+infoCardIcon "MAINVIEWICON_DREAD_COUNHANAR"
 minZoomDistanceMult 2.500000
 NumWeapons 2
 Weapon

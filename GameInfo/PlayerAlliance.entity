@@ -4,7 +4,7 @@ entityType "Player"
 raceNameStringID "IDS_PLAYERRACENAME_ALLIANCE"
 canColonize TRUE
 playerRaceType "Tech"
-isSelectable FALSE
+isSelectable TRUE
 selectablePriorty 3
 randomCapitalShipNamePrefix "IDS_CAPITALSHIPNAME_UNSC"
 randomStarBaseNamePrefix "IDS_STARBASENAME_UNSC"

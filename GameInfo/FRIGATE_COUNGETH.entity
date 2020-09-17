@@ -11,7 +11,7 @@ typeCount 2
 frigateRoleType "Light"
 frigateRoleType "Corvette"
 statCountType "FrigateCarrier"
-mainViewIcon "MAINVIEWICON_FRIGATE_UNSCNORYANG"
+mainViewIcon "MAINVIEWICON_FRIGATE_COUNGETH"
 picture "FRIGATE_COUN_INVADER"
 NameStringID "IDS_FRIGATE_COUNGETH_NAME"
 DescriptionStringID "IDS_FRIGATE_COUNGETH_DESCRIPTION"
@@ -43,8 +43,8 @@ numRandomDebrisSmall 5
 numSpecificDebris 0
 armorType "Medium"
 hudIcon "HUDICON_FRIGATE_COUNGETH"
-smallHudIcon "MAINVIEWICON_FRIGATE_UNSCNORYANG"
-infoCardIcon "MAINVIEWICON_FRIGATE_UNSCNORYANG"
+smallHudIcon "MAINVIEWICON_FRIGATE_COUNGETH"
+infoCardIcon "MAINVIEWICON_FRIGATE_COUNGETH"
 minZoomDistanceMult 1.900000
 NumWeapons 2
 Weapon  

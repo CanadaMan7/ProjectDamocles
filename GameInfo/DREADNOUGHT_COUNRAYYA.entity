@@ -12,7 +12,7 @@ prefersToFocusFire FALSE
 usesFighterAttack FALSE
 autoJoinFleetDefault TRUE
 canBomb FALSE
-mainViewIcon "MAINVIEWICON_CAPITALSHIP_UNSCPHOENIX"
+mainViewIcon "MAINVIEWICON_DREADNOUGHT_COUNRAYYA"
 basePrice
 	credits 4300.000000
 	metal 380.000000
@@ -63,8 +63,8 @@ numRandomDebrisSmall 17
 numSpecificDebris 0
 armorType "VeryHeavy"
 hudIcon "HUDICON_CAPITALSHIP_UNSCPHOENIX"
-smallHudIcon "MAINVIEWICON_CAPITALSHIP_UNSCPHOENIX"
-infoCardIcon "MAINVIEWICON_CAPITALSHIP_UNSCPHOENIX"
+smallHudIcon "MAINVIEWICON_DREADNOUGHT_COUNRAYYA"
+infoCardIcon "MAINVIEWICON_DREADNOUGHT_COUNRAYYA"
 minZoomDistanceMult 1.200000
 NumWeapons 2
 Weapon  

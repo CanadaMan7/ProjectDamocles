@@ -11,7 +11,7 @@ typeCount 2
 frigateRoleType "Light"
 frigateRoleType "Corvette"
 statCountType "FrigateLight"
-mainViewIcon "MAINVIEWICON_FRIGATE_UNSCPARIS"
+mainViewIcon "MAINVIEWICON_FRIGATE_COUNVERRIKAN"
 picture "CRUISER_COUN_VERRIKAN"
 NameStringID "IDS_FRIGATE_COUNTURIAN_NAME"
 DescriptionStringID "IDS_FRIGATE_COUNTURIAN_DESCRIPTION"
@@ -43,8 +43,8 @@ numRandomDebrisSmall 5
 numSpecificDebris 0
 armorType "Medium"
 hudIcon "HUDICON_FRIGATE_COUNVERRIKAN"
-smallHudIcon "MAINVIEWICON_FRIGATE_UNSCPARIS"
-infoCardIcon "MAINVIEWICON_FRIGATE_UNSCPARIS"
+smallHudIcon "MAINVIEWICON_FRIGATE_COUNVERRIKAN"
+infoCardIcon "MAINVIEWICON_FRIGATE_COUNVERRIKAN"
 minZoomDistanceMult 1.500000
 NumWeapons 2
 Weapon  

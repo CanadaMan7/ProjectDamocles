@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 11396
+NumStrings 11444
 StringInfo
 	ID "IDS_PLAYERRACENAME_PSIREBEL"
 	Value "Alliance"
@@ -34188,3 +34188,147 @@ StringInfo
 StringInfo
 	ID "IDS_COUN_RESEARCHFIELD_FLEET"
 	Value "War Assets: Shepard"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ADMIRALBORIS_NAME"
+	Value "Admiral Boris Mikhailovich"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ADMIRALBORIS_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ADMIRALHACKETT_NAME"
+	Value "Admiral Steven Hackett"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ADMIRALHACKETT_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ADMIRALHANGERREL_NAME"
+	Value "Admiral Han'Gerrel Vas Neema"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ADMIRALHANGERREL_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ADMIRALSHALA_NAME"
+	Value "Admiral Shala'Raan Vas Tonbay"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ADMIRALSHALA_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ADMIRALXEN_NAME"
+	Value "Admiral Daro'Xen Vas Moreh"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ADMIRALXEN_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ADMIRALZALKORRIS_NAME"
+	Value "Admiral Zal'Korris Vas Qwib Qwib"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ADMIRALZALKORRIS_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ALLIANCE5_NAME"
+	Value "Alliance Fifth Fleet"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ALLIANCE5_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ALLIANCE6_NAME"
+	Value "Alliance Sixth Fleet"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ALLIANCE6_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ASARI2_NAME"
+	Value "Asari Second Fleet"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ASARI2_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ASARI6_NAME"
+	Value "Asari Sixth Fleet"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_ASARI6_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_BALAK_NAME"
+	Value "Ka'hairal Balak"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_BALAK_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_BATARIAN_NAME"
+	Value "Batarian Remnant Fleet"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_BATARIAN_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_GETH_NAME"
+	Value "Geth Fleet"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_GETH_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_HANAR_NAME"
+	Value "Hanar Defense Fleet"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_HANAR_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_LIDANYA_NAME"
+	Value "Matriarch Lidanya"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_LIDANYA_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_QUARIANCIVILIAN_NAME"
+	Value "Quarian Civilian Fleet"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_QUARIANCIVILIAN_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_QUARIANHEAVY_NAME"
+	Value "Quarian Heavy Fleet"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_QUARIANHEAVY_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_QUARIANPATROL_NAME"
+	Value "Quarian Patrol Fleet"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_QUARIANPATROL_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_SALARIAN1_NAME"
+	Value "Salarian First Fleet"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_SALARIAN1_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_SALARIAN3_NAME"
+	Value "Salarian Third Fleet"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_SALARIAN3_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_TURIAN6_NAME"
+	Value "Turian Sixth Fleet"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_TURIAN6_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_TURIAN7_NAME"
+	Value "Turian Seventh Fleet"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_TURIAN7_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_TURIAN79TH_NAME"
+	Value "Turian 79th Flotilla"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_TURIAN79TH_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_VOLUS_NAME"
+	Value "Volus Bombing Fleet"
+StringInfo
+	ID "IDS_RESEARCH_COUNFLEET_VOLUS_DESCRIPTION"
+	Value "Placeholder."

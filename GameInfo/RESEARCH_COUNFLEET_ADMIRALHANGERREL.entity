@@ -1,0 +1,48 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_HANGERREL_RESEARCH"
+smallHudIcon "HUDICON_HANGERREL_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_COUNFLEET_ADMIRALHANGERREL_NAME"
+DescriptionStringID "IDS_RESEARCH_COUNFLEET_ADMIRALHANGERREL_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 1 , 0 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNFLEET_QUARIANHEAVY"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COUNPARAGON"
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 50.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 800.000000
+	metal 100.000000
+	crystal 175.000000
+PerLevelCostIncrease
+	credits 150.000000
+	metal 50.000000
+	crystal 50.000000
+Tier 1
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "WeaponDamageAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.150000
+	linkedWeaponClass "AUTOCANNON"
+researchModifier
+	modifierType "AntimatterRegenAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.150000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

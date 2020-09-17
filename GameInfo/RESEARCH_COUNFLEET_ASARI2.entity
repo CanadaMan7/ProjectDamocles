@@ -1,0 +1,63 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_ASARISECOND_RESEARCH"
+smallHudIcon "HUDICON_ASARISECOND_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_COUNFLEET_ASARI2_NAME"
+DescriptionStringID "IDS_RESEARCH_COUNFLEET_ASARI2_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 2 , 3 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNSHEPARD_ASARIREPUBLICS"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 60.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 1000.000000
+	metal 150.000000
+	crystal 250.000000
+PerLevelCostIncrease
+	credits 200.000000
+	metal 75.000000
+	crystal 75.000000
+Tier 2
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 6
+researchModifier
+	modifierType "CapitalShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 2.000000
+researchModifier
+	modifierType "ShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 250.000000
+researchModifier
+	modifierType "IncomePercLost"
+	baseValue 0.000000
+	perLevelValue 0.040000
+researchModifier
+	modifierType "ArmorBaseAdjustment"
+	baseValue 0.000000
+	perLevelValue 1.000000
+researchModifier
+	modifierType "CapitalShipAccelerationAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+researchModifier
+	modifierType "CapitalShipAngularThrustAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

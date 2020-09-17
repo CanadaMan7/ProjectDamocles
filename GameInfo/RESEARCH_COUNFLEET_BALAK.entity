@@ -1,0 +1,49 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_KAHAIRALBALAK_RESEARCH"
+smallHudIcon "HUDICON_KAHAIRALBALAK_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_COUNFLEET_BALAK_NAME"
+DescriptionStringID "IDS_RESEARCH_COUNFLEET_BALAK_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 1 , 7 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNSHEPARD_BATARIAN"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COUNRENEGADE"
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 50.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 800.000000
+	metal 100.000000
+	crystal 175.000000
+PerLevelCostIncrease
+	credits 150.000000
+	metal 50.000000
+	crystal 50.000000
+Tier 1
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "WeaponRangeAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+	linkedWeaponClass "RAILGUN"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+	linkedWeaponClass "RAILGUN"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

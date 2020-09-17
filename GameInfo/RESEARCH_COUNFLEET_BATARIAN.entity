@@ -1,0 +1,60 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_BATARIANFLEETRENE_RESEARCH"
+smallHudIcon "HUDICON_BATARIANFLEETRENE_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_COUNFLEET_BATARIAN_NAME"
+DescriptionStringID "IDS_RESEARCH_COUNFLEET_BATARIAN_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 2 , 7 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNFLEET_BALAK"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COUNRENEGADE"
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 60.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 1000.000000
+	metal 150.000000
+	crystal 250.000000
+PerLevelCostIncrease
+	credits 200.000000
+	metal 75.000000
+	crystal 75.000000
+Tier 2
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 5
+researchModifier
+	modifierType "CapitalShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 4.000000
+researchModifier
+	modifierType "ShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 350.000000
+researchModifier
+	modifierType "IncomePercLost"
+	baseValue 0.000000
+	perLevelValue 0.060000
+researchModifier
+	modifierType "HullPointsMaxAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.050000
+researchModifier
+	modifierType "WeaponDamageAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.150000
+	linkedWeaponClass "RAILGUN"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

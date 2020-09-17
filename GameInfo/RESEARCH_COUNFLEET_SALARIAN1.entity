@@ -1,0 +1,65 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_SALARIANFIRST_RESEARCH"
+smallHudIcon "HUDICON_SALARIANFIRST_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_COUNFLEET_SALARIAN1_NAME"
+DescriptionStringID "IDS_RESEARCH_COUNFLEET_SALARIAN1_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 4 , 6 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNFLEET_SALARIAN3"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COUNRENEGADE"
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 90.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1400.000000
+	metal 250.000000
+	crystal 400.000000
+PerLevelCostIncrease
+	credits 300.000000
+	metal 125.000000
+	crystal 125.000000
+Tier 4
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 6
+researchModifier
+	modifierType "CapitalShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 3.000000
+researchModifier
+	modifierType "ShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 200.000000
+researchModifier
+	modifierType "IncomePercLost"
+	baseValue 0.000000
+	perLevelValue 0.060000
+researchModifier
+	modifierType "AntimatterRegenAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+researchModifier
+	modifierType "WeaponDamageAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.150000
+	linkedWeaponClass "LASERPSI"
+researchModifier
+	modifierType "WeaponDamageAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.050000
+	linkedWeaponClass "RAILGUN"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

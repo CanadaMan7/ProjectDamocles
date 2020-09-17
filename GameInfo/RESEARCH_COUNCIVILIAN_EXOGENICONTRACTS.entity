@@ -29,7 +29,10 @@ Tier 0
 onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 20.000000
-researchBoolModifiers 0
+researchBoolModifiers 1
+researchModifier
+	modifierType "PlanetIsColonizable"
+	linkedPlanetType "Moon"
 researchFloatModifiers 0
 artifactPicture ""
 uniqueOverlayBrush ""

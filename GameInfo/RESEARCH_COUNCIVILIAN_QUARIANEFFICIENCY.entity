@@ -38,7 +38,7 @@ researchModifier
 	modifierType "PlanetPopulationCapAdjustment"
 	baseValue 0.000000
 	perLevelValue 0.300000
-	linkedPlanetType "Asteroid"
+	linkedPlanetType "Moon"
 researchModifier
 	modifierType "CargoShipCapacityAdjustment"
 	baseValue 0.000000

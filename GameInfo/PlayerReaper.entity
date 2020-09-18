@@ -21,27 +21,29 @@ entities
 			entityDefName "STRUCTURE_REAPDREADYARD"
 			entityDefName "STRUCTURE_REAPCIVLAB"
 		Page:1
-			count 2
+			count 3
 			entityDefName "STRUCTURE_REAPSUPERDREADYARD"
 			entityDefName "STRUCTURE_REAPHADES"
+			entityDefName "STRUCTURE_REAPSUPERDREADYARDAI"
 	titanInfo
 		Page:0
-			count 1
+			count 2
 			entityDefName "SUPERDREAD_REAPHARBINGER"
+			entityDefName "SUPERDREAD_REAPHARBINGERAI"
 	capitalShipInfo
 		Page:0
-			count 6
+			count 7
 			entityDefName "DREADNOUGHT_REAPVANGUARD"
 			entityDefName "DREADNOUGHT_REAPSOVEREIGN"
-			entityDefName "DREADNOUGHT_REAPOPPRESSOR"
-			entityDefName "DREADNOUGHT_REAPOVERLORD"
 			entityDefName "DREADNOUGHT_REAPCOLLECTOR"
 			entityDefName "DREADNOUGHT_REAPGETH"
+			entityDefName "DREADNOUGHT_REAPSOVEREIGNAI"
+			entityDefName "DREADNOUGHT_REAPGETHAI"
+			entityDefName "DREADNOUGHT_REAPVANGUARDAI"
 	frigateInfo
 		Page:0
-			count 4
+			count 3
 			entityDefName "CRUISER_REAPDESTROYER"
-			entityDefName "CRUISER_REAPPROCESSOR"
 			entityDefName "CRUISER_REAPCOLLECTOR"
 			entityDefName "CRUISER_REAPGETH"
 		Page:1
@@ -50,17 +52,15 @@ entities
 			entityDefName "FRIGATE_REAPGETH"
 			entityDefName "FRIGATE_REAPGETHCOLONISER"
 		NotOnPage
-			count 6
-			entityDefName "FRIGATE_UNSCAIDRIVER"
-			entityDefName "FRIGATE_UNSCAIDRIVER2"
-			entityDefName "FRIGATE_UNSCMODULECONSTRUCTOR"
+			count 4
+			entityDefName "FRIGATE_COVAIDRIVER"
+			entityDefName "FRIGATE_COVMODULECONSTRUCTOR"
 			entityDefName "FRIGATE_UNSCTRADESHIP"
 			entityDefName "FRIGATE_UNSCREFINERYSHIP"
-			entityDefName "FRIGATE_UNSCSBCONSTRUCTORAI1"
 	researchInfo
 		count 56
 		entityDefName "RESEARCHSUBJECT_GLOBALBALANCEMODIFIER"
-		entityDefName "RESEARCHSUBJECT_UNSCFORCEAI_AID"
+		entityDefName "RESEARCHSUBJECT_REAPERFORCEAI_AID"
 		entityDefName "RESEARCHSUBJECT_PACTBONUS_GENERIC0"
 		entityDefName "RESEARCH_REAPTOOLS_BASEREPLICATION"
 		entityDefName "RESEARCH_REAPTOOLS_COLLECTORGENERAL"

@@ -1,5 +1,13 @@
 TXT	
-entityNameCount	4600
+entityNameCount	4607
+entityName "AbilityReaperInfection.entity"
+entityName "DREADNOUGHT_REAPGETHAI.entity"
+entityName "DREADNOUGHT_REAPVANGUARDAI.entity"
+entityName "STRUCTURE_REAPSUPERDREADYARDAI.entity"
+entityName "SUPERDREAD_REAPHARBINGERAI.entity"
+entityName "DREADNOUGHT_REAPSOVEREIGNAI.entity"
+entityName "RESEARCHSUBJECT_REAPERFORCEAI_AID.entity"
+entityName "CRUISER_REAPDESTROYERSTARTER.entity"
 entityName "Ability_Neutral_DiplomaticImmunity.entity"
 entityName "Buff_Neutral_DiplomaticImmunity.entity"
 entityName "Ability_Neutral_FactionControl.entity"

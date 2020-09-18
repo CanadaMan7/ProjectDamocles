@@ -28,12 +28,12 @@ PerLevelCostIncrease
 Tier 0
 onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 0
-priority 1.000000
+priority 15.000000
 researchBoolModifiers 0
 researchFloatModifiers 13
 researchModifier
 	modifierType "CultureResistPercent"
-	baseValue 0.500000
+	baseValue 1.000000
 	perLevelValue 0.000000
 researchModifier
 	modifierType "PopulationGrowthRateAdjustment"
@@ -46,17 +46,17 @@ researchModifier
 	linkedPlanetType "Invalid"
 researchModifier
 	modifierType "PlanetUpgradeCostAdjustment"
-	baseValue 1.000000
+	baseValue 10.000000
 	perLevelValue 0.000000
 	linkedPlanetUpgradeType "CivilianModules"
 researchModifier
 	modifierType "PlanetUpgradeCostAdjustment"
-	baseValue 1.000000
+	baseValue 10.000000
 	perLevelValue 0.000000
 	linkedPlanetUpgradeType "TacticalModules"
 researchModifier
 	modifierType "PlanetUpgradeCostAdjustment"
-	baseValue 1.000000
+	baseValue 10.000000
 	perLevelValue 0.000000
 	linkedPlanetUpgradeType "Infrastructure"
 researchModifier
@@ -69,16 +69,16 @@ researchModifier
 	baseValue 0.500000
 	perLevelValue 0.000000
 researchModifier
-	modifierType "ExperienceAwardedAdjustment"
-	baseValue -2.000000
-	perLevelValue 0.000000
-researchModifier
-	modifierType "CapitalShipMaxSlots"
+	modifierType "CultureSpreadRateAdjustment"
 	baseValue 1.000000
 	perLevelValue 0.000000
 researchModifier
+	modifierType "CapitalShipMaxSlots"
+	baseValue 3.000000
+	perLevelValue 0.000000
+researchModifier
 	modifierType "ShipMaxSlots"
-	baseValue 150.000000
+	baseValue 250.000000
 	perLevelValue 0.000000
 researchModifier
 	modifierType "ShipMaxSlotLevel"

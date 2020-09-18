@@ -13,21 +13,27 @@ numRandomDebrisLarge 3
 numRandomDebrisSmall 19
 numSpecificDebris 0
 armorType "Module"
-hudIcon "HUDICON_TECH_TITAN_FOUNDRY"
-smallHudIcon "HUDICONSMALL_PLANETMODULE_TECHORBITALTITANFACTORY"
+hudIcon ""
+smallHudIcon ""
 infoCardIcon "INFOCARDICON_PLANETMODULE_TECHORBITALTITANFACTORY"
 planetUpgradeSlotType "Tactical"
-planetUpgradeSlotCount 3.000000
+planetUpgradeSlotCount 0.000000
 basePrice
 	credits 0.000000
-	metal 500.000000
-	crystal 800.000000
+	metal 0.000000
+	crystal 0.000000
 NameStringID "IDS_STRUCTURE_REAPSUPERDREADYARD_NAME"
 DescriptionStringID "IDS_STRUCTURE_REAPSUPERDREADYARD_DESCRIPTION"
 planetModuleRoleType "TITANFACTORY"
 statCountType "ModuleCapitalShipFactory"
 Prerequisites
-	NumResearchPrerequisites 0
+	NumResearchPrerequisites 2
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_REAPERFORCEAI_AID"
+		Level 1
+	ResearchPrerequisite
+		Subject "RESEARCH_REAPNUMBERS_ARRIVAL"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MaxHullPoints 20000.000000

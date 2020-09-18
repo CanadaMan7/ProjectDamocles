@@ -30,7 +30,7 @@ PerLevelCostIncrease
 Tier 4
 onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 3
-priority 1.000000
+priority 10.000000
 researchBoolModifiers 0
 researchFloatModifiers 0
 artifactPicture ""

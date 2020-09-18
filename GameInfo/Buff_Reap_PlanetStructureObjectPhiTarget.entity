@@ -30,11 +30,15 @@ instantAction
 	spawnShips
 		minFleetPoints 0.000000
 		maxFleetPoints 0.000000
-		requiredShipCount 1
+		requiredShipCount 2
 		requiredShip
 			type "DREADNOUGHT_REAPVANGUARDSTARTER"
 			minCount 1
 			maxCount 1
+		requiredShip
+			type "CRUISER_REAPDESTROYERSTARTER"
+			minCount 5
+			maxCount 10
 		randomShipCount 0
 	spawnShipsArrivalDelayTime 0.000000
 	spawnShipsHyperspaceSpawnType "FleetBeacon"

@@ -28,13 +28,13 @@ PerLevelCostIncrease
 Tier 2
 onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
-priority 1.000000
+priority 15.000000
 researchBoolModifiers 0
 researchFloatModifiers 1
 researchModifier
 	modifierType "ChanceToConvertFrigatesHyperspacingFromPlanet"
 	baseValue 0.000000
-	perLevelValue 0.020000
+	perLevelValue 0.100000
 artifactPicture ""
 uniqueOverlayBrush ""
 dlcId 204880

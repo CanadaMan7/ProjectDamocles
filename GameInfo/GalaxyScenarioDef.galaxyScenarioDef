@@ -1419,8 +1419,8 @@ planetItemType
 	designName "Reap:Frigate:Collector"
 	entityDefName "FRIGATE_REAPCOLLECTORENVOY"
 planetItemType
-	designName "Reap:Cruiser:Collector"
-	entityDefName "CRUISER_REAPCOLLECTOR"
+	designName "Reap:Dread:Collector"
+	entityDefName "DREADNOUGHT_REAPCOLLECTOR"
 planetItemType
 	designName "Reap:Dread:Vanguard"
 	entityDefName "DREADNOUGHT_REAPVANGUARD"
@@ -1960,8 +1960,8 @@ planetItemsTemplate
 				param "Reaper"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 21
-				item "UNSC:Frigate:AI"
+			items 20
+				item "Cov:Frigate:AI"
 				item "Bonus:Homeworld:Reaper"
 				item "Reap:Structure:CivLab"
 				item "Reap:Structure:MilLab"
@@ -1974,22 +1974,21 @@ planetItemsTemplate
 				item "Reap:Structure:EezoExtractor"
 				item "Reap:Structure:EezoExtractor"
 				item "Reap:Structure:ObjectPhi"
+				item "Reap:Dread:Collector"
+				item "Reap:Dread:Collector"
 				item "Reap:Frigate:Geth"
 				item "Reap:Frigate:Geth"
 				item "Reap:Frigate:Geth"
-				item "Reap:Frigate:Geth"
-				item "Reap:Frigate:Geth"
-				item "Reap:Frigate:Geth"
-				item "UNSC:Frigate:ModuleConstructor"
-				item "UNSC:Frigate:ModuleConstructor"
+				item "Cov:Frigate:ModuleConstructor"
+				item "Cov:Frigate:ModuleConstructor"
 		group
 			condition
 				type "PlanetOwnerIsRaceQuickStart"
 				param "Reaper"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 21
-				item "UNSC:Frigate:AI"
+			items 20
+				item "Cov:Frigate:AI"
 				item "Bonus:Homeworld:Reaper"
 				item "Reap:Structure:CivLab"
 				item "Reap:Structure:MilLab"
@@ -2002,14 +2001,13 @@ planetItemsTemplate
 				item "Reap:Structure:EezoExtractor"
 				item "Reap:Structure:EezoExtractor"
 				item "Reap:Structure:ObjectPhi"
+				item "Reap:Dread:Collector"
+				item "Reap:Dread:Collector"
 				item "Reap:Frigate:Geth"
 				item "Reap:Frigate:Geth"
 				item "Reap:Frigate:Geth"
-				item "Reap:Frigate:Geth"
-				item "Reap:Frigate:Geth"
-				item "Reap:Frigate:Geth"
-				item "UNSC:Frigate:ModuleConstructor"
-				item "UNSC:Frigate:ModuleConstructor"
+				item "Cov:Frigate:ModuleConstructor"
+				item "Cov:Frigate:ModuleConstructor"
 planetItemsTemplate
 	templateName "Template:DefaultPreownPlanetSetup"
 	subTemplates 1

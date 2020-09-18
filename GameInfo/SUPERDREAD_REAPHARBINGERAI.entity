@@ -1,19 +1,19 @@
 TXT2
-SinsArchiveVersion 194
-entityType "CapitalShip"
-ability:0 "Ability_Reap_VanguardYouCannotEscape"
-ability:1 "Ability_Reap_VanguardVanguardOfDestruction"
-ability:2 "Ability_Reap_VanguardBowBeforeTheInvaders"
-ability:3 "AbilityReaperInfection"
-ability:4 "AbilityNoneIsBigShipNoFlood"
+SinsArchiveVersion 193
+entityType "Titan"
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
-prefersToFocusFire FALSE
+prefersToFocusFire TRUE
 usesFighterAttack FALSE
 autoJoinFleetDefault TRUE
 canBomb TRUE
 hasBombingLevels FALSE
-baseDamage 50.000000
+baseDamage 200.000000
 basePopulationKilled 20.000000
 bombingFreqTime 5.000000
 baseRange 3000.000000
@@ -42,62 +42,71 @@ bombEffectsDef
 		sound "WEAPON_PHASEPLANETBOMB_LOOP"
 		beamGlowTextureName "PhaseCapitalBombingBeam_Glow"
 		beamCoreTextureName "PhaseCapitalBombingBeam_Core"
-	beamWidth 75.000000
+	beamWidth 175.000000
 	beamGlowColor ffffffff
 	beamCoreColor ffffffff
 	beamTilingRate 3.000000
-mainViewIcon "MAINVIEWICON_DREAD_REAPSOV"
+mainViewIcon "MAINVIEWICON_SUPERDREAD_REAPHARBY"
 basePrice
 	credits 0.000000
-	metal 8800.000000
-	crystal 6550.000000
+	metal 0.000000
+	crystal 0.000000
 slotCount 0.000000
-BuildTime 300.000000
+BuildTime 450.000000
 MaxHullPoints
-	StartValue 20000.000000
+	StartValue 51500.000000
 	ValueIncreasePerLevel 0.000000
 MaxShieldPoints
-	StartValue 20000.000000
+	StartValue 45000.000000
 	ValueIncreasePerLevel 0.000000
 HullPointRestoreRate
-	StartValue 60.000000
+	StartValue 15.000000
 	ValueIncreasePerLevel 0.000000
 ShieldPointRestoreRate
-	StartValue 100.000000
+	StartValue 40.000000
 	ValueIncreasePerLevel 0.000000
 ArmorPointsFromExperience
-	StartValue 16.000000
+	StartValue 25.000000
 	ValueIncreasePerLevel 0.000000
 maxMitigation
-	StartValue 0.850000
+	StartValue 0.950000
 	ValueIncreasePerLevel 0.000000
 MaxAntiMatter
-	StartValue 2075.000000
+	StartValue 3100.000000
 	ValueIncreasePerLevel 0.000000
 AntiMatterRestoreRate
-	StartValue 1.500000
-	ValueIncreasePerLevel 0.000000
-CultureProtectRate
 	StartValue 3.000000
 	ValueIncreasePerLevel 0.000000
-NameStringID "IDS_DREADNOUGHT_REAPVANGUARD_NAME"
-DescriptionStringID "IDS_DREADNOUGHT_REAPVANGUARD_DESCRIPTION"
-picture "DREADNOUGHT_REAP_VANGUARD"
+CultureProtectRate
+	StartValue 1.000000
+	ValueIncreasePerLevel 0.000000
+NameStringID "IDS_SUPERDREAD_REAPHARBINGER_NAME"
+DescriptionStringID "IDS_SUPERDREAD_REAPHARBINGER_DESCRIPTION"
+picture "SUPERDREAD_REAP_HARBY"
 Prerequisites
-	NumResearchPrerequisites 0
+	NumResearchPrerequisites 2
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_REAPERFORCEAI_AID"
+		Level 1
+	ResearchPrerequisite
+		Subject "RESEARCH_REAPNUMBERS_ARRIVAL"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-roleType "Invalid"
-statCountType "CapitalShipBattleship"
-numRandomDebrisLarge 4
-numRandomDebrisSmall 17
+statCountType "Titan"
+UpgradeTypeCount 3
+UpgradeType "SUPERDREAD_REAPHARBINGER_UPGRADEIKNOWYOUFEELTHIS"
+UpgradeType "SUPERDREAD_REAPHARBINGER_UPGRADEYOUCANNOTHURTME"
+UpgradeType "SUPERDREAD_REAPHARBINGER_UPGRADEIALWAYSSURVIVE"
+numRandomDebrisLarge 80
+numRandomDebrisSmall 30
 numSpecificDebris 1
 specificDebrisMeshName "DebrisPhaseCapitalShipBattleship"
 armorType "Titan"
-hudIcon "HUDICON_CAPITALSHIP_PHASEBATTLESHIP"
-smallHudIcon "HUDICONSMALL_CAPITALSHIP_PHASEBATTLESHIP"
-infoCardIcon "INFOCARDICON_CAPITALSHIP_PHASEBATTLESHIP"
-minZoomDistanceMult 1.500000
+hudIcon ""
+smallHudIcon ""
+infoCardIcon "INFOCARDICON_TITAN_PHASELOYALIST"
+minZoomDistanceMult 1.450000
 NumWeapons 1
 Weapon
 	WeaponType "Beam"
@@ -107,12 +116,12 @@ Weapon
 		DamageApplyType "OVERTIME"
 		DamageType "ENERGY"
 		WeaponClassType "ION"
-	DamagePerBank:FRONT 2500.000000
+	DamagePerBank:FRONT 15000.000000
 	DamagePerBank:BACK 0.000000
-	DamagePerBank:LEFT 2500.000000
-	DamagePerBank:RIGHT 2500.000000
-	Range 16000.000000
-	PreBuffCooldownTime 10.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 15000.000000
+	PreBuffCooldownTime 1.500000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 1.000000
@@ -123,7 +132,7 @@ Weapon
 		weaponType "Beam"
 		burstCount 1
 		burstDelay 0.250000
-		fireDelay 0.500000
+		fireDelay 0.000000
 		muzzleEffectName "Buff_GaussRailgunChargeup"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
@@ -146,36 +155,23 @@ Weapon
 		beamCoreColor ffffffff
 		beamTilingRate 1.000000
 m_weaponIndexForRange 0
-firingAlignmentType "TiltForward"
-firingTiltAngle -12.000000
-TargetCountPerBank:FRONT 1
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 2
 TargetCountPerBank:BACK 0
-TargetCountPerBank:LEFT 1
-TargetCountPerBank:RIGHT 1
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
 canOnlyTargetStructures FALSE
-mass 10000.000000
-ShieldMeshName "Dreadnought_ReapSovereign_Shield"
+mass 100000.000000
+ShieldMeshName "SuperDreadnought_ReapHarbinger_Shield"
 renderShield TRUE
-maxAccelerationLinear 70.000000
+maxAccelerationLinear 120.000000
 maxAccelerationStrafe 10.000000
-maxDecelerationLinear 850.000000
-maxAccelerationAngular 0.500000
+maxDecelerationLinear 1200.000000
+maxAccelerationAngular 1.500000
 maxDecelerationAngular 9.999998
-maxSpeedLinear 700.000000
+maxSpeedLinear 1050.000000
 maxRollRate 6.000000
 maxRollAngle 34.999996
-useCustomHyperspaceEffects TRUE
-effects
-	chargeUpEffectName "FTL_CHARGEUP_BLANK"
-	chargeUpEffectNameBetweenStars "FTL_CHARGEUP_BLANK"
-	chargeUpEffectNameDestabilized "FTL_CHARGEUP_BLANK"
-	chargeUpEffectSoundID "FTL_GENERIC_DREADCHARGE3"
-	travelEffectName "FTL_Reaper"
-	travelEffectNameBetweenStars "FTL_Reaper"
-	travelEffectNameDestabilized "FTL_Reaper"
-	travelEffectSoundID "HYPERSPACE_TRAVEL"
-	exitEffectName "FTL_DREADNOUGHT_EXIT"
-	exitEffectSoundID "FTL_GENERIC_DREADEXIT2"
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 ""
@@ -206,12 +202,12 @@ SoundID "CRUISER_REAPDESTROYER_ONJUMPSTART2"
 SoundID "CRUISER_REAPDESTROYER_ONJUMPSTART3"
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "Dreadnought_ReapSovereign"
+	meshName "SuperDreadnought_ReapHarbinger"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName ""
-ExplosionName "CapitalShip0"
+ExplosionName "StarBase1"
 CommandPoints
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
@@ -221,7 +217,9 @@ weaponCooldownDecreasePerc
 weaponDamageIncreasePerc
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
-EngineSoundID "AMBIENT_DREAD"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_PHASECAPITALSHIP"
 formationRank 0
 minShadow 0.100000
 maxShadow 1.500000

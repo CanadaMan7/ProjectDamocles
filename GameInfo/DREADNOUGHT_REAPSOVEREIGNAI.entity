@@ -1,10 +1,10 @@
 TXT2
 SinsArchiveVersion 194
 entityType "CapitalShip"
-ability:0 "Ability_Reap_VanguardYouCannotEscape"
-ability:1 "Ability_Reap_VanguardVanguardOfDestruction"
-ability:2 "Ability_Reap_VanguardBowBeforeTheInvaders"
-ability:3 "AbilityReaperInfection"
+ability:0 "Ability_Reap_SovereignWeWillEndure"
+ability:1 "AbilityReaperInfection"
+ability:2 ""
+ability:3 ""
 ability:4 "AbilityNoneIsBigShipNoFlood"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -13,7 +13,7 @@ usesFighterAttack FALSE
 autoJoinFleetDefault TRUE
 canBomb TRUE
 hasBombingLevels FALSE
-baseDamage 50.000000
+baseDamage 100.000000
 basePopulationKilled 20.000000
 bombingFreqTime 5.000000
 baseRange 3000.000000
@@ -49,42 +49,48 @@ bombEffectsDef
 mainViewIcon "MAINVIEWICON_DREAD_REAPSOV"
 basePrice
 	credits 0.000000
-	metal 8800.000000
-	crystal 6550.000000
+	metal 0.000000
+	crystal 0.000000
 slotCount 0.000000
 BuildTime 300.000000
 MaxHullPoints
-	StartValue 20000.000000
+	StartValue 24000.000000
 	ValueIncreasePerLevel 0.000000
 MaxShieldPoints
-	StartValue 20000.000000
+	StartValue 18000.000000
 	ValueIncreasePerLevel 0.000000
 HullPointRestoreRate
-	StartValue 60.000000
+	StartValue 8.000000
 	ValueIncreasePerLevel 0.000000
 ShieldPointRestoreRate
-	StartValue 100.000000
+	StartValue 25.000000
 	ValueIncreasePerLevel 0.000000
 ArmorPointsFromExperience
-	StartValue 16.000000
+	StartValue 15.000000
 	ValueIncreasePerLevel 0.000000
 maxMitigation
 	StartValue 0.850000
 	ValueIncreasePerLevel 0.000000
 MaxAntiMatter
-	StartValue 2075.000000
+	StartValue 1850.000000
 	ValueIncreasePerLevel 0.000000
 AntiMatterRestoreRate
 	StartValue 1.500000
 	ValueIncreasePerLevel 0.000000
 CultureProtectRate
-	StartValue 3.000000
+	StartValue 1.000000
 	ValueIncreasePerLevel 0.000000
-NameStringID "IDS_DREADNOUGHT_REAPVANGUARD_NAME"
-DescriptionStringID "IDS_DREADNOUGHT_REAPVANGUARD_DESCRIPTION"
-picture "DREADNOUGHT_REAP_VANGUARD"
+NameStringID "IDS_DREADNOUGHT_REAPSOVEREIGN_NAME"
+DescriptionStringID "IDS_DREADNOUGHT_REAPSOVEREIGN_DESCRIPTION"
+picture "DREADNOUGHT_REAP_SOV"
 Prerequisites
-	NumResearchPrerequisites 0
+	NumResearchPrerequisites 2
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_REAPERFORCEAI_AID"
+		Level 1
+	ResearchPrerequisite
+		Subject "RESEARCH_REAPNUMBERS_ARRIVAL"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 roleType "Invalid"
@@ -94,9 +100,9 @@ numRandomDebrisSmall 17
 numSpecificDebris 1
 specificDebrisMeshName "DebrisPhaseCapitalShipBattleship"
 armorType "Titan"
-hudIcon "HUDICON_CAPITALSHIP_PHASEBATTLESHIP"
-smallHudIcon "HUDICONSMALL_CAPITALSHIP_PHASEBATTLESHIP"
-infoCardIcon "INFOCARDICON_CAPITALSHIP_PHASEBATTLESHIP"
+hudIcon ""
+smallHudIcon ""
+infoCardIcon ""
 minZoomDistanceMult 1.500000
 NumWeapons 1
 Weapon
@@ -107,12 +113,12 @@ Weapon
 		DamageApplyType "OVERTIME"
 		DamageType "ENERGY"
 		WeaponClassType "ION"
-	DamagePerBank:FRONT 2500.000000
+	DamagePerBank:FRONT 10000.000000
 	DamagePerBank:BACK 0.000000
-	DamagePerBank:LEFT 2500.000000
-	DamagePerBank:RIGHT 2500.000000
-	Range 16000.000000
-	PreBuffCooldownTime 10.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 14000.000000
+	PreBuffCooldownTime 10.500000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 1.000000
@@ -150,18 +156,18 @@ firingAlignmentType "TiltForward"
 firingTiltAngle -12.000000
 TargetCountPerBank:FRONT 1
 TargetCountPerBank:BACK 0
-TargetCountPerBank:LEFT 1
-TargetCountPerBank:RIGHT 1
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
 canOnlyTargetStructures FALSE
 mass 10000.000000
 ShieldMeshName "Dreadnought_ReapSovereign_Shield"
 renderShield TRUE
-maxAccelerationLinear 70.000000
-maxAccelerationStrafe 10.000000
+maxAccelerationLinear 45.000000
+maxAccelerationStrafe 50.000000
 maxDecelerationLinear 850.000000
 maxAccelerationAngular 0.500000
 maxDecelerationAngular 9.999998
-maxSpeedLinear 700.000000
+maxSpeedLinear 650.000000
 maxRollRate 6.000000
 maxRollAngle 34.999996
 useCustomHyperspaceEffects TRUE
@@ -213,7 +219,7 @@ meshNameDecreasedEffectName ""
 ExhaustParticleSystemName ""
 ExplosionName "CapitalShip0"
 CommandPoints
-	StartValue 0.000000
+	StartValue 1.000000
 	ValueIncreasePerLevel 0.000000
 weaponCooldownDecreasePerc
 	StartValue 0.000000

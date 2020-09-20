@@ -1419,8 +1419,8 @@ planetItemType
 	designName "Reap:Frigate:Collector"
 	entityDefName "FRIGATE_REAPCOLLECTORENVOY"
 planetItemType
-	designName "Reap:Dread:Collector"
-	entityDefName "DREADNOUGHT_REAPCOLLECTOR"
+	designName "Reap:Cruiser:Collector"
+	entityDefName "CRUISER_REAPCOLLECTOR"
 planetItemType
 	designName "Reap:Dread:Vanguard"
 	entityDefName "DREADNOUGHT_REAPVANGUARD"
@@ -1482,8 +1482,8 @@ planetItemType
 	designName "Alliance:Dread:Kilimanjaro"
 	entityDefName "DREADNOUGHT_ALLIKILIMANJARO"
 planetItemType
-	designName "Alliance:Frigate:Agincourt"
-	entityDefName "FRIGATE_ALLIAGINCOURT"
+	designName "Alliance:Frigate:Athabasca"
+	entityDefName "FRIGATE_COUNATHABASCA"
 planetItemType
 	designName "Alliance:Frigate:Hastings"
 	entityDefName "FRIGATE_ALLIHASTINGS"
@@ -1630,7 +1630,7 @@ planetItemsTemplate
 				param "Alliance"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 20
+			items 23
 				item "Alliance:Structure:ColonialHQ"
 				item "Alliance:Structure:GrissonAcademy"
 				item "Bonus:Homeworld:Alliance"
@@ -1647,17 +1647,20 @@ planetItemsTemplate
 				item "UNSC:Frigate:ModuleConstructor"
 				item "UNSC:Frigate:ModuleConstructor"
 				item "Alliance:Dread:Everest"
+				item "Alliance:Dread:Kilimanjaro"
 				item "Alliance:Frigate:Normandy"
 				item "Alliance:Frigate:Normandy"
 				item "Alliance:Frigate:Normandy"
 				item "Alliance:Frigate:Normandy"
+				item "Alliance:Frigate:Athabasca"
+				item "Alliance:Frigate:Athabasca"
 		group
 			condition
 				type "PlanetOwnerIsRaceQuickStart"
 				param "Alliance"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 20
+			items 23
 				item "Alliance:Structure:ColonialHQ"
 				item "Alliance:Structure:GrissonAcademy"
 				item "Bonus:Homeworld:Alliance"
@@ -1674,10 +1677,13 @@ planetItemsTemplate
 				item "UNSC:Frigate:ModuleConstructor"
 				item "UNSC:Frigate:ModuleConstructor"
 				item "Alliance:Dread:Everest"
+				item "Alliance:Dread:Kilimanjaro"
 				item "Alliance:Frigate:Normandy"
 				item "Alliance:Frigate:Normandy"
 				item "Alliance:Frigate:Normandy"
 				item "Alliance:Frigate:Normandy"
+				item "Alliance:Frigate:Athabasca"
+				item "Alliance:Frigate:Athabasca"
 		group
 			condition
 				type "PlanetOwnerIsRaceNormalStart"
@@ -1960,8 +1966,8 @@ planetItemsTemplate
 				param "Reaper"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 20
-				item "Cov:Frigate:AI"
+			items 21
+				item "UNSC:Frigate:AI"
 				item "Bonus:Homeworld:Reaper"
 				item "Reap:Structure:CivLab"
 				item "Reap:Structure:MilLab"
@@ -1974,21 +1980,22 @@ planetItemsTemplate
 				item "Reap:Structure:EezoExtractor"
 				item "Reap:Structure:EezoExtractor"
 				item "Reap:Structure:ObjectPhi"
-				item "Reap:Dread:Collector"
-				item "Reap:Dread:Collector"
 				item "Reap:Frigate:Geth"
 				item "Reap:Frigate:Geth"
 				item "Reap:Frigate:Geth"
-				item "Cov:Frigate:ModuleConstructor"
-				item "Cov:Frigate:ModuleConstructor"
+				item "Reap:Frigate:Geth"
+				item "Reap:Frigate:Geth"
+				item "Reap:Frigate:Geth"
+				item "UNSC:Frigate:ModuleConstructor"
+				item "UNSC:Frigate:ModuleConstructor"
 		group
 			condition
 				type "PlanetOwnerIsRaceQuickStart"
 				param "Reaper"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 20
-				item "Cov:Frigate:AI"
+			items 21
+				item "UNSC:Frigate:AI"
 				item "Bonus:Homeworld:Reaper"
 				item "Reap:Structure:CivLab"
 				item "Reap:Structure:MilLab"
@@ -2001,13 +2008,14 @@ planetItemsTemplate
 				item "Reap:Structure:EezoExtractor"
 				item "Reap:Structure:EezoExtractor"
 				item "Reap:Structure:ObjectPhi"
-				item "Reap:Dread:Collector"
-				item "Reap:Dread:Collector"
 				item "Reap:Frigate:Geth"
 				item "Reap:Frigate:Geth"
 				item "Reap:Frigate:Geth"
-				item "Cov:Frigate:ModuleConstructor"
-				item "Cov:Frigate:ModuleConstructor"
+				item "Reap:Frigate:Geth"
+				item "Reap:Frigate:Geth"
+				item "Reap:Frigate:Geth"
+				item "UNSC:Frigate:ModuleConstructor"
+				item "UNSC:Frigate:ModuleConstructor"
 planetItemsTemplate
 	templateName "Template:DefaultPreownPlanetSetup"
 	subTemplates 1

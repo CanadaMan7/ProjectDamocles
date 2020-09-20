@@ -1,5 +1,9 @@
 TXT	
-entityNameCount	4607
+entityNameCount	4611
+entityName "CRUISER_ALLIATHENSAI.entity"
+entityName "CRUISER_ALLIBEIJINGAI.entity"
+entityName "CRUISER_ALLIBERLINREFITAI.entity"
+entityName "CRUISER_ALLIBERLINRESERVEAI.entity"
 entityName "AbilityReaperInfection.entity"
 entityName "DREADNOUGHT_REAPGETHAI.entity"
 entityName "DREADNOUGHT_REAPVANGUARDAI.entity"

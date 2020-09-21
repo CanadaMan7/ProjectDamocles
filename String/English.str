@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 11444
+NumStrings 11480
 StringInfo
 	ID "IDS_PLAYERRACENAME_PSIREBEL"
 	Value "Alliance"
@@ -34332,3 +34332,111 @@ StringInfo
 StringInfo
 	ID "IDS_RESEARCH_COUNFLEET_VOLUS_DESCRIPTION"
 	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_ANDERSON_NAME"
+	Value "Councilor Anderson"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_ANDERSON_DESCRIPTION"
+	Value "The reluctant first human Councilor, Anderson is a military man through and through. He firmly believes in the Reapers, and his time on the Council has been directed towards preparing the galaxy and its citizens for their inevitable arrival. This has made him unpopular on the Council, and many call into question both his sanity and effectiveness as the human councilor because of it. Yet, when the Reapers do arrive, his efforts will be appreciated..."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_CITADELEMBASSIES_NAME"
+	Value "Citadel Embassies"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_CITADELEMBASSIES_DESCRIPTION"
+	Value "The Citadel Presidum has some of the most extensive diplomatic facilities in the galaxy, and is a meeting place for representatives from species across the Galaxy. Thanks to this, the Council can conduct diplomacy with great efficiency, assigning missions to other factions or sending resources wherever they are needed in the name of galactic peace."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_CITADELNEWSNET_NAME"
+	Value "Citadel News Net"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_CITADELNEWSNET_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_CULTURALASSIMILATION_NAME"
+	Value "Cultural Assimilation"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_CULTURALASSIMILATION_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_ESHEEL_NAME"
+	Value "Councilor Esheel"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_ESHEEL_DESCRIPTION"
+	Value "Dalatrass Esheel is a highly skilled politician, raised, as all female Salarians are, into the world of intrigue and politics from an early age. She brings an entirely different approach to the Council than her predecessor, who she considered to be a weak minded fool. Quick to rationalize and always placing Salarian interests first, she has no qualms ordering all manner of spec ops missions against the foes of the Council, even encouraging aggressive action by the military if it furthers her plan."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_GROTHANPAZNESS_NAME"
+	Value "Governor Grothan Pazness"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_GROTHANPAZNESS_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_IRISSA_NAME"
+	Value "Councilor Irissa"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_IRISSA_DESCRIPTION"
+	Value "Irissa conforms to a colder Asari philosophy not often seen in such public positions of power. Far from the kindly mediator, she operates on the principle of long term pragmatism, gladly exploiting every advantage available to her. Some have compared her to Aria T'loak, and in some regards it is an accurate comparison. The working relationship between these two is strong enough for Irissa to have secured a truce with the Terminus Systems, at least until the galaxy settles down again..."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_MERCCOOP_NAME"
+	Value "Mercenary Cooperation"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_MERCCOOP_DESCRIPTION"
+	Value "Although the Citadel is one of the most secure places in the galaxy, even C-Sec has its limits. There are some among the Council who see the value of extra-legal organisations such as Mercenary Corporations. From time to time, the Council has cause to surreptitiously employ some of the more principled mercenaries for tasks that are better left unrecorded... Such as arranging pirate attacks on rival powers."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_MULTICULTURALISM_NAME"
+	Value "Multiculturalism"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_MULTICULTURALISM_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_PILLARSOFSTRENGTH_NAME"
+	Value "Pillars Of Strength"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_PILLARSOFSTRENGTH_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_QUENTIUS_NAME"
+	Value "Councilor Quentius"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_QUENTIUS_DESCRIPTION"
+	Value "In stark contrast to his predecessor, Quentius is more focused around uniting the Council for the good of all, supporting the idea of cooperation against the most difficult of foes. His influence has led to greater force cohesion in the Council navies, and his dedication to learning from the mistakes of the past has inspired several new training programs for all Council dreadnought crews."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_REPORTINGFREEDOM_NAME"
+	Value "Reporting Freedom"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_REPORTINGFREEDOM_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_SPARATUS_NAME"
+	Value "Councilor Sparatus"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_SPARATUS_DESCRIPTION"
+	Value "Sparatus is a dedicated sceptic, and always the first on the Council to question the validity of ideas or dismiss outrageous claims. Outside observes often see this as disruptive behaviour, but it provides a valuable service. Sparatus often acts as both a filter for radical ideas and a good source of self reflection for the Council, keeping them grounded in reality in a galaxy of incxreasingly fantastical claims."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_TEVOS_NAME"
+	Value "Councilor Tevos"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_TEVOS_DESCRIPTION"
+	Value "A classic example of an Asari Matriarch, Councilor Tevos is a consumate diplomat, mediator and compromiser. She brings a degree of warmth and relatability to the Council that the other Councilors do not, and it is her delicate touch that keeps the Council from conflict, both internal and external. Yet, despite all this, she still has the best interests of Thessia and the Asari at heart, and will not hesitate to put her people first if necessary."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_UDINA_NAME"
+	Value "Councilor Udina"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_UDINA_DESCRIPTION"
+	Value "Formerly the Human Ambassador to the Council, Udina is a dedicated politician and bureaucract. Although unpopular with Alliance Navy commanders, he has proven incredibly beneficial for the Alliance as a whole, leveraging his detailed knowledge of interstellar politics to champion the cause of a united Humanity in the galactic community. In working towards this, he has supported the Councils research on quantum communications greatly, bringing down the cost of the ever more vital Quanum Relays."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_UNBIASEDREPORTING_NAME"
+	Value "Unbiased Reporting"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_UNBIASEDREPORTING_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_UNIVERSALAPPEAL_NAME"
+	Value "Universal Appeal"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_UNIVERSALAPPEAL_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_VALERN_NAME"
+	Value "Councilor Valern"
+StringInfo
+	ID "IDS_RESEARCH_COUNDIPLOMACY_VALERN_DESCRIPTION"
+	Value "Valern brings the typical Salarian strategist mindset to the Council, but on on a macro scale. He likes his wars won in advance and his plans uninterrupted by unexpected situations. In order to ensure the Council can always act with Salarian pragmatism, he collects are a large amount of information about all the goings on within Council culture, giving vision wherever it extends. He also espouses swift assaults and surprise tactics, ensuring your ships deal more damage immediately after leaving FTL."

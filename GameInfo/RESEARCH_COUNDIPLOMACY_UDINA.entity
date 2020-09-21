@@ -1,0 +1,56 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_COUNCILORUDINA_RESEARCH"
+smallHudIcon "HUDICON_COUNCILORUDINA_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_COUNDIPLOMACY_UDINA_NAME"
+DescriptionStringID "IDS_RESEARCH_COUNDIPLOMACY_UDINA_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 0 , 7 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COUNRENEGADE"
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 45.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 600.000000
+	metal 50.000000
+	crystal 100.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 0
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 5
+researchModifier
+	modifierType "MinorFactionAbilityLevel"
+	baseValue 0.000000
+	perLevelValue 1.000000
+researchModifier
+	modifierType "CultureModuleCostAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.150000
+researchModifier
+	modifierType "AllegianceFromCultureMaxPerc"
+	baseValue 0.000000
+	perLevelValue 0.050000
+researchModifier
+	modifierType "RelationshipBonus"
+	baseValue 0.000000
+	perLevelValue 1.500000
+researchModifier
+	modifierType "SelfRelationshipBonus"
+	baseValue 0.000000
+	perLevelValue 1.500000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

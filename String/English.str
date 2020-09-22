@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 11482
+NumStrings 11484
 StringInfo
 	ID "IDS_PLANETBONUS_HOMEWORLDCOUNCIL_NAME"
 	Value "Council Space"
@@ -34446,3 +34446,9 @@ StringInfo
 StringInfo
 	ID "IDS_RESEARCH_COUNDIPLOMACY_VALERN_DESCRIPTION"
 	Value "Valern brings the typical Salarian strategist mindset to the Council, but on on a macro scale. He likes his wars won in advance and his plans uninterrupted by unexpected situations. In order to ensure the Council can always act with Salarian pragmatism, he collects are a large amount of information about all the goings on within Council culture, giving vision wherever it extends. He also espouses swift assaults and surprise tactics, ensuring your ships deal more damage immediately after leaving FTL."
+StringInfo
+	ID "IDS_STRUCTURE_COUNQUANTUMRELAY_NAME"
+	Value "Quantum Relay"
+StringInfo
+	ID "IDS_STRUCTURE_COUNQUANTUMRELAY_DESCRIPTION"
+	Value "Placeholder."

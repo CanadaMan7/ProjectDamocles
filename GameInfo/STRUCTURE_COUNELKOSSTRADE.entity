@@ -26,7 +26,10 @@ DescriptionStringID "IDS_STRUCTURE_COUNELKOSSTRADE_DESCRIPTION"
 planetModuleRoleType "TRADEPORT"
 statCountType "ModuleTradePort"
 Prerequisites
-	NumResearchPrerequisites 0
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNCIVILIAN_ELKOSSCOMBINE"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MaxHullPoints 4000.000000

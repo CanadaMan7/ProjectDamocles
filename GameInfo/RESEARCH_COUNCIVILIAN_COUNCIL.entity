@@ -33,11 +33,11 @@ researchBoolModifiers 0
 researchFloatModifiers 7
 researchModifier
 	modifierType "ShipMaxSlots"
-	baseValue 200.000000
+	baseValue 150.000000
 	perLevelValue 0.000000
 researchModifier
 	modifierType "CapitalShipMaxSlots"
-	baseValue 1.000000
+	baseValue 3.000000
 	perLevelValue 0.000000
 researchModifier
 	modifierType "ShipMaxSlotLevel"
@@ -59,7 +59,7 @@ researchModifier
 	linkedPlanetType "Asteroid"
 researchModifier
 	modifierType "PlanetPopulationCapAdjustment"
-	baseValue 0.500000
+	baseValue 0.750000
 	perLevelValue 0.000000
 	linkedPlanetType "Greenhouse"
 artifactPicture ""

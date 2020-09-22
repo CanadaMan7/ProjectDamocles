@@ -1,5 +1,11 @@
 ﻿TXT
-NumStrings 11480
+NumStrings 11482
+StringInfo
+	ID "IDS_PLANETBONUS_HOMEWORLDCOUNCIL_NAME"
+	Value "Council Space"
+StringInfo
+	ID "IDS_PLANETBONUS_PLANETOID_DESCRIPTION"
+	Value "The Economy of planetoids revolves almost entirely around mining - specifically Eezo mining. Thanks to this, it is expensive to develop orbital infrastructure."
 StringInfo
 	ID "IDS_PLAYERRACENAME_PSIREBEL"
 	Value "Alliance"

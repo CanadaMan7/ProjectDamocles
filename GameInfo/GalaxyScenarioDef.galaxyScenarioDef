@@ -982,7 +982,7 @@ orbitBodyType
 	typeName "StartVolcanic"
 	entityDefName "PlanetVolcanic"
 	defaultTemplateName "Template:LocalMilitiaWeakNoColonize"
-planetItemTypeCount 184
+planetItemTypeCount 185
 planetItemType
 	designName "Artifact:WeaponBoost"
 	entityDefName "RESEARCHSUBJECT_ARTIFACT_WEAPONBOOST"
@@ -1403,6 +1403,9 @@ planetItemType
 planetItemType
 	designName "Council:CapitalShip:Mehrak"
 	entityDefName "DREADNOUGHT_COUNMEHRAK"
+planetItemType
+	designName "Bonus:Homeworld:Council"
+	entityDefName "PLANETBONUS_HOMEWORLDCOUNCIL"
 planetItemType
 	designName "Bonus:Homeworld:Reaper"
 	entityDefName "PLANETBONUS_HOMEWORLDREAPER"
@@ -1911,7 +1914,8 @@ planetItemsTemplate
 				param "Council"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 21
+			items 22
+				item "Bonus:Homeworld:Council"
 				item "UNSC:PlanetModule:CombatLaboratory"
 				item "UNSC:PlanetModule:NonCombatLaboratory"
 				item "UNSC:Frigate:AI"
@@ -1939,7 +1943,8 @@ planetItemsTemplate
 				param "Council"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 20
+			items 21
+				item "Bonus:Homeworld:Council"
 				item "UNSC:PlanetModule:CombatLaboratory"
 				item "UNSC:PlanetModule:NonCombatLaboratory"
 				item "UNSC:Frigate:AI"

@@ -1,5 +1,5 @@
 TXT
-numEffects 426
+numEffects 441
 effect
 	name "SMACNEW1"
 	fileName "WEAPON_UNSCSMACNEW_1.ogg"
@@ -6378,6 +6378,231 @@ effect
 effect
 	name "WEAPON_COUN_QUARIANBROADMASSACCMUZZLE6"
 	fileName "WEAPON_COUN_QUARIANBROADMASSACCMUZZLE6.mp3"
+	type "Effect"
+	is3D TRUE
+	priority 5
+	threshold 30000.000000
+	minAttenuationDist 500.000000
+	maxNumPlayingSimultaneously 20
+	isLooping FALSE
+	isResident TRUE
+	minRespawnTime 0.1
+	fadeInTime 0.0
+	fadeOutTime 0.0
+	alternateGroup ""
+	effect
+	name "AMBIENT_KODIAK"
+	fileName "AMBIENT_KODIAK.mp3"
+	type "Effect"
+	is3D TRUE
+	priority 1
+	threshold 20000.000000
+	minAttenuationDist 400.000000
+	maxNumPlayingSimultaneously 4
+	isLooping TRUE
+	isResident TRUE
+	minRespawnTime 0.1
+	fadeInTime 1.0
+	fadeOutTime 0.7
+	alternateGroup ""
+effect
+	name "AMBIENT_FRIGATE"
+	fileName "AMBIENT_FRIGATE.mp3"
+	type "Effect"
+	is3D TRUE
+	priority 1
+	threshold 20000.000000
+	minAttenuationDist 400.000000
+	maxNumPlayingSimultaneously 4
+	isLooping TRUE
+	isResident TRUE
+	minRespawnTime 0.1
+	fadeInTime 1.0
+	fadeOutTime 0.7
+	alternateGroup ""
+effect
+	name "AMBIENT_CRUISER"
+	fileName "AMBIENT_CRUISER.mp3"
+	type "Effect"
+	is3D TRUE
+	priority 1
+	threshold 20000.000000
+	minAttenuationDist 400.000000
+	maxNumPlayingSimultaneously 4
+	isLooping TRUE
+	isResident TRUE
+	minRespawnTime 0.1
+	fadeInTime 1.0
+	fadeOutTime 0.7
+	alternateGroup ""
+effect
+	name "AMBIENT_DREAD"
+	fileName "AMBIENT_DREAD.mp3"
+	type "Effect"
+	is3D TRUE
+	priority 1
+	threshold 20000.000000
+	minAttenuationDist 400.000000
+	maxNumPlayingSimultaneously 4
+	isLooping TRUE
+	isResident TRUE
+	minRespawnTime 0.1
+	fadeInTime 1.0
+	fadeOutTime 0.7
+	alternateGroup ""
+effect
+	name "AMBIENT_SUPERDREAD"
+	fileName "AMBIENT_SUPERDREAD.mp3"
+	type "Effect"
+	is3D TRUE
+	priority 1
+	threshold 20000.000000
+	minAttenuationDist 400.000000
+	maxNumPlayingSimultaneously 4
+	isLooping TRUE
+	isResident TRUE
+	minRespawnTime 0.1
+	fadeInTime 1.0
+	fadeOutTime 0.7
+	alternateGroup ""
+	effect
+	name "CARRIER_ALLINEWTON_GUNDEPLOY"
+	fileName "CARRIER_ALLINEWTON_GUNDEPLOY.mp3"
+	type "Effect"
+	is3D TRUE
+	priority 10
+	threshold 40000.000000
+	minAttenuationDist 2000.000000
+	maxNumPlayingSimultaneously 3
+	isLooping FALSE
+	isResident FALSE
+	minRespawnTime 0.1
+	fadeInTime 0.5
+	fadeOutTime 1.0
+	alternateGroup ""
+effect
+	name "WEAPON_ALLI_SPINALMASSACCMUZZLE1"
+	fileName "WEAPON_ALLI_SPINALMASSACCMUZZLE1.mp3"
+	type "Effect"
+	is3D TRUE
+	priority 5
+	threshold 30000.000000
+	minAttenuationDist 1500.000000
+	maxNumPlayingSimultaneously 20
+	isLooping FALSE
+	isResident TRUE
+	minRespawnTime 0.1
+	fadeInTime 0.0
+	fadeOutTime 0.0
+	alternateGroup ""
+effect
+	name "WEAPON_ALLI_SPINALMASSACCMUZZLE2"
+	fileName "WEAPON_ALLI_SPINALMASSACCMUZZLE2.mp3"
+	type "Effect"
+	is3D TRUE
+	priority 5
+	threshold 30000.000000
+	minAttenuationDist 1500.000000
+	maxNumPlayingSimultaneously 20
+	isLooping FALSE
+	isResident TRUE
+	minRespawnTime 0.1
+	fadeInTime 0.0
+	fadeOutTime 0.0
+	alternateGroup ""
+effect
+	name "WEAPON_ALLI_SPINALMASSACCMUZZLE3"
+	fileName "WEAPON_ALLI_SPINALMASSACCMUZZLE3.mp3"
+	type "Effect"
+	is3D TRUE
+	priority 5
+	threshold 30000.000000
+	minAttenuationDist 1500.000000
+	maxNumPlayingSimultaneously 20
+	isLooping FALSE
+	isResident TRUE
+	minRespawnTime 0.1
+	fadeInTime 0.0
+	fadeOutTime 0.0
+	alternateGroup ""
+effect
+	name "WEAPON_ALLI_AUXMASSACCMUZZLE1"
+	fileName "WEAPON_ALLI_AUXMASSACCMUZZLE1.mp3"
+	type "Effect"
+	is3D TRUE
+	priority 5
+	threshold 30000.000000
+	minAttenuationDist 1000.000000
+	maxNumPlayingSimultaneously 20
+	isLooping FALSE
+	isResident TRUE
+	minRespawnTime 0.1
+	fadeInTime 0.0
+	fadeOutTime 0.0
+	alternateGroup ""
+effect
+	name "WEAPON_ALLI_AUXMASSACCMUZZLE2"
+	fileName "WEAPON_ALLI_AUXMASSACCMUZZLE2.mp3"
+	type "Effect"
+	is3D TRUE
+	priority 5
+	threshold 30000.000000
+	minAttenuationDist 1000.000000
+	maxNumPlayingSimultaneously 20
+	isLooping FALSE
+	isResident TRUE
+	minRespawnTime 0.1
+	fadeInTime 0.0
+	fadeOutTime 0.0
+	alternateGroup ""
+effect
+	name "WEAPON_ALLI_AUXMASSACCMUZZLE3"
+	fileName "WEAPON_ALLI_AUXMASSACCMUZZLE3.mp3"
+	type "Effect"
+	is3D TRUE
+	priority 5
+	threshold 30000.000000
+	minAttenuationDist 1000.000000
+	maxNumPlayingSimultaneously 20
+	isLooping FALSE
+	isResident TRUE
+	minRespawnTime 0.1
+	fadeInTime 0.0
+	fadeOutTime 0.0
+	alternateGroup ""
+effect
+	name "WEAPON_ALLI_BROADSIDEMASSACCMUZZLE1"
+	fileName "WEAPON_ALLI_BROADSIDEMASSACCMUZZLE1.mp3"
+	type "Effect"
+	is3D TRUE
+	priority 5
+	threshold 30000.000000
+	minAttenuationDist 500.000000
+	maxNumPlayingSimultaneously 20
+	isLooping FALSE
+	isResident TRUE
+	minRespawnTime 0.1
+	fadeInTime 0.0
+	fadeOutTime 0.0
+	alternateGroup ""
+effect
+	name "WEAPON_ALLI_BROADSIDEMASSACCMUZZLE2"
+	fileName "WEAPON_ALLI_BROADSIDEMASSACCMUZZLE2.mp3"
+	type "Effect"
+	is3D TRUE
+	priority 5
+	threshold 30000.000000
+	minAttenuationDist 500.000000
+	maxNumPlayingSimultaneously 20
+	isLooping FALSE
+	isResident TRUE
+	minRespawnTime 0.1
+	fadeInTime 0.0
+	fadeOutTime 0.0
+	alternateGroup ""
+effect
+	name "WEAPON_ALLI_BROADSIDEMASSACCMUZZLE3"
+	fileName "WEAPON_ALLI_BROADSIDEMASSACCMUZZLE3.mp3"
 	type "Effect"
 	is3D TRUE
 	priority 5

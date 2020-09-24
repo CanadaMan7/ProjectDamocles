@@ -1,6 +1,6 @@
 TXT
 onlyLoadOnDemand FALSE
-brushCount 18
+brushCount 24
 brush
 	name "HUDICON_DREAD_COUNCYBAEN"
 	content "States"
@@ -325,3 +325,111 @@ brush
 	Normal
 		fileName "Council_Buttons_New"
 		pixelBox [ 914 , 3 , 92 , 73 ]
+brush
+	name "HUDICON_FRIGATE_COUNSALARIAN"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 611 , 422 , 95 , 66 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 611 , 255 , 95 , 66 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 611 , 255 , 95 , 66 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 611 , 88 , 95 , 66 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 611 , 88 , 95 , 66 ]
+brush
+	name "HUDICON_DREAD_COUNMERAK"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 840 , 95 , 68 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 673 , 95 , 68 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 673 , 95 , 68 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 506 , 95 , 68 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 506 , 95 , 68 ]
+brush
+	name "HUDICON_DREAD_COUNBATARIAN"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 923 , 95 , 66 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 756 , 95 , 66 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 756 , 95 , 66 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 589 , 95 , 66 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 589 , 95 , 66 ]
+brush
+	name "HUDICON_DREAD_COUNEVEREST"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 838 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 671 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 671 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 504 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 504 , 92 , 73 ]
+brush
+	name "HUDICON_DREAD_COUNRAYYA"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1325 , 840 , 95 , 69 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1325 , 674 , 95 , 69 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1325 , 674 , 95 , 69 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1325 , 507 , 95 , 69 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1325 , 507 , 95 , 69 ]
+brush
+	name "HUDICON_DREAD_COUNSALARIAN"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 921 , 95 , 66 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 754 , 95 , 66 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 754 , 95 , 66 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 587 , 95 , 66 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 587 , 95 , 66 ]

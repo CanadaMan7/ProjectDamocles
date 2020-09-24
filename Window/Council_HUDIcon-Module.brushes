@@ -1,0 +1,21 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 1
+brush
+	name "HUDICON_STRUCTURE_COUNMILITARYLAB"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Normal_Large_Disabled"
+		pixelBox [ 130 , 131 , 63 , 41 ]
+	Pressed
+		fileName "Unit_Hud_Normal_Large_Cursorover"
+		pixelBox [ 130 , 131 , 63 , 41 ]
+	CursorOver
+		fileName "Unit_Hud_Normal_Large_Cursorover"
+		pixelBox [ 130 , 131 , 63 , 41 ]
+	Focused
+		fileName "Unit_Hud_Normal_Large"
+		pixelBox [ 130 , 131 , 63 , 41 ]
+	Normal
+		fileName "Unit_Hud_Normal_Large"
+		pixelBox [ 130 , 131, 63 , 41 ]

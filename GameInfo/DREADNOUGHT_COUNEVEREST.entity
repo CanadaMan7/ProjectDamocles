@@ -62,8 +62,8 @@ numRandomDebrisLarge 4
 numRandomDebrisSmall 17
 numSpecificDebris 0
 armorType "CapitalShip"
-hudIcon "HUDICON_CAPITALSHIP_UNSCTHANATOS"
-smallHudIcon "MAINVIEWICON_DREADNOUGHT_COUNEVEREST"
+hudIcon "HUDICON_DREAD_COUNEVEREST"
+smallHudIcon "HUDICONSMALL_DREADNOUGHT_ALLIEVEREST"
 infoCardIcon "MAINVIEWICON_DREADNOUGHT_COUNEVEREST"
 minZoomDistanceMult 1.800000
 NumWeapons 3

@@ -829,4 +829,4 @@ raceRelationsModifier
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		modifierMin 0.000000
 		modifierMax 0.000000
-defaultFactionNameID "IDS_PLAYERFACTIONNAME_UNSCNEUTRAL"
+defaultFactionNameID "IDS_PLAYERFACTIONNAME_ALLINEUTRAL"

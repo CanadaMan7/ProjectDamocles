@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 11484
+NumStrings 11488
 StringInfo
 	ID "IDS_PLANETBONUS_HOMEWORLDCOUNCIL_NAME"
 	Value "Council Space"
@@ -34451,4 +34451,16 @@ StringInfo
 	Value "Quantum Relay"
 StringInfo
 	ID "IDS_STRUCTURE_COUNQUANTUMRELAY_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_STRUCTURE_COUNMILITARYLAB_NAME"
+	Value "Jarrahe Station"
+StringInfo
+	ID "IDS_STRUCTURE_COUNMILITARYLAB_DESCRIPTION"
+	Value "Placeholder."
+StringInfo
+	ID "IDS_STRUCTURE_COUNREFINERY_NAME"
+	Value "T-GES Mineral Works Refinery"
+StringInfo
+	ID "IDS_STRUCTURE_COUNREFINERY_DESCRIPTION"
 	Value "Placeholder."

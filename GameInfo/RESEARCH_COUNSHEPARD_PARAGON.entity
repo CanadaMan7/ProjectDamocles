@@ -28,7 +28,7 @@ PerLevelCostIncrease
 Tier 1
 onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
-priority 1.100000
+priority 1.000000
 researchBoolModifiers 1
 researchModifier
 	modifierType "SetFaction"

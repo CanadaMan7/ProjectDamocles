@@ -72,8 +72,10 @@ Weapon
 		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
-			soundCount 1
-			sound "WEAPON_TECH_GAUSSCANNON_MUZZLE_HUMANCRUI2"
+			soundCount 3
+			sound "WEAPON_ALLI_BROADSIDEMASSACCMUZZLE1"
+			sound "WEAPON_ALLI_BROADSIDEMASSACCMUZZLE2"
+			sound "WEAPON_ALLI_BROADSIDEMASSACCMUZZLE3"
 		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
 		hitHullEffectSounds
 			soundCount 1
@@ -110,15 +112,16 @@ Weapon
 		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
-			soundCount 1
-			sound "WEAPON_TECHSUPPORTAUTOCANNONLIGHT_MUZZLE2"
+			soundCount 2
+			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE"
+			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE_ALT1"
 		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
 		hitHullEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
 		hitShieldsEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		projectileTravelEffectName "Weapon_Tech_AutoCannonFighter_Travel"
 Weapon
 	WeaponType "Beam"

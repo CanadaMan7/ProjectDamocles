@@ -1422,8 +1422,8 @@ planetItemType
 	designName "Reap:Frigate:Collector"
 	entityDefName "FRIGATE_REAPCOLLECTORENVOY"
 planetItemType
-	designName "Reap:Cruiser:Collector"
-	entityDefName "CRUISER_REAPCOLLECTOR"
+	designName "Reap:Dread:Collector"
+	entityDefName "DREADNOUGHT_REAPCOLLECTOR"
 planetItemType
 	designName "Reap:Dread:Vanguard"
 	entityDefName "DREADNOUGHT_REAPVANGUARD"
@@ -1971,11 +1971,12 @@ planetItemsTemplate
 				param "Reaper"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 21
+			items 22
 				item "UNSC:Frigate:AI"
 				item "Bonus:Homeworld:Reaper"
 				item "Reap:Structure:CivLab"
 				item "Reap:Structure:MilLab"
+				item "Reap:Structure:FrigateYard"
 				item "Reap:Structure:FrigateYard"
 				item "Reap:Structure:DreadYard"
 				item "Reap:Structure:MetalExtractor"
@@ -1985,8 +1986,8 @@ planetItemsTemplate
 				item "Reap:Structure:EezoExtractor"
 				item "Reap:Structure:EezoExtractor"
 				item "Reap:Structure:ObjectPhi"
-				item "Reap:Frigate:Geth"
-				item "Reap:Frigate:Geth"
+				item "Reap:Dread:Collector"
+				item "Reap:Dread:Collector"
 				item "Reap:Frigate:Geth"
 				item "Reap:Frigate:Geth"
 				item "Reap:Frigate:Geth"
@@ -1999,11 +2000,12 @@ planetItemsTemplate
 				param "Reaper"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 21
+			items 22
 				item "UNSC:Frigate:AI"
 				item "Bonus:Homeworld:Reaper"
 				item "Reap:Structure:CivLab"
 				item "Reap:Structure:MilLab"
+				item "Reap:Structure:FrigateYard"
 				item "Reap:Structure:FrigateYard"
 				item "Reap:Structure:DreadYard"
 				item "Reap:Structure:MetalExtractor"
@@ -2013,8 +2015,8 @@ planetItemsTemplate
 				item "Reap:Structure:EezoExtractor"
 				item "Reap:Structure:EezoExtractor"
 				item "Reap:Structure:ObjectPhi"
-				item "Reap:Frigate:Geth"
-				item "Reap:Frigate:Geth"
+				item "Reap:Dread:Collector"
+				item "Reap:Dread:Collector"
 				item "Reap:Frigate:Geth"
 				item "Reap:Frigate:Geth"
 				item "Reap:Frigate:Geth"

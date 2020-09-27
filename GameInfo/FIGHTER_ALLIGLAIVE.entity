@@ -18,12 +18,12 @@ counterDescriptionStringID "IDS_COUNTER_INTERCEPTOR"
 statCountType "FighterCombat"
 formationOffsetDistance 50.000000
 mass 100.000000
-maxAccelerationLinear 400.000000
+maxAccelerationLinear 420.000000
 maxAccelerationStrafe 100.000000
 maxDecelerationLinear 1000.000000
 maxAccelerationAngular 70.000000
 maxDecelerationAngular 100.000000
-maxSpeedLinear 2200.000000
+maxSpeedLinear 2500.000000
 maxRollRate 40.000000
 maxRollAngle 90.000000
 NumWeapons 1
@@ -35,12 +35,12 @@ Weapon
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
 		WeaponClassType "WAVE"
-	DamagePerBank:FRONT 80.000000
+	DamagePerBank:FRONT 110.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
 	Range 700.000000
-	PreBuffCooldownTime 2.000000
+	PreBuffCooldownTime 1.500000
 	CanFireAtFighter TRUE
 	SynchronizedTargeting TRUE
 	PointStaggerDelay 0.000000

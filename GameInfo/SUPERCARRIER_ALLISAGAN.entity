@@ -14,9 +14,9 @@ autoJoinFleetDefault TRUE
 canBomb FALSE
 mainViewIcon "MAINVIEWICON_SUPERCARRIER_ALLISAGAN"
 basePrice
-	credits 12500.000000
-	metal 5650.000000
-	crystal 7650.000000
+	credits 6500.000000
+	metal 2825.000000
+	crystal 3825.000000
 slotCount 100.000000
 BuildTime 380.000000
 MaxHullPoints

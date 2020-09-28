@@ -14,9 +14,9 @@ autoJoinFleetDefault TRUE
 canBomb FALSE
 mainViewIcon "MAINVIEWICON_DREAD_ALLIDENALI"
 basePrice
-	credits 7125.000000
-	metal 760.000000
-	crystal 510.000000
+	credits 3560.000000
+	metal 380.000000
+	crystal 255.000000
 slotCount 40.000000
 BuildTime 56.000000
 MaxHullPoints

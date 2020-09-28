@@ -16,9 +16,9 @@ NameStringID "IDS_CRUISER_ALLIGENEVA_NAME"
 DescriptionStringID "IDS_CRUISER_ALLIGENEVA_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_GUNLINE"
 basePrice
-	credits 1500.000000
-	metal 285.000000
-	crystal 245.000000
+	credits 750.000000
+	metal 165.000000
+	crystal 120.000000
 slotCount 14.000000
 BuildTime 26.000000
 hasLevels FALSE

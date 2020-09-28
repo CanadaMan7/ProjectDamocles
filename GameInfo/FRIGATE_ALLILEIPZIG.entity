@@ -16,9 +16,9 @@ NameStringID "IDS_FRIGATE_ALLINORMANDYREFIT_NAME"
 DescriptionStringID "IDS_FRIGATE_ALLINORMANDYREFIT_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_STEALTH"
 basePrice
-	credits 3000.000000
-	metal 275.000000
-	crystal 460.000000
+	credits 1500.000000
+	metal 140.000000
+	crystal 230.000000
 slotCount 18.000000
 BuildTime 180.000000
 hasLevels FALSE

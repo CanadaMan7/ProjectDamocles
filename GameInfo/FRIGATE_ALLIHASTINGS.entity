@@ -17,9 +17,9 @@ NameStringID "IDS_FRIGATE_ALLIHASTINGS_NAME"
 DescriptionStringID "IDS_FRIGATE_ALLIHASTINGS_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_MISSILE_ARMOR"
 basePrice
-	credits 420.000000
-	metal 50.000000
-	crystal 20.000000
+	credits 210.000000
+	metal 25.000000
+	crystal 10.000000
 slotCount 7.000000
 BuildTime 15.000000
 hasLevels FALSE

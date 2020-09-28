@@ -14,9 +14,9 @@ autoJoinFleetDefault TRUE
 canBomb FALSE
 mainViewIcon "MAINVIEWICON_DREAD_ALLIEVEREST"
 basePrice
-	credits 5250.000000
-	metal 695.000000
-	crystal 470.000000
+	credits 2625.000000
+	metal 350.000000
+	crystal 235.000000
 slotCount 35.000000
 BuildTime 49.000000
 MaxHullPoints

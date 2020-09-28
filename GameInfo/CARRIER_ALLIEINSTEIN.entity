@@ -14,9 +14,9 @@ autoJoinFleetDefault TRUE
 canBomb FALSE
 mainViewIcon "MAINVIEWICON_CARRIER_ALLIEINSTEIN"
 basePrice
-	credits 6100.000000
-	metal 600.000000
-	crystal 725.000000
+	credits 3050.000000
+	metal 300.000000
+	crystal 360.000000
 slotCount 35.000000
 BuildTime 75.000000
 MaxHullPoints

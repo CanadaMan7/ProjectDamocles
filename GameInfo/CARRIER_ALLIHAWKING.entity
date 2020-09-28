@@ -16,9 +16,9 @@ NameStringID "IDS_CARRIER_ALLIHAWKING_NAME"
 DescriptionStringID "IDS_CARRIER_ALLIHAWKING_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_CARRIER_GRUNTS"
 basePrice
-	credits 2050.000000
-	metal 205.000000
-	crystal 265.000000
+	credits 1025.000000
+	metal 100.000000
+	crystal 130.000000
 slotCount 20.000000
 BuildTime 30.000000
 hasLevels FALSE

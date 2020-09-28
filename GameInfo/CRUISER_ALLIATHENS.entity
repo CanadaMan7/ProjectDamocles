@@ -16,9 +16,9 @@ NameStringID "IDS_CRUISER_ALLIATHENS_NAME"
 DescriptionStringID "IDS_CRUISER_ALLIATHENS_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_HEAVY"
 basePrice
-	credits 1450.000000
-	metal 245.000000
-	crystal 240.000000
+	credits 725.000000
+	metal 125.000000
+	crystal 120.000000
 slotCount 14.000000
 BuildTime 22.000000
 hasLevels FALSE

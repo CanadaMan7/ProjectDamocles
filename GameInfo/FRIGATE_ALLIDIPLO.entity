@@ -17,9 +17,9 @@ NameStringID "IDS_FRIGATE_ALLIDIPLO_NAME"
 DescriptionStringID "IDS_FRIGATE_ALLIDIPLO_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_DIPLOMATIC"
 basePrice
-	credits 800.000000
-	metal 80.000000
-	crystal 25.000000
+	credits 400.000000
+	metal 40.000000
+	crystal 10.000000
 slotCount 10.000000
 BuildTime 30.000000
 hasLevels FALSE

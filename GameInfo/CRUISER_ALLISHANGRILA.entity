@@ -16,9 +16,9 @@ NameStringID "IDS_CRUISER_ALLISHANGRILA_NAME"
 DescriptionStringID "IDS_CRUISER_ALLISHANGRILA_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_GUNLINE"
 basePrice
-	credits 1975.000000
-	metal 400.000000
-	crystal 315.000000
+	credits 990.000000
+	metal 200.000000
+	crystal 160.000000
 slotCount 20.000000
 BuildTime 38.000000
 hasLevels FALSE

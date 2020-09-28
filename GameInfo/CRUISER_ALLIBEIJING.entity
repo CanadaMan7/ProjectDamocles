@@ -16,9 +16,9 @@ NameStringID "IDS_CRUISER_ALLIBEIJING_NAME"
 DescriptionStringID "IDS_CRUISER_ALLIBEIJING_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_LASER_ECM"
 basePrice
-	credits 1800.000000
-	metal 300.000000
-	crystal 270.000000
+	credits 900.000000
+	metal 150.000000
+	crystal 135.000000
 slotCount 18.000000
 BuildTime 30.000000
 hasLevels FALSE

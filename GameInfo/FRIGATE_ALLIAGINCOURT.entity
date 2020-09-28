@@ -17,9 +17,9 @@ NameStringID "IDS_FRIGATE_ALLIAGINCOURT_NAME"
 DescriptionStringID "IDS_FRIGATE_ALLIAGINCOURT_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_LASER"
 basePrice
-	credits 320.000000
-	metal 40.000000
-	crystal 15.000000
+	credits 160.000000
+	metal 20.000000
+	crystal 10.000000
 slotCount 5.000000
 BuildTime 13.000000
 hasLevels FALSE

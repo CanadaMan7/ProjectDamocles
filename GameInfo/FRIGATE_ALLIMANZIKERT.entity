@@ -17,9 +17,9 @@ NameStringID "IDS_FRIGATE_ALLIMANZIKERT_NAME"
 DescriptionStringID "IDS_FRIGATE_ALLIMANZIKERT_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_MISSILE_ARMOR"
 basePrice
-	credits 800.000000
-	metal 65.000000
-	crystal 50.000000
+	credits 400.000000
+	metal 30.000000
+	crystal 25.000000
 slotCount 10.000000
 BuildTime 24.000000
 hasLevels FALSE

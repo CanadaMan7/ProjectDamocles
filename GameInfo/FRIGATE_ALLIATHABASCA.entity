@@ -16,9 +16,9 @@ NameStringID "IDS_FRIGATE_ALLIATHABASCA_NAME"
 DescriptionStringID "IDS_FRIGATE_ALLIATHABASCA_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_COLONY"
 basePrice
-	credits 380.000000
-	metal 45.000000
-	crystal 25.000000
+	credits 190.000000
+	metal 20.000000
+	crystal 10.000000
 slotCount 5.000000
 BuildTime 25.000000
 hasLevels FALSE

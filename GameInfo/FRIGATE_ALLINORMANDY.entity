@@ -16,9 +16,9 @@ NameStringID "IDS_FRIGATE_ALLINORMANDY_NAME"
 DescriptionStringID "IDS_FRIGATE_ALLINORMANDY_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_STEALTH_SPECOPS"
 basePrice
-	credits 2000.000000
-	metal 215.000000
-	crystal 400.000000
+	credits 1000.000000
+	metal 110.000000
+	crystal 200.000000
 slotCount 14.000000
 BuildTime 55.000000
 hasLevels FALSE

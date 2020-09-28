@@ -16,9 +16,9 @@ NameStringID "IDS_CRUISER_ALLIBERLINRESERVE_NAME"
 DescriptionStringID "IDS_CRUISER_ALLIBERLINRESERVE_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_SCREEN"
 basePrice
-	credits 1005.000000
-	metal 170.000000
-	crystal 120.000000
+	credits 500.000000
+	metal 85.000000
+	crystal 60.000000
 slotCount 9.000000
 BuildTime 16.000000
 hasLevels FALSE

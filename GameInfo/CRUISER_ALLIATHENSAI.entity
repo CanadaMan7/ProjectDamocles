@@ -89,11 +89,11 @@ Weapon
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
 		WeaponClassType "PHASEMISSILE"
-	DamagePerBank:FRONT 110.000000
+	DamagePerBank:FRONT 120.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
-	Range 3500.000000
+	Range 8500.000000
 	PreBuffCooldownTime 4.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE

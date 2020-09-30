@@ -31,7 +31,10 @@ BaseArmorPoints 1.500000
 maxMitigation 0.650000
 relationshipChangeRate 0.000000
 Prerequisites
-	NumResearchPrerequisites 1
+	NumResearchPrerequisites 2
+	ResearchPrerequisite
+		Subject "RESEARCH_ALLIMODERNIZATION_PRESERVEFLEET"
+		Level 1
 	ResearchPrerequisite
 		Subject "RESEARCH_ALLIAI_DISCOUNT0"
 		Level 1

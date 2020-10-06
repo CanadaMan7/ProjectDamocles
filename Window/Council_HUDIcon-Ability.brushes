@@ -1,0 +1,1065 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 59
+brush
+	name "HUDICON_ABILITY_COUNTHROWCYBAEN"
+	content "States"
+	Disabled
+		fileName "DOTR_AbilityButton_Disabled"
+		pixelBox [ 256 , 331 , 61 , 39 ]
+	Pressed
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 256 , 331 , 61 , 39 ]
+	CursorOver
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 256 , 331 , 61 , 39 ]
+	Focused
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 256 , 331 , 61 , 39 ]
+	Normal
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 256 , 331 , 61 , 39 ]
+brush
+	name "HUDICON_ABILITY_COUNSTEALTHSALACTIVE"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1632 , 1921 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1632 , 1754 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1632 , 1754 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1632 , 1587 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1632 , 1587 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNSTEALTHSAL"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1734 , 1921 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1734 , 1754 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1734 , 1754 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1734 , 1587 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1734 , 1587 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNSINGULARITYCYBAEN"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1428 , 1917 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1428 , 1750 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1428 , 1750 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1428 , 1583 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1428 , 1583 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNSTASISCYBAEN"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1834 , 1839 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1834 , 1672 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1834 , 1672 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1834 , 1505 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1834 , 1505 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNBARRIERCYBAEN"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1338 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1171 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1171 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1004 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1004 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNHUNTERMODE"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 305 , 1340 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 305 , 1173 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 305 , 1173 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 305 , 1006 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 305 , 1006 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNFORTICATIONS"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 203 , 1340 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 203 , 1173 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 203 , 1173 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 203 , 1006 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 203 , 1006 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNOVERCLOCKBARRIERS"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 101 , 1340 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 101 , 1173 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 101 , 1173 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 101 , 1006 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 101 , 1006 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNOVERCLOCKWEAPONS"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 2 , 1340 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 2 , 1173 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 2 , 1173 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 2 , 1006 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 2 , 1006 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNOVERLOAD"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1326 , 1917 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1326 , 1750 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1326 , 1750 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1326 , 1583 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1326 , 1583 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNSABOTAGE"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1921 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1754 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1754 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1587 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1587 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNDIEFORTHECAUSE"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 1918 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 1751 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 1751 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 1584 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 1584 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNTURIANCOHORT"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1920 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1753 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1753 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1586 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1586 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNINFERNOAMMO"
+	content "States"
+	Disabled
+		fileName "Cerberus_Buttons_New"
+		pixelBox [ 1224 , 1420 , 95 , 66 ]
+	Pressed
+		fileName "Cerberus_Buttons_New"
+		pixelBox [ 1224 , 1252 , 95 , 66 ]
+	CursorOver
+		fileName "Cerberus_Buttons_New"
+		pixelBox [ 1224 , 1252 , 95 , 66 ]
+	Focused
+		fileName "Cerberus_Buttons_New"
+		pixelBox [ 1224 , 1085 , 95 , 66 ]
+	Normal
+		fileName "Cerberus_Buttons_New"
+		pixelBox [ 1224 , 1085 , 95 , 66 ]
+brush
+	name "HUDICON_ABILITY_COUNBALLISTICBLADES"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1842 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1675 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1675 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1508 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1508 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNSUBMISSIONNET"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 1842 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 1675 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 1675 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 1508 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 1508 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNBLADEARMOR"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1842 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1675 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1675 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1508 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1508 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNHIGHRESLADAR"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 403 , 916 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 403 , 750 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 403 , 750 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 403 , 583 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 403 , 583 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNSPECTREDROP"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 305 , 840 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 305 , 673 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 305 , 673 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 305 , 506 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 305 , 506 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNISSTEALTH"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 403 , 507 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 403 , 674 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 403 , 674 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 403 , 507 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 403 , 507 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNDECOY"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1932 , 1918 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1932 , 1750 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1932 , 1750 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1932 , 1583 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1932 , 1583 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNLIQUIDATMO"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 915 , ,, , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 915 , 754 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 915 , 754 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 915 , 587 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 915 , 587 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNEXTINGUISHMENT"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 915 , 1416 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 915 , 1249 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 915 , 1249 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 915 , 1082 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 915 , 1082 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNDRELLSPECIAL"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 813 , 1417 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 813 , 1250 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 813 , 1250 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 813 , 1083 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 813 , 1083 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNVOICEENKINDLERS"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 711 , 1417 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 711 , 1250 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 711 , 1250 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 711 , 1083 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 711 , 1083 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNELKOSSCORP"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 2 , 1423 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 2 , 1256 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 2 , 1256 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 2 , 1089 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 2 , 1089 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNBATASS"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 510 , 1417 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 510 , 1250 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 510 , 1250 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 510 , 1083 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 609 , 1083 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNSTORMYSKIES"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 609 , 1417 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 609 , 1250 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 609 , 1250 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 609 , 1083 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 609 , 1083 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNSTGRECONDATA"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1420 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1253 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1253 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1086 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1086 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNUPLIFTEDYAHG"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1834 , 1916 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1834 , 1749 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1834 , 1749 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1834 , 1582 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1834 , 1582 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNLARGEOBJECT"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1934 , 1839 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1934 , 1672 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1934 , 1672 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1934 , 1504 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1934 , 1504 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNREMOTEHACKING"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1921 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1754 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1754 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1587 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1587 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNJURYRIGGING"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1732 , 1840 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1732 , 1673 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1732 , 1673 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1732 , 1506 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1732 , 1506 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNENERGYDRAIN"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1630 , 1841 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1630 , 1674 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1630 , 1674 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1630 , 1507 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1630 , 1507 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNTACTICALSCAN"
+	content "States"
+	Disabled
+		fileName "Alliance_Buttons_New"
+		pixelBox [ 1631 , 1418 , 92 , 73 ]
+	Pressed
+		fileName "Alliance_Buttons_New"
+		pixelBox [ 1631 , 1251 , 92 , 73 ]
+	CursorOver
+		fileName "Alliance_Buttons_New"
+		pixelBox [ 1631 , 1251 , 92 , 73 ]
+	Focused
+		fileName "Alliance_Buttons_New"
+		pixelBox [ 1631 , 1084 , 92 , 73 ]
+	Normal
+		fileName "Alliance_Buttons_New"
+		pixelBox [ 1631 , 1084 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNFLEXIBLETACTICS"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1428 , 1842 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1428 , 1675 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1428 , 1675 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1428 , 1508 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1428 , 1508 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNNECESSARYFORCE"
+	content "States"
+	Disabled
+		fileName "DOTR_AbilityButton_Disabled"
+		pixelBox [ 1201 , 249 , 61 , 39 ]
+	Pressed
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 1201 , 249 , 61 , 39 ]
+	CursorOver
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 1201 , 249 , 61 , 39 ]
+	Focused
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 1201 , 249 , 61 , 39 ]
+	Normal
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 1201 , 249 , 61 , 39 ]
+brush
+	name "HUDICON_ABILITY_COUNUNPARALLELEDREACH"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1326 , 1844 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1326 , 1677 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1326 , 1677 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1326 , 1510 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1326 , 1510 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNBARRIERCAPACITORS"
+	content "States"
+	Disabled
+		fileName "DOTR_AbilityButton_Disabled"
+		pixelBox [ 1012 , 249 , 61 , 39 ]
+	Pressed
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 1012 , 249 , 61 , 39 ]
+	CursorOver
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 1012 , 249 , 61 , 39 ]
+	Focused
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 1012 , 249 , 61 , 39 ]
+	Normal
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 1012 , 249 , 61 , 39 ]
+brush
+	name "HUDICON_ABILITY_COUNDISRUPTORAMMO"
+	content "States"
+	Disabled
+		fileName "DOTR_AbilityButton_Disabled"
+		pixelBox [ 949 , 249 , 61 , 39 ]
+	Pressed
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 949 , 249 , 61 , 39 ]
+	CursorOver
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 949 , 249 , 61 , 39 ]
+	Focused
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 949 , 249 , 61 , 39 ]
+	Normal
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 949 , 249 , 61 , 39 ]
+brush
+	name "HUDICON_ABILITY_COUNHIGHRESLADAR"
+	content "States"
+	Disabled
+		fileName "DOTR_AbilityButton_Disabled"
+		pixelBox [ 886 , 249 , 61 , 39 ]
+	Pressed
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 886 , 249 , 61 , 39 ]
+	CursorOver
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 886 , 249 , 61 , 39 ]
+	Focused
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 886 , 249 , 61 , 39 ]
+	Normal
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 886 , 249 , 61 , 39 ]
+brush
+	name "HUDICON_ABILITY_COUNMARINEPLATOON"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1340 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1173 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1173 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1006 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1023 , 1006 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNBARRIER"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1340 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1173 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1173 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1006 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1224 , 1004 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNSHIELDBOOST"
+	content "States"
+	Disabled
+		fileName "DOTR_AbilityButton_Disabled"
+		pixelBox [ 697 , 249 , 61 , 39 ]
+	Pressed
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 697 , 249 , 61 , 39 ]
+	CursorOver
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 697 , 249 , 61 , 39 ]
+	Focused
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 697 , 249 , 61 , 39 ]
+	Normal
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 697 , 249 , 61 , 39 ]
+brush
+	name "HUDICON_ABILITY_COUNCALIBRATIONS"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 1340 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 1173 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 1173 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 1006 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1122 , 1006 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNSINGULARITYAMMO"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1531 , 1921 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1531 , 1754 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1531 , 1754 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1531 , 1587 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1531 , 1587 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNBATARIANASSAULT"
+	content "States"
+	Disabled
+		fileName "DOTR_AbilityButton_Disabled"
+		pixelBox [ 508 , 249 , 61 , 39 ]
+	Pressed
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 508 , 249 , 61 , 39 ]
+	CursorOver
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 508 , 249 , 61 , 39 ]
+	Focused
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 508 , 249 , 61 , 39 ]
+	Normal
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 508 , 249 , 61 , 39 ]
+brush
+	name "HUDICON_ABILITY_COUNCAPTURESTATION"
+	content "States"
+	Disabled
+		fileName "DOTR_AbilityButton_Disabled"
+		pixelBox [ 445 , 249 , 61 , 39 ]
+	Pressed
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 445 , 249 , 61 , 39 ]
+	CursorOver
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 445 , 249 , 61 , 39 ]
+	Focused
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 445 , 249 , 61 , 39 ]
+	Normal
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 445 , 249 , 61 , 39 ]
+brush
+	name "HUDICON_ABILITY_COUNMAKO"
+	content "States"
+	Disabled
+		fileName "DOTR_AbilityButton_Disabled"
+		pixelBox [ 382 , 249 , 61 , 39 ]
+	Pressed
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 382 , 249 , 61 , 39 ]
+	CursorOver
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 382 , 249 , 61 , 39 ]
+	Focused
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 382 , 249 , 61 , 39 ]
+	Normal
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 382 , 249 , 61 , 39 ]
+brush
+	name "HUDICON_ABILITY_COUNWOLFPACK"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 711 , 1339 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 711 , 1171 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 711 , 1171 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 711 , 1005 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 711 , 1005 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNWOLFPACK"
+	content "States"
+	Disabled
+		fileName "DOTR_AbilityButton_Disabled"
+		pixelBox [ 319 , 249 , 61 , 39 ]
+	Pressed
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 319 , 249 , 61 , 39 ]
+	CursorOver
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 319 , 249 , 61 , 39 ]
+	Focused
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 319 , 249 , 61 , 39 ]
+	Normal
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 319 , 249 , 61 , 39 ]
+brush
+	name "HUDICON_ABILITY_COUNTURIANINSPECTION"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 609 , 1339 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 609 , 1171 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 609 , 1171 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 609 , 1005 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 609 , 1005 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNGETHNETWORKING"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 915 , 1340 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 915 , 1172 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 915 , 1172 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 915 , 1006 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 915 , 1006 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNREAVE"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 510 , 1841 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 510 , 1674 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 510 , 1674 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 510 , 1507 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 510 , 1507 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNDEPLOYGETH"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 510 , 1339 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 510 , 1172 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 510 , 1172 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 510 , 1005 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 510 , 1005 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNSPATIALAWARENESS"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 813 , 1339 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 813 , 1171 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 813 , 1171 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 813 , 1005 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 813 , 1005 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNJAVELIN"
+	content "States"
+	Disabled
+		fileName "Council_Buttons_New"
+		pixelBox [ 1428 , 1338 , 92 , 73 ]
+	Pressed
+		fileName "Council_Buttons_New"
+		pixelBox [ 1428 , 1171 , 92 , 73 ]
+	CursorOver
+		fileName "Council_Buttons_New"
+		pixelBox [ 1428 , 1171 , 92 , 73 ]
+	Focused
+		fileName "Council_Buttons_New"
+		pixelBox [ 1428 , 1004 , 92 , 73 ]
+	Normal
+		fileName "Council_Buttons_New"
+		pixelBox [ 1428 , 1004 , 92 , 73 ]
+brush
+	name "HUDICON_ABILITY_COUNNORMANDYSTEALTH"
+	content "States"
+	Disabled
+		fileName "DOTR_AbilityButton_Disabled"
+		pixelBox [ 3 , 249 , 61 , 39 ]
+	Pressed
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 3 , 249 , 61 , 39 ]
+	CursorOver
+		fileName "DOTR_AbilityButton_Cursorover"
+		pixelBox [ 3 , 249 , 61 , 39 ]
+	Focused
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 3 , 249 , 61 , 39 ]
+	Normal
+		fileName "DOTR_AbilityButton_Normal"
+		pixelBox [ 3 , 249 , 61 , 39 ]

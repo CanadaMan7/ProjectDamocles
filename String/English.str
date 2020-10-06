@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 11536
+NumStrings 11555
 StringInfo
 	ID "IDS_PLANETBONUS_HOMEWORLDCOUNCIL_NAME"
 	Value "Council Space"
@@ -34608,3 +34608,60 @@ StringInfo
 StringInfo
 	ID "IDS_RESEARCH_COUNINFANTRY_WREX_DESCRIPTION"
 	Value "Placeholder."
+StringInfo
+	ID "IDS_INFANTRY_COUNATK_TURIANCOHORT_NAME"
+	Value "Turian Cohort"
+StringInfo
+	ID "IDS_ABILITY_COUN_UNDAUNTEDCOHORT_NAME"
+	Value "Deploy Turian Cohort"
+StringInfo
+	ID "IDS_ABILITY_COUN_UNDAUNTEDCOHORT_DESCRIPTION"
+	Value "The Undaunted class carrier serves as the primary means of delivery for Turian infantry since its inception. The Cohort is comprised of marines and elite assault units, who, when deployed to battle on a planets surface are a highly effective shock attack force that will fight to the last man no matter the odds. EIGHT MINUTE DURATION."
+StringInfo
+	ID "IDS_ABILITY_COUN_TURIANCOHORT_NAME"
+	Value "Turian Marines"
+StringInfo
+	ID "IDS_ABILITY_COUN_TURIANCOHORT_DESCRIPTION"
+	Value "The Turian marines that make up the majority of the Cohort are a well oiled fighting force, favoring head on attacks and stalwart defense. They have sufficient numbers and hardware to overrun all but the most well defended colonies on their own. EIGHT MINUTE DURATION."
+StringInfo
+	ID "IDS_ABILITY_COUN_TURIANINFANTRYDURATION_NAME"
+	Value "Turian Infantry"
+StringInfo
+	ID "IDS_ABILITY_COUN_TURIANINFANTRYDURATION_DESCRIPTION"
+	Value "This Structure exists to act as a marker for Turian Infantry units that are present on the nearby planet. Turian Infantry operate for a total of eight minutes before running out of supplies. Infantry units cannot be destroyed by ship based weapons."
+StringInfo
+	ID "IDS_INFANTRY_COUNDEF_ASARICOMMANDOS_NAME"
+	Value "Asari Commandos"
+StringInfo		
+	ID "IDS_INFANTRY_COUNDEF_ASARICOMMANDOS_DESCRIPTION"
+	Value "Station several squads of Asari Commandos on this planet. These elite warriors favor a doctrine of mobility, laying ambushes and using their powerful biotics to even the odds."
+StringInfo
+	ID "IDS_ABILITY_COUN_ASARICOMMANDOS_NAME"
+	Value "Commando Squads"
+StringInfo		
+	ID "IDS_ABILITY_COUN_ASARICOMMANDOS_DESCRIPTION"
+	Value "These units of Asari are made up mostly of the less experienced Huntresses, who work in coordinated teams to amush supply lines and pick off stragglers in enemy formations. Thier hit and fade tactics have been honed over the millenia to a fine edge."
+StringInfo
+	ID "IDS_ABILITY_COUN_SERRICEGUARD_NAME"
+	Value "Serrice Guard"
+StringInfo		
+	ID "IDS_ABILITY_COUN_SERRICEGUARD_DESCRIPTION"
+	Value "Elite among the elite, the Serrice Guard are some of the finest Asari warriors in the galaxy. Using biotics to wield unreasonably powerful weapons, as well as to establish pop up defensive positions on a whim, the Serrice Guard is a force multiplier for any defensive bastion."
+StringInfo
+	ID "IDS_ABILITY_COUN_ARMIGER_NAME"
+	Value "Armiger Marines"
+StringInfo		
+	ID "IDS_ABILITY_COUN_ARMIGER_DESCRIPTION"
+	Value "Turian Armigers are an elite unit of jump-pack equipped assault troops. Armed with high energy weapons and trained in demolition, they provide a hard hitting mobile element to the usually inflexible Turian Cohorts."
+StringInfo
+	ID "IDS_ABILITY_COUN_BLACKWATCH_NAME"
+	Value "Blackwatch"
+StringInfo		
+	ID "IDS_ABILITY_COUN_BLACKWATCH_DESCRIPTION"
+	Value "The Turian Blackwatch are a secretive black-ops unit that acts as the left hand of the Hierarchy. Though normally involved in espionage, they have been known to deploy into enemy held territory, where they carry out merciless campaigns of disruption and chaos with no regard for civilian lives."
+StringInfo
+	ID "IDS_ABILITY_COUN_TURIANINFANTRYOCCUPY_NAME"
+	Value "Occupy Planet"
+StringInfo
+	ID "IDS_ABILITY_COUN_TURIANINFANTRYOCCUPY_DESCRIPTION"
+	Value "Turian infantry are as much colonists as they are warriors, and it is not uncommon for the older members of the Cohort to be offered a permanent position on a newly occupied world, in an effort to set up a new colony. In this way, the Turian Hierarchy can grow quickly and efficiently, immediately bringing this planet under Council control."

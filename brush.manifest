@@ -1,5 +1,5 @@
 TXT
-brushFileCount 117
+brushFileCount 118
 brushFile "Alliance_HUDIcon-Ability.brushes"
 brushFile "Alliance_HUDIcon-Action.brushes"
 brushFile "Alliance_HUDIconLarge-Research.brushes"
@@ -117,3 +117,4 @@ brushFile "Reaper_Picture-Ship.brushes"
 brushFile "HUDIconLarge-Research"
 brushFile "Council_MainViewIcon-Ship.brushes"
 brushFile "Council_HUDIcon-Module.brushes"
+brushFile "Council_HUDIcon-Ability.brushes"

@@ -4,8 +4,8 @@ entityType "CapitalShip"
 ability:0 "Ability_Coun_UndauntedDieForTheCause"
 ability:1 "Ability_Coun_UndauntedSabotage"
 ability:2 "Ability_Coun_UndauntedOverload"
-ability:3 "Ability_Coun_TurianCarrierTorps"
-ability:4 "AbilityUNSCCruiserPassiveBundle"
+ability:3 "Ability_Coun_UndauntedCohort"
+ability:4 "Ability_Coun_TurianCarrierTorps"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
 prefersToFocusFire FALSE

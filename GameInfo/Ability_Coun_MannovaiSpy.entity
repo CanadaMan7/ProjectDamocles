@@ -47,6 +47,6 @@ researchPrerequisites
 	RequiredCompletedResearchSubjects 0
 nameStringID "IDS_ABILITY_COUN_MANNOVAISPY_NAME"
 descStringID "IDS_ABILITY_COUN_MANNOVAISPY_DESCRIPTION"
-hudIcon "HUDICON_UNSC_MARATHONCOMMAND"
-smallHudIcon ""
+hudIcon "HUDICON_ABILITY_COUNSTGRECONDATA"
+smallHudIcon "HUDICON_ABILITY_POWERSURGE"
 infoCardIcon ""

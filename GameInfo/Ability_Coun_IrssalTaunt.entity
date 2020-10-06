@@ -42,6 +42,6 @@ researchPrerequisites
 	RequiredCompletedResearchSubjects 0
 nameStringID "IDS_ABILITY_COUN_IRSSALTAUNT_NAME"
 descStringID "IDS_ABILITY_COUN_IRSSALTAUNT_DESCRIPTION"
-hudIcon "HUDICON_UNSC_MARATHONCOMMAND"
-smallHudIcon ""
+hudIcon "HUDICON_ABILITY_ALLISACRIFICE"
+smallHudIcon "HUDICON_ABILITY_TAUNT"
 infoCardIcon ""

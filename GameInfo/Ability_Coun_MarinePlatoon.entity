@@ -51,6 +51,6 @@ researchPrerequisites
 	RequiredCompletedResearchSubjects 0
 nameStringID "IDS_ABILITY_ALLI_MARINEPLATOON_NAME"
 descStringID "IDS_ABILITY_ALLI_MARINEPLATOON_DESCRIPTION"
-hudIcon "HUDICON_UNSC_MARATHONCOMMAND"
-smallHudIcon ""
+hudIcon "HUDICON_ABILITY_RESOURCEDRAIN"
+smallHudIcon "HUDICON_ABILITY_RESOURCEDRAIN"
 infoCardIcon ""

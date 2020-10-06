@@ -52,6 +52,6 @@ researchPrerequisites
 	RequiredCompletedResearchSubjects 0
 nameStringID "IDS_ABILITY_COUN_CYBAENBARRIER_NAME"
 descStringID "IDS_ABILITY_COUN_CYBAENBARRIER_DESCRIPTION"
-hudIcon "HUDICON_UNSC_MARATHONCOMMAND"
-smallHudIcon ""
+hudIcon "HUDICON_ABILITY_COUNBARRIERCYBAEN"
+smallHudIcon "HUDICON_ABILITY_TAUNT"
 infoCardIcon ""

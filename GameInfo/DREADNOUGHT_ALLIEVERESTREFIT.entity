@@ -17,25 +17,25 @@ basePrice
 	credits 3560.000000
 	metal 380.000000
 	crystal 255.000000
-slotCount 40.000000
+slotCount 35.000000
 BuildTime 56.000000
 MaxHullPoints
-	StartValue 9000.000000
+	StartValue 10000.000000
 	ValueIncreasePerLevel 0.000000
 MaxShieldPoints
-	StartValue 12050.000000
+	StartValue 8100.000000
 	ValueIncreasePerLevel 0.000000
 HullPointRestoreRate
-	StartValue 8.500000
+	StartValue 5.000000
 	ValueIncreasePerLevel 0.250000
 ShieldPointRestoreRate
 	StartValue 10.000000
 	ValueIncreasePerLevel 0.000000
 ArmorPointsFromExperience
-	StartValue 12.000000
+	StartValue 7.500000
 	ValueIncreasePerLevel 0.000000
 maxMitigation
-	StartValue 0.750000
+	StartValue 0.650000
 	ValueIncreasePerLevel 0.000000
 MaxAntiMatter
 	StartValue 450.000000
@@ -76,12 +76,12 @@ Weapon
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
 		WeaponClassType "RAILGUN"
-	DamagePerBank:FRONT 1900.000000
+	DamagePerBank:FRONT 1250.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
-	Range 20000.000000
-	PreBuffCooldownTime 5.000000
+	Range 22000.000000
+	PreBuffCooldownTime 12.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.250000
@@ -116,11 +116,11 @@ Weapon
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
 		WeaponClassType "GAUSS"
-	DamagePerBank:FRONT 200.000000
+	DamagePerBank:FRONT 190.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
-	Range 9000.000000
+	Range 8000.000000
 	PreBuffCooldownTime 2.500000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
@@ -158,9 +158,9 @@ Weapon
 		WeaponClassType "AUTOCANNON"
 	DamagePerBank:FRONT 0.000000
 	DamagePerBank:BACK 0.000000
-	DamagePerBank:LEFT 275.000000
-	DamagePerBank:RIGHT 275.000000
-	Range 6000.000000
+	DamagePerBank:LEFT 205.000000
+	DamagePerBank:RIGHT 205.000000
+	Range 6500.000000
 	PreBuffCooldownTime 2.000000
 	CanFireAtFighter TRUE
 	SynchronizedTargeting FALSE
@@ -200,7 +200,7 @@ Weapon
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 200.000000
 	DamagePerBank:RIGHT 200.000000
-	Range 3500.000000
+	Range 3600.000000
 	PreBuffCooldownTime 6.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE

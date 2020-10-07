@@ -15,7 +15,7 @@ instantAction
 	delayTime 0.000000
 	effectInfo
 		effectAttachInfo
-			attachType "Above"
+			attachType "Center"
 		smallEffectName "Ability_Coun_Raya_Tactical_Scan"
 		mediumEffectName "Ability_Coun_Raya_Tactical_Scan"
 		largeEffectName "Ability_Coun_Raya_Tactical_Scan"

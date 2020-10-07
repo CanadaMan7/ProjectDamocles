@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	4677
+entityNameCount	4681
 entityName "PLANETBONUS_HOMEWORLDCOUNCIL.entity"
 entityName "CRUISER_ALLIATHENSAI.entity"
 entityName "CRUISER_ALLIBEIJINGAI.entity"
@@ -4677,3 +4677,7 @@ entityName "Buff_Coun_TurianInfantryOccupyBounce.entity"
 entityName "Ability_Coun_TurianInfantryDuration.entity"
 entityName "Buff_Coun_TurianInfantryDurationSelf.entity"
 entityName "INFANTRY_COUNATK_TURIANCOHORT.entity"
+entityName "Ability_Coun_HensaSingularityAmmo.entity"
+entityName "Buff_Coun_HensaSingularityAmmoSelf.entity"
+entityName "Buff_Coun_HensaSingularityAmmoStart.entity"
+entityName "Buff_Coun_HensaSingularityAmmoTarget.entity"

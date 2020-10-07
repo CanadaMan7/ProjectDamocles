@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 11555
+NumStrings 11557
 StringInfo
 	ID "IDS_PLANETBONUS_HOMEWORLDCOUNCIL_NAME"
 	Value "Council Space"
@@ -34665,3 +34665,9 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_COUN_TURIANINFANTRYOCCUPY_DESCRIPTION"
 	Value "Turian infantry are as much colonists as they are warriors, and it is not uncommon for the older members of the Cohort to be offered a permanent position on a newly occupied world, in an effort to set up a new colony. In this way, the Turian Hierarchy can grow quickly and efficiently, immediately bringing this planet under Council control."
+StringInfo
+	ID "IDS_ABILITY_COUN_HENSASINGULARITYAMMO_NAME"
+	Value "Singularity Ammo"
+StringInfo
+	ID "IDS_ABILITY_COUN_HENSASINGULARITYAMMO_DESCRIPTION"
+	Value "Singularity Ammo is unique to space warfare and the Batarian Hegemony - a novel variation on warp ammo designed less to damage and more to interfere with enemy Mass Effect Fields. Using Singularity Ammo will cause the Hensa's shots to reduce the speed and turn rate of its targets temporarily."

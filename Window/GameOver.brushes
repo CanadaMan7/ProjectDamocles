@@ -1,6 +1,6 @@
 TXT
 onlyLoadOnDemand TRUE
-brushCount 12
+brushCount 22
 brush
 	name "GameOverDialogPictureOverlay"
 	content "Simple"
@@ -61,3 +61,53 @@ brush
 	content "Simple"
 	fileName "GameOver"
 	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "GameOverDialogHasLostPictureReap"
+	content "Simple"
+	fileName "GameOverReapLoss"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasWonPictureReap"
+	content "Simple"
+	fileName "GameOverReapWin"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasLostPictureMerc"
+	content "Simple"
+	fileName "GameOverMercLoss"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasWonPictureMerc"
+	content "Simple"
+	fileName "GameOverMercWin"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasLostPictureCoun"
+	content "Simple"
+	fileName "GameOverCounLoss"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasWonPictureCoun"
+	content "Simple"
+	fileName "GameOverCounWin"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasLostPictureCerb"
+	content "Simple"
+	fileName "GameOverCerbLoss"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasWonPictureCerb"
+	content "Simple"
+	fileName "GameOverCerbWin"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasLostPictureAlli"
+	content "Simple"
+	fileName "GameOverAlliLoss"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasWonPictureAlli"
+	content "Simple"
+	fileName "GameOverAlliWin"
+	pixelBox [ 0 , 0 , 1024 , 768 ]

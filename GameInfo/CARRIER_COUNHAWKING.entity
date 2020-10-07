@@ -242,10 +242,10 @@ meshNameDecreasedEffectName ""
 ExhaustParticleSystemName ""
 ExplosionName "UNSC_Frig_Large"
 EngineSoundID "ENGINE_UNSCCAPITALSHIP"
-ability:0 "Ability_Coun_HawkingLADAR"
-ability:1 "Ability_Coun_HawkingPlatoon"
+ability:0 "Ability_Coun_HawkingPlatoon"
+ability:1 ""
 ability:2 ""
-ability:3 ""
+ability:3 "Ability_Coun_HawkingLADAR"
 ability:4 "Ability_Coun_FighterTorps"
 MaxAntiMatter 200.000000
 AntiMatterRestoreRate 0.500000

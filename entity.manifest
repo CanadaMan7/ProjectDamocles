@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	4681
+entityNameCount	4682
 entityName "PLANETBONUS_HOMEWORLDCOUNCIL.entity"
 entityName "CRUISER_ALLIATHENSAI.entity"
 entityName "CRUISER_ALLIBEIJINGAI.entity"
@@ -4660,6 +4660,7 @@ entityName "RESEARCH_COUNINFANTRY_WREX.entity"
 entityName "Ability_Coun_TurianCohort.entity"
 entityName "Buff_Coun_TurianCohortSelf.entity"
 entityName "Buff_Coun_TurianCohortSelfTarget.entity"
+entityName "Buff_Coun_TurianCohortTarget.entity"
 entityName "Ability_Coun_UndauntedCohort.entity"
 entityName "Buff_Coun_UndauntedCohort.entity"
 entityName "Buff_Coun_UndauntedCohortBounce.entity"

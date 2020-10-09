@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	4682
+entityNameCount	4688
 entityName "PLANETBONUS_HOMEWORLDCOUNCIL.entity"
 entityName "CRUISER_ALLIATHENSAI.entity"
 entityName "CRUISER_ALLIBEIJINGAI.entity"
@@ -4682,3 +4682,9 @@ entityName "Ability_Coun_HensaSingularityAmmo.entity"
 entityName "Buff_Coun_HensaSingularityAmmoSelf.entity"
 entityName "Buff_Coun_HensaSingularityAmmoStart.entity"
 entityName "Buff_Coun_HensaSingularityAmmoTarget.entity"
+entityName "RESEARCH_CERBSECURITY_SCHRODINGER.entity"
+entityName "Ability_Cerb_PatrolDeparture.entity"
+entityName "Buff_Cerb_PatrolDeparture_Death.entity"
+entityName "Buff_Cerb_PatrolDeparture_Depart.entity"
+entityName "Buff_Cerb_PatrolDeparture_Self.entity"
+entityName "Buff_Cerb_PatrolDeparture_Start.entity"

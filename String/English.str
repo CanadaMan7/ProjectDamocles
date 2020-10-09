@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 11557
+NumStrings 11561
 StringInfo
 	ID "IDS_PLANETBONUS_HOMEWORLDCOUNCIL_NAME"
 	Value "Council Space"
@@ -34671,3 +34671,15 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_COUN_HENSASINGULARITYAMMO_DESCRIPTION"
 	Value "Singularity Ammo is unique to space warfare and the Batarian Hegemony - a novel variation on warp ammo designed less to damage and more to interfere with enemy Mass Effect Fields. Using Singularity Ammo will cause the Hensa's shots to reduce the speed and turn rate of its targets temporarily."
+StringInfo
+	ID "IDS_RESEARCH_CERBSECURITY_SCHRODINGER_NAME"
+	Value "Project Schrodinger"
+StringInfo
+	ID "IDS_RESEARCH_CERBSECURITY_SCHRODINGER_DESCRIPTION"
+	Value "Project Schrodinger is the next logical step in unmanned espionage probes. Incorporating Quantum Entangled Pairs into our spy satellites, probes and drones will allow Cerberus to covertly gain up to date intel without risky the lives of its agents."
+StringInfo
+	ID "IDS_ABILITY_CERB_PATROLDEPARTURE_NAME"
+	Value "Patrol Ship"
+StringInfo
+	ID "IDS_ABILITY_CERB_PATROLDEPARTURE_DESCRIPTION"
+	Value "This ship belongs to a Patrol Fleet. It does not carry any fighters in its hangars or cost any Fleet Supply. It will automatically return to its Patrol route eight minutes after it arrives, or if it is ordered to leave the gravity well."

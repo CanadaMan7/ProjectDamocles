@@ -1,5 +1,5 @@
 TXT	
-entityNameCount	4688
+entityNameCount	4689
 entityName "PLANETBONUS_HOMEWORLDCOUNCIL.entity"
 entityName "CRUISER_ALLIATHENSAI.entity"
 entityName "CRUISER_ALLIBEIJINGAI.entity"
@@ -4688,3 +4688,4 @@ entityName "Buff_Cerb_PatrolDeparture_Death.entity"
 entityName "Buff_Cerb_PatrolDeparture_Depart.entity"
 entityName "Buff_Cerb_PatrolDeparture_Self.entity"
 entityName "Buff_Cerb_PatrolDeparture_Start.entity"
+entityName "STRUCTURE_COUNSUPERDREADYARD.entity"

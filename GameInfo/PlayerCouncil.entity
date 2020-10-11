@@ -27,7 +27,7 @@ entities
 			entityDefName "PLANETMODULE_UNSCSHMAC"
 			entityDefName "PLANETMODULE_UNSCHANGARDEFENSE"
 			entityDefName "PLANETMODULE_UNSCREPAIRYARD"
-			entityDefName "PLANETMODULE_UNSCTITANFACTORY"
+			entityDefName "STRUCTURE_COUNSUPERDREADYARD"
 	titanInfo
 		Page:0
 			count 5

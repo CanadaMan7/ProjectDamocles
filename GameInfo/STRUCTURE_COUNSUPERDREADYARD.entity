@@ -13,36 +13,33 @@ numRandomDebrisLarge 3
 numRandomDebrisSmall 19
 numSpecificDebris 0
 armorType "Module"
-hudIcon "HUDICON_STRUCTURE_ALLISUPDREADYARD"
-smallHudIcon "MAINVIEWICON_STRUCTURE_ALLISUPERDREADYARD"
+hudIcon "HUDICON_STRUCTURE_COUNPLACEHOLDER"
+smallHudIcon "HUDICONSMALL_PLANETMODULE_TECHORBITALTITANFACTORY"
 infoCardIcon "INFOCARDICON_PLANETMODULE_TECHORBITALTITANFACTORY"
 planetUpgradeSlotType "Tactical"
 planetUpgradeSlotCount 10.000000
 basePrice
-	credits 2000.000000
-	metal 300.000000
+	credits 2500.000000
+	metal 350.000000
 	crystal 500.000000
-NameStringID "IDS_STRUCTURE_ALLISUPERDREADYARD_NAME"
-DescriptionStringID "IDS_STRUCTURE_ALLISUPERDREADYARD_DESCRIPTION"
+NameStringID "IDS_STRUCTURE_COUNSUPERDREADYARD_NAME"
+DescriptionStringID "IDS_STRUCTURE_COUNSUPERDREADYARD_DESCRIPTION"
 planetModuleRoleType "TITANFACTORY"
 statCountType "ModuleCapitalShipFactory"
 Prerequisites
-	NumResearchPrerequisites 1
-	ResearchPrerequisite
-		Subject "RESEARCH_ALLIMODERNIZATION_SAGANPROTOTYPE"
-		Level 1
+	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-MaxHullPoints 9000.000000
-HullPointRestoreRate 10.000000
-BaseArmorPoints 4.000000
-MaxShieldPoints 4000.000000
-ShieldPointRestoreRate 12.000000
-maxShieldMitigation 0.700000
+MaxHullPoints 10000.000000
+HullPointRestoreRate 12.000000
+BaseArmorPoints 6.000000
+MaxShieldPoints 6500.000000
+ShieldPointRestoreRate 14.000000
+maxShieldMitigation 0.650000
 ExperiencePointsForDestroying 150.000000
 resourceExtractionType "Invalid"
 cultureSpreadRate 0.000000
-isAffectedBySimilarModuleCostResearch TRUE
+isAffectedBySimilarModuleCostResearch FALSE
 placementRadius 2800.000000
 nearPlacementDistOffset 0.000000
 farPlacementDistOffset 9000.000000
@@ -52,25 +49,25 @@ angularSpeed 0.000000
 rotateSoundName ""
 rotateFacingType "None"
 rotateConstantly FALSE
-ShieldMeshName "Structure_CerbSuperDreadYard_Shield"
+ShieldMeshName ""
 renderShield TRUE
 NumSoundsFor:ONATTACKORDERISSUED 0
 NumSoundsFor:ONCREATION 0
 NumSoundsFor:ONGENERALORDERISSUED 0
 NumSoundsFor:ONSELECTED 1
-SoundID "STRUCTURE_CERBSUPERDREADYARD_ONSELECTED1"
+SoundID "PLANETMODULE_TECHORBITALCAPITALSHIPFACTORY_ONSELECTION_0"
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "Structure_CerbSuperDreadYard"
+	meshName "Structure_CounSuperDreadYard"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExplosionName "PlanetModuleLarge"
-mainViewIcon "MAINVIEWICON_STRUCTURE_ALLISUPERDREADYARD"
-picture "STRUCTURE_COUN_HAHNEKEDAR"
+mainViewIcon "MAINVIEWICON_PLANETMODULE_TECHORBITALTITANFACTORY"
+picture "PLANETMODULEPICTURE_TECHORBITALTITANFACTORY"
 minShadow 0.100000
 maxShadow 1.500000
 formationRank 3
-baseBuildTime 180.000000
+baseBuildTime 240.000000
 buildEffectName ""

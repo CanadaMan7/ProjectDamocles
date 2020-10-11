@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 11561
+NumStrings 11563
 StringInfo
 	ID "IDS_PLANETBONUS_HOMEWORLDCOUNCIL_NAME"
 	Value "Council Space"
@@ -34683,3 +34683,9 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_CERB_PATROLDEPARTURE_DESCRIPTION"
 	Value "This ship belongs to a Patrol Fleet. It does not carry any fighters in its hangars or cost any Fleet Supply. It will automatically return to its Patrol route eight minutes after it arrives, or if it is ordered to leave the gravity well."
+StringInfo
+	ID "IDS_STRUCTURE_COUNSUPERDREADYARD_NAME"
+	Value "Ascension Super Dreadnought Shipyard"
+StringInfo
+	ID "IDS_STRUCTURE_COUNSUPERDREADYARD_DESCRIPTION"
+	Value "Placeholder."

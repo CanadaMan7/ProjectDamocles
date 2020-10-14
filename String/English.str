@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 11563
+NumStrings 11579
 StringInfo
 	ID "IDS_PLANETBONUS_HOMEWORLDCOUNCIL_NAME"
 	Value "Council Space"
@@ -34689,3 +34689,51 @@ StringInfo
 StringInfo
 	ID "IDS_STRUCTURE_COUNSUPERDREADYARD_DESCRIPTION"
 	Value "Placeholder."
+StringInfo
+	ID "IDS_ABILITY_CERB_AEOLUSFLEET_NAME"
+	Value "Support Fleet"
+StringInfo
+	ID "IDS_ABILITY_CERB_AEOLUSFLEET_DESCRIPTION"
+	Value "The Aeolus is an important ship in the Cerberus navy, and it never goes anywhere without a significant support fleet at most one jump away. It can call this fleet in whenever an enemy force is likely to overwhelm it, tipping the balance of close fought battles in Cerberus' favor. This ability will only call in ships up to your current manpower limit."
+StringInfo
+	ID "IDS_ABILITY_CERB_AEOLUSRESERVE_NAME"
+	Value "Endless Reserves"
+StringInfo
+	ID "IDS_ABILITY_CERB_AEOLUSRESERVE_DESCRIPTION"
+	Value "The Aeolus carries an unthinkably large number of advanced Cerberus fighter craft, far more than it could ever manage on its own. However, it can launch a large number of them at once, assigning them to other carriers that have lost their fighters in battle. This gives the Aeolus the ability to immediately restore an entires fleets fighter compliment to full strength, giving any Cerberus carrier force a second wind on demand."
+StringInfo
+	ID "IDS_ABILITY_CERB_AEOLUSDISTRIBUTE_NAME"
+	Value "Distribute Ammunition"
+StringInfo
+	ID "IDS_ABILITY_CERB_AEOLUSDISTRIBUTE_DESCRIPTION"
+	Value "The Aeolus does not make use of ammunition types itself, but it carries the necessary technology and supplies to temporarily apply Disruptor ammo to a number of the ships alongside it."
+StringInfo
+	ID "IDS_ABILITY_CERB_AEOLUSKAMIKAZE_NAME"
+	Value "Kamikaze Strike"
+StringInfo
+	ID "IDS_ABILITY_CERB_AEOLUSKAMIKAZE_DESCRIPTION"
+	Value "The Admiral aboard the Aeolus orders all nearby Cerberus fighters to make Kamikaze runs against a designated target. Though not individually powerful, if an entire fleets compliment of fighters carriers out this heroic sacrifice, even the largest enemies can be brought down."
+StringInfo
+	ID "IDS_ABILITY_CERB_AEOLUSHEAVYJAVELINS_NAME"
+	Value "Heavy Javelin Missiles"
+StringInfo
+	ID "IDS_ABILITY_CERB_AEOLUSHEAVYJAVELINS_DESCRIPTION"
+	Value "This ship carries a heavy variant of the Javelin Missile with greater range and damage dealing capacity. Like regular Javelins, this weapon ignores the targets barriers and applies a warp effect that reduces the targets barrier mitigation."
+StringInfo
+	ID "IDS_SUPERCARRIER_CERBAEOLUS_UPGRADEENGINEERS_NAME"
+	Value "Expert Engineers"
+StringInfo
+	ID "IDS_SUPERCARRIER_CERBAEOLUS_UPGRADEENGINEERS_DESCRIPTION"
+	Value "The Aeolus carries the finest engineers in the Cerberus fleet, proud men and women whose task is to push the ships reactor and flgiht decks to the absolute limit. They are also unrivaled in damage control, patching damage to the Supercarrier at incredible rates."
+StringInfo
+	ID "IDS_SUPERCARRIER_CERBAEOLUS_UPGRADEARMOR_NAME"
+	Value "Armored Hangars"
+StringInfo
+	ID "IDS_SUPERCARRIER_CERBAEOLUS_UPGRADEARMOR_DESCRIPTION"
+	Value "Normally a weakpoint on a Carrier, the Aeolus can be refitted with armored hangar walls to cut down the risk of internal damage from unlucky hits."
+StringInfo
+	ID "IDS_SUPERCARRIER_CERBAEOLUS_UPGRADEMUNITIONS_NAME"
+	Value "Advanced Munitions"
+StringInfo
+	ID "IDS_SUPERCARRIER_CERBAEOLUS_UPGRADEMUNITIONS_DESCRIPTION"
+	Value "The Aeolus is fitted with the most advanced Javelin Missiles and Mass Accelerator rounds available to Cerberus, ensuring that it can output extreme damage to any enemy that gets close in the mistaken belief that the Supercarrier is a vulnerable target."

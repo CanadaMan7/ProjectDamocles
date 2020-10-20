@@ -59,7 +59,7 @@ entities
 			entityDefName "FRIGATE_ALLIMANZIKERT"
 			entityDefName "FRIGATE_ALLILEIPZIG"
 			entityDefName "FRIGATE_ALLIATHABASCA"
-			entityDefName "CRUISER_ALLIBEIJINGAI"
+			entityDefName "FRIGATE_ALLIDIPLO"
 			entityDefName "CRUISER_ALLIBERLINREFITAI"
 			entityDefName "CRUISER_ALLIBERLINRESERVEAI"
 		NotOnPage

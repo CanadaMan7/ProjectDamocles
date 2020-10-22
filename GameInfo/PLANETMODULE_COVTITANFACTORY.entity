@@ -1,4 +1,5 @@
-TXT 
+﻿TXT2
+SinsArchiveVersion 194
 entityType "PlanetModuleShipFactory"
 minZoomDistanceMult 1.750000
 ability:0 "AbilityCovTitanFactory"
@@ -17,7 +18,7 @@ smallHudIcon "HUDICONSMALL_PLANETMODULE_COVTITANFACTORY"
 infoCardIcon "INFOCARDICON_PLANETMODULE_COVTITANFACTORY"
 planetUpgradeSlotType "Civilian"
 planetUpgradeSlotCount 12.000000
-basePrice 
+basePrice
 	credits 2000.000000
 	metal 500.000000
 	crystal 200.000000
@@ -25,7 +26,7 @@ NameStringID "PLANETMODULE_COVTITANFACTORY_NAME"
 DescriptionStringID "PLANETMODULE_COVTITANFACTORY_DESCRIPTION"
 planetModuleRoleType "TITANFACTORY"
 statCountType "ModuleCapitalShipFactory"
-Prerequisites 
+Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
 		Subject "RESEARCHSUBJECT_COVTITAN_OAS"
@@ -60,7 +61,7 @@ NumSoundsFor:ONSELECTED 1
 SoundID "PLANETMODULE_PHASEORBITALCAPITALSHIPFACTORY_ONSELECTION_0"
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
-MeshNameInfo 
+MeshNameInfo
 	meshName "PLANETMODULE_COVCAPITALSHIPFACTORY"
 	criteriaType "None"
 meshNameIncreasedEffectName ""

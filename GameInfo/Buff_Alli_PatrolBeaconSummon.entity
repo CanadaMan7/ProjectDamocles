@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -21,23 +21,23 @@ instantAction
 		requiredShip
 			type "CRUISER_ALLILONDON_PATROL"
 			minCount 1
-			maxCount 1
+			maxCount 2
 		requiredShip
 			type "CRUISER_ALLIBEIJING_PATROL"
 			minCount 3
-			maxCount 3
+			maxCount 6
 		requiredShip
 			type "CRUISER_ALLIBERLINRESERVE_PATROL"
 			minCount 6
-			maxCount 6
+			maxCount 12
 		requiredShip
 			type "CRUISER_ALLIGENEVA_PATROL"
 			minCount 4
-			maxCount 4
+			maxCount 8
 		requiredShip
 			type "FRIGATE_ALLIHASTINGS_PATROL"
 			minCount 10
-			maxCount 10
+			maxCount 20
 		randomShipCount 0
 	spawnShipsArrivalDelayTime 15.000000
 	spawnShipsHyperspaceSpawnType "FleetBeacon"

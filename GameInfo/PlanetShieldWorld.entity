@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Planet"
 meshInfoCount 2
 meshInfo
@@ -6,7 +7,7 @@ meshInfo
 	asteroidTemplate "Empty"
 	dustCloudTemplate "Empty"
 	meshName "PlanetShieldWorld"
-	cloudColor 00000000
+	cloudColor 0
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
 	hudIcon "MAINVIEWICON_PLANET_SHIELD_WORLD"
@@ -21,7 +22,7 @@ meshInfo
 	asteroidTemplate "Empty"
 	dustCloudTemplate "Empty"
 	meshName "PlanetShieldWorld2"
-	cloudColor 00000000
+	cloudColor 0
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
 	hudIcon "MAINVIEWICON_PLANET_SHIELD_WORLD2"
@@ -32,8 +33,8 @@ meshInfo
 	picture "PICTURE_PLANET_SHIELDWORLD"
 	shouldPrefer FALSE
 minZoomDistanceMult 1.250000
-glowColor 00000000
-ringColor 00000000
+glowColor 0
+ringColor 0
 cloudLayerTextureName "PlanetCloudLayer"
 planetResourceSetupInfo
 	asteroidSpawnAngleVariance 3.141593
@@ -41,15 +42,15 @@ planetResourceSetupInfo
 	metalResourceAsteroidSetup
 		minCount 0
 		maxCount 0
-		extractionRate 0.00000
+		extractionRate 0.000000
 		refineryRate 0.000000
-				maxRefineryCount 3
+		maxRefineryCount 3
 	crystalResourceAsteroidSetup
 		minCount 0
 		maxCount 0
 		extractionRate 0.400000
-		refineryRate 0.2375999
-				maxRefineryCount 3
+		refineryRate 0.237600
+		maxRefineryCount 3
 	neutralMetalResourceAsteroidSetup
 		minCount 0
 		maxCount 0
@@ -74,7 +75,7 @@ planetUpgradeDef
 				crystal 0.000000
 			upgradeTime 0.000000
 			maxPopulation 100.000000
-			populationGrowthRate 0.1168000
+			populationGrowthRate 0.116800
 			developmentTaxPenalty 0.000000
 		stage
 			price
@@ -83,7 +84,7 @@ planetUpgradeDef
 				crystal 36.000000
 			upgradeTime 50.000000
 			maxPopulation 200.000000
-			populationGrowthRate 0.1168000
+			populationGrowthRate 0.116800
 			developmentTaxPenalty 0.000000
 		stage
 			price
@@ -92,7 +93,7 @@ planetUpgradeDef
 				crystal 67.500000
 			upgradeTime 80.000000
 			maxPopulation 300.000000
-			populationGrowthRate 0.1168000
+			populationGrowthRate 0.116800
 			developmentTaxPenalty 0.000000
 		stage
 			price
@@ -101,7 +102,7 @@ planetUpgradeDef
 				crystal 90.000000
 			upgradeTime 110.000000
 			maxPopulation 400.000000
-			populationGrowthRate 0.1168000
+			populationGrowthRate 0.116800
 			developmentTaxPenalty 0.000000
 		stage
 			price
@@ -110,7 +111,7 @@ planetUpgradeDef
 				crystal 112.500000
 			upgradeTime 140.000000
 			maxPopulation 500.000000
-			populationGrowthRate 0.1168000
+			populationGrowthRate 0.116800
 			developmentTaxPenalty 0.000000
 		stage
 			price
@@ -119,7 +120,7 @@ planetUpgradeDef
 				crystal 135.000000
 			upgradeTime 170.000000
 			maxPopulation 600.000000
-			populationGrowthRate 0.1168000
+			populationGrowthRate 0.116800
 			developmentTaxPenalty 0.000000
 		stage
 			price
@@ -128,7 +129,7 @@ planetUpgradeDef
 				crystal 158.000000
 			upgradeTime 200.000000
 			maxPopulation 700.000000
-			populationGrowthRate 0.1168000
+			populationGrowthRate 0.116800
 			developmentTaxPenalty 0.000000
 	path:CivilianModules
 		stageCount 7

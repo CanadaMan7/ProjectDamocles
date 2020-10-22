@@ -1,10 +1,11 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "RuinPlanet"
 instantActionTriggerType "AlwaysPerform"
 targetFilter
 	numOwnerships 2
-	ownership "Friendly" 
+	ownership "Friendly"
 	ownership "Enemy"
 	numObjects 1
 	object "Planet"

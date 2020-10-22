@@ -1,4 +1,4 @@
-TXT2
+﻿TXT2
 SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "ApplyBuffToTargetsInDirectionalCone"

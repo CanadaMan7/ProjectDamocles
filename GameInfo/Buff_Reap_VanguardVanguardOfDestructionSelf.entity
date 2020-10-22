@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -19,7 +19,7 @@ instantAction
 	instantActionTriggerType "OnDelay"
 	delayTime 2.000000
 	minRandomAngularSpeed 0.500000
-	maxRandomAngularSpeed 0.5000000
+	maxRandomAngularSpeed 0.500000
 	minRandomLinearSpeed 0.500000
 	maxRandomLinearSpeed 0.500000
 instantAction

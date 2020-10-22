@@ -1,15 +1,15 @@
-TXT2
-SinsArchiveVersion 193
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Player"
 raceNameStringID "IDS_PLAYERRACENAME_ALLIANCE"
 canColonize TRUE
 playerRaceType "Tech"
 isSelectable TRUE
-selectablePriorty 3
+selectablePriorty 1
 randomCapitalShipNamePrefix "IDS_CAPITALSHIPNAME_UNSC"
 randomStarBaseNamePrefix "IDS_STARBASENAME_UNSC"
 entities
-	planetModuleInfo 
+	planetModuleInfo
 		Page:0
 			count 9
 			entityDefName "STRUCTURE_ALLIMETALEXTRACTOR"
@@ -22,10 +22,8 @@ entities
 			entityDefName "STRUCTURE_ALLICOLONIALHQ"
 			entityDefName "STRUCTURE_ALLIREFINERY"
 		Page:1
-			count 6
-			entityDefName "PLANETMODULE_UNSCSMAC"
-			entityDefName "PLANETMODULE_UNSCSHMAC"
-			entityDefName "PLANETMODULE_UNSCHANGARDEFENSE"
+			count 4
+			entityDefName "STRUCTURE_ALLIPATROLBEACON"
 			entityDefName "STRUCTURE_ALLISUPERDREADYARD"
 			entityDefName "INFANTRY_ALLIDEF_ARMORBRIGADE"
 			entityDefName "INFANTRY_ALLIDEF_RESISTANCE"
@@ -410,8 +408,8 @@ gameEventData
 	GameEventSound:UseAbilityUnmetConstraintHasWeapons "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintIsCargoShip "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintIsExplored "UI_COMMON_DEFAULTERROR"
-	GameEventSound:UseAbilityUnmetConstraintNotIsExplored "UI_COMMON_DEFAULTERROR"	
-GameEventSound:UseAbilityUnmetConstraintIsResourceExtractor "UI_COMMON_DEFAULTERROR"
+	GameEventSound:UseAbilityUnmetConstraintNotIsExplored "UI_COMMON_DEFAULTERROR"
+	GameEventSound:UseAbilityUnmetConstraintIsResourceExtractor "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintIsMovingToLocalOrbitBody "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintIsPsi "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintNotIsTech "UI_COMMON_DEFAULTERROR"
@@ -802,8 +800,8 @@ raceNameParsePrefixFallback "TECH"
 numResearchFields 6
 field "IDS_UNSC_RESEARCHFIELD_COMBAT"
 field "IDS_UNSC_RESEARCHFIELD_DEFENSE"
-field "IDS_UNSC_RESEARCHFIELD_EMPIRE"
 field "IDS_UNSC_RESEARCHFIELD_DIPLOMACY"
+field "IDS_UNSC_RESEARCHFIELD_EMPIRE"
 field "IDS_UNSC_RESEARCHFIELD_ARTIFACT"
 field "IDS_UNSC_RESEARCHFIELD_FLEET"
 playerThemeGroupName "PlayerEmblemsInGame"

@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "StarBase"
 ability:0 "AbilityCovUnyieldingHierophantRepair"
 ability:1 "AbilityCovBuy16Antimatter"
@@ -18,9 +19,9 @@ smallHudIcon "MAINVIEWICON_PLANETMODULE_COVUNYIELDING"
 infoCardIcon "MAINVIEWICON_PLANETMODULE_COVUNYIELDING"
 minZoomDistanceMult 0.400000
 NumWeapons 1
-Weapon  
+Weapon
 	WeaponType "Beam"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIVERYLIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -28,15 +29,15 @@ Weapon
 		WeaponClassType "LASERTECH"
 	DamagePerBank:FRONT 60.000000
 	DamagePerBank:BACK 60.000000
-	DamagePerBank:LEFT 60.00000
+	DamagePerBank:LEFT 60.000000
 	DamagePerBank:RIGHT 60.000000
 	Range 5500.000000
 	PreBuffCooldownTime 4.000000
 	CanFireAtFighter TRUE
 	SynchronizedTargeting FALSE
-	PointStaggerDelay 0.25000
+	PointStaggerDelay 0.250000
 	TravelSpeed 0.000000
-	Duration 0.2500000
+	Duration 0.250000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Beam"
@@ -53,7 +54,7 @@ Weapon
 		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		beamEffectSounds
@@ -138,10 +139,9 @@ maxAccelerationLinear 0.000000
 maxAccelerationStrafe 0.000000
 maxDecelerationLinear 0.000000
 maxAccelerationAngular 1.000000
-maxDecelerationAngular 10.000000
+maxDecelerationAngular 9.999998
 maxSpeedLinear 0.000000
 maxRollRate 0.000000
 maxRollAngle 0.000000
+useCustomHyperspaceEffects FALSE
 mass 9500.000000
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"

@@ -1,4 +1,4 @@
-TXT2
+﻿TXT2
 SinsArchiveVersion 194
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
@@ -48,9 +48,9 @@ smallHudIcon "MAINVIEWICON_FRIGATE_UNSCATHENS"
 infoCardIcon "MAINVIEWICON_FRIGATE_UNSCATHENS"
 minZoomDistanceMult 1.000000
 NumWeapons 3
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIVERYHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -68,28 +68,28 @@ Weapon
 	TravelSpeed 3000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 2
 		burstDelay 0.340000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_UNSC_MAC_MUZZLELIGHT"
 			sound "WEAPON_UNSC_MAC_MUZZLELIGHT_ALT1"
 		hitEffectName "Weapon_UNSCMAC_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIMEDIUM"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -107,28 +107,28 @@ Weapon
 	TravelSpeed 5000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
 		muzzleSoundMinRespawnTime 10.000000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE"
 			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE_ALT1"
 		hitEffectName "Weapon_UNSCAAA_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		projectileTravelEffectName "Weapon_Tech_AutoCannonFighter_Travel"
-Weapon  
+Weapon
 	WeaponType "Beam"
-	damageEnums  
+	damageEnums
 		AttackType "ANTILIGHT"
 		DamageAffectType "AFFECTS_ONLY_HULL"
 		DamageApplyType "BACKLOADED"
@@ -142,7 +142,7 @@ Weapon
 	PreBuffCooldownTime 5.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
-	PointStaggerDelay 0.08000
+	PointStaggerDelay 0.080000
 	TravelSpeed 0.000000
 	Duration 2.000000
 	fireConstraintType "CanAlwaysFire"
@@ -161,7 +161,7 @@ Weapon
 		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		beamEffectSounds
@@ -188,10 +188,10 @@ maxAccelerationLinear 120.000000
 maxAccelerationStrafe 30.000000
 maxDecelerationLinear 800.000000
 maxAccelerationAngular 3.000000
-maxDecelerationAngular 10.000000
+maxDecelerationAngular 9.999998
 maxSpeedLinear 600.000000
 maxRollRate 6.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
 useCustomHyperspaceEffects TRUE
 effects
 	chargeUpEffectName "SlipspaceChargeUpUNSCCap"
@@ -234,7 +234,7 @@ SoundID "CARRIER_ALLIHAWKING_ONJUMPSTART1"
 SoundID "CARRIER_ALLIHAWKING_ONJUMPSTART2"
 SoundID "CARRIER_ALLIHAWKING_ONJUMPSTART3"
 MeshNameInfoCount 1
-MeshNameInfo  
+MeshNameInfo
 	meshName "Carrier_AlliHawking"
 	criteriaType "None"
 meshNameIncreasedEffectName ""

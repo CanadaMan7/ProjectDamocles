@@ -1,0 +1,108 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetsInRadiusWithTravel"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_Cerb_PompeiiBarrageHit"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 6
+	object "CapitalShip"
+	object "Frigate"
+	object "PlanetModule"
+	object "StarBase"
+	object "Titan"
+	object "Corvette"
+	numSpaces 1
+	space "Normal"
+	numConstraints 2
+	constraint "HasWeapons"
+	constraint "NotInvulnerable"
+range
+	Level:0 6000.000000
+	Level:1 6000.000000
+	Level:2 0.000000
+	Level:3 0.000000
+maxTargetCount
+	Level:0 8.000000
+	Level:1 10.000000
+	Level:2 0.000000
+	Level:3 0.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+travelSpeed 1500.000000
+effectStaggerDelay 1.000000
+hasWeaponEffects TRUE
+weaponEffectOriginType "Targetter"
+weaponEffectAttachInfo
+	attachType "Ability"
+	abilityIndex 1
+weaponEffectImpactOffsetType "RandomMesh"
+canWeaponEffectHitHull TRUE
+canWeaponEffectHitShields TRUE
+weaponEffectsDef
+	weaponType "Missile"
+	burstCount 1
+	burstDelay 0.500000
+	fireDelay 0.000000
+	muzzleEffectName "Weapon_Tech_MissileCapShip_Muzzle"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 1
+		sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+	hitEffectName "Ability_AntiModuleTorpedoesImpact"
+	hitHullEffectSounds
+		soundCount 1
+		sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+	hitShieldsEffectSounds
+		soundCount 1
+		sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+	missileTravelEffectName "Weapon_Tech_MissileCapShip_Travel"
+	missileStartTurningDistance 200.000000
+	missileSlowTurnRate 5.708997
+	missileMaxSlowTurnTime 1.000000
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility TRUE
+maxNumLevels 2
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 5.000000
+	Level:1 7.000000
+	Level:2 0.000000
+	Level:3 0.000000
+aiUseTime "OnlyWhenEnemyFleetWillPrevail"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 300.000000
+	Level:1 250.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 180.000000
+	Level:1 120.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_CERB_POMPEIIBARRAGE_NAME"
+descStringID "IDS_ABILITY_CERB_POMPEIIBARRAGE_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_CERBMISSLEBARRAGE"
+smallHudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
+infoCardIcon ""

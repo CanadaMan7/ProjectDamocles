@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_ARTIFACT_WEAPONBOOST"
 smallHudIcon "HUDICONSMALL_RESEARCHSUBJECT_ARTIFACT_WEAPONBOOST"
@@ -29,7 +30,7 @@ onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
-researchFloatModifiers 2s
+researchFloatModifiers 2
 researchModifier
 	modifierType "WeaponDamageAdjustment"
 	baseValue 0.000000

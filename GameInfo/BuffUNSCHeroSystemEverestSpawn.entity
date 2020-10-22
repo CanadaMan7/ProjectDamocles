@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -11,7 +12,7 @@ numInstantActions 4
 instantAction
 	buffInstantActionType "SpawnShipsAtPlanet"
 	instantActionTriggerType "OnDelay"
-		delayTime 0.000000
+	delayTime 0.000000
 	spawnShipsLevelCount 1
 	spawnShips
 		minFleetPoints 0.000000
@@ -24,10 +25,13 @@ instantAction
 		randomShipCount 0
 	spawnShipsArrivalDelayTime 2.500000
 	spawnShipsHyperspaceSpawnType "FleetBeacon"
+	shouldAdoptFirstSpawnersMinorFactionState TRUE
+	spawnShipsMinStartingHullPerc 1.000000
+	spawnShipsMaxStartingHullPerc 1.000000
 instantAction
 	buffInstantActionType "ApplyBuffToSelf"
 	instantActionTriggerType "OnDelay"
-		delayTime 0.000000
+	delayTime 0.000000
 	buffType "BuffUNSCHeroSystemEverestDone"
 	effectInfo
 		effectAttachInfo
@@ -39,7 +43,7 @@ instantAction
 instantAction
 	buffInstantActionType "RemoveBuffOfType"
 	instantActionTriggerType "OnDelay"
-		delayTime 0.000000
+	delayTime 0.000000
 	buffTypeToRemove "BuffUNSCHeroSystemT2"
 instantAction
 	buffInstantActionType "ApplyBuffToSelf"

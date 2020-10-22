@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -13,13 +14,13 @@ instantAction
 	instantActionTriggerType "OnDelay"
 	delayTime 0.000000
 	buffType "BuffNoneIsBigShipNoEMP"
-effectInfo
-	effectAttachInfo
-		attachType "Invalid"
-	smallEffectName ""
-	mediumEffectName ""
-	largeEffectName ""
-	soundID ""
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
 numPeriodicActions 1
 periodicAction
 	actionCountType "Infinite"

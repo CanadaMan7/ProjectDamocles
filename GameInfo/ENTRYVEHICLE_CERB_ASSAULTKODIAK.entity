@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "EntryVehicle"
 AtmosphereEntryEffectName "AtmosphereEnter"
 HasSurfaceImpactEffect FALSE
@@ -12,7 +13,7 @@ maxDecelerationLinear 1000.000000
 maxAccelerationAngular 49.999992
 maxDecelerationAngular 90.000000
 maxSpeedLinear 700.000000
-maxRollRate 39.999992
+maxRollRate 39.999985
 maxRollAngle 90.000000
 MeshName "Frigate_CerbKodiak"
 ExhaustParticleSystemName ""

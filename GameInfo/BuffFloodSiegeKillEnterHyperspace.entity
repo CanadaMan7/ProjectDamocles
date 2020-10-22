@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -10,7 +11,7 @@ isChannelling FALSE
 numInstantActions 1
 instantAction
 	buffInstantActionType "ApplyBuffToSelf"
-	instantActionTriggerType "OnBuffFinish"	
+	instantActionTriggerType "OnBuffFinish"
 	buffType "BuffNoneMakeDead"
 	effectInfo
 		effectAttachInfo

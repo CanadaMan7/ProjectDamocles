@@ -1,4 +1,5 @@
-TXT 
+﻿TXT2
+SinsArchiveVersion 194
 entityType "PlanetModuleShipFactory"
 minZoomDistanceMult 2.500000
 ability:0 "Ability_Coun_TradeNode1"
@@ -17,7 +18,7 @@ smallHudIcon "HUDICONSMALL_PLANETMODULE_UNSCCAPITALSHIPFACTORY"
 infoCardIcon "INFOCARDICON_PLANETMODULE_UNSCCAPITALSHIPFACTORY"
 planetUpgradeSlotType "Civilian"
 planetUpgradeSlotCount 1.000000
-basePrice 
+basePrice
 	credits 750.000000
 	metal 100.000000
 	crystal 125.000000
@@ -25,7 +26,7 @@ NameStringID "IDS_STRUCTURE_COUNDREADYARD_NAME"
 DescriptionStringID "IDS_STRUCTURE_COUNDREADYARD_DESCRIPTION"
 planetModuleRoleType "CAPITALSHIPFACTORY"
 statCountType "ModuleCapitalShipFactory"
-Prerequisites 
+Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0

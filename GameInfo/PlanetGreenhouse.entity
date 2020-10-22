@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Planet"
 meshInfoCount 1
 meshInfo
@@ -6,7 +7,7 @@ meshInfo
 	asteroidTemplate "Empty"
 	dustCloudTemplate "PuffySparse"
 	meshName "PlanetNormalGreenhouse1"
-	cloudColor 00000000
+	cloudColor 0
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
 	hudIcon "MAINVIEWICON_PLANET_GREENHOUSE1"
@@ -22,7 +23,7 @@ ringColor fffff6da
 cloudLayerTextureName ""
 planetResourceSetupInfo
 	asteroidSpawnAngleVariance 3.141593
-	totalMaxResourceAsteroids 0.000000
+	totalMaxResourceAsteroids 0
 	metalResourceAsteroidSetup
 		minCount 0
 		maxCount 0

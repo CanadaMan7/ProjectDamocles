@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -29,15 +30,15 @@ instantAction
 		fireDelay 0.000000
 		muzzleEffectName "Weapon_CovPTorpMini_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE"
 			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE_ALT1"
 		hitEffectName "Weapon_CovPTorpMini_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
 		missileTravelEffectName "Weapon_CovPTorpMini_Travel"

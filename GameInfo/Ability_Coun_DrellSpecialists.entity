@@ -1,0 +1,41 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_Coun_DrellSpecialistsSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithBase"
+baseSourceResearchSubject "RESEARCH_COUNINFANTRY_DRELL"
+improveSourceResearchSubject "RESEARCH_COUNINFANTRY_DRELL"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_COUNINFANTRY_DRELL"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_COUN_DRELLSPECIALISTS_NAME"
+descStringID "IDS_ABILITY_COUN_DRELLSPECIALISTS_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_HEAVYFIGHTERS"
+smallHudIcon "HUDICON_ABILITY_HEAVYFIGHTERS"
+infoCardIcon ""

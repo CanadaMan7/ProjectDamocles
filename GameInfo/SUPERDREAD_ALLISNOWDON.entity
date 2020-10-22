@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Titan"
 ability:0 ""
 ability:1 ""
@@ -205,7 +205,8 @@ maxAccelerationAngular 0.900000
 maxDecelerationAngular 9.999996
 maxSpeedLinear 450.000000
 maxRollRate 1.650000
-maxRollAngle 19.999996
+maxRollAngle 19.999992
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 ""
@@ -248,8 +249,6 @@ weaponCooldownDecreasePerc
 weaponDamageIncreasePerc
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_TECHCAPITALSHIP"
 formationRank 0
 minShadow 0.100000

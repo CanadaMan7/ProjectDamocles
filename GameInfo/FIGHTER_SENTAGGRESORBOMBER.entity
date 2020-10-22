@@ -1,4 +1,5 @@
-TXT 
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Fighter"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -21,14 +22,14 @@ maxAccelerationLinear 680.000000
 maxAccelerationStrafe 200.000000
 maxDecelerationLinear 3000.000000
 maxAccelerationAngular 380.000000
-maxDecelerationAngular 450.000000
+maxDecelerationAngular 449.999939
 maxSpeedLinear 2000.000000
 maxRollRate 60.000000
 maxRollAngle 89.000000
 NumWeapons 1
-Weapon 
+Weapon
 	WeaponType "Missile"
-	damageEnums 
+	damageEnums
 		AttackType "TITAN"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -79,7 +80,7 @@ meshName "FIGHTER_SENTAGGRESSOR"
 exhaustParticleSystemName "Exhaust_UNSCBroadsword"
 ExplosionName "UNSC_Fighter"
 exhaustTrailTextureName "Black-da.dds"
-exhaustTrailWidth 0.0000001
+exhaustTrailWidth 0.000000
 engineSoundID "ENGINE_TECHSUPPORTSHIP"
 maxHullPoints 280.000000
 hullPointRestoreRate 0.950000

@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "RESEARCHBUTTON_UNSC_PROJECTPOLTERGEIST"
 smallHudIcon "RESEARCHBUTTON_UNSC_PROJECTPOLTERGEIST"
@@ -30,7 +31,7 @@ PerLevelCostIncrease
 Tier 3
 onlyWorksIfTierLabsExist TRUE
 MaxNumResearchLevels 1
-priority 1
+priority 1.000000
 researchBoolModifiers 0
 researchFloatModifiers 1
 researchModifier

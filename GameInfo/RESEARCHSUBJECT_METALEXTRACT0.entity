@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_STRUCTUREWORK_METALEXTRACTTECH0"
 smallHudIcon "HUDICON_RESEARCHSUBJECT_STRUCTUREWORK_METALEXTRACTTECH0"
@@ -33,7 +34,7 @@ researchFloatModifiers 1
 researchModifier
 	modifierType "ExtractionRateMetalAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.22222
+	perLevelValue 0.222220
 artifactPicture ""
 uniqueOverlayBrush ""
 dlcId 204880

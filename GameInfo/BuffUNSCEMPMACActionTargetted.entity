@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -42,4 +43,3 @@ finishCondition
 		Level:1 30.000000
 		Level:2 40.000000
 		Level:3 50.000000
-		

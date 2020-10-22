@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_ABILITY_COVDESTABILIZEHYPERSPACE"
 smallHudIcon "HUDICON_ABILITY_DESTABILIZEHYPERSPACE"
@@ -14,7 +15,7 @@ Prerequisites
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 45.00000
+BaseUpgradeTime 45.000000
 PerLevelUpgradeTime 0.000000
 BaseCost
 	credits 950.000000
@@ -22,7 +23,7 @@ BaseCost
 	crystal 200.000000
 PerLevelCostIncrease
 	credits 0.000000
-	metal 0000000
+	metal 0.000000
 	crystal 0.000000
 Tier 3
 onlyWorksIfTierLabsExist TRUE

@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "RESEARCHBUTTON_COV_PROTECTIVEFERVOR"
 smallHudIcon "RESEARCHBUTTON_COV_PROTECTIVEFERVOR"
@@ -11,7 +12,7 @@ researchWindowLocation
 ResearchField "Fleet"
 Prerequisites
 	NumResearchPrerequisites 1
-		ResearchPrerequisite
+	ResearchPrerequisite
 		Subject "RESEARCHSUBJECT_COV_FACTIONXYTAN"
 		Level 1
 	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COVXYTAN"

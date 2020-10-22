@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_PLANETMODULEACCESS_COVPATROL2"
 smallHudIcon "HUDICON_RESEARCHSUBJECT_PLANETMODULEACCESS_HANGARDEFENSEPHASE"
@@ -7,20 +8,20 @@ NameStringID "RESEARCHSUBJECT_COVPATROLSTATIONTIER2_NAME"
 DescriptionStringID "RESEARCHSUBJECT_COVPATROLSTATIONTIER2_DESCRIPTION"
 researchWindowLocation
 	block 0
-	pos [ 2 , 2]
+	pos [ 2 , 2 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 1
-		ResearchPrerequisite
-			Subject "RESEARCHSUBJECT_COVPLANETMODULEACCESS_PATROLSTATION"
-			Level 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_COVPLANETMODULEACCESS_PATROLSTATION"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
 BaseUpgradeTime 55.000000
 PerLevelUpgradeTime 10.000000
 BaseCost
-	credits 1400.00000
+	credits 1400.000000
 	metal 125.000000
 	crystal 250.000000
 PerLevelCostIncrease

@@ -1,4 +1,4 @@
-TXT2
+﻿TXT2
 SinsArchiveVersion 194
 entityType "Titan"
 ability:0 ""
@@ -70,9 +70,9 @@ smallHudIcon "MAINVIEWICON_SUPERDREADNOUGHT_COUNBATARIAN"
 infoCardIcon "MAINVIEWICON_SUPERDREADNOUGHT_COUNBATARIAN"
 minZoomDistanceMult 1.250000
 NumWeapons 3
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -90,12 +90,12 @@ Weapon
 	TravelSpeed 7500.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 1.000000
-			fireDelay 0.000000
-	muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
+		fireDelay 0.000000
+		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 6
@@ -113,9 +113,9 @@ Weapon
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIVERYHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -133,13 +133,13 @@ Weapon
 	TravelSpeed 4000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.340000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
-		muzzleSoundMinRespawnTime 0.10000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 6
 			sound "WEAPON_COUN_BATARIANAUXMASSACCMUZZLE1"
@@ -156,9 +156,9 @@ Weapon
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"
-Weapon  
+Weapon
 	WeaponType "Missile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIHEAVY"
 		DamageAffectType "AFFECTS_ONLY_HULL"
 		DamageApplyType "BACKLOADED"
@@ -176,23 +176,23 @@ Weapon
 	TravelSpeed 1400.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Missile"
 		burstCount 6
 		burstDelay 0.180000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCHeavyArcherMissile_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCHeavyArcherMissile_Muzzle"
 		muzzleSoundMinRespawnTime 0.500000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 3
 			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
 			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
 			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
 		hitEffectName "Weapon_PhaseCapitalMissileFrigate_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
 		missileTravelEffectName "Weapon_CerbArcadiaMissle_Travel"
@@ -213,10 +213,10 @@ maxAccelerationLinear 80.000000
 maxAccelerationStrafe 10.000000
 maxDecelerationLinear 500.000000
 maxAccelerationAngular 0.900000
-maxDecelerationAngular 9.999998
+maxDecelerationAngular 9.999996
 maxSpeedLinear 450.000000
 maxRollRate 1.650000
-maxRollAngle 19.999996
+maxRollAngle 19.999992
 useCustomHyperspaceEffects TRUE
 effects
 	chargeUpEffectName "SlipspaceChargeUpUNSCCap"

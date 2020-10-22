@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -39,17 +39,17 @@ periodicAction
 		burstCount 1
 		burstDelay 0.600000
 		fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCMAC_Muzzle"
+		muzzleEffectName "Weapon_UNSCMAC_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_UNSC_MAC_MUZZLELIGHT"
 			sound "WEAPON_UNSC_MAC_MUZZLELIGHT_ALT1"
 		hitEffectName "Weapon_UNSCMAC_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_UNSCMAC_Travel"

@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_ABILITYACCESS_DAMAGEOVERTIMEAURA"
 smallHudIcon "HUDICON_RESEARCHSUBJECT_ABILITYACCESS_DAMAGEOVERTIMEAURA"
@@ -56,5 +57,3 @@ researchModifier
 artifactPicture ""
 uniqueOverlayBrush ""
 dlcId 204880
-
-

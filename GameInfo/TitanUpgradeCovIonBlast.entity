@@ -1,29 +1,30 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "TitanUpgrade"
 stageCount 4
 stage
-nameStringID "ABILITY_COVIONBLAST_NAME"
-descStringID "ABILITY_COVIONBLAST_DESCRIPTION"
+	nameStringID "ABILITY_COVIONBLAST_NAME"
+	descStringID "ABILITY_COVIONBLAST_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement -1
-hudIcon "HUDICON_ABILITY_IONBLAST"
-smallHudIcon "HUDICON_ABILITY_IONBLAST"
+	hudIcon "HUDICON_ABILITY_IONBLAST"
+	smallHudIcon "HUDICON_ABILITY_IONBLAST"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
 stage
-nameStringID "IDS_ABILITY_COVIONBLAST_NAME"
-descStringID "IDS_ABILITY_COVIONBLAST_DESCRIPTION"
+	nameStringID "IDS_ABILITY_COVIONBLAST_NAME"
+	descStringID "IDS_ABILITY_COVIONBLAST_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 0
-hudIcon "HUDICON_ABILITY_IONBLAST"
-smallHudIcon "HUDICON_ABILITY_IONBLAST"
+	hudIcon "HUDICON_ABILITY_IONBLAST"
+	smallHudIcon "HUDICON_ABILITY_IONBLAST"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty
@@ -31,15 +32,15 @@ smallHudIcon "HUDICON_ABILITY_IONBLAST"
 		value 1.000000
 	upgradeBoolPropertyCount 0
 stage
-nameStringID "IDS_ABILITY_COV_IONBLAST_NAME"
-descStringID "IDS_ABILITY_COV_IONBLAST_DESCRIPTION"
+	nameStringID "IDS_ABILITY_COV_IONBLAST_NAME"
+	descStringID "IDS_ABILITY_COV_IONBLAST_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 2
-hudIcon "HUDICON_ABILITY_IONBLAST"
-smallHudIcon "HUDICON_ABILITY_IONBLAST"
+	hudIcon "HUDICON_ABILITY_IONBLAST"
+	smallHudIcon "HUDICON_ABILITY_IONBLAST"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty
@@ -47,15 +48,15 @@ smallHudIcon "HUDICON_ABILITY_IONBLAST"
 		value 2.000000
 	upgradeBoolPropertyCount 0
 stage
-nameStringID "IDS_ABILITY_COV_IONBLAST_NAME"
-descStringID "IDS_ABILITY_COV_IONBLAST_DESCRIPTION"
+	nameStringID "IDS_ABILITY_COV_IONBLAST_NAME"
+	descStringID "IDS_ABILITY_COV_IONBLAST_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 4
-hudIcon "HUDICON_ABILITY_IONBLAST"
-smallHudIcon "HUDICON_ABILITY_IONBLAST"
+	hudIcon "HUDICON_ABILITY_IONBLAST"
+	smallHudIcon "HUDICON_ABILITY_IONBLAST"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty

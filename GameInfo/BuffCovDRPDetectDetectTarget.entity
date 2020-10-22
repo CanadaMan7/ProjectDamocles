@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -13,7 +13,7 @@ instantAction
 	buffInstantActionType "RemoveBuffOfType"
 	instantActionTriggerType "OnDelay"
 	delayTime 0.000000
-buffTypeToRemove "BuffNoneCloaked"
+	buffTypeToRemove "BuffNoneCloaked"
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0

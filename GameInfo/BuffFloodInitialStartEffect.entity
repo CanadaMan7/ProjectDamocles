@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -15,15 +16,15 @@ instantAction
 	buffType "BuffFloodInitialStartColonize"
 	targetFilter
 		numOwnerships 4
-	ownership "Enemy"
-	ownership "Friendly"
-	ownership "NoOwner"
-	ownership "AlliedOrEnemy"
+		ownership "Enemy"
+		ownership "Friendly"
+		ownership "NoOwner"
+		ownership "AlliedOrEnemy"
 		numObjects 1
 		object "Planet"
 		numSpaces 1
 		space "Normal"
-		numConstraints 0	
+		numConstraints 0
 	effectInfo
 		effectAttachInfo
 			attachType "Invalid"
@@ -38,10 +39,10 @@ instantAction
 	buffType "BuffFloodImmobilizeGarrisonCaster"
 	targetFilter
 		numOwnerships 4
-	ownership "Enemy"
-	ownership "Friendly"
-	ownership "NoOwner"
-	ownership "AlliedOrEnemy"
+		ownership "Enemy"
+		ownership "Friendly"
+		ownership "NoOwner"
+		ownership "AlliedOrEnemy"
 		numObjects 1
 		object "Corvette"
 		numSpaces 1

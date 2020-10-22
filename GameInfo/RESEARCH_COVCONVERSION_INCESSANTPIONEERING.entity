@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "RESEARCHBUTTON_COV_INCESSANTPIONEERING"
 smallHudIcon "RESEARCHBUTTON_COV_INCESSANTPIONEERING"
@@ -43,7 +44,7 @@ researchModifier
 	perLevelValue 0.100000
 researchModifier
 	modifierType "ShipMaxSlots"
-	baseValue 0.00000
+	baseValue 0.000000
 	perLevelValue 200.000000
 researchModifier
 	modifierType "IncomePercLost"

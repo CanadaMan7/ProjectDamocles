@@ -1,4 +1,5 @@
-TXT 
+﻿TXT2
+SinsArchiveVersion 194
 entityType "PlanetModuleStandard"
 minZoomDistanceMult 2.000000
 ability:0 "AbilityUNSCHeroSystem"
@@ -17,7 +18,7 @@ smallHudIcon "MAINVIEWICON_FRIGATE_TURRETCOMBAT"
 infoCardIcon "MAINVIEWICON_FRIGATE_TURRETCOMBAT"
 planetUpgradeSlotType "Tactical"
 planetUpgradeSlotCount 0.000000
-basePrice 
+basePrice
 	credits 525.000000
 	metal 70.000000
 	crystal 110.000000
@@ -25,7 +26,7 @@ NameStringID "PLANETMODULE_UNSCCOMMANDCENTER_NAME"
 DescriptionStringID "PLANETMODULE_UNSCCOMMANDCENTER_DESCRIPTION"
 planetModuleRoleType "PHASEGATE"
 statCountType "ModuleUtility"
-Prerequisites 
+Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
@@ -57,7 +58,7 @@ NumSoundsFor:ONSELECTED 1
 SoundID "PLANETMODULE_TECHORBITALJUMPBLOCKER_ONSELECTION_0"
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
-MeshNameInfo 
+MeshNameInfo
 	meshName "PLANETMODULE_UNSCCOMMANDCENTER"
 	criteriaType "None"
 meshNameIncreasedEffectName ""

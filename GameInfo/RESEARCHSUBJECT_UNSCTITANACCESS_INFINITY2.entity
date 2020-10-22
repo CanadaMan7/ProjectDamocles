@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_UNSCINFINITY"
 smallHudIcon "HUDICONSMALL_TITAN_UNSCINFINITY"
@@ -17,8 +18,8 @@ Prerequisites
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 20
-PerLevelUpgradeTime 0
+BaseUpgradeTime 20.000000
+PerLevelUpgradeTime 0.000000
 BaseCost
 	credits 250.000000
 	metal 0.000000

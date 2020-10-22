@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193
+﻿TXT2
+SinsArchiveVersion 194
 entityType "PlanetModuleStandard"
 minZoomDistanceMult 2.750000
 ability:0 "Ability_Alli_ColonyHQTax"

@@ -1,29 +1,30 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "TitanUpgrade"
 stageCount 4
 stage
-nameStringID "ABILITY_COVLASERBLAST_NAME"
-descStringID "ABILITY_COVLASERBLAST_DESCRIPTION"
+	nameStringID "ABILITY_COVLASERBLAST_NAME"
+	descStringID "ABILITY_COVLASERBLAST_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement -1
-hudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
-smallHudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
+	hudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
+	smallHudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
 stage
-nameStringID "ABILITY_COVLASERBLAST_NAME"
-descStringID "ABILITY_COVLASERBLAST_DESCRIPTION"
+	nameStringID "ABILITY_COVLASERBLAST_NAME"
+	descStringID "ABILITY_COVLASERBLAST_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 5
-hudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
-smallHudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
+	hudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
+	smallHudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty
@@ -31,15 +32,15 @@ smallHudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
 		value 1.000000
 	upgradeBoolPropertyCount 0
 stage
-nameStringID "ABILITY_COVLASERBLAST_NAME"
-descStringID "ABILITY_COVLASERBLAST_DESCRIPTION"
+	nameStringID "ABILITY_COVLASERBLAST_NAME"
+	descStringID "ABILITY_COVLASERBLAST_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 6
-hudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
-smallHudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
+	hudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
+	smallHudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty
@@ -47,15 +48,15 @@ smallHudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
 		value 2.000000
 	upgradeBoolPropertyCount 0
 stage
-nameStringID "ABILITY_COVLASERBLAST_NAME"
-descStringID "ABILITY_COVLASERBLAST_DESCRIPTION"
+	nameStringID "ABILITY_COVLASERBLAST_NAME"
+	descStringID "ABILITY_COVLASERBLAST_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 7
-hudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
-smallHudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
+	hudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
+	smallHudIcon "HUDICON_ABILITY_MISSILEBARRAGE"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty

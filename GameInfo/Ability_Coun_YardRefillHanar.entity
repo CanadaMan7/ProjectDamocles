@@ -1,0 +1,59 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_Coun_YardRefillHanar"
+targetFilter
+	numOwnerships 1
+	ownership "Friendly"
+	numObjects 1
+	object "CapitalShip"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "NotSelf"
+range
+	Level:0 5000.000000
+	Level:1 5000.000000
+	Level:2 5000.000000
+	Level:3 5000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithBase"
+baseSourceResearchSubject "RESEARCH_COUNSHEPARD_HANAR"
+improveSourceResearchSubject "RESEARCH_COUNSHEPARD_HANAR"
+aiUseTime "Anytime"
+aiUseTargetCondition "HasBuff"
+buffType "Buff_Coun_ManOWarDayOfExtinguishment"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 30.000000
+	Level:1 6.000000
+	Level:2 6.000000
+	Level:3 6.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_COUN_YARDREFILLHANAR_NAME"
+descStringID "IDS_ABILITY_COUN_YARDREFILLHANAR_DESCRIPTION"
+hudIcon "HUDICON_SUPPORTABILITY_REPAIRTECHPLANETMODULE"
+smallHudIcon "HUDICON_SUPPORTABILITY_REPAIRTECHPLANETMODULE"
+infoCardIcon ""

@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -11,11 +12,11 @@ numInstantActions 2
 instantAction
 	buffInstantActionType "ApplyBuffToFirstSpawnerNoFilterNoRange"
 	instantActionTriggerType "OnDelay"
-	delayTime 0.000000000
+	delayTime 0.000000
 	buffType "BuffFloodFleetKillExitHyperspace"
 instantAction
 	buffInstantActionType "ApplyBuffToSelf"
-	instantActionTriggerType "OnBuffFinish"	
+	instantActionTriggerType "OnBuffFinish"
 	buffType "BuffNoneMakeDead"
 	effectInfo
 		effectAttachInfo

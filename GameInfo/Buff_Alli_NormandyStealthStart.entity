@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -36,7 +36,7 @@ instantAction
 instantAction
 	buffInstantActionType "RemoveBuffOfType"
 	instantActionTriggerType "OnBuffFinish"
-buffTypeToRemove "Buff_Neutral_IsStealthed"
+	buffTypeToRemove "Buff_Neutral_IsStealthed"
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0

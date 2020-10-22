@@ -1,0 +1,50 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit -1
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "DoDamageToPlanet"
+	instantActionTriggerType "OnDelay"
+	delayTime 2.000000
+	damage
+		Level:0 125.000000
+		Level:1 125.000000
+		Level:2 125.000000
+		Level:3 125.000000
+	populationKilled
+		Level:0 30.000000
+		Level:1 30.000000
+		Level:2 30.000000
+		Level:3 30.000000
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 2
+entityModifier
+	buffEntityModifierType "PlanetUpgradeBuildRateAdjustment"
+	value
+		Level:0 -0.010000
+		Level:1 -0.010000
+		Level:2 -0.010000
+		Level:3 -0.010000
+entityModifier
+	buffEntityModifierType "PlanetUpgradeCost"
+	value
+		Level:0 0.010000
+		Level:1 0.010000
+		Level:2 0.010000
+		Level:3 0.010000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 1500.000000
+		Level:1 1500.000000
+		Level:2 1500.000000
+		Level:3 1500.000000

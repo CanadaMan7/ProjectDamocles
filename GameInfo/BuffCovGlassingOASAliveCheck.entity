@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -11,7 +12,7 @@ numInstantActions 1
 instantAction
 	buffInstantActionType "ApplyBuffToLastSpawnerNoFilterNoRange"
 	instantActionTriggerType "OnDelay"
-	delayTime 1.0000000
+	delayTime 1.000000
 	buffType "BuffCovGlassingActivated"
 numPeriodicActions 0
 numOverTimeActions 0

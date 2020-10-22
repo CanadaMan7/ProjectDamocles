@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193  
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -16,7 +16,7 @@ picture "PICTURE_FRIGATE_UNSCCRADLE"
 NameStringID "FRIGATE_UNSCCRADLE_NAME"
 DescriptionStringID "FRIGATE_UNSCCRADLE_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_CRADLE"
-basePrice  
+basePrice
 	credits 1400.000000
 	metal 280.000000
 	crystal 85.000000
@@ -44,15 +44,15 @@ smallHudIcon "MAINVIEWICON_FRIGATE_UNSCCRADLE"
 infoCardIcon "MAINVIEWICON_FRIGATE_UNSCCRADLE"
 minZoomDistanceMult 2.000000
 NumWeapons 1
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "COMPOSITE"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
 		WeaponClassType "AUTOCANNON"
-	DamagePerBank:FRONT 0.0000001
+	DamagePerBank:FRONT 0.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
@@ -64,22 +64,22 @@ Weapon
 	TravelSpeed 6000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 0
 		burstDelay 0.100000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCAAA_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCAAA_Muzzle"
 		muzzleSoundMinRespawnTime 10.000000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE"
 			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE_ALT1"
 		hitEffectName "Weapon_UNSCAAA_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		projectileTravelEffectName "Weapon_UNSCAAA_Travel"
@@ -94,14 +94,15 @@ hasWeaponLevels FALSE
 mass 4000.000000
 ShieldMeshName "FRIGATE_UNSCCRADLE_SHIELD"
 renderShield TRUE
-maxAccelerationLinear 135.0000
-maxAccelerationStrafe 50.0000
-maxDecelerationLinear 1000.0000
-maxAccelerationAngular 5.0000
-maxDecelerationAngular 10.0000
+maxAccelerationLinear 135.000000
+maxAccelerationStrafe 50.000000
+maxDecelerationLinear 1000.000000
+maxAccelerationAngular 4.999999
+maxDecelerationAngular 9.999998
 maxSpeedLinear 400.000000
 maxRollRate 2.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 ""
@@ -133,15 +134,13 @@ SoundID "FRIGATE_UNSCCRADLE_ONSELECTED_4"
 NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "FRIGATE_UNSCCRADLE_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
-MeshNameInfo  
+MeshNameInfo
 	meshName "FRIGATE_UNSCCRADLE"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName "EXHAUST_FRIGATE_UNSCCRADLE"
 ExplosionName "CapitalShip0"
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_UNSCCAPITALSHIP"
 ability:0 "AbilityUNSCRepairPlatformAI"
 ability:1 "AbilityUNSCCradleTransfer6Antimatter"

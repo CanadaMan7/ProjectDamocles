@@ -1,4 +1,5 @@
-TXT 
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Fighter"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -20,15 +21,15 @@ mass 120.000000
 maxAccelerationLinear 300.000000
 maxAccelerationStrafe 100.000000
 maxDecelerationLinear 1000.000000
-maxAccelerationAngular 55.000000
-maxDecelerationAngular 100.000000
+maxAccelerationAngular 54.999992
+maxDecelerationAngular 99.999985
 maxSpeedLinear 1600.000000
-maxRollRate 40.000000
+maxRollRate 39.999992
 maxRollAngle 90.000000
 NumWeapons 2
-Weapon 
+Weapon
 	WeaponType "Projectile"
-	damageEnums 
+	damageEnums
 		AttackType "ANTILIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -46,7 +47,7 @@ Weapon
 	TravelSpeed 4000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects 
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 4
 		burstDelay 0.150000
@@ -69,15 +70,15 @@ Weapon
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		projectileTravelEffectName "Weapon_Psi_LaserFighter_Travel"
-Weapon 
+Weapon
 	WeaponType "Missile"
-	damageEnums 
+	damageEnums
 		AttackType "ANTIVERYHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
 		WeaponClassType "MISSILE"
-	DamagePerBank:FRONT 20.00000
+	DamagePerBank:FRONT 20.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
@@ -89,22 +90,22 @@ Weapon
 	TravelSpeed 1750.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects 
+	WeaponEffects
 		weaponType "Missile"
 		burstCount 1
 		burstDelay 0.000000
 		fireDelay 0.000000
 		muzzleEffectName "FighterWeapon_UNSCMuzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds 
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_TECHSUPPORTMISSILELIGHT_MUZZLE"
 			sound "WEAPON_TECHSUPPORTMISSILELIGHT_MUZZLE_ALT1"
 		hitEffectName "FighterWeapon_UNSCMissileHit"
-		hitHullEffectSounds 
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_MISSILELIGHT_HITGENERIC"
-		hitShieldsEffectSounds 
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_MISSILELIGHT_HITGENERIC"
 		missileTravelEffectName "FighterWeapon_UNSCMissile"
@@ -122,7 +123,7 @@ meshName "Fighter_CounTurian"
 exhaustParticleSystemName "Exhaust_UNSCLongsword_Bomber"
 ExplosionName "UNSC_Fighter"
 exhaustTrailTextureName "Black-da.dds"
-exhaustTrailWidth 0.0000001
+exhaustTrailWidth 0.000000
 engineSoundID "ENGINE_UNSCSUPPORTSHIP"
 maxHullPoints 100.000000
 hullPointRestoreRate 1.000000

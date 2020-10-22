@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "RESEARCHBUTTON_UNSC_FORTHECOLONIES"
 smallHudIcon "RESEARCHBUTTON_UNSC_FORTHECOLONIES"
@@ -36,7 +37,7 @@ researchFloatModifiers 3
 researchModifier
 	modifierType "PlanetSlotsTacticalIncrease"
 	baseValue 0.000000
-	perLevelValue 4.00000
+	perLevelValue 4.000000
 researchModifier
 	modifierType "BombingPopulationKilledPercAsDamageTarget"
 	baseValue 0.000000

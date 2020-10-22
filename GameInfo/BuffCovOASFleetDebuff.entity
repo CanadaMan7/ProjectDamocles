@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -11,23 +12,23 @@ numInstantActions 0
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 2
-	entityModifier 
-        buffEntityModifierType "DamageAsDamageTarget"
-        value 
-              Level:0 0.08
-              Level:1 0.13
-              Level:2 0.18
-              Level:3 0.23
-	entityModifier
-        buffEntityModifierType "LinearMaxSpeed"
-        value 
-              Level:0 -0.05
-              Level:1 -0.08
-              Level:2 -0.13
-              Level:3 -0.16
+entityModifier
+	buffEntityModifierType "DamageAsDamageTarget"
+	value
+		Level:0 0.080000
+		Level:1 0.130000
+		Level:2 0.180000
+		Level:3 0.230000
+entityModifier
+	buffEntityModifierType "LinearMaxSpeed"
+	value
+		Level:0 -0.050000
+		Level:1 -0.080000
+		Level:2 -0.130000
+		Level:3 -0.160000
 numEntityBoolModifiers 0
 numFinishConditions 2
 finishCondition
 	finishConditionType "OutOfRange"
 finishCondition
-    finishConditionType "OwnerIsFriendlyToFirstSpawner"
+	finishConditionType "OwnerIsFriendlyToFirstSpawner"

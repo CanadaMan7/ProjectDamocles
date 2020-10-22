@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -30,8 +31,8 @@ instantAction
 	buffInstantActionType "MakeDead"
 	instantActionTriggerType "OnCondition"
 	instantActionConditionType "IfOwnerHasBuff"
-			conditionBuffType "BuffCovPatrolIsPatrol"
-			conditionBuffShortName ""
+	conditionBuffType "BuffCovPatrolIsPatrol"
+	conditionBuffShortName ""
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0

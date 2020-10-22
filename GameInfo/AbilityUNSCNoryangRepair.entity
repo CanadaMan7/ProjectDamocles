@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "ApplyBuffToTargetWithTravel"
 instantActionTriggerType "AlwaysPerform"
@@ -18,11 +19,11 @@ targetFilter
 	numConstraints 2
 	constraint "NotSelf"
 	constraint "HasHullDamage"
-	range
-		Level:0 5000.000000
-		Level:1 2500.000000
-		Level:2 2500.000000
-		Level:3 2500.000000
+range
+	Level:0 5000.000000
+	Level:1 2500.000000
+	Level:2 2500.000000
+	Level:3 2500.000000
 travelSpeed 1000.000000
 hasWeaponEffects TRUE
 weaponEffectOriginType "Targetter"

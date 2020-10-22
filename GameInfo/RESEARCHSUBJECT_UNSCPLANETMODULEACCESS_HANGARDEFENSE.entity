@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_UNSCHANGERDEFENSE"
 smallHudIcon "HUDICON_PLANETMODULE_UNSCHANGERDEFENSE"
@@ -18,11 +19,11 @@ BaseUpgradeTime 35.000000
 PerLevelUpgradeTime 5.000000
 BaseCost
 	credits 400.000000
-	metal 0000000
+	metal 0.000000
 	crystal 250.000000
 PerLevelCostIncrease
 	credits 1000.000000
-	metal 0000000
+	metal 0.000000
 	crystal 25.000000
 Tier 0
 onlyWorksIfTierLabsExist TRUE

@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "RESEARCHBUTTON_UNSC_SLIPSPACEMONITORING"
 smallHudIcon "RESEARCHBUTTON_UNSC_SLIPSPACEMONITORING"
@@ -30,7 +31,7 @@ PerLevelCostIncrease
 Tier 4
 onlyWorksIfTierLabsExist TRUE
 MaxNumResearchLevels 1
-priority 1
+priority 1.000000
 researchBoolModifiers 2
 researchModifier
 	modifierType "HyperspaceDetectionTwoJumps"

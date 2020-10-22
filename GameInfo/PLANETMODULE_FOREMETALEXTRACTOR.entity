@@ -1,4 +1,5 @@
-TXT 
+﻿TXT2
+SinsArchiveVersion 194
 entityType "PlanetModuleStandard"
 minZoomDistanceMult 3.000000
 ability:0 ""
@@ -17,7 +18,7 @@ smallHudIcon "HUDICONSMALL_PLANETMODULE_FOREMETALEXTRACTOR"
 infoCardIcon "INFOCARDICON_PLANETMODULE_FOREMETALEXTRACTOR"
 planetUpgradeSlotType "Civilian"
 planetUpgradeSlotCount 0.000000
-basePrice 
+basePrice
 	credits 250.000000
 	metal 0.000000
 	crystal 0.000000
@@ -25,7 +26,7 @@ NameStringID "PLANETMODULE_FOREMETALEXTRACTOR_NAME"
 DescriptionStringID "PLANETMODULE_FOREMETALEXTRACTOR_DESCRIPTION"
 planetModuleRoleType "METALEXTRACTOR"
 statCountType "ModuleMetalExtractor"
-Prerequisites 
+Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
@@ -56,7 +57,7 @@ NumSoundsFor:ONGENERALORDERISSUED 0
 NumSoundsFor:ONSELECTED 0
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
-MeshNameInfo 
+MeshNameInfo
 	meshName "PLANETMODULE_FOREEXTRACTOR"
 	criteriaType "None"
 meshNameIncreasedEffectName ""

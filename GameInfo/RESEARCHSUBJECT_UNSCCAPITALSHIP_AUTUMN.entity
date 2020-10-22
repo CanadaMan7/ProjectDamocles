@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_CAPITALSHIP_UNSCAUTUMN"
 smallHudIcon "HUDICON_CAPITALSHIP_UNSCAUTUMN"
@@ -18,7 +19,7 @@ Prerequisites
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
 BaseUpgradeTime 60.000000
-PerLevelUpgradeTime 0
+PerLevelUpgradeTime 0.000000
 BaseCost
 	credits 1400.000000
 	metal 0.000000

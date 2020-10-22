@@ -1,0 +1,70 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ColonizePlanet"
+instantActionTriggerType "AlwaysPerform"
+targetFilter
+	numOwnerships 1
+	ownership "NoOwner"
+	numObjects 1
+	object "Planet"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "IsColonizable"
+range
+	Level:0 5000.000000
+	Level:1 5000.000000
+	Level:2 5000.000000
+	Level:3 5000.000000
+delayUntilColonization 5.000000
+entryVehicleType "ENTRYVEHICLE_CERB_COLONYKODIAK"
+numEntryVehicles
+	Level:0 10.000000
+	Level:1 11.000000
+	Level:2 12.000000
+	Level:3 13.000000
+travelTime 30.000000
+entryVehicleLaunchInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+afterColonizeBuffType "Buff_Cerb_ArkColonize"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 4
+levelSourceType "TitanUpgradeLevel"
+sourcePropertyType "AbilityALevel"
+aiUseTime "NoEnemyShipsInGravityWell"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 600.000000
+	Level:1 550.000000
+	Level:2 500.000000
+	Level:3 450.000000
+cooldownTime
+	Level:0 300.000000
+	Level:1 240.000000
+	Level:2 180.000000
+	Level:3 120.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_CERBARK_COLONIZE_NAME"
+descStringID "IDS_ABILITY_CERBARK_COLONIZE_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_COLONIZETECH"
+smallHudIcon "HUDICON_ABILITY_COLONIZETECH"
+infoCardIcon ""

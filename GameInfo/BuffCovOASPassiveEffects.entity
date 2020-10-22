@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -14,31 +15,31 @@ numEntityModifiers 4
 entityModifier
 	buffEntityModifierType "ShieldPointRestoreRate"
 	value
-		Level:0 0.0025000
-		Level:1 0.0050000
-		Level:2 0.0075000
-		Level:3 0.0100000
+		Level:0 0.002500
+		Level:1 0.005000
+		Level:2 0.007500
+		Level:3 0.010000
 entityModifier
 	buffEntityModifierType "HullPointRestoreRate"
 	value
-		Level:0 0.0050000
-		Level:1 0.0100000
-		Level:2 0.0150000
-		Level:3 0.0200000
+		Level:0 0.005000
+		Level:1 0.010000
+		Level:2 0.015000
+		Level:3 0.020000
 entityModifier
 	buffEntityModifierType "WeaponCooldown"
 	value
-		Level:0 -0.0025000
-		Level:1 -0.0050000
-		Level:2 -0.0075000
-		Level:3 -0.0100000
+		Level:0 -0.002500
+		Level:1 -0.005000
+		Level:2 -0.007500
+		Level:3 -0.010000
 entityModifier
 	buffEntityModifierType "DamageAsDamageDealer"
 	value
-		Level:0 0.0025000
-		Level:1 0.0050000
-		Level:2 0.0075000
-		Level:3 0.0100000
+		Level:0 0.002500
+		Level:1 0.005000
+		Level:2 0.007500
+		Level:3 0.010000
 numEntityBoolModifiers 0
 numFinishConditions 3
 finishCondition

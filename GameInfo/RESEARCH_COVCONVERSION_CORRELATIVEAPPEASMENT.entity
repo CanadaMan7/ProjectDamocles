@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "RESEARCHBUTTON_COV_CORRELATIVEAPPEASMENT"
 smallHudIcon "RESEARCHBUTTON_COV_CORRELATIVEAPPEASMENT"
@@ -35,7 +36,7 @@ researchBoolModifiers 0
 researchFloatModifiers 2
 researchModifier
 	modifierType "ShipMaxSlots"
-	baseValue 0.00000
+	baseValue 0.000000
 	perLevelValue 150.000000
 researchModifier
 	modifierType "IncomePercLost"

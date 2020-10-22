@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_STRUCTUREWORK_CRYSTALEXTRACTTECH1"
 smallHudIcon "HUDICON_RESEARCHSUBJECT_STRUCTUREWORK_CRYSTALEXTRACTTECH1"
@@ -34,9 +35,9 @@ priority 1.000000
 researchBoolModifiers 0
 researchFloatModifiers 1
 researchModifier
-        modifierType "ExtractionRateCrystalAdjustment"
-        baseValue 0.000000
-        perLevelValue 0.050000
+	modifierType "ExtractionRateCrystalAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.050000
 artifactPicture ""
 uniqueOverlayBrush ""
 dlcId 204880

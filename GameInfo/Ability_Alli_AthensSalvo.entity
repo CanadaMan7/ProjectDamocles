@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "ApplyBuffToTargetWithTravel"
 instantActionTriggerType "AlwaysPerform"
@@ -33,36 +33,36 @@ weaponEffectImpactOffsetType "RandomMesh"
 canWeaponEffectHitHull TRUE
 canWeaponEffectHitShields TRUE
 weaponEffectsDef
-		weaponType "Missile"
-		burstCount 2
-		burstDelay 0.250000
-		fireDelay 0.000000
-		muzzleEffectName "Weapon_CerbArcaida_Muzzle"
-		muzzleSoundMinRespawnTime 0.001000
-		muzzleSounds
-			soundCount 4
-			sound "WEAPON_GENERIC_MISSILEMUZZLE1"
-			sound "WEAPON_GENERIC_MISSILEMUZZLE2"
-			sound "WEAPON_GENERIC_MISSILEMUZZLE3"
-			sound "WEAPON_GENERIC_MISSILEMUZZLE4"
-		hitEffectName "Weapon_PhaseCapitalMissileFrigate_Hit"
-		hitHullEffectSounds
-			soundCount 8
-			sound "WEAPON_GENERIC_MISSILEIMPACT1"
-			sound "WEAPON_GENERIC_MISSILEIMPACT2"
-			sound "WEAPON_GENERIC_MISSILEIMPACT3"
-			sound "WEAPON_GENERIC_MISSILEIMPACT4"
-			sound "WEAPON_GENERIC_MISSILEIMPACT5"
-			sound "WEAPON_GENERIC_MISSILEIMPACT6"
-			sound "WEAPON_GENERIC_MISSILEIMPACT7"
-			sound "WEAPON_GENERIC_MISSILEIMPACT8"
-		hitShieldsEffectSounds
-			soundCount 1
-			sound "WEAPONIMPACT_PHASEMISSILEMEDIUM_HITGENERIC"
-		missileTravelEffectName "Weapon_CerbArcadiaMissle_Travel"
-		missileStartTurningDistance 50.000000
-		missileSlowTurnRate 5.000000
-		missileMaxSlowTurnTime 1.000000
+	weaponType "Missile"
+	burstCount 2
+	burstDelay 0.250000
+	fireDelay 0.000000
+	muzzleEffectName "Weapon_CerbArcaida_Muzzle"
+	muzzleSoundMinRespawnTime 0.001000
+	muzzleSounds
+		soundCount 4
+		sound "WEAPON_GENERIC_MISSILEMUZZLE1"
+		sound "WEAPON_GENERIC_MISSILEMUZZLE2"
+		sound "WEAPON_GENERIC_MISSILEMUZZLE3"
+		sound "WEAPON_GENERIC_MISSILEMUZZLE4"
+	hitEffectName "Weapon_PhaseCapitalMissileFrigate_Hit"
+	hitHullEffectSounds
+		soundCount 8
+		sound "WEAPON_GENERIC_MISSILEIMPACT1"
+		sound "WEAPON_GENERIC_MISSILEIMPACT2"
+		sound "WEAPON_GENERIC_MISSILEIMPACT3"
+		sound "WEAPON_GENERIC_MISSILEIMPACT4"
+		sound "WEAPON_GENERIC_MISSILEIMPACT5"
+		sound "WEAPON_GENERIC_MISSILEIMPACT6"
+		sound "WEAPON_GENERIC_MISSILEIMPACT7"
+		sound "WEAPON_GENERIC_MISSILEIMPACT8"
+	hitShieldsEffectSounds
+		soundCount 1
+		sound "WEAPONIMPACT_PHASEMISSILEMEDIUM_HITGENERIC"
+	missileTravelEffectName "Weapon_CerbArcadiaMissle_Travel"
+	missileStartTurningDistance 50.000000
+	missileSlowTurnRate 5.000000
+	missileMaxSlowTurnTime 1.000000
 needsToFaceTarget TRUE
 canCollideWithTarget TRUE
 moveThruTarget FALSE

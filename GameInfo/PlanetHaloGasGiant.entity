@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Planet"
 meshInfoCount 1
 meshInfo
@@ -17,7 +18,7 @@ meshInfo
 	picture "PICTURE_PLANET_HALO"
 	shouldPrefer FALSE
 minZoomDistanceMult 1.500000
-glowColor 00000000
+glowColor 0
 ringColor ffdafcff
 cloudLayerTextureName ""
 planetResourceSetupInfo
@@ -40,13 +41,13 @@ planetResourceSetupInfo
 		maxCount 0
 		extractionRate 0.533333
 		refineryRate 0.316800
-			maxRefineryCount 3
+		maxRefineryCount 3
 	neutralCrystalResourceAsteroidSetup
 		minCount 0
 		maxCount 0
 		extractionRate 0.533333
 		refineryRate 0.316800
-			maxRefineryCount 3
+		maxRefineryCount 3
 isAsteroid FALSE
 healthRegenRate 10.000000
 planetUpgradeDef
@@ -273,7 +274,7 @@ planetUpgradeDef
 			upgradeTime 0.000000
 			corruptionPercent 0.000000
 			smugglingPercent 0.000000
-ringsChance 0.00000
+ringsChance 0.000000
 isColonizable TRUE
 planetTypeForResearch "Greenhouse"
 skyboxScalarsCount 5

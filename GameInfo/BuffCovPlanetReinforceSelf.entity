@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -12,15 +13,15 @@ instantAction
 	buffInstantActionType "ApplyBuffToTargetWithTravel"
 	instantActionTriggerType "OnDelay"
 	delayTime 0.000000
-buffType "BuffCovPlanetReinforceTarget"
-targetFilter
-	numOwnerships 1
-	ownership "Friendly"
-	numObjects 1
-	object "Planet"
-	numSpaces 1
-	space "Normal"
-	numConstraints 0
+	buffType "BuffCovPlanetReinforceTarget"
+	targetFilter
+		numOwnerships 1
+		ownership "Friendly"
+		numObjects 1
+		object "Planet"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
 	range
 		Level:0 3500.000000
 		Level:1 7500.000000
@@ -35,28 +36,28 @@ targetFilter
 	weaponEffectImpactOffsetType "RandomMesh"
 	canWeaponEffectHitHull TRUE
 	canWeaponEffectHitShields TRUE
-weaponEffectsDef
-	weaponType "Projectile"
-	burstCount 1
-	burstDelay 0.000000
-			fireDelay 0.000000
+	weaponEffectsDef
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
 		muzzleEffectName "Weapon_UNSCPlanetInvasion_Muzzle"
-	muzzleSoundMinRespawnTime 0.100000
-	muzzleSounds
-		soundCount 1
-		sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
-	hitEffectName "Empty"
-	hitHullEffectSounds
-		soundCount 3
-		sound "EXPLOSION_SUB4"
-		sound "EXPLOSION_SUB4_ALT1"
-		sound "EXPLOSION_SUB4_ALT2"
-	hitShieldsEffectSounds
-		soundCount 3
-		sound "EXPLOSION_SUB4"
-		sound "EXPLOSION_SUB4_ALT1"
-		sound "EXPLOSION_SUB4_ALT2"
-	projectileTravelEffectName "Weapon_CovPlanetInvasionLight_Travel"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+		hitEffectName "Empty"
+		hitHullEffectSounds
+			soundCount 3
+			sound "EXPLOSION_SUB4"
+			sound "EXPLOSION_SUB4_ALT1"
+			sound "EXPLOSION_SUB4_ALT2"
+		hitShieldsEffectSounds
+			soundCount 3
+			sound "EXPLOSION_SUB4"
+			sound "EXPLOSION_SUB4_ALT1"
+			sound "EXPLOSION_SUB4_ALT2"
+		projectileTravelEffectName "Weapon_CovPlanetInvasionLight_Travel"
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0

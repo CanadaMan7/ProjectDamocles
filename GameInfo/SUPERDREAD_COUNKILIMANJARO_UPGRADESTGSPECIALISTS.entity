@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "TitanUpgrade"
 stageCount 5
 stage
@@ -28,17 +28,17 @@ stage
 	infoCardIcon ""
 	upgradePropertyCount 4
 	upgradeProperty
-		propertyType "AntiMatterRestoreRate"
-		value 1.000000
-	upgradeProperty
-		propertyType "MaxAntiMatterPoints"
-		value 250.000000
-	upgradeProperty
 		propertyType "MaxShieldPoints"
 		value 1000.000000
 	upgradeProperty
 		propertyType "ShieldPointRestoreRate"
 		value 2.500000
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 250.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 1.000000
 	upgradeBoolPropertyCount 0
 stage
 	nameStringID "IDS_SUPERDREAD_COUNKILIMANJARO_UPGRADESTGSPECIALISTS_NAME"
@@ -53,17 +53,17 @@ stage
 	infoCardIcon ""
 	upgradePropertyCount 4
 	upgradeProperty
-		propertyType "AntiMatterRestoreRate"
-		value 2.000000
-	upgradeProperty
-		propertyType "MaxAntiMatterPoints"
-		value 500.000000
-	upgradeProperty
 		propertyType "MaxShieldPoints"
 		value 2000.000000
 	upgradeProperty
 		propertyType "ShieldPointRestoreRate"
 		value 5.000000
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 500.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 2.000000
 	upgradeBoolPropertyCount 0
 stage
 	nameStringID "IDS_SUPERDREAD_COUNKILIMANJARO_UPGRADESTGSPECIALISTS_NAME"
@@ -78,17 +78,17 @@ stage
 	infoCardIcon ""
 	upgradePropertyCount 4
 	upgradeProperty
-		propertyType "AntiMatterRestoreRate"
-		value 3.000000
-	upgradeProperty
-		propertyType "MaxAntiMatterPoints"
-		value 750.000000
-	upgradeProperty
 		propertyType "MaxShieldPoints"
 		value 3000.000000
 	upgradeProperty
 		propertyType "ShieldPointRestoreRate"
 		value 7.500000
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 750.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 3.000000
 	upgradeBoolPropertyCount 0
 stage
 	nameStringID "IDS_SUPERDREAD_COUNKILIMANJARO_UPGRADESTGSPECIALISTS_NAME"
@@ -103,15 +103,15 @@ stage
 	infoCardIcon ""
 	upgradePropertyCount 4
 	upgradeProperty
-		propertyType "AntiMatterRestoreRate"
-		value 4.000000
-	upgradeProperty
-		propertyType "MaxAntiMatterPoints"
-		value 1000.000000
-	upgradeProperty
 		propertyType "MaxShieldPoints"
 		value 4000.000000
 	upgradeProperty
 		propertyType "ShieldPointRestoreRate"
 		value 10.000000
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 1000.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 4.000000
 	upgradeBoolPropertyCount 0

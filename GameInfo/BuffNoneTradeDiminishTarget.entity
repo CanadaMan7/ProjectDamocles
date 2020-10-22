@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -14,7 +15,7 @@ numEntityModifiers 1
 entityModifier
 	buffEntityModifierType "TradeIncome"
 	value
-		Level:0 -0.1000
+		Level:0 -0.100000
 		Level:1 0.150000
 		Level:2 0.150000
 		Level:3 0.150000

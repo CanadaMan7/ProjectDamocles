@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193  
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -16,7 +16,7 @@ picture "PICTURE_PLACEHOLDER"
 NameStringID "FRIGATE_FOREVANGUARD_NAME"
 DescriptionStringID "FRIGATE_FOREVANGUARD_NAME"
 counterDescriptionStringID "blank"
-basePrice  
+basePrice
 	credits 1500.000000
 	metal 300.000000
 	crystal 250.000000
@@ -44,9 +44,9 @@ smallHudIcon "MAINVIEWICON_FRIGATE_FOREVANGUARD"
 infoCardIcon "MAINVIEWICON_FRIGATE_FOREVANGUARD"
 minZoomDistanceMult 3.000000
 NumWeapons 1
-Weapon  
+Weapon
 	WeaponType "Beam"
-	damageEnums  
+	damageEnums
 		AttackType "COMPOSITE"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -60,28 +60,28 @@ Weapon
 	PreBuffCooldownTime 25.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
-	PointStaggerDelay .250000
+	PointStaggerDelay 0.250000
 	TravelSpeed 0.000000
 	Duration 2.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Beam"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 2.00000
-	muzzleEffectName "Weapon_PsiCapitalBeamHeavy_Muzzle"
+		fireDelay 2.000000
+		muzzleEffectName "Weapon_PsiCapitalBeamHeavy_Muzzle"
 		muzzleSoundMinRespawnTime 0.000000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 1
 			sound ""
 		hitEffectName "Weapon_PsiCapitalBeamHeavy_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound ""
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound ""
-		beamEffectSounds  
+		beamEffectSounds
 			soundCount 1
 			sound "WEAPON_PSICAPITALBEAMHEAVY_TRAVEL"
 		beamGlowTextureName "PsiCapitalBeam_Glow"
@@ -101,14 +101,15 @@ hasWeaponLevels FALSE
 mass 3000.000000
 ShieldMeshName "FRIGATE_FOREVANGUARD_SHIELD"
 renderShield TRUE
-maxAccelerationLinear 425.0000
-maxAccelerationStrafe 10.0000
-maxDecelerationLinear 400.0000
-maxAccelerationAngular 10.0000
-maxDecelerationAngular 15.0000
+maxAccelerationLinear 425.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 400.000000
+maxAccelerationAngular 9.999998
+maxDecelerationAngular 15.000000
 maxSpeedLinear 1000.000000
 maxRollRate 2.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 ""
@@ -124,15 +125,13 @@ NumSoundsFor:ONGENERALORDERISSUED 0
 NumSoundsFor:ONSELECTED 0
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
-MeshNameInfo  
+MeshNameInfo
 	meshName "FRIGATE_FOREVANGUARD"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName "Exhaust_FrigateForeHeavy"
 ExplosionName "UNSC_Frig_Small"
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_FORECAPITALSHIP"
 ability:0 ""
 ability:1 ""
@@ -145,6 +144,5 @@ cargoType "Invalid"
 maxCargoCapacity 0.000000
 formationRank 1
 minShadow 0.500000
-maxShadow 1.00000
+maxShadow 1.000000
 allegianceDecreasePerRoundtrip 0.000000
-  

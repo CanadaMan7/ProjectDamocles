@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_ARBITRATOR"
 smallHudIcon "HUDICON_RESEARCHSUBJECT_ARBITRATOR"
@@ -14,8 +15,8 @@ Prerequisites
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 45
-PerLevelUpgradeTime 0
+BaseUpgradeTime 45.000000
+PerLevelUpgradeTime 0.000000
 BaseCost
 	credits 800.000000
 	metal 0.000000

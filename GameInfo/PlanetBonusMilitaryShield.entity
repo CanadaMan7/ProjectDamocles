@@ -1,11 +1,12 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "PlanetBonus"
 minUpgradeLevelNeeded 2
 maxUpgradeLevelNeeded 2
 nameStringID "IDS_PLANETBONUS_MILITARYSHIELD_NAME"
 descStringID "IDS_PLANETBONUS_MILITARYSHIELD_DESC"
-floatBonus:AdditiveCultureSpreadPerc 0.00000
-floatBonus:AdditivePopulation -150.00000
+floatBonus:AdditiveCultureSpreadPerc 0.000000
+floatBonus:AdditivePopulation -150.000000
 floatBonus:AdditivePlanetHealth 1000.000000
 floatBonus:AdditiveSlotsCivilian -16.000000
 floatBonus:AdditiveSlotsTactical 22.000000
@@ -21,7 +22,7 @@ floatBonus:ModuleBuildRatePerc 0.000000
 floatBonus:PlanetUpgradeBuildCostPerc 0.000000
 floatBonus:PlanetUpgradeBuildRatePerc 0.000000
 floatBonus:PopulationGrowthPerc -0.050000
-floatBonus:ShipBuildCostAdjustment -0.0000000
+floatBonus:ShipBuildCostAdjustment -0.000000
 floatBonus:WeaponDamageAtGravityWellMultiplier 0.000000
 intBonus:MaxSpaceMines 100
 intBonus:MaxStarbases 1

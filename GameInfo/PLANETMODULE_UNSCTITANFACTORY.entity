@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "PlanetModuleShipFactory"
 minZoomDistanceMult 1.750000
 ability:0 "AbilityUNSCTitanFactory"
@@ -24,8 +25,8 @@ basePrice
 NameStringID "PLANETMODULE_UNSCTITANFACTORY_NAME"
 DescriptionStringID "PLANETMODULE_UNSCTITANFACTORY_DESCRIPTION"
 planetModuleRoleType "TITANFACTORY"
-statCountType "ModuleCapitalShipFactory" 
-Prerequisites 
+statCountType "ModuleCapitalShipFactory"
+Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
 		Subject "RESEARCH_UNSCMANUFACTORY_INFINITY"

@@ -1,0 +1,94 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "PlayAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName "TechArmor_CerbArcadia"
+		mediumEffectName "TechArmor_CerbArcadia"
+		largeEffectName "TechArmor_CerbArcadia"
+		soundID ""
+numPeriodicActions 1
+periodicAction
+	actionCountType "Finite"
+	actionCount
+		Level:0 30.000000
+		Level:1 30.000000
+		Level:2 30.000000
+		Level:3 30.000000
+	actionIntervalTime
+		Level:0 1.000000
+		Level:1 1.000000
+		Level:2 1.000000
+		Level:3 1.000000
+	buffInstantActionType "ApplyBuffToTargetsInRadius"
+	instantActionTriggerType "AlwaysPerform"
+	buffType "Buff_Cerb_ArcadiaTauntTarget"
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 5
+		object "Frigate"
+		object "CapitalShip"
+		object "PlanetModule"
+		object "StarBase"
+		object "Titan"
+		numSpaces 1
+		space "Normal"
+		numConstraints 2
+		constraint "HasWeapons"
+		constraint "NotIsIllusionShip"
+	range
+		Level:0 15000.000000
+		Level:1 15000.000000
+		Level:2 15000.000000
+		Level:3 15000.000000
+	maxTargetCount
+		Level:0 4.000000
+		Level:1 4.000000
+		Level:2 4.000000
+		Level:3 4.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+numOverTimeActions 0
+numEntityModifiers 2
+entityModifier
+	buffEntityModifierType "LinearMaxSpeed"
+	value
+		Level:0 -0.150000
+		Level:1 0.000000
+		Level:2 0.000000
+		Level:3 0.000000
+entityModifier
+	buffEntityModifierType "DamageAsDamageTarget"
+	value
+		Level:0 -0.200000
+		Level:1 -0.000000
+		Level:2 -0.000000
+		Level:3 -0.000000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 30.000000
+		Level:1 30.000000
+		Level:2 20.000000
+		Level:3 20.000000

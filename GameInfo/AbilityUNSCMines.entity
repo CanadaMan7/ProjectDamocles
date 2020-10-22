@@ -1,15 +1,16 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "ApplyBuffToSelf"
 instantActionTriggerType "AlwaysPerform"
 buffType "BuffUNSCMines"
 effectInfo
-		effectAttachInfo
-			attachType "Above"
-		smallEffectName ""
-		mediumEffectName ""
-		largeEffectName ""
-		soundID ""
+	effectAttachInfo
+		attachType "Above"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
 needsToFaceTarget FALSE
 canCollideWithTarget TRUE
 moveThruTarget FALSE

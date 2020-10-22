@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "ApplyBuffToTargetWithTravel"
 instantActionTriggerType "AlwaysPerform"
@@ -86,4 +87,3 @@ descStringID "ABILITY_UNSCEMPMAC_DESCRIPTION"
 hudIcon "HUDICON_ABILITY_EMPMACSOF"
 smallHudIcon "HUDICON_ABILITY_EMPMACSOF"
 infoCardIcon ""
-

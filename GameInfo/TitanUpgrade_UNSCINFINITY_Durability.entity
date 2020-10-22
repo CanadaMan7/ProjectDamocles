@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "TitanUpgrade"
 stageCount 5
 stage
@@ -87,7 +88,7 @@ stage
 		value 10950.000000
 	upgradeProperty
 		propertyType "ShieldPointRestoreRate"
-		value 36.525000
+		value 36.525002
 	upgradeBoolPropertyCount 0
 stage
 	nameStringID "TITANUPGRAGE_UNSC_INFDURABLE_NAME"
@@ -112,5 +113,5 @@ stage
 		value 14600.000000
 	upgradeProperty
 		propertyType "ShieldPointRestoreRate"
-		value 48.700000
+		value 48.700001
 	upgradeBoolPropertyCount 0

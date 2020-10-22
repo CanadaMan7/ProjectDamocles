@@ -1,4 +1,5 @@
-TXT 
+﻿TXT2
+SinsArchiveVersion 194
 entityType "PlanetModuleHangarDefense"
 minZoomDistanceMult 1.700000
 ability:0 "AbilityUNSCVieryPower"
@@ -16,8 +17,8 @@ hudIcon "HUDICON_PLANETMODULE_UNSCSHMAC"
 smallHudIcon "HUDICONSMALL_PLANETMODULE_UNSCVIERY"
 infoCardIcon "HUDICONSMALL_PLANETMODULE_UNSCVIERY"
 planetUpgradeSlotType "Tactical"
-planetUpgradeSlotCount 6.0000000
-basePrice 
+planetUpgradeSlotCount 6.000000
+basePrice
 	credits 1400.000000
 	metal 190.000000
 	crystal 165.000000
@@ -25,9 +26,9 @@ NameStringID "PLANETMODULE_UNSCSHMAC_NAME"
 DescriptionStringID "PLANETMODULE_UNSCSHMAC_DESCRIPTION"
 planetModuleRoleType "WEAPONDEFENSE"
 statCountType "ModulePointDefense"
-Prerequisites 
+Prerequisites
 	NumResearchPrerequisites 1
-	ResearchPrerequisite 
+	ResearchPrerequisite
 		Subject "RESEARCH_UNSCMANUFACTORY_VIERY"
 		Level 1
 	RequiredFactionNameID ""
@@ -47,7 +48,7 @@ nearPlacementDistOffset 0.000000
 farPlacementDistOffset 30000.000000
 spawnCount 1
 swapMineType ""
-angularSpeed 5.000000
+angularSpeed 4.999999
 rotateSoundName ""
 rotateFacingType "None"
 rotateConstantly FALSE
@@ -68,7 +69,7 @@ SoundID "PLANETMODULE_UNSCSHMAC_ONSELECTION_3"
 SoundID "PLANETMODULE_UNSCSHMAC_ONSELECTION_4"
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
-MeshNameInfo 
+MeshNameInfo
 	meshName "PLANETMODULE_UNSCREACHSMAC"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
@@ -90,9 +91,9 @@ squadAntiMatterCost:2 3.000000
 squadTypeEntityDef:3 ""
 squadAntiMatterCost:3 0.000000
 NumWeapons 1
- Weapon
+Weapon
 	WeaponType "Projectile"
-	damageEnums 
+	damageEnums
 		AttackType "ANTIVERYHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -103,30 +104,30 @@ NumWeapons 1
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
 	Range 30000.000000
-	PreBuffCooldownTime 20.00000
+	PreBuffCooldownTime 20.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 10.000000
 	TravelSpeed 14000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects 
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 1.000000
-	muzzleEffectName "Weapon_UNSCSMAC_Muzzle"
+		fireDelay 1.000000
+		muzzleEffectName "Weapon_UNSCSMAC_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds 
+		muzzleSounds
 			soundCount 3
-				sound "SMACNEW1"
-				sound "SMACNEW2"
-				sound "SMACNEW3"
+			sound "SMACNEW1"
+			sound "SMACNEW2"
+			sound "SMACNEW3"
 		hitEffectName "Weapon_UNSCSMAC_Hit"
-		hitHullEffectSounds 
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds 
+		hitShieldsEffectSounds
 			soundCount 2
 			sound "WEAPONIMPACT_SMAC_HITSHIELDS_0"
 			sound "WEAPONIMPACT_SMAC_HITSHIELDS_1"

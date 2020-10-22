@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -56,7 +56,7 @@ instantAction
 instantAction
 	buffInstantActionType "RemoveBuffOfType"
 	instantActionTriggerType "OnBuffFinish"
-buffTypeToRemove "Buff_Alli_NewtonCryoAmmoStart"
+	buffTypeToRemove "Buff_Alli_NewtonCryoAmmoStart"
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 1

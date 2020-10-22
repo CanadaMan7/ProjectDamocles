@@ -1,4 +1,4 @@
-TXT2
+﻿TXT2
 SinsArchiveVersion 194
 entityType "Titan"
 ability:0 ""
@@ -70,9 +70,9 @@ smallHudIcon "MAINVIEWICON_SUPERDREADNOUGHT_COUNGETH"
 infoCardIcon "MAINVIEWICON_SUPERDREADNOUGHT_COUNGETH"
 minZoomDistanceMult 1.250000
 NumWeapons 2
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -90,12 +90,12 @@ Weapon
 	TravelSpeed 5000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
+		fireDelay 0.000000
+		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 6
@@ -113,9 +113,9 @@ Weapon
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
-Weapon  
+Weapon
 	WeaponType "Beam"
-	damageEnums  
+	damageEnums
 		AttackType "COMPOSITE"
 		DamageAffectType "AFFECTS_ONLY_HULL"
 		DamageApplyType "BACKLOADED"
@@ -173,10 +173,10 @@ maxAccelerationLinear 100.000000
 maxAccelerationStrafe 10.000000
 maxDecelerationLinear 500.000000
 maxAccelerationAngular 0.900000
-maxDecelerationAngular 9.999998
+maxDecelerationAngular 9.999996
 maxSpeedLinear 500.000000
 maxRollRate 1.650000
-maxRollAngle 19.999996
+maxRollAngle 19.999992
 useCustomHyperspaceEffects TRUE
 effects
 	chargeUpEffectName "SlipspaceChargeUpUNSCCap"

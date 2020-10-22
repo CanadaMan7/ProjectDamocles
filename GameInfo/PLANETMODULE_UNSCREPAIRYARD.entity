@@ -1,4 +1,5 @@
-TXT 
+﻿TXT2
+SinsArchiveVersion 194
 entityType "PlanetModuleStandard"
 minZoomDistanceMult 1.500000
 ability:0 "AbilityUNSCRepairPlatform"
@@ -17,7 +18,7 @@ smallHudIcon "MAINVIEWICON_PLANETMODULE_UNSCREPAIRSTATION"
 infoCardIcon "MAINVIEWICON_PLANETMODULE_UNSCREPAIRSTATION"
 planetUpgradeSlotType "Tactical"
 planetUpgradeSlotCount 2.000000
-basePrice 
+basePrice
 	credits 500.000000
 	metal 125.000000
 	crystal 95.000000
@@ -25,7 +26,7 @@ NameStringID "PLANETMODULE_UNSCCRADLE_NAME"
 DescriptionStringID "PLANETMODULE_UNSCCRADLE_DESCRIPTION"
 planetModuleRoleType "REPAIRPLATFORM"
 statCountType "ModuleRepair"
-Prerequisites 
+Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
@@ -72,7 +73,7 @@ SoundID "FRIGATE_UNSCCRADLE_ONSELECTED_4"
 NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "FRIGATE_UNSCCRADLE_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
-MeshNameInfo 
+MeshNameInfo
 	meshName "PLANETMODULE_UNSCREPAIRPLATFORM"
 	criteriaType "None"
 meshNameIncreasedEffectName ""

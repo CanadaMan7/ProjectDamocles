@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193 
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -15,7 +15,7 @@ picture "PICTURE_FRIGATE_COVCAR"
 NameStringID "FRIGATE_COVCAR_NAME"
 DescriptionStringID "FRIGATE_COVCAR_DESCRIPTION"
 counterDescriptionStringID "IDS_USEDBEST_FRIGATE_ANTIFIGHTER"
-basePrice  
+basePrice
 	credits 0.000000
 	metal 0.000000
 	crystal 0.000000
@@ -43,9 +43,9 @@ smallHudIcon "MAINVIEWICON_FRIGATE_COVCAR"
 infoCardIcon "MAINVIEWICON_FRIGATE_COVCAR"
 minZoomDistanceMult 1.500000
 NumWeapons 1
-Weapon  
+Weapon
 	WeaponType "Beam"
-	damageEnums  
+	damageEnums
 		AttackType "ANTILIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -61,7 +61,7 @@ Weapon
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.000000
 	TravelSpeed 0.000000
-	Duration 0.2500000
+	Duration 0.250000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Beam"
@@ -78,7 +78,7 @@ Weapon
 		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		beamEffectSounds
@@ -101,14 +101,15 @@ hasWeaponLevels FALSE
 mass 2000.000000
 ShieldMeshName "FRIGATE_COVCAR_SHIELD"
 renderShield TRUE
-maxAccelerationLinear 450.0000
-maxAccelerationStrafe 10.0000
-maxDecelerationLinear 500.0000
-maxAccelerationAngular 5.0000
-maxDecelerationAngular 10.0000
+maxAccelerationLinear 450.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 4.999999
+maxDecelerationAngular 9.999998
 maxSpeedLinear 1500.000000
-maxRollRate 4.000000
+maxRollRate 3.999999
 maxRollAngle 45.000000
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 ""
@@ -146,15 +147,13 @@ NumSoundsFor:ONSTARTPHASEJUMP 2
 SoundID "FRIGATE_COVCAR_ONSTARTPHASEJUMP_0"
 SoundID "FRIGATE_COVCAR_ONSTARTPHASEJUMP_1"
 MeshNameInfoCount 1
-MeshNameInfo  
+MeshNameInfo
 	meshName "FRIGATE_COVCAR"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName "Exhaust_CovCAR"
 ExplosionName "Null"
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_COVCAPITALSHIP"
 ability:0 "AbilityCovPatrolCARSpawner"
 ability:1 ""

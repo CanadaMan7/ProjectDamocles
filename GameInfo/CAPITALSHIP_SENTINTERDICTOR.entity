@@ -1,4 +1,5 @@
-TXT  
+﻿TXT2
+SinsArchiveVersion 194
 entityType "CapitalShip"
 ability:0 ""
 ability:1 ""
@@ -33,22 +34,22 @@ ShieldPointRestoreRate
 ArmorPointsFromExperience
 	StartValue 7.000000
 	ValueIncreasePerLevel 0.400000
-maxMitigation  
-	StartValue 0.0000
-	ValueIncreasePerLevel 0.00000
+maxMitigation
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.000000
 MaxAntiMatter
 	StartValue 84.000000
 	ValueIncreasePerLevel 12.000000
 AntiMatterRestoreRate
-	StartValue 0.000
-	ValueIncreasePerLevel 0.0000
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.000000
 CultureProtectRate
 	StartValue 1.000000
 	ValueIncreasePerLevel 0.050000
 NameStringID "CAPITALSHIP_SENTINTERDICTOR_NAME"
 DescriptionStringID "CAPITALSHIP_SENTINTERDICTOR_DESCRIPTION"
 picture "PICTURE_CAPITALSHIP_COVOSS"
-Prerequisites  
+Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
@@ -64,9 +65,9 @@ smallHudIcon "MAINVIEWICON_CAPITALSHIP_COVOSS"
 infoCardIcon "MAINVIEWICON_CAPITALSHIP_COVOSS"
 minZoomDistanceMult 1.250000
 NumWeapons 3
-Weapon  
+Weapon
 	WeaponType "Beam"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -88,8 +89,8 @@ Weapon
 		weaponType "Beam"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 2.000000
-	muzzleEffectName "Weapon_CovEP_Muzzle"
+		fireDelay 2.000000
+		muzzleEffectName "Weapon_CovEP_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 1
@@ -104,15 +105,15 @@ Weapon
 		beamEffectSounds
 			soundCount 1
 			sound "WEAPON_TECHCAPITALBEAMHEAVY_TRAVEL"
-	beamGlowTextureName "Weapon_CovEP"
-	beamCoreTextureName "Weapon_CovEP"
+		beamGlowTextureName "Weapon_CovEP"
+		beamCoreTextureName "Weapon_CovEP"
 		beamWidth 10.000000
 		beamGlowColor ffffffff
 		beamCoreColor ffffffff
 		beamTilingRate 3.000000
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -123,19 +124,19 @@ Weapon
 	DamagePerBank:LEFT 50.000000
 	DamagePerBank:RIGHT 50.000000
 	Range 8000.000000
-	PreBuffCooldownTime 1.00000
+	PreBuffCooldownTime 1.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.400000
 	TravelSpeed 3000.000000
-	Duration 0.0000000
+	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 12
 		burstDelay 0.150000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_PsiCapitalLaserHeavy_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PsiCapitalLaserHeavy_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 2
@@ -145,13 +146,13 @@ Weapon
 		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		projectileTravelEffectName "Weapon_TechCapitalLaserLight_Travel"
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTILIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -165,26 +166,26 @@ Weapon
 	PreBuffCooldownTime 4.000000
 	CanFireAtFighter TRUE
 	SynchronizedTargeting FALSE
-	PointStaggerDelay 0.25000000
+	PointStaggerDelay 0.250000
 	TravelSpeed 6000.000000
-	Duration 0.0000000
+	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 4
 		burstDelay 0.100000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_Tech_TitanLaser_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Tech_TitanLaser_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE"
 			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE_ALT1"
 		hitEffectName "Weapon_Tech_MissileCapShip_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		projectileTravelEffectName "Weapon_ForeParticleCannon_Travel"
@@ -198,14 +199,15 @@ canOnlyTargetStructures FALSE
 mass 10000.000000
 ShieldMeshName "CAPITALSHIP_COVOSS_SHIELD"
 renderShield TRUE
-maxAccelerationLinear 425.0000
-maxAccelerationStrafe 10.0000
-maxDecelerationLinear 400.0000
-maxAccelerationAngular 10.0000
-maxDecelerationAngular 15.0000
+maxAccelerationLinear 425.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 400.000000
+maxAccelerationAngular 9.999998
+maxDecelerationAngular 15.000000
 maxSpeedLinear 1000.000000
 maxRollRate 2.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 "SQUAD_COVBANSHEECOMBAT"
 squadAntiMatterCost:0 3.000000
 squadTypeEntityDef:1 "SQUAD_COVSERAPHBOMBER"
@@ -257,8 +259,6 @@ weaponCooldownDecreasePerc
 weaponDamageIncreasePerc
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.050000
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_COVCAPITALSHIP"
 formationRank 3
 minShadow 0.200000

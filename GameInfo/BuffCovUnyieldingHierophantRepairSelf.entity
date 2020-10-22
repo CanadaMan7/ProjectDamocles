@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -20,7 +21,7 @@ instantAction
 		object "Frigate"
 		object "Corvette"
 		object "CapitalShip"
-		object "PlanetModule"		
+		object "PlanetModule"
 		numSpaces 1
 		space "Normal"
 		numConstraints 2

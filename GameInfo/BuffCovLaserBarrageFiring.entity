@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -67,7 +68,7 @@ periodicAction
 		burstCount 3
 		burstDelay 0.080000
 		fireDelay 0.000000
-	muzzleEffectName "Weapon_PhaseCapitalMissileHeavy_Muzzle"
+		muzzleEffectName "Weapon_PhaseCapitalMissileHeavy_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 1

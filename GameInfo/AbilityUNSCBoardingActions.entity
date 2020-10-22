@@ -1,15 +1,16 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "ApplyBuffToSelf"
 instantActionTriggerType "AlwaysPerform"
 buffType "BuffUNSCBoardingActionsSelf"
-	effectInfo
-		effectAttachInfo
-			attachType "Center"
-		smallEffectName ""
-		mediumEffectName ""
-		largeEffectName ""
-		soundID ""
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
 needsToFaceTarget FALSE
 canCollideWithTarget TRUE
 moveThruTarget FALSE

@@ -1,0 +1,111 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "SpawnShipsAtPlanet"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	spawnShipsLevelCount 4
+	spawnShips
+		minFleetPoints 200.000000
+		maxFleetPoints 200.000000
+		requiredShipCount 0
+		randomShipCount 4
+		randomShip
+			type "FRIGATE_CERBBOSTON"
+			weight 5
+		randomShip
+			type "FRIGATE_CERBGAZA"
+			weight 3
+		randomShip
+			type "CRUISER_CERBELBRUS"
+			weight 4
+		randomShip
+			type "CRUISER_CERBMINERVA"
+			weight 1
+	spawnShips
+		minFleetPoints 350.000000
+		maxFleetPoints 350.000000
+		requiredShipCount 0
+		randomShipCount 5
+		randomShip
+			type "FRIGATE_CERBBOSTON"
+			weight 4
+		randomShip
+			type "FRIGATE_CERBGAZA"
+			weight 3
+		randomShip
+			type "CRUISER_CERBELBRUS"
+			weight 5
+		randomShip
+			type "CRUISER_CERBMINERVA"
+			weight 1
+		randomShip
+			type "FrigateTechHeavy"
+			weight 3
+	spawnShips
+		minFleetPoints 500.000000
+		maxFleetPoints 500.000000
+		requiredShipCount 0
+		randomShipCount 6
+		randomShip
+			type "FRIGATE_CERBBOSTON"
+			weight 3
+		randomShip
+			type "FRIGATE_CERBGAZA"
+			weight 4
+		randomShip
+			type "CRUISER_CERBELBRUS"
+			weight 5
+		randomShip
+			type "CRUISER_CERBMINERVA"
+			weight 1
+		randomShip
+			type "CRUISER_CERBARCADIA"
+			weight 5
+		randomShip
+			type "CARRIER_CERBARKROYAL"
+			weight 3
+	spawnShips
+		minFleetPoints 650.000000
+		maxFleetPoints 650.000000
+		requiredShipCount 0
+		randomShipCount 6
+		randomShip
+			type "FRIGATE_CERBBOSTON"
+			weight 3
+		randomShip
+			type "FRIGATE_CERBGAZA"
+			weight 3
+		randomShip
+			type "CRUISER_CERBELBRUS"
+			weight 4
+		randomShip
+			type "CRUISER_CERBMINERVA"
+			weight 2
+		randomShip
+			type "CRUISER_CERBARCADIA"
+			weight 6
+		randomShip
+			type "CARRIER_CERBARKROYAL"
+			weight 3
+	spawnShipsArrivalDelayTime 15.000000
+	spawnShipsHyperspaceSpawnType "FleetBeacon"
+	shouldAdoptFirstSpawnersMinorFactionState FALSE
+	spawnShipsMinStartingHullPerc 1.000000
+	spawnShipsMaxStartingHullPerc 1.000000
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "AllOnDelayInstantActionsDone"

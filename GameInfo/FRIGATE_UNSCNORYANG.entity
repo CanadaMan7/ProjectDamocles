@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193  
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -17,7 +17,7 @@ picture "PICTURE_FRIGATE_UNSCNORYANG"
 NameStringID "CAPITALSHIP_UNSCNORYANG_NAME"
 DescriptionStringID "CAPITALSHIP_UNSCNORYANG_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NORYANG"
-basePrice  
+basePrice
 	credits 735.000000
 	metal 150.000000
 	crystal 40.000000
@@ -32,9 +32,9 @@ ShieldPointRestoreRate 0.000000
 BaseArmorPoints 4.000000
 maxMitigation 0.000000
 relationshipChangeRate 0.000000
-Prerequisites  
+Prerequisites
 	NumResearchPrerequisites 2
-	ResearchPrerequisite  
+	ResearchPrerequisite
 		Subject "RESEARCH_UNSCMANUFACTORY_NORYANG"
 		Level 1
 	ResearchPrerequisite
@@ -51,9 +51,9 @@ smallHudIcon "MAINVIEWICON_FRIGATE_UNSCNORYANG"
 infoCardIcon "MAINVIEWICON_FRIGATE_UNSCNORYANG"
 minZoomDistanceMult 1.500000
 NumWeapons 4
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIMEDIUM"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -71,28 +71,28 @@ Weapon
 	TravelSpeed 10000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.450000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCMAC_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCMAC_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_UNSC_MAC_MUZZLELIGHT"
 			sound "WEAPON_UNSC_MAC_MUZZLELIGHT_ALT1"
 		hitEffectName "Weapon_UNSCMAC_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_UNSCMAC_Travel"
-Weapon  
+Weapon
 	WeaponType "Missile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIMEDIUM"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -103,39 +103,39 @@ Weapon
 	DamagePerBank:LEFT 58.500000
 	DamagePerBank:RIGHT 58.500000
 	Range 18000.000000
-	PreBuffCooldownTime 9.00000
+	PreBuffCooldownTime 9.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.070000
 	TravelSpeed 2000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Missile"
 		burstCount 1
 		burstDelay 0.600000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCHeavyArcherMissile_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCHeavyArcherMissile_Muzzle"
 		muzzleSoundMinRespawnTime 0.500000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 3
 			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
 			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
 			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
 		hitEffectName "Weapon_UNSCHeavyArcherMissile_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
 		missileTravelEffectName "Weapon_UNSCHeavyArcherMissile_Travel"
 		missileStartTurningDistance 250.000000
 		missileSlowTurnRate 1.000000
 		missileMaxSlowTurnTime 0.750000
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIVERYLIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -153,28 +153,28 @@ Weapon
 	TravelSpeed 6000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 6
 		burstDelay 0.100000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCAAA_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCAAA_Muzzle"
 		muzzleSoundMinRespawnTime 10.000000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE"
 			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE_ALT1"
 		hitEffectName "Weapon_UNSCAAA_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		projectileTravelEffectName "Weapon_UNSCAAA_Travel"
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIMEDIUM"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -188,27 +188,27 @@ Weapon
 	PreBuffCooldownTime 5.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
-	PointStaggerDelay 0.30000
+	PointStaggerDelay 0.300000
 	TravelSpeed 6000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 3
 		burstDelay 1.000000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCCoilgun_Muzzle"
-		muzzleSoundMinRespawnTime 0.10000
-		muzzleSounds  
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCCoilgun_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
 			soundCount 3
 			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE"
 			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE_ALT1"
 			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE_ALT2"
 		hitEffectName "Weapon_UNSCDeckGun_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_UNSCDeckGun_Travel"
@@ -223,14 +223,15 @@ hasWeaponLevels FALSE
 mass 10000.000000
 ShieldMeshName "CAPITALSHIP_UNSCNORYANG_SHIELD"
 renderShield TRUE
-maxAccelerationLinear 235.0000
-maxAccelerationStrafe 50.0000
-maxDecelerationLinear 1000.0000
-maxAccelerationAngular 2.2000
-maxDecelerationAngular 10.0000
+maxAccelerationLinear 235.000000
+maxAccelerationStrafe 50.000000
+maxDecelerationLinear 1000.000000
+maxAccelerationAngular 2.200000
+maxDecelerationAngular 9.999998
 maxSpeedLinear 700.000000
 maxRollRate 2.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 "SQUAD_UNSCLONGSWORDCOMBAT"
 squadAntiMatterCost:0 3.000000
 squadTypeEntityDef:1 ""
@@ -257,15 +258,13 @@ SoundID "FRIGATE_UNSCATHENS_ONSELECTED_2"
 NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "FRIGATE_UNSCATHENS_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
-MeshNameInfo  
+MeshNameInfo
 	meshName "CAPITALSHIP_UNSCNORYANG"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName "EXHAUST_FRIGATE_UNSCNORYANG"
 ExplosionName "UNSC_Frig_Small"
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_UNSCCAPITALSHIP"
 ability:0 "AbilityUNSCNoryangRepair"
 ability:1 ""

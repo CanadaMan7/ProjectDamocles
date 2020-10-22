@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "SpaceMine"
 ability:0 "AbilityUNSCSpaceMineDetonate"
 ability:1 "AbilityUNSCMineSpy"
@@ -32,11 +33,11 @@ mass 200.000000
 maxAccelerationLinear 350.000000
 maxAccelerationStrafe 125.000000
 maxDecelerationLinear 1000.000000
-maxAccelerationAngular 75.000000
-maxDecelerationAngular 150.000000
+maxAccelerationAngular 74.999985
+maxDecelerationAngular 149.999969
 maxSpeedLinear 1600.000000
 maxRollRate 2.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
 NumSoundsFor:ONATTACKORDERISSUED 0
 NumSoundsFor:ONCREATION 0
 NumSoundsFor:ONGENERALORDERISSUED 0

@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "StarBaseUpgrade"
 stageCount 2
 stage
@@ -36,6 +37,6 @@ stage
 	upgradePropertyCount 1
 	upgradeProperty
 		propertyType "BaseTradeIncomeRate"
-		value 2.50000
+		value 2.500000
 	upgradeBoolPropertyCount 0
-xpModifier 2.0000000
+xpModifier 2.000000

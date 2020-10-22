@@ -1,0 +1,48 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_Cerb_AeolusReserveSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget FALSE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 4
+levelSourceType "TitanUpgradeLevel"
+sourcePropertyType "AbilityBLevel"
+aiUseTime "OnlyWhenEnemyFleetWillPrevail"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 300.000000
+	Level:1 250.000000
+	Level:2 200.000000
+	Level:3 150.000000
+cooldownTime
+	Level:0 300.000000
+	Level:1 270.000000
+	Level:2 240.000000
+	Level:3 210.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_CERB_AEOLUSRESERVE_NAME"
+descStringID "IDS_ABILITY_CERB_AEOLUSRESERVE_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_INSTANTBUILDFIGHTERS"
+smallHudIcon "HUDICON_ABILITY_INSTANTBUILDFIGHTERS"
+infoCardIcon ""

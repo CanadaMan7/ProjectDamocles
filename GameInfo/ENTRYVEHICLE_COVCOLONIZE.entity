@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "EntryVehicle"
 AtmosphereEntryEffectName "AtmosphereEnter"
 HasSurfaceImpactEffect FALSE
@@ -10,10 +11,10 @@ maxAccelerationLinear 100.000000
 maxAccelerationStrafe 10.000000
 maxDecelerationLinear 500.000000
 maxAccelerationAngular 1.000000
-maxDecelerationAngular 9.999998
+maxDecelerationAngular 9.999996
 maxSpeedLinear 600.000000
 maxRollRate 2.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
 MeshName "EFFECTSHIP_COVPHANTOM"
 ExhaustParticleSystemName "ExhaustSmall"
 ExhaustTrailTextureName "ExhaustTrail"

@@ -1,4 +1,4 @@
-TXT2
+﻿TXT2
 SinsArchiveVersion 194
 entityType "CapitalShip"
 ability:0 "Ability_Reap_VanguardYouCannotEscape"
@@ -27,21 +27,21 @@ bombEffectsDef
 	fireDelay 0.000000
 	muzzleEffectName "Weapon_ComposerBomb_Muzzle"
 	muzzleSoundMinRespawnTime 0.100000
-	muzzleSounds  
+	muzzleSounds
 		soundCount 1
 		sound ""
 	hitEffectName "Weapon_ComposerBomb_Hit"
-	hitHullEffectSounds  
+	hitHullEffectSounds
 		soundCount 1
 		sound ""
-	hitShieldsEffectSounds  
+	hitShieldsEffectSounds
 		soundCount 1
 		sound ""
-	beamEffectSounds  
+	beamEffectSounds
 		soundCount 1
 		sound "WEAPON_PHASEPLANETBOMB_LOOP"
-		beamGlowTextureName "PhaseCapitalBombingBeam_Glow"
-		beamCoreTextureName "PhaseCapitalBombingBeam_Core"
+	beamGlowTextureName "PhaseCapitalBombingBeam_Glow"
+	beamCoreTextureName "PhaseCapitalBombingBeam_Core"
 	beamWidth 75.000000
 	beamGlowColor ffffffff
 	beamCoreColor ffffffff
@@ -160,7 +160,7 @@ maxAccelerationLinear 70.000000
 maxAccelerationStrafe 10.000000
 maxDecelerationLinear 850.000000
 maxAccelerationAngular 0.500000
-maxDecelerationAngular 9.999998
+maxDecelerationAngular 9.999996
 maxSpeedLinear 700.000000
 maxRollRate 6.000000
 maxRollAngle 34.999996

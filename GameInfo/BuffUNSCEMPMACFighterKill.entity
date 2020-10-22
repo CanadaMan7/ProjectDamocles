@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -27,4 +28,3 @@ entityBoolModifier "DisableLinearEngines"
 numFinishConditions 1
 finishCondition
 	finishConditionType "AllOnDelayInstantActionsDone"
-	

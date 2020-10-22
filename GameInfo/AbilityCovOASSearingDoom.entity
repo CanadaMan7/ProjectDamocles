@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "ApplyBuffToTargetWithTravel"
 instantActionTriggerType "AlwaysPerform"
@@ -52,7 +52,7 @@ weaponEffectsDef
 		sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
 	missileTravelEffectName "Weapon_CovPTorpOAS_Travel"
 	missileStartTurningDistance 100.000000
-	missileSlowTurnRate 2.0
+	missileSlowTurnRate 2.000000
 	missileMaxSlowTurnTime 12.000000
 needsToFaceTarget FALSE
 canCollideWithTarget TRUE

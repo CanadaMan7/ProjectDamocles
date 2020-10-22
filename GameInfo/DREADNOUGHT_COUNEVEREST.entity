@@ -1,4 +1,4 @@
-TXT2
+﻿TXT2
 SinsArchiveVersion 194
 entityType "CapitalShip"
 ability:0 "Ability_Alli_EverestDisruptorAmmo"
@@ -67,9 +67,9 @@ smallHudIcon "HUDICONSMALL_DREADNOUGHT_ALLIEVEREST"
 infoCardIcon "MAINVIEWICON_DREADNOUGHT_COUNEVEREST"
 minZoomDistanceMult 1.800000
 NumWeapons 3
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -87,28 +87,28 @@ Weapon
 	TravelSpeed 4500.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 1.000000
-			fireDelay 0.000000
+		fireDelay 0.000000
 		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_UNSC_MAC_MUZZLELIGHT"
 			sound "WEAPON_UNSC_MAC_MUZZLELIGHT_ALT1"
 		hitEffectName "Weapon_UNSCMAC_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIVERYHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -126,29 +126,29 @@ Weapon
 	TravelSpeed 3000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 2
-		burstDelay 1.0000000
-			fireDelay 0.000000
+		burstDelay 1.000000
+		fireDelay 0.000000
 		muzzleEffectName "Weapon_UNSCCoilgun_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 3
 			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE"
 			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE_ALT1"
 			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE_ALT2"
 		hitEffectName "Weapon_UNSCDeckGun_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIMEDIUM"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -166,22 +166,22 @@ Weapon
 	TravelSpeed 6000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.340000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCAAA_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCAAA_Muzzle"
 		muzzleSoundMinRespawnTime 10.000000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE"
 			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE_ALT1"
 		hitEffectName "Weapon_UNSCAAA_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		projectileTravelEffectName "Weapon_UNSCAAA_Travel"
@@ -199,10 +199,10 @@ maxAccelerationLinear 100.000000
 maxAccelerationStrafe 10.000000
 maxDecelerationLinear 800.000000
 maxAccelerationAngular 1.000000
-maxDecelerationAngular 10.000000
+maxDecelerationAngular 9.999998
 maxSpeedLinear 600.000000
 maxRollRate 2.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
 useCustomHyperspaceEffects TRUE
 effects
 	chargeUpEffectName "SlipspaceChargeUpUNSCCap"

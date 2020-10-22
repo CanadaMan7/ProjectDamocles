@@ -1,19 +1,20 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "ApplyBuffToLocalOrbitBody"
 instantActionTriggerType "AlwaysPerform"
 buffType "BuffCovAIDriverSpawn"
-	targetFilter
+targetFilter
 	numOwnerships 4
 	ownership "Enemy"
 	ownership "Friendly"
 	ownership "NoOwner"
 	ownership "AlliedOrEnemy"
-		numObjects 1
-		object "Planet"
-		numSpaces 1
-		space "Normal"
-		numConstraints 0
+	numObjects 1
+	object "Planet"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
 effectInfo
 	effectAttachInfo
 		attachType "Invalid"

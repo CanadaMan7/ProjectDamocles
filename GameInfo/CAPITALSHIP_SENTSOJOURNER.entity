@@ -1,4 +1,5 @@
-TXT  
+﻿TXT2
+SinsArchiveVersion 194
 entityType "CapitalShip"
 ability:0 ""
 ability:1 ""
@@ -19,68 +20,68 @@ baseRange 3000.000000
 bombTransitTime 24.000000
 bombEffectCount 3
 bombEffectAngleVariance 15.000000
-bombEffectsDef  
+bombEffectsDef
 	weaponType "Projectile"
 	burstCount 3
 	burstDelay 2.000000
-		fireDelay 1.000000
+	fireDelay 1.000000
 	muzzleEffectName "Weapon_UNSCPlanetInvasion_Muzzle"
 	muzzleSoundMinRespawnTime 0.100000
-	muzzleSounds  
+	muzzleSounds
 		soundCount 1
 		sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
 	hitEffectName "Weapon_UNSCPlanetInvasion_Hit"
-	hitHullEffectSounds  
+	hitHullEffectSounds
 		soundCount 3
 		sound "EXPLOSION_SUB4"
 		sound "EXPLOSION_SUB4_ALT1"
 		sound "EXPLOSION_SUB4_ALT2"
-	hitShieldsEffectSounds  
+	hitShieldsEffectSounds
 		soundCount 3
 		sound "EXPLOSION_SUB4"
 		sound "EXPLOSION_SUB4_ALT1"
 		sound "EXPLOSION_SUB4_ALT2"
 	projectileTravelEffectName "Weapon_CovPlanetInvasion_Travel"
 mainViewIcon "MAINVIEWICON_FRIGATE_FOREGUARDIAN"
-basePrice  
+basePrice
 	credits 50000.000000
 	metal 9000.000000
 	crystal 7000.000000
 slotCount 500.000000
 BuildTime 240.000000
-MaxHullPoints  
+MaxHullPoints
 	StartValue 80000.000000
 	ValueIncreasePerLevel 115.000000
-MaxShieldPoints  
+MaxShieldPoints
 	StartValue 100000.000000
 	ValueIncreasePerLevel 558.000000
-HullPointRestoreRate  
+HullPointRestoreRate
 	StartValue 13.330000
 	ValueIncreasePerLevel 0.100000
-ShieldPointRestoreRate  
+ShieldPointRestoreRate
 	StartValue 140.000000
 	ValueIncreasePerLevel 0.000000
-ArmorPointsFromExperience  
+ArmorPointsFromExperience
 	StartValue 7.000000
 	ValueIncreasePerLevel 0.400000
-maxMitigation  
-	StartValue 0.0000
-	ValueIncreasePerLevel 0.00000
+maxMitigation
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.000000
 MaxAntiMatter
 	StartValue 32.000000
 	ValueIncreasePerLevel 16.000000
-AntiMatterRestoreRate  
-	StartValue 0.000
-	ValueIncreasePerLevel 0.0000
-CultureProtectRate  
+AntiMatterRestoreRate
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.000000
+CultureProtectRate
 	StartValue 0.300000
 	ValueIncreasePerLevel 0.050000
 NameStringID "CAPITALSHIP_SENTSOJOURNER_NAME"
 DescriptionStringID "CAPITALSHIP_SENTSOJOURNER_DESCRIPTION"
 picture "PICTURE_CAPITALSHIP_COVCAS"
-Prerequisites  
+Prerequisites
 	NumResearchPrerequisites 1
-	ResearchPrerequisite  
+	ResearchPrerequisite
 		Subject "RESEARCHSUBJECT_SENTCAPITALSHIP_SOJOURNER"
 		Level 1
 	RequiredFactionNameID ""
@@ -96,9 +97,9 @@ smallHudIcon "MAINVIEWICON_FRIGATE_FOREGUARDIAN"
 infoCardIcon "MAINVIEWICON_FRIGATE_FOREGUARDIAN"
 minZoomDistanceMult 1.500000
 NumWeapons 3
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -135,9 +136,9 @@ Weapon
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_PhaseWaveCannon_CapShip_Travel"
-Weapon  
+Weapon
 	WeaponType "Missile"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -176,9 +177,9 @@ Weapon
 		missileStartTurningDistance 250.000000
 		missileSlowTurnRate 1.000000
 		missileMaxSlowTurnTime 0.750000
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -194,14 +195,14 @@ Weapon
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.150000
 	TravelSpeed 6000.000000
-	Duration 0.0000000
+	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 12
 		burstDelay 0.150000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_PsiCapitalLaserHeavy_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PsiCapitalLaserHeavy_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 2
@@ -211,7 +212,7 @@ Weapon
 		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		projectileTravelEffectName "Weapon_TechCapitalLaserLight_Travel"
@@ -225,14 +226,15 @@ canOnlyTargetStructures FALSE
 mass 10000.000000
 ShieldMeshName "FRIGATE_FOREGUARDIAN_SHIELD"
 renderShield TRUE
-maxAccelerationLinear 415.0000
-maxAccelerationStrafe 10.0000
-maxDecelerationLinear 400.0000
-maxAccelerationAngular 5.0000
-maxDecelerationAngular 10.0000
+maxAccelerationLinear 415.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 400.000000
+maxAccelerationAngular 4.999999
+maxDecelerationAngular 9.999998
 maxSpeedLinear 700.000000
 maxRollRate 2.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 "SQUAD_SENTAGGRESSORCOMBAT"
 squadAntiMatterCost:0 3.000000
 squadTypeEntityDef:1 "SQUAD_SENTAGGRESSORBOMBER"
@@ -257,24 +259,22 @@ SoundID "TITAN_COVBATTLESHIP_ONSELECTED_1"
 NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "TITAN_COVBATTLESHIP_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
-MeshNameInfo  
+MeshNameInfo
 	meshName "FRIGATE_FOREGUARDIAN"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName "Exhaust_FrigateForeHeavy"
 ExplosionName "UNSC_Capitalship_Large"
-CommandPoints  
+CommandPoints
 	StartValue 4.000000
 	ValueIncreasePerLevel 0.200000
-weaponCooldownDecreasePerc  
+weaponCooldownDecreasePerc
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.030000
-weaponDamageIncreasePerc  
+weaponDamageIncreasePerc
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.050000
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_FORECAPITALSHIP"
 formationRank 3
 minShadow 0.200000

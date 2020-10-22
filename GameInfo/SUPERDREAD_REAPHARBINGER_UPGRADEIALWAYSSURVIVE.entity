@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "TitanUpgrade"
 stageCount 5
 stage
@@ -28,10 +28,10 @@ stage
 	infoCardIcon ""
 	upgradePropertyCount 4
 	upgradeProperty
-		propertyType "ShieldPointRestoreRate"
+		propertyType "HullPointRestoreRate"
 		value 4.000000
 	upgradeProperty
-		propertyType "HullPointRestoreRate"
+		propertyType "ShieldPointRestoreRate"
 		value 4.000000
 	upgradeProperty
 		propertyType "AntiMatterRestoreRate"
@@ -53,10 +53,10 @@ stage
 	infoCardIcon ""
 	upgradePropertyCount 4
 	upgradeProperty
-		propertyType "ShieldPointRestoreRate"
+		propertyType "HullPointRestoreRate"
 		value 8.000000
 	upgradeProperty
-		propertyType "HullPointRestoreRate"
+		propertyType "ShieldPointRestoreRate"
 		value 8.000000
 	upgradeProperty
 		propertyType "AntiMatterRestoreRate"
@@ -78,10 +78,10 @@ stage
 	infoCardIcon ""
 	upgradePropertyCount 4
 	upgradeProperty
-		propertyType "ShieldPointRestoreRate"
+		propertyType "HullPointRestoreRate"
 		value 12.000000
 	upgradeProperty
-		propertyType "HullPointRestoreRate"
+		propertyType "ShieldPointRestoreRate"
 		value 12.000000
 	upgradeProperty
 		propertyType "AntiMatterRestoreRate"
@@ -103,10 +103,10 @@ stage
 	infoCardIcon ""
 	upgradePropertyCount 4
 	upgradeProperty
-		propertyType "ShieldPointRestoreRate"
+		propertyType "HullPointRestoreRate"
 		value 16.000000
 	upgradeProperty
-		propertyType "HullPointRestoreRate"
+		propertyType "ShieldPointRestoreRate"
 		value 16.000000
 	upgradeProperty
 		propertyType "AntiMatterRestoreRate"

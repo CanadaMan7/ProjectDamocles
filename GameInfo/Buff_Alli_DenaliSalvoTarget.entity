@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -13,10 +13,10 @@ instantAction
 	instantActionTriggerType "OnDelay"
 	delayTime 3.000000
 	damage
-		Level:0 3000.000000
-		Level:1 4000.000000
-		Level:2 5000.000000
-		Level:3 6000.000000
+		Level:0 15000.000000
+		Level:1 17000.000000
+		Level:2 19000.000000
+		Level:3 21000.000000
 	damageAffectType "AFFECTS_ONLY_HULL"
 	damageType "ENERGY"
 	isDamageShared TRUE

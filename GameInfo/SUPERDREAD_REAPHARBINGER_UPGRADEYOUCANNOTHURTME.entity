@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "TitanUpgrade"
 stageCount 5
 stage
@@ -28,10 +28,10 @@ stage
 	infoCardIcon ""
 	upgradePropertyCount 3
 	upgradeProperty
-		propertyType "MaxShieldPoints"
+		propertyType "MaxHullPoints"
 		value 3000.000000
 	upgradeProperty
-		propertyType "MaxHullPoints"
+		propertyType "MaxShieldPoints"
 		value 3000.000000
 	upgradeProperty
 		propertyType "BaseArmorPoints"
@@ -50,10 +50,10 @@ stage
 	infoCardIcon ""
 	upgradePropertyCount 3
 	upgradeProperty
-		propertyType "MaxShieldPoints"
+		propertyType "MaxHullPoints"
 		value 6000.000000
 	upgradeProperty
-		propertyType "MaxHullPoints"
+		propertyType "MaxShieldPoints"
 		value 6000.000000
 	upgradeProperty
 		propertyType "BaseArmorPoints"
@@ -72,10 +72,10 @@ stage
 	infoCardIcon ""
 	upgradePropertyCount 3
 	upgradeProperty
-		propertyType "MaxShieldPoints"
+		propertyType "MaxHullPoints"
 		value 9000.000000
 	upgradeProperty
-		propertyType "MaxHullPoints"
+		propertyType "MaxShieldPoints"
 		value 9000.000000
 	upgradeProperty
 		propertyType "BaseArmorPoints"
@@ -94,10 +94,10 @@ stage
 	infoCardIcon ""
 	upgradePropertyCount 3
 	upgradeProperty
-		propertyType "MaxShieldPoints"
+		propertyType "MaxHullPoints"
 		value 12000.000000
 	upgradeProperty
-		propertyType "MaxHullPoints"
+		propertyType "MaxShieldPoints"
 		value 12000.000000
 	upgradeProperty
 		propertyType "BaseArmorPoints"

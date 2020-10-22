@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "StarBaseUpgrade"
 stageCount 4
 stage
@@ -81,4 +82,4 @@ stage
 		propertyType "WeaponDamage"
 		value 0.100000
 	upgradeBoolPropertyCount 0
-xpModifier 25.0000000
+xpModifier 25.000000

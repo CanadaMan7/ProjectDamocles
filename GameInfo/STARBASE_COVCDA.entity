@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "StarBase"
 ability:0 "AbilityCovCDARepair"
 ability:1 "AbilityCovBuy16AntimatterCDA"
@@ -105,7 +106,7 @@ Weapon
 			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
 		missileTravelEffectName "Weapon_CovPTorpLight_Travel"
 		missileStartTurningDistance 1000.000000
-		missileSlowTurnRate 2.0
+		missileSlowTurnRate 2.000000
 		missileMaxSlowTurnTime 12.000000
 Weapon
 	WeaponType "Beam"
@@ -265,10 +266,9 @@ maxAccelerationLinear 40.000000
 maxAccelerationStrafe 100.000000
 maxDecelerationLinear 1000.000000
 maxAccelerationAngular 1.000000
-maxDecelerationAngular 10.000000
+maxDecelerationAngular 9.999998
 maxSpeedLinear 400.000000
 maxRollRate 1.000000
 maxRollAngle 15.000000
+useCustomHyperspaceEffects FALSE
 mass 9500.000000
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"

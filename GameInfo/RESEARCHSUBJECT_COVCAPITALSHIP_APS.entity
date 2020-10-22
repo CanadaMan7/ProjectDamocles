@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHCOV_APS"
 smallHudIcon "HUDICON_RESEARCHCOV_APS"
@@ -17,8 +18,8 @@ Prerequisites
 	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COVTHEL"
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 80
-PerLevelUpgradeTime 0
+BaseUpgradeTime 80.000000
+PerLevelUpgradeTime 0.000000
 BaseCost
 	credits 2000.000000
 	metal 0.000000

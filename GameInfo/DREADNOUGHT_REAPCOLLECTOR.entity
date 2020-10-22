@@ -1,4 +1,4 @@
-TXT2
+﻿TXT2
 SinsArchiveVersion 194
 entityType "CapitalShip"
 ability:0 "AbilityUNSCCapitalShipColonize"
@@ -27,21 +27,21 @@ bombEffectsDef
 	fireDelay 0.000000
 	muzzleEffectName "Weapon_ComposerBomb_Muzzle"
 	muzzleSoundMinRespawnTime 0.100000
-	muzzleSounds  
+	muzzleSounds
 		soundCount 1
 		sound ""
 	hitEffectName "Weapon_ComposerBomb_Hit"
-	hitHullEffectSounds  
+	hitHullEffectSounds
 		soundCount 1
 		sound ""
-	hitShieldsEffectSounds  
+	hitShieldsEffectSounds
 		soundCount 1
 		sound ""
-	beamEffectSounds  
+	beamEffectSounds
 		soundCount 1
 		sound "WEAPON_PHASEPLANETBOMB_LOOP"
-		beamGlowTextureName "PhaseCapitalBeam_Glow"
-		beamCoreTextureName "PhaseCapitalBeam_Core_Medium"
+	beamGlowTextureName "PhaseCapitalBeam_Glow"
+	beamCoreTextureName "PhaseCapitalBeam_Core_Medium"
 	beamWidth 50.000000
 	beamGlowColor ffffffff
 	beamCoreColor ffffffff
@@ -163,10 +163,10 @@ maxAccelerationLinear 100.000000
 maxAccelerationStrafe 10.000000
 maxDecelerationLinear 900.000000
 maxAccelerationAngular 1.000000
-maxDecelerationAngular 10.000000
+maxDecelerationAngular 9.999998
 maxSpeedLinear 650.000000
 maxRollRate 2.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
 useCustomHyperspaceEffects TRUE
 effects
 	chargeUpEffectName "FTL_CHARGEUP_BLANK"

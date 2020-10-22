@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "ColonizePlanet"
 instantActionTriggerType "AlwaysPerform"

@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "RESEARCHBUTTON_UNSC_THEUNCENEEDSYOU"
 smallHudIcon "RESEARCHBUTTON_UNSC_THEUNCENEEDSYOU"
@@ -36,7 +37,7 @@ researchModifier
 	perLevelValue 0.025000
 researchModifier
 	modifierType "ShipMaxSlots"
-	baseValue 100.00000
+	baseValue 100.000000
 	perLevelValue 100.000000
 researchModifier
 	modifierType "IncomePercLost"

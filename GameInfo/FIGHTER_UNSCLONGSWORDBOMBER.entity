@@ -1,4 +1,5 @@
-TXT 
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Fighter"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -23,18 +24,18 @@ maxDecelerationLinear 800.000000
 maxAccelerationAngular 30.000000
 maxDecelerationAngular 60.000000
 maxSpeedLinear 1750.000000
-maxRollRate 10.000000
-maxRollAngle 80.000000
+maxRollRate 9.999998
+maxRollAngle 79.999985
 NumWeapons 2
-Weapon 
+Weapon
 	WeaponType "Missile"
-	damageEnums 
+	damageEnums
 		AttackType "ANTIVERYHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
 		WeaponClassType "MISSILE"
-	DamagePerBank:FRONT 300.00000
+	DamagePerBank:FRONT 300.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
@@ -46,31 +47,31 @@ Weapon
 	TravelSpeed 1850.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects 
+	WeaponEffects
 		weaponType "Missile"
 		burstCount 1
 		burstDelay 0.000000
 		fireDelay 0.000000
 		muzzleEffectName "FighterWeapon_UNSCMuzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds 
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_TECHSUPPORTMISSILELIGHT_MUZZLE"
 			sound "WEAPON_TECHSUPPORTMISSILELIGHT_MUZZLE_ALT1"
 		hitEffectName "FighterWeapon_UNSCMissileHit"
-		hitHullEffectSounds 
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_MISSILELIGHT_HITGENERIC"
-		hitShieldsEffectSounds 
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_MISSILELIGHT_HITGENERIC"
 		missileTravelEffectName "FighterWeapon_UNSCMissile"
 		missileStartTurningDistance 10.000000
 		missileSlowTurnRate 3.141593
 		missileMaxSlowTurnTime 1.000000
-Weapon 
+Weapon
 	WeaponType "Projectile"
-	damageEnums 
+	damageEnums
 		AttackType "ANTILIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -88,23 +89,23 @@ Weapon
 	TravelSpeed 4000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects 
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 6
 		burstDelay 0.150000
 		fireDelay 0.000000
 		muzzleEffectName "FighterWeapon_UNSCMuzzle"
 		muzzleSoundMinRespawnTime 1.000000
-		muzzleSounds 
+		muzzleSounds
 			soundCount 3
 			sound "WEAPON_TECHSUPPORTAUTOCANNONLIGHT_MUZZLE"
 			sound "WEAPON_TECHSUPPORTAUTOCANNONLIGHT_MUZZLE_ALT1"
 			sound "WEAPON_TECHSUPPORTAUTOCANNONLIGHT_MUZZLE_ALT2"
 		hitEffectName ""
-		hitHullEffectSounds 
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
-		hitShieldsEffectSounds 
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		projectileTravelEffectName "FighterWeapon_UNSCCanon"
@@ -119,7 +120,7 @@ meshName "FIGHTER_UNSCLONGSWORDBOMBER"
 exhaustParticleSystemName "Exhaust_UNSCLongsword_Bomber"
 ExplosionName "UNSC_Fighter"
 exhaustTrailTextureName "Black-da.dds"
-exhaustTrailWidth 0.0000001
+exhaustTrailWidth 0.000000
 engineSoundID "ENGINE_UNSCSUPPORTSHIP"
 maxHullPoints 200.000000
 hullPointRestoreRate 0.750000

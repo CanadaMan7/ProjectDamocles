@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHPLACEHOLDER"
 smallHudIcon "HUDICON_RESEARCHPLACEHOLDER"
@@ -33,7 +34,7 @@ researchFloatModifiers 1
 researchModifier
 	modifierType "CapitalShipAngularThrustAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.035000	
+	perLevelValue 0.035000
 artifactPicture ""
 uniqueOverlayBrush ""
 dlcId 204880

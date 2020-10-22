@@ -1,4 +1,5 @@
-TXT 
+﻿TXT2
+SinsArchiveVersion 194
 entityType "PlanetModuleHangarDefense"
 minZoomDistanceMult 2.000000
 ability:0 "AbilityCovPatrolTierUnlock_I"
@@ -17,7 +18,7 @@ smallHudIcon "MAINVIEWICON_PLANETMODULE_COVPATROLSTATION"
 infoCardIcon "MAINVIEWICON_PLANETMODULE_COVPATROLSTATION"
 planetUpgradeSlotType "Tactical"
 planetUpgradeSlotCount 15.000000
-basePrice 
+basePrice
 	credits 2000.000000
 	metal 250.000000
 	crystal 125.000000
@@ -25,9 +26,9 @@ NameStringID "PLANETMODULE_COVPATROLSTATION_NAME"
 DescriptionStringID "PLANETMODULE_COVPATROLSTATION_DESCRIPTION"
 planetModuleRoleType "CANNON"
 statCountType "ModulePointDefense"
-Prerequisites 
+Prerequisites
 	NumResearchPrerequisites 1
-	ResearchPrerequisite 
+	ResearchPrerequisite
 		Subject "RESEARCHSUBJECT_COVPLANETMODULEACCESS_PATROLSTATION"
 		Level 1
 	RequiredFactionNameID ""
@@ -60,7 +61,7 @@ NumSoundsFor:ONSELECTED 1
 SoundID "PLANETMODULE_COVPATROLSTATION_ONSELECTION_0"
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
-MeshNameInfo 
+MeshNameInfo
 	meshName "PLANETMODULE_COVPATROLSTATION"
 	criteriaType "None"
 meshNameIncreasedEffectName ""

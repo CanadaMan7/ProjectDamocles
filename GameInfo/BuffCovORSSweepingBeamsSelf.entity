@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -64,28 +65,28 @@ periodicAction
 	weaponEffectImpactOffsetType "RandomMesh"
 	canWeaponEffectHitHull TRUE
 	canWeaponEffectHitShields TRUE
-weaponEffectsDef
-	weaponType "Beam"
-	burstCount 1
-	burstDelay 0.000000
-	fireDelay 2.000000
-	muzzleEffectName "Weapon_CovPL_Muzzle"
-	muzzleSoundMinRespawnTime 0.100000
-	muzzleSounds
-		soundCount 1
-		sound "WEAPON_COVENANTBEAM_MUZZLE"
-	hitEffectName "Weapon_CovPL_Hit"
-	hitHullEffectSounds
-		soundCount 1
-		sound "WEAPONIMPACT_COVENANTBEAM_HIT"
-	hitShieldsEffectSounds
-		soundCount 1
-		sound "WEAPONIMPACT_COVENANTBEAM_HITSHIELDS"
-	beamEffectSounds
-		soundCount 1
-		sound "WEAPON_TECHCAPITALBEAMHEAVY_TRAVEL"
-	beamGlowTextureName "WeaponCov_EnergyProjector"
-	beamCoreTextureName "WeaponCov_EnergyProjector"
+	weaponEffectsDef
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 2.000000
+		muzzleEffectName "Weapon_CovPL_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_COVENANTBEAM_MUZZLE"
+		hitEffectName "Weapon_CovPL_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_COVENANTBEAM_HIT"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_COVENANTBEAM_HITSHIELDS"
+		beamEffectSounds
+			soundCount 1
+			sound "WEAPON_TECHCAPITALBEAMHEAVY_TRAVEL"
+		beamGlowTextureName "WeaponCov_EnergyProjector"
+		beamCoreTextureName "WeaponCov_EnergyProjector"
 		beamWidth 5.000000
 		beamGlowColor ffff9eac
 		beamCoreColor ffff1437

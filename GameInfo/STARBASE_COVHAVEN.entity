@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "StarBase"
 ability:0 "AbilityCovResupply"
 ability:1 "AbilityCovGateStarBase"
@@ -18,9 +19,9 @@ smallHudIcon "HUDICONSMALL_STARBASE_COVHAVEN"
 infoCardIcon "HUDICONSMALL_STARBASE_COVHAVEN"
 minZoomDistanceMult 1.800000
 NumWeapons 4
-Weapon  
+Weapon
 	WeaponType "Beam"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -43,8 +44,8 @@ Weapon
 		weaponType "Beam"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 2.000000
-	muzzleEffectName "Weapon_CovEP_Muzzle"
+		fireDelay 2.000000
+		muzzleEffectName "Weapon_CovEP_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 1
@@ -59,15 +60,15 @@ Weapon
 		beamEffectSounds
 			soundCount 1
 			sound "WEAPON_TECHCAPITALBEAMHEAVY_TRAVEL"
-	beamGlowTextureName "Weapon_CovEP"
-	beamCoreTextureName "Weapon_CovEP"
+		beamGlowTextureName "Weapon_CovEP"
+		beamCoreTextureName "Weapon_CovEP"
 		beamWidth 10.000000
 		beamGlowColor ffffffff
 		beamCoreColor ffffffff
 		beamTilingRate 3.000000
-Weapon  
+Weapon
 	WeaponType "Missile"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -86,31 +87,31 @@ Weapon
 	Duration 0.000000
 	fireConstraintType "StarBaseUpgradeLevel"
 	requiredStarBaseWeaponLevel 1
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Missile"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_CovPtorpHeavy_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CovPtorpHeavy_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE"
 			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE_ALT1"
 		hitEffectName "Weapon_CovPtorpHeavy_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
 		missileTravelEffectName "Weapon_CovPTorpHeavy_Travel"
 		missileStartTurningDistance 100.000000
 		missileSlowTurnRate 0.708997
 		missileMaxSlowTurnTime 12.000000
-Weapon  
+Weapon
 	WeaponType "Beam"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIVERYLIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -118,15 +119,15 @@ Weapon
 		WeaponClassType "LASERTECH"
 	DamagePerBank:FRONT 30.000000
 	DamagePerBank:BACK 0.000000
-	DamagePerBank:LEFT 30.00000
+	DamagePerBank:LEFT 30.000000
 	DamagePerBank:RIGHT 30.000000
 	Range 5500.000000
 	PreBuffCooldownTime 4.000000
 	CanFireAtFighter TRUE
 	SynchronizedTargeting FALSE
-	PointStaggerDelay 0.25000
+	PointStaggerDelay 0.250000
 	TravelSpeed 0.000000
-	Duration 0.5000000
+	Duration 0.500000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Beam"
@@ -143,7 +144,7 @@ Weapon
 		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		beamEffectSounds
@@ -155,9 +156,9 @@ Weapon
 		beamGlowColor ffff80ff
 		beamCoreColor ffff80ff
 		beamTilingRate 3.000000
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -173,14 +174,14 @@ Weapon
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.000000
 	TravelSpeed 0.000000
-	Duration 0.5000000
+	Duration 0.500000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 6
 		burstDelay 0.500000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_PlasmaTorp_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PlasmaTorp_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 2
@@ -190,7 +191,7 @@ Weapon
 		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		projectileTravelEffectName "Weapon_CovPCannon_Travel"
@@ -267,10 +268,9 @@ maxAccelerationLinear 60.000000
 maxAccelerationStrafe 6.000000
 maxDecelerationLinear 700.000000
 maxAccelerationAngular 0.700000
-maxDecelerationAngular 11.999996
+maxDecelerationAngular 11.999994
 maxSpeedLinear 1000.000000
 maxRollRate 1.000000
 maxRollAngle 15.000000
+useCustomHyperspaceEffects FALSE
 mass 9500.000000
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"

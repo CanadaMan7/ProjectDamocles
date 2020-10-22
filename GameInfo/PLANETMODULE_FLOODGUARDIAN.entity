@@ -1,4 +1,5 @@
-TXT 
+﻿TXT2
+SinsArchiveVersion 194
 entityType "PlanetModuleWeaponDefense"
 minZoomDistanceMult 2.000000
 ability:0 "AbilityFloodEffect"
@@ -16,8 +17,8 @@ hudIcon "HUDICON_PLANETMODULE_UNSCSMAC"
 smallHudIcon "MAINVIEWICON_FRIGATE_FOREGUARDIAN"
 infoCardIcon "MAINVIEWICON_FRIGATE_FOREGUARDIAN"
 planetUpgradeSlotType "Tactical"
-planetUpgradeSlotCount 1.0000000
-basePrice 
+planetUpgradeSlotCount 1.000000
+basePrice
 	credits 900.000000
 	metal 120.000000
 	crystal 55.000000
@@ -25,7 +26,7 @@ NameStringID "FRIGATE_FOREGUARDIAN_NAME"
 DescriptionStringID "FRIGATE_FOREGUARDIAN_NAME"
 planetModuleRoleType "WEAPONDEFENSE"
 statCountType "ModulePointDefense"
-Prerequisites 
+Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
@@ -56,7 +57,7 @@ NumSoundsFor:ONGENERALORDERISSUED 0
 NumSoundsFor:ONSELECTED 0
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
-MeshNameInfo 
+MeshNameInfo
 	meshName "FRIGATE_FOREGUARDIAN"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
@@ -74,9 +75,9 @@ defaultAutoAttackOn TRUE
 prefersToFocusFire FALSE
 usesFighterAttack FALSE
 NumWeapons 2
-Weapon  
+Weapon
 	WeaponType "Beam"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -94,24 +95,24 @@ Weapon
 	TravelSpeed 0.000000
 	Duration 0.250000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Beam"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_PsiCapitalBeamHeavy_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PsiCapitalBeamHeavy_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 1
 			sound ""
 		hitEffectName "Weapon_PsiCapitalBeamHeavy_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound ""
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound ""
-		beamEffectSounds  
+		beamEffectSounds
 			soundCount 1
 			sound "WEAPON_PSICAPITALBEAMHEAVY_TRAVEL"
 		beamGlowTextureName "PsiCapitalBeam_Glow"
@@ -120,9 +121,9 @@ Weapon
 		beamGlowColor ffffffff
 		beamCoreColor ffffffff
 		beamTilingRate 3.000000
-Weapon  
+Weapon
 	WeaponType "Beam"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -140,24 +141,24 @@ Weapon
 	TravelSpeed 0.000000
 	Duration 0.250000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Beam"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_PsiCapitalBeamHeavy_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PsiCapitalBeamHeavy_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 1
 			sound ""
 		hitEffectName "Weapon_PsiCapitalBeamHeavy_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound ""
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound ""
-		beamEffectSounds  
+		beamEffectSounds
 			soundCount 1
 			sound "WEAPON_PSICAPITALBEAMHEAVY_TRAVEL"
 		beamGlowTextureName "PsiCapitalBeam_Glow"

@@ -1,0 +1,117 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 3
+instantAction
+	buffInstantActionType "SpawnResourceExtractors"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	numExtractors
+		Level:0 3.000000
+		Level:1 4.000000
+		Level:2 5.000000
+		Level:3 6.000000
+instantAction
+	buffInstantActionType "AddPopulationToPlanet"
+	instantActionTriggerType "AlwaysPerform"
+	populationAdded
+		Level:0 20.000000
+		Level:1 30.000000
+		Level:2 40.000000
+		Level:3 50.000000
+instantAction
+	buffInstantActionType "PlayAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID "SUPERDREAC_CERBARK_ABILITYVOICE1"
+numPeriodicActions 1
+periodicAction
+	actionCountType "Infinite"
+	actionIntervalTime
+		Level:0 2.500000
+		Level:1 2.500000
+		Level:2 2.500000
+		Level:3 2.500000
+	buffInstantActionType "ApplyBuffToTargetsAtOrbitBody"
+	instantActionTriggerType "AlwaysPerform"
+	buffType "Buff_Cerb_ArkColonizeExtractors"
+	targetFilter
+		numOwnerships 1
+		ownership "Player"
+		numObjects 1
+		object "PlanetModule"
+		numSpaces 1
+		space "Normal"
+		numConstraints 1
+		constraint "IsResourceExtractor"
+	maxTargetCount
+		Level:0 -1.000000
+		Level:1 -1.000000
+		Level:2 -1.000000
+		Level:3 -1.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+numOverTimeActions 0
+numEntityModifiers 5
+entityModifier
+	buffEntityModifierType "PlanetPopulationGrowthRate"
+	value
+		Level:0 1.000000
+		Level:1 2.000000
+		Level:2 3.000000
+		Level:3 4.000000
+entityModifier
+	buffEntityModifierType "PlanetMaxPopulation"
+	value
+		Level:0 1.000000
+		Level:1 1.500000
+		Level:2 2.000000
+		Level:3 2.500000
+entityModifier
+	buffEntityModifierType "PlanetUpgradeCost"
+	value
+		Level:0 -0.500000
+		Level:1 -0.600000
+		Level:2 -0.700000
+		Level:3 -0.800000
+entityModifier
+	buffEntityModifierType "PlanetUpgradeBuildRateAdjustment"
+	value
+		Level:0 0.500000
+		Level:1 0.600000
+		Level:2 0.700000
+		Level:3 0.800000
+entityModifier
+	buffEntityModifierType "PlanetModuleBuildTime"
+	value
+		Level:0 -0.200000
+		Level:1 -0.300000
+		Level:2 -0.400000
+		Level:3 -0.500000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 360.000000
+		Level:1 360.000000
+		Level:2 360.000000
+		Level:3 360.000000

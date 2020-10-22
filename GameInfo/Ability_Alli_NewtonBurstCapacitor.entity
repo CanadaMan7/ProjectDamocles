@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "ApplyBuffToTargetWithTravel"
 instantActionTriggerType "AlwaysPerform"
@@ -37,21 +37,21 @@ weaponEffectsDef
 	burstCount 2
 	burstDelay 1.000000
 	fireDelay 0.000000
-		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
-		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds
-			soundCount 3
-			sound "WEAPON_ALLI_SPINALMASSACCMUZZLE1"
-			sound "WEAPON_ALLI_SPINALMASSACCMUZZLE2"
-			sound "WEAPON_ALLI_SPINALMASSACCMUZZLE3"
-		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
-		hitHullEffectSounds
-			soundCount 1
-			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds
-			soundCount 1
-			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
-		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
+	muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 3
+		sound "WEAPON_ALLI_SPINALMASSACCMUZZLE1"
+		sound "WEAPON_ALLI_SPINALMASSACCMUZZLE2"
+		sound "WEAPON_ALLI_SPINALMASSACCMUZZLE3"
+	hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+	hitHullEffectSounds
+		soundCount 1
+		sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+	hitShieldsEffectSounds
+		soundCount 1
+		sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+	projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
 needsToFaceTarget TRUE
 canCollideWithTarget TRUE
 moveThruTarget FALSE

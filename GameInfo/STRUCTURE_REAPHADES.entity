@@ -1,4 +1,4 @@
-﻿ï»¿TXT2
+﻿TXT2
 SinsArchiveVersion 194
 entityType "PlanetModuleWeaponDefense"
 minZoomDistanceMult 2.500000
@@ -45,7 +45,7 @@ nearPlacementDistOffset 0.000000
 farPlacementDistOffset 15000.000000
 spawnCount 1
 swapMineType ""
-angularSpeed 5.000000
+angularSpeed 4.999999
 rotateSoundName ""
 rotateFacingType "None"
 rotateConstantly FALSE

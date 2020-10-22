@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_ABILITY_COVSPEEDBOOST"
 smallHudIcon "HUDICON_ABILITY_SPEEDBOOST"
@@ -33,11 +34,7 @@ researchFloatModifiers 1
 researchModifier
 	modifierType "MassReduction"
 	baseValue 0.000000
-	perLevelValue 0.15
+	perLevelValue 0.150000
 artifactPicture ""
 uniqueOverlayBrush ""
 dlcId 204880
-
-
-
-

@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "Fighter"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -21,10 +21,10 @@ mass 100.000000
 maxAccelerationLinear 420.000000
 maxAccelerationStrafe 120.000000
 maxDecelerationLinear 1000.000000
-maxAccelerationAngular 85.000000
-maxDecelerationAngular 100.000000
+maxAccelerationAngular 84.999985
+maxDecelerationAngular 99.999985
 maxSpeedLinear 2300.000000
-maxRollRate 40.000000
+maxRollRate 39.999992
 maxRollAngle 90.000000
 NumWeapons 2
 Weapon

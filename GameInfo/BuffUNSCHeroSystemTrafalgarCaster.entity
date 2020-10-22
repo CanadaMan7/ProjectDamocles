@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -11,7 +12,7 @@ numInstantActions 4
 instantAction
 	buffInstantActionType "ApplyBuffToSelf"
 	instantActionTriggerType "OnDelay"
-		delayTime 11.000000
+	delayTime 11.000000
 	buffType "BuffUNSCHeroSystemTrafalgarSpawn"
 	effectInfo
 		effectAttachInfo
@@ -23,12 +24,12 @@ instantAction
 instantAction
 	buffInstantActionType "RemoveBuffOfType"
 	instantActionTriggerType "OnDelay"
-		delayTime 11.000000
+	delayTime 11.000000
 	buffTypeToRemove "BuffUNSCHeroSystemONICaster"
 instantAction
 	buffInstantActionType "ApplyBuffToSelf"
 	instantActionTriggerType "OnDelay"
-		delayTime 11.000000
+	delayTime 11.000000
 	buffType "BuffUNSCHeroSystemPoAFrigate1Remove"
 	effectInfo
 		effectAttachInfo
@@ -40,7 +41,7 @@ instantAction
 instantAction
 	buffInstantActionType "ApplyBuffToSelf"
 	instantActionTriggerType "OnDelay"
-		delayTime 11.000000
+	delayTime 11.000000
 	buffType "BuffUNSCHeroSystemSoFEverestRemove"
 	effectInfo
 		effectAttachInfo

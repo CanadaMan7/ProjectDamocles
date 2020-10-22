@@ -1,4 +1,5 @@
-TXT  
+﻿TXT2
+SinsArchiveVersion 194
 entityType "CapitalShip"
 ability:0 "AbilityUNSCSaharaShiva"
 ability:1 "AbilityUNSCSaharaCloak"
@@ -12,43 +13,43 @@ usesFighterAttack FALSE
 autoJoinFleetDefault FALSE
 canBomb FALSE
 mainViewIcon "MAINVIEWICON_CAPITALSHIP_UNSCSAHARA"
-basePrice  
+basePrice
 	credits 2000.000000
 	metal 400.000000
 	crystal 300.000000
 slotCount 30.000000
 BuildTime 60.000000
-MaxHullPoints  
+MaxHullPoints
 	StartValue 900.000000
 	ValueIncreasePerLevel 45.000000
-MaxShieldPoints  
+MaxShieldPoints
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
-HullPointRestoreRate  
+HullPointRestoreRate
 	StartValue 1.440000
-	ValueIncreasePerLevel 0.01500000
-ShieldPointRestoreRate  
+	ValueIncreasePerLevel 0.015000
+ShieldPointRestoreRate
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
-ArmorPointsFromExperience  
+ArmorPointsFromExperience
 	StartValue 3.000000
 	ValueIncreasePerLevel 0.500000
-maxMitigation  
+maxMitigation
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
-MaxAntiMatter  
+MaxAntiMatter
 	StartValue 15.000000
 	ValueIncreasePerLevel 0.000000
-AntiMatterRestoreRate  
+AntiMatterRestoreRate
 	StartValue 0.050000
 	ValueIncreasePerLevel 0.000000
-CultureProtectRate  
+CultureProtectRate
 	StartValue 0.300000
 	ValueIncreasePerLevel 0.050000
 NameStringID "CAPITALSHIP_UNSCSAHARA_NAME"
 DescriptionStringID "CAPITALSHIP_UNSCSAHARA_DESCRIPTION"
 picture "PICTURE_CAPITALSHIP_UNSCSAHARA"
-Prerequisites  
+Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
@@ -63,9 +64,9 @@ smallHudIcon "MAINVIEWICON_CAPITALSHIP_UNSCSAHARA"
 infoCardIcon "MAINVIEWICON_CAPITALSHIP_UNSCSAHARA"
 minZoomDistanceMult 1.500000
 NumWeapons 1
-Weapon  
+Weapon
 	WeaponType "Beam"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIVERYLIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -87,8 +88,8 @@ Weapon
 		weaponType "Beam"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_CovenantBeam_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CovenantBeam_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 1
@@ -103,8 +104,8 @@ Weapon
 		beamEffectSounds
 			soundCount 1
 			sound "WEAPON_TECHCAPITALBEAMHEAVY_TRAVEL"
-	beamGlowTextureName "WeaponCov_EnergyProjector"
-	beamCoreTextureName "WeaponCov_EnergyProjector"
+		beamGlowTextureName "WeaponCov_EnergyProjector"
+		beamCoreTextureName "WeaponCov_EnergyProjector"
 		beamWidth 10.000000
 		beamGlowColor ffff0000
 		beamCoreColor ffffffff
@@ -119,14 +120,15 @@ canOnlyTargetStructures FALSE
 mass 2000.000000
 ShieldMeshName ""
 renderShield TRUE
-maxAccelerationLinear 500.0000
-maxAccelerationStrafe 10.0000
-maxDecelerationLinear 1700.0000
-maxAccelerationAngular 25.0000
-maxDecelerationAngular 25.0000
+maxAccelerationLinear 500.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 1700.000000
+maxAccelerationAngular 24.999996
+maxDecelerationAngular 24.999996
 maxSpeedLinear 1500.000000
-maxRollRate 4.000000
+maxRollRate 3.999999
 maxRollAngle 45.000000
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 ""
@@ -160,24 +162,22 @@ SoundID "CAPITALSHIP_UNSCSAHARAH_ONSELECTED_5"
 NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "CAPITALSHIP_UNSCSAHARAH_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
-MeshNameInfo  
+MeshNameInfo
 	meshName "CAPITALSHIP_UNSCSAHARA"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName "EXHAUST_CAPITALSHIP_UNSCSAHARA"
 ExplosionName "UNSC_Frig_Small"
-CommandPoints  
+CommandPoints
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
-weaponCooldownDecreasePerc  
+weaponCooldownDecreasePerc
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.030000
-weaponDamageIncreasePerc  
+weaponDamageIncreasePerc
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.050000
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_UNSCCAPITALSHIP"
 formationRank 3
 minShadow 0.200000

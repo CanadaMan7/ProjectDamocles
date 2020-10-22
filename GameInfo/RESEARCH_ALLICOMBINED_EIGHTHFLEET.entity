@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_EIGHTFLEETREMNANTS_RESEARCH"
 smallHudIcon "HUDICON_EIGHTFLEETREMNANTS_RESEARCH"
@@ -37,7 +37,7 @@ researchFloatModifiers 5
 researchModifier
 	modifierType "CapitalShipMaxSlots"
 	baseValue 0.000000
-	perLevelValue 1.000000
+	perLevelValue 5.000000
 researchModifier
 	modifierType "ShipMaxSlots"
 	baseValue 0.000000

@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Planet"
 meshInfoCount 1
 meshInfo
@@ -6,7 +7,7 @@ meshInfo
 	asteroidTemplate "Ring"
 	dustCloudTemplate "Dense"
 	meshName "PlanetFlood"
-	cloudColor 00000000
+	cloudColor 0
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
 	hudIcon "MAINVIEWICON_PLANET_SHIELD_WORLD"
@@ -17,7 +18,7 @@ meshInfo
 	picture "PICTURE_PLANET_FLOODWORLD"
 	shouldPrefer FALSE
 minZoomDistanceMult 1.000000
-glowColor 8f888E67
+glowColor 8f888e67
 ringColor ffffffff
 cloudLayerTextureName ""
 planetResourceSetupInfo

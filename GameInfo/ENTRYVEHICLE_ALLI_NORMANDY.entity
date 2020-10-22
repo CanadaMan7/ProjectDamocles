@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "EntryVehicle"
 AtmosphereEntryEffectName "AtmosphereEnter"
 HasSurfaceImpactEffect FALSE
@@ -13,8 +13,8 @@ maxDecelerationLinear 1000.000000
 maxAccelerationAngular 60.000000
 maxDecelerationAngular 90.000000
 maxSpeedLinear 1000.000000
-maxRollRate 39.999992
-maxRollAngle 79.999985
+maxRollRate 39.999985
+maxRollAngle 79.999969
 MeshName "Frigate_AlliNormandySR1"
 ExhaustParticleSystemName ""
 ExhaustTrailTextureName ""

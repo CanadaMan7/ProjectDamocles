@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -19,7 +20,7 @@ instantAction
 		object "Planet"
 		numSpaces 1
 		space "Normal"
-		numConstraints 0	
+		numConstraints 0
 	effectInfo
 		effectAttachInfo
 			attachType "Invalid"

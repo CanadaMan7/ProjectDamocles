@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_COVPOPULATIONCAPTERRANTECH3"
 smallHudIcon "HUDICON_RESEARCHSUBJECT_POPULATIONCAPTERRANTECH0"
@@ -36,27 +37,27 @@ researchFloatModifiers 5
 researchModifier
 	modifierType "PlanetPopulationCapAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.10000
+	perLevelValue 0.100000
 	linkedPlanetType "Terran"
 researchModifier
 	modifierType "PlanetPopulationCapAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.10000
+	perLevelValue 0.100000
 	linkedPlanetType "Ice"
 researchModifier
 	modifierType "PlanetPopulationCapAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.10000
+	perLevelValue 0.100000
 	linkedPlanetType "Volcanic"
 researchModifier
 	modifierType "PlanetPopulationCapAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.10000
+	perLevelValue 0.100000
 	linkedPlanetType "Iron"
 researchModifier
 	modifierType "PlanetPopulationCapAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.10000
+	perLevelValue 0.100000
 	linkedPlanetType "Barren"
 artifactPicture ""
 uniqueOverlayBrush ""

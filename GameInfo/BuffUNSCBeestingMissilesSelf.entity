@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -64,27 +65,27 @@ periodicAction
 	weaponEffectImpactOffsetType "RandomMesh"
 	canWeaponEffectHitHull TRUE
 	canWeaponEffectHitShields TRUE
-weaponEffectsDef
-	weaponType "Missile"
-	burstCount 3
-	burstDelay 0.100000
-	fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCShiva_Muzzle"
-	muzzleSoundMinRespawnTime 0.100000
-	muzzleSounds
-		soundCount 1
-		sound "WEAPON_UNSCTACTICALNUKE_IMPACT"
-	hitEffectName "Weapon_UNSCFalchion_Hit"
-	hitHullEffectSounds
-		soundCount 1
-		sound "WEAPON_UNSCTACTICALNUKE_MUZZLE"
-	hitShieldsEffectSounds
-		soundCount 1
-		sound "WEAPON_UNSCTACTICALNUKE_MUZZLE"
-	missileTravelEffectName "Weapon_UNSCFalchion_Travel"
-	missileStartTurningDistance 300.000000
-	missileSlowTurnRate 1.708997
-	missileMaxSlowTurnTime 6.000000
+	weaponEffectsDef
+		weaponType "Missile"
+		burstCount 3
+		burstDelay 0.100000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCShiva_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_UNSCTACTICALNUKE_IMPACT"
+		hitEffectName "Weapon_UNSCFalchion_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPON_UNSCTACTICALNUKE_MUZZLE"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPON_UNSCTACTICALNUKE_MUZZLE"
+		missileTravelEffectName "Weapon_UNSCFalchion_Travel"
+		missileStartTurningDistance 300.000000
+		missileSlowTurnRate 1.708997
+		missileMaxSlowTurnTime 6.000000
 numOverTimeActions 0
 numEntityModifiers 0
 numEntityBoolModifiers 0

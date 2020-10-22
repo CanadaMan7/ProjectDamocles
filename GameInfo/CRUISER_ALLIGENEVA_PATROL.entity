@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -178,10 +178,11 @@ maxAccelerationLinear 125.000000
 maxAccelerationStrafe 10.000000
 maxDecelerationLinear 800.000000
 maxAccelerationAngular 1.900000
-maxDecelerationAngular 9.999998
+maxDecelerationAngular 9.999996
 maxSpeedLinear 600.000000
 maxRollRate 6.000000
 maxRollAngle 34.999996
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 ""
@@ -228,8 +229,6 @@ meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName ""
 ExplosionName "Frigate0"
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_TECHCAPITALSHIP"
 ability:0 "Ability_Alli_GenevaShieldBoost"
 ability:1 "Ability_Alli_GenevaAPAmmo"

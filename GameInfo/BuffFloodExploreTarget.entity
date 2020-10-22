@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -10,10 +11,10 @@ isChannelling FALSE
 numInstantActions 1
 instantAction
 	buffInstantActionType "Explore"
-		instantActionTriggerType "OnCondition"
-		instantActionConditionType "IfOwnerHasBuff"
-			conditionBuffType "BuffFloodInfectionEffect"
-			conditionBuffShortName "blank"
+	instantActionTriggerType "OnCondition"
+	instantActionConditionType "IfOwnerHasBuff"
+	conditionBuffType "BuffFloodInfectionEffect"
+	conditionBuffShortName "blank"
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0
@@ -21,4 +22,3 @@ numEntityBoolModifiers 0
 numFinishConditions 1
 finishCondition
 	finishConditionType "EnterHyperspace"
-	

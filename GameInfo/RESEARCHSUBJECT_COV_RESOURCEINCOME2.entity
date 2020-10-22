@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_COVMINING3"
 smallHudIcon "HUDICON_RESEARCHSUBJECT_STRUCTUREWORK_RESOURCEEXTRACT2"
@@ -36,11 +37,11 @@ researchFloatModifiers 2
 researchModifier
 	modifierType "ExtractionRateMetalAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.07500000
+	perLevelValue 0.075000
 researchModifier
 	modifierType "ExtractionRateCrystalAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.07500000
+	perLevelValue 0.075000
 artifactPicture ""
 uniqueOverlayBrush ""
 dlcId 204880

@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -25,17 +26,17 @@ numEntityModifiers 2
 entityModifier
 	buffEntityModifierType "LinearMaxSpeed"
 	value
-		Level:0 0.1000000
-		Level:1 0.1000000
-		Level:2 0.1000000
-		Level:3 0.1000000
+		Level:0 0.100000
+		Level:1 0.100000
+		Level:2 0.100000
+		Level:3 0.100000
 entityModifier
 	buffEntityModifierType "ShieldPointRestoreRate"
 	value
-		Level:0 0.0400000
-		Level:1 0.0400000
-		Level:2 0.0400000
-		Level:3 0.0400000
+		Level:0 0.040000
+		Level:1 0.040000
+		Level:2 0.040000
+		Level:3 0.040000
 numEntityBoolModifiers 0
 numFinishConditions 2
 finishCondition

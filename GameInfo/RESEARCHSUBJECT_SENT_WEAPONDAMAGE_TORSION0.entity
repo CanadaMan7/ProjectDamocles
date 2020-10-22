@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHPLACEHOLDER"
 smallHudIcon "HUDICON_RESEARCHPLACEHOLDER"
@@ -33,12 +34,12 @@ researchFloatModifiers 2
 researchModifier
 	modifierType "WeaponRateOfFireAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.0450000
+	perLevelValue 0.045000
 	linkedWeaponClass "WAVE"
 researchModifier
 	modifierType "WeaponDamageAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.0800000
+	perLevelValue 0.080000
 	linkedWeaponClass "WAVE"
 artifactPicture ""
 uniqueOverlayBrush ""

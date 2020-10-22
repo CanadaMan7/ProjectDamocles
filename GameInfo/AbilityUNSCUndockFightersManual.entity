@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "RemoveBuffOfType"
 instantActionTriggerType "AlwaysPerform"
@@ -23,7 +24,7 @@ antiMatterCost
 	Level:2 60.000000
 	Level:3 60.000000
 cooldownTime
-	Level:0 2.5000000
+	Level:0 2.500000
 	Level:1 30.000000
 	Level:2 30.000000
 	Level:3 30.000000

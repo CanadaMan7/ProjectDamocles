@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "ApplyBuffToTarget"
 instantActionTriggerType "AlwaysPerform"
@@ -34,7 +34,7 @@ maxNumLevels 1
 levelSourceType "FixedLevel0"
 aiUseTime "Anytime"
 aiUseTargetCondition "HasBuff"
-	buffType "Buff_Alli_DenaliSalvoBounce"
+buffType "Buff_Alli_DenaliSalvoBounce"
 isAutoCastAvailable TRUE
 isAutoCastOnByDefault TRUE
 pickRandomPlanetToExploreForAutoCastTarget FALSE

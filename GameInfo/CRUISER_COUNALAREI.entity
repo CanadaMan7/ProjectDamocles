@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193  
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -46,9 +46,9 @@ smallHudIcon "MAINVIEWICON_CRUISER_COUNQUARIAN"
 infoCardIcon "MAINVIEWICON_CRUISER_COUNQUARIAN"
 minZoomDistanceMult 1.500000
 NumWeapons 1
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIMEDIUM"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -66,12 +66,12 @@ Weapon
 	TravelSpeed 6000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCAAA_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCAAA_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 6
@@ -104,10 +104,11 @@ maxAccelerationLinear 150.000000
 maxAccelerationStrafe 100.000000
 maxDecelerationLinear 800.000000
 maxAccelerationAngular 3.999999
-maxDecelerationAngular 9.999998
+maxDecelerationAngular 9.999996
 maxSpeedLinear 550.000000
 maxRollRate 6.000000
 maxRollAngle 34.999996
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 ""
@@ -134,15 +135,13 @@ NumSoundsFor:ONSTARTPHASEJUMP 2
 SoundID "CRUISER_COUNALAREI_ONJUMPSTART1"
 SoundID "CRUISER_COUNALAREI_ONJUMPSTART2"
 MeshNameInfoCount 1
-MeshNameInfo  
+MeshNameInfo
 	meshName "Cruiser_CounAlarei"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName ""
 ExplosionName "UNSC_Frig_Small"
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_UNSCCAPITALSHIP"
 ability:0 "Ability_Coun_AlareiLADARJamming"
 ability:1 "Ability_Coun_AlareiSalvageSweep"

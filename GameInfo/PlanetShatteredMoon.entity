@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Planet"
 meshInfoCount 2
 meshInfo
@@ -53,14 +54,14 @@ planetResourceSetupInfo
 	neutralMetalResourceAsteroidSetup
 		minCount 1
 		maxCount 1
-		extractionRate 0.4
-		refineryRate 0.1
+		extractionRate 0.400000
+		refineryRate 0.100000
 		maxRefineryCount 2
 	neutralCrystalResourceAsteroidSetup
 		minCount 0
 		maxCount 1
-		extractionRate 0.4
-		refineryRate 0.1
+		extractionRate 0.400000
+		refineryRate 0.100000
 		maxRefineryCount 2
 isAsteroid TRUE
 healthRegenRate 0.000000

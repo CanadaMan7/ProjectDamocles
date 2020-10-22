@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Squad"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -11,7 +12,7 @@ fighterEntityDef "FIGHTER_UNSCSABRECOMBAT"
 fighterIllusionEntityDef ""
 scuttleTime 12.000000
 fighterConstructionTime 60.000000
-decayWithoutOwnerRate 0.0300000
+decayWithoutOwnerRate 0.030000
 baseMaxNumFighters 1
 role "Combat"
 statCountType "SquadCombat"

@@ -1,4 +1,4 @@
-TXT2
+﻿TXT2
 SinsArchiveVersion 194
 entityType "Titan"
 ability:0 ""
@@ -70,9 +70,9 @@ smallHudIcon "MAINVIEWICON_SUPERDREADNOUGHT_COUNDESTINY"
 infoCardIcon "MAINVIEWICON_SUPERDREADNOUGHT_COUNDESTINY"
 minZoomDistanceMult 1.730000
 NumWeapons 3
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -90,12 +90,12 @@ Weapon
 	TravelSpeed 4000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 1.000000
-			fireDelay 0.000000
-	muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
+		fireDelay 0.000000
+		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 5
@@ -112,9 +112,9 @@ Weapon
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIVERYHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -132,13 +132,13 @@ Weapon
 	TravelSpeed 3000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.340000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
-		muzzleSoundMinRespawnTime 0.10000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 6
 			sound "WEAPON_COUN_ASARIAUXMASSACCMUZZLE1"
@@ -155,9 +155,9 @@ Weapon
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"
-Weapon  
+Weapon
 	WeaponType "Beam"
-	damageEnums  
+	damageEnums
 		AttackType "TITAN"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -214,8 +214,8 @@ renderShield TRUE
 maxAccelerationLinear 100.000000
 maxAccelerationStrafe 30.000000
 maxDecelerationLinear 700.000000
-maxAccelerationAngular 4.000000
-maxDecelerationAngular 10.000000
+maxAccelerationAngular 3.999999
+maxDecelerationAngular 9.999998
 maxSpeedLinear 500.000000
 maxRollRate 1.000000
 maxRollAngle 15.000000

@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "PerPlayer"
@@ -24,6 +25,9 @@ instantAction
 		randomShipCount 0
 	spawnShipsArrivalDelayTime 1.000000
 	spawnShipsHyperspaceSpawnType "FleetBeacon"
+	shouldAdoptFirstSpawnersMinorFactionState TRUE
+	spawnShipsMinStartingHullPerc 1.000000
+	spawnShipsMaxStartingHullPerc 1.000000
 instantAction
 	buffInstantActionType "ApplyBuffToFirstSpawnerNoFilterNoRange"
 	instantActionTriggerType "OnDelay"
@@ -45,6 +49,9 @@ instantAction
 		randomShipCount 0
 	spawnShipsArrivalDelayTime 1.000000
 	spawnShipsHyperspaceSpawnType "FleetBeacon"
+	shouldAdoptFirstSpawnersMinorFactionState TRUE
+	spawnShipsMinStartingHullPerc 1.000000
+	spawnShipsMaxStartingHullPerc 1.000000
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0
@@ -52,7 +59,7 @@ numEntityBoolModifiers 0
 numFinishConditions 1
 finishCondition
 	finishConditionType "TimeElapsed"
-		time
+	time
 		Level:0 10.000000
 		Level:1 372.000000
 		Level:2 22.000000

@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193  
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn FALSE
@@ -17,7 +17,7 @@ picture "PICTURE_FRIGATE_UNSCPHOENIX"
 NameStringID "FRIGATE_UNSCPHOENIX_NAME"
 DescriptionStringID "FRIGATE_UNSCPHOENIX_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_PHOENIX"
-basePrice  
+basePrice
 	credits 750.000000
 	metal 80.000000
 	crystal 40.000000
@@ -46,9 +46,9 @@ smallHudIcon "MAINVIEWICON_FRIGATE_UNSCPHOENIX"
 infoCardIcon "MAINVIEWICON_FRIGATE_UNSCPHOENIX"
 minZoomDistanceMult 1.500000
 NumWeapons 1
-Weapon 
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIVERYLIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -66,22 +66,22 @@ Weapon
 	TravelSpeed 6000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 6
 		burstDelay 0.100000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCAAA_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCAAA_Muzzle"
 		muzzleSoundMinRespawnTime 10.000000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE"
 			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE_ALT1"
 		hitEffectName "Weapon_UNSCAAA_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		projectileTravelEffectName "Weapon_UNSCAAA_Travel"
@@ -96,14 +96,15 @@ hasWeaponLevels FALSE
 mass 2000.000000
 ShieldMeshName "FRIGATE_UNSCPHOENIX_SHIELD"
 renderShield TRUE
-maxAccelerationLinear 200.0000
-maxAccelerationStrafe 50.0000
-maxDecelerationLinear 1000.0000
-maxAccelerationAngular 10.0000
-maxDecelerationAngular 15.0000
+maxAccelerationLinear 200.000000
+maxAccelerationStrafe 50.000000
+maxDecelerationLinear 1000.000000
+maxAccelerationAngular 9.999998
+maxDecelerationAngular 15.000000
 maxSpeedLinear 600.000000
 maxRollRate 2.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 ""
@@ -131,15 +132,13 @@ SoundID "FRIGATE_UNSCPHOENIX_ONSELECTED_2"
 NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "FRIGATE_UNSCPHOENIX_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
-MeshNameInfo  
+MeshNameInfo
 	meshName "FRIGATE_UNSCPHOENIX"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName "EXHAUST_FRIGATE_UNSCPHOENIX"
 ExplosionName "UNSC_Frig_Large"
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_UNSCCAPITALSHIP"
 ability:0 "AbilityUNSCCaptureNeutralEntity"
 ability:1 "AbilityUNSCFrigateColonize"

@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_COVRELICSURVEY"
 smallHudIcon "HUDICON_RESEARCHSUBJECT_PLANETUPGRADERATE"
@@ -14,8 +15,8 @@ Prerequisites
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 32
-PerLevelUpgradeTime 5
+BaseUpgradeTime 32.000000
+PerLevelUpgradeTime 5.000000
 BaseCost
 	credits 710.000000
 	metal 0.000000
@@ -27,7 +28,7 @@ PerLevelCostIncrease
 Tier 1
 onlyWorksIfTierLabsExist TRUE
 MaxNumResearchLevels 2
-priority 0
+priority 0.000000
 researchBoolModifiers 0
 researchFloatModifiers 1
 researchModifier

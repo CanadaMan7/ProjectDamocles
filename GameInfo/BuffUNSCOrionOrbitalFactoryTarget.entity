@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -14,24 +15,24 @@ numEntityModifiers 3
 entityModifier
 	buffEntityModifierType "PlanetUpgradeBuildRateAdjustment"
 	value
-		Level:0 0.4000000
-		Level:1 0.5000000
-		Level:2 0.6000000
-		Level:3 0.7000000
+		Level:0 0.400000
+		Level:1 0.500000
+		Level:2 0.600000
+		Level:3 0.700000
 entityModifier
 	buffEntityModifierType "PlanetUpgradeCost"
 	value
-		Level:0 -0.4000000
-		Level:1 -0.5000000
-		Level:2 -0.6000000
-		Level:3 -0.7000000
+		Level:0 -0.400000
+		Level:1 -0.500000
+		Level:2 -0.600000
+		Level:3 -0.700000
 entityModifier
 	buffEntityModifierType "PlanetModuleBuildTime"
 	value
-		Level:0 -0.4000000
-		Level:1 -0.5000000
-		Level:2 -0.6000000
-		Level:3 -0.7000000
+		Level:0 -0.400000
+		Level:1 -0.500000
+		Level:2 -0.600000
+		Level:3 -0.700000
 numEntityBoolModifiers 0
 numFinishConditions 2
 finishCondition

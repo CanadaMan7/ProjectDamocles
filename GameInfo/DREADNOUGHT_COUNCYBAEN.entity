@@ -1,4 +1,4 @@
-TXT2
+﻿TXT2
 SinsArchiveVersion 194
 entityType "CapitalShip"
 ability:0 "Ability_Coun_CybaenBarrier"
@@ -67,9 +67,9 @@ smallHudIcon "MAINVIEWICON_DREADNOUGHT_COUNCYBAEN"
 infoCardIcon "MAINVIEWICON_DREADNOUGHT_COUNCYBAEN"
 minZoomDistanceMult 1.800000
 NumWeapons 2
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -87,11 +87,11 @@ Weapon
 	TravelSpeed 4000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.600000
-			fireDelay 0.000000
+		fireDelay 0.000000
 		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
@@ -109,9 +109,9 @@ Weapon
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIVERYHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -129,13 +129,13 @@ Weapon
 	TravelSpeed 3000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.340000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCCoilgun_Muzzle"
-		muzzleSoundMinRespawnTime 0.10000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCCoilgun_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 6
 			sound "WEAPON_COUN_ASARIAUXMASSACCMUZZLE1"
@@ -165,11 +165,11 @@ renderShield TRUE
 maxAccelerationLinear 100.000000
 maxAccelerationStrafe 30.000000
 maxDecelerationLinear 700.000000
-maxAccelerationAngular 5.000000
-maxDecelerationAngular 10.000000
+maxAccelerationAngular 4.999999
+maxDecelerationAngular 9.999998
 maxSpeedLinear 500.000000
 maxRollRate 2.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
 useCustomHyperspaceEffects TRUE
 effects
 	chargeUpEffectName "SlipspaceChargeUpUNSCCap"
@@ -220,13 +220,13 @@ meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName ""
 ExplosionName "UNSC_Capitalship_Small"
-CommandPoints  
+CommandPoints
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
-weaponCooldownDecreasePerc  
+weaponCooldownDecreasePerc
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.030000
-weaponDamageIncreasePerc  
+weaponDamageIncreasePerc
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
 EngineSoundID "ENGINE_UNSCCAPITALSHIP"

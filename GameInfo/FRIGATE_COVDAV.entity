@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193  
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn FALSE
@@ -16,11 +16,11 @@ picture "PICTURE_FRIGATE_COVDAV"
 NameStringID "FRIGATE_COVDAV_NAME"
 DescriptionStringID "FRIGATE_COVDAV_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_DAV"
-basePrice  
+basePrice
 	credits 100.000000
 	metal 0.000000
 	crystal 0.000000
-slotCount 1.00000
+slotCount 1.000000
 BuildTime 15.000000
 hasLevels FALSE
 ExperiencePointsForDestroying 1.000000
@@ -55,14 +55,15 @@ hasWeaponLevels FALSE
 mass 2000.000000
 ShieldMeshName "FRIGATE_COVDAV_SHIELD"
 renderShield TRUE
-maxAccelerationLinear 80.0000
-maxAccelerationStrafe 80.0000
-maxDecelerationLinear 1000.0000
-maxAccelerationAngular 35.0000
-maxDecelerationAngular 40.0000
+maxAccelerationLinear 80.000000
+maxAccelerationStrafe 80.000000
+maxDecelerationLinear 1000.000000
+maxAccelerationAngular 34.999996
+maxDecelerationAngular 39.999992
 maxSpeedLinear 800.000000
-maxRollRate 4.000000
+maxRollRate 3.999999
 maxRollAngle 45.000000
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 ""
@@ -98,15 +99,13 @@ NumSoundsFor:ONSTARTPHASEJUMP 2
 SoundID "FRIGATE_COVDAV_ONSTARTPHASEJUMP_0"
 SoundID "FRIGATE_COVDAV_ONSTARTPHASEJUMP_1"
 MeshNameInfoCount 1
-MeshNameInfo  
+MeshNameInfo
 	meshName "FRIGATE_COVDAV"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName ""
 ExplosionName "Cov_Frig_Small"
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_COVCAPITALSHIP"
 ability:0 "AbilityCovExplore"
 ability:1 "AbilityCovCloak"

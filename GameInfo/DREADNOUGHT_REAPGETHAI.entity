@@ -1,4 +1,4 @@
-TXT2
+﻿TXT2
 SinsArchiveVersion 194
 entityType "CapitalShip"
 ability:0 "Ability_Coun_GethDreadWeaponOverclock"
@@ -171,10 +171,10 @@ maxAccelerationLinear 125.000000
 maxAccelerationStrafe 10.000000
 maxDecelerationLinear 700.000000
 maxAccelerationAngular 1.500000
-maxDecelerationAngular 10.000000
+maxDecelerationAngular 9.999998
 maxSpeedLinear 500.000000
 maxRollRate 2.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
 useCustomHyperspaceEffects TRUE
 effects
 	chargeUpEffectName "FTL_CHARGEUP_BLANK"

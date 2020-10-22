@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193  
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -15,23 +15,23 @@ baseRange 3000.000000
 bombTransitTime 24.000000
 bombEffectCount 1
 bombEffectAngleVariance 15.000000
-bombEffectsDef  
+bombEffectsDef
 	weaponType "Projectile"
 	burstCount 1
 	burstDelay 0.000000
-		fireDelay 0.000000
+	fireDelay 0.000000
 	muzzleEffectName "Weapon_UNSCPlanetInvasion_Muzzle"
 	muzzleSoundMinRespawnTime 0.100000
-	muzzleSounds  
+	muzzleSounds
 		soundCount 1
 		sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
 	hitEffectName "Weapon_UNSCPlanetInvasion_Hit"
-	hitHullEffectSounds  
+	hitHullEffectSounds
 		soundCount 3
 		sound "EXPLOSION_SUB4"
 		sound "EXPLOSION_SUB4_ALT1"
 		sound "EXPLOSION_SUB4_ALT2"
-	hitShieldsEffectSounds  
+	hitShieldsEffectSounds
 		soundCount 3
 		sound "EXPLOSION_SUB4"
 		sound "EXPLOSION_SUB4_ALT1"
@@ -46,7 +46,7 @@ picture "PICTURE_FRIGATE_UNSCCHARON"
 NameStringID "FRIGATE_SENTCLEANSER_NAME"
 DescriptionStringID "FRIGATE_SENTCLEANSER_DESCRIPTION"
 counterDescriptionStringID "IDS_FRIGATESPEED_INDEX_NORM"
-basePrice  
+basePrice
 	credits 300.000000
 	metal 40.000000
 	crystal 0.000000
@@ -63,7 +63,7 @@ maxMitigation 0.000000
 relationshipChangeRate 0.000000
 Prerequisites
 	NumResearchPrerequisites 1
-	ResearchPrerequisite  
+	ResearchPrerequisite
 		Subject "RESEARCHSUBJECT_SENTFRIGATEACCESS_CLEANSER"
 		Level 1
 	RequiredFactionNameID ""
@@ -79,9 +79,9 @@ smallHudIcon "MAINVIEWICON_FRIGATE_UNSCCHARON"
 infoCardIcon "MAINVIEWICON_FRIGATE_UNSCCHARON"
 minZoomDistanceMult 1.500000
 NumWeapons 1
-Weapon  
+Weapon
 	WeaponType "Beam"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "OVERTIME"
@@ -92,31 +92,31 @@ Weapon
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
 	Range 8000.000000
-	PreBuffCooldownTime 8.00000
+	PreBuffCooldownTime 8.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.000000
 	TravelSpeed 0.000000
 	Duration 1.500000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Beam"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_PsiCapitalLaserHeavy_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PsiCapitalLaserHeavy_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 1
 			sound ""
 		hitEffectName "Weapon_PsiCapitalBeamHeavy_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound ""
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound ""
-		beamEffectSounds  
+		beamEffectSounds
 			soundCount 1
 			sound "WEAPON_PSICAPITALBEAMHEAVY_TRAVEL"
 		beamGlowTextureName "PsiCapitalBeam_Glow"
@@ -136,14 +136,15 @@ hasWeaponLevels FALSE
 mass 2000.000000
 ShieldMeshName "FRIGATE_UNSCCHARON_SHIELD"
 renderShield FALSE
-maxAccelerationLinear 425.0000
-maxAccelerationStrafe 10.0000
-maxDecelerationLinear 400.0000
-maxAccelerationAngular 10.0000
-maxDecelerationAngular 15.0000
+maxAccelerationLinear 425.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 400.000000
+maxAccelerationAngular 9.999998
+maxDecelerationAngular 15.000000
 maxSpeedLinear 1000.000000
 maxRollRate 2.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 ""
@@ -170,15 +171,13 @@ SoundID "FRIGATE_UNSCCHARON_ONSELECTED_2"
 NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "FRIGATE_UNSCCHARON_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
-MeshNameInfo  
+MeshNameInfo
 	meshName "FRIGATE_UNSCCHARON"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName "EXHAUST_FRIGATE_UNSCCHARON"
 ExplosionName "UNSC_Frig_Small"
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_UNSCCAPITALSHIP"
 ability:0 ""
 ability:1 ""

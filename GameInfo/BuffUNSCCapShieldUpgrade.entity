@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -36,5 +37,5 @@ entityModifier
 		Level:2 5000.000000
 		Level:3 5000.000000
 numEntityBoolModifiers 1
-	entityBoolModifier "JumpBlockerImmune"
+entityBoolModifier "JumpBlockerImmune"
 numFinishConditions 0

@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193  
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -15,7 +15,7 @@ picture "FRIGATE_COUN_VARHDONA"
 NameStringID "IDS_CRUISER_COUNVAHRDONA_NAME"
 DescriptionStringID "IDS_CRUISER_COUNVAHRDONA_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_PARIS"
-basePrice  
+basePrice
 	credits 750.000000
 	metal 110.000000
 	crystal 95.000000
@@ -43,9 +43,9 @@ smallHudIcon "MAINVIEWICON_CRUISER_COUNVAHRDONA"
 infoCardIcon "MAINVIEWICON_CRUISER_COUNVAHRDONA"
 minZoomDistanceMult 1.500000
 NumWeapons 2
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTILIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -63,12 +63,12 @@ Weapon
 	TravelSpeed 5500.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
+		fireDelay 0.000000
+		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 6
@@ -86,9 +86,9 @@ Weapon
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIVERYHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -106,13 +106,13 @@ Weapon
 	TravelSpeed 3000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.340000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
-		muzzleSoundMinRespawnTime 0.10000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 6
 			sound "WEAPON_COUN_TURIANAUXMASSACCMUZZLE1"
@@ -140,14 +140,15 @@ hasWeaponLevels FALSE
 mass 9980.000000
 ShieldMeshName "Cruiser_CounVahrdona_Shield"
 renderShield TRUE
-maxAccelerationLinear 100.0000
-maxAccelerationStrafe 10.0000
-maxDecelerationLinear 500.0000
-maxAccelerationAngular 2.2000
-maxDecelerationAngular 10.0000
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 2.200000
+maxDecelerationAngular 9.999998
 maxSpeedLinear 500.000000
 maxRollRate 6.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 ""
@@ -184,8 +185,6 @@ meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName ""
 ExplosionName "UNSC_Frig_Small"
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_UNSCCAPITALSHIP"
 ability:0 "Ability_Coun_VahrdonaCalibrations"
 ability:1 ""

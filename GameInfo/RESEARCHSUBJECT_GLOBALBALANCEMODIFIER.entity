@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_ABILITY_DESTABILIZEHYPERSPACE"
 smallHudIcon "HUDICON_ABILITY_DESTABILIZEHYPERSPACE"
@@ -7,7 +8,7 @@ NameStringID "blank"
 DescriptionStringID "blank"
 researchWindowLocation
 	block 1
-	pos [ 117, 343 ]
+	pos [ 117 , 343 ]
 ResearchField "Fleet"
 Prerequisites
 	NumResearchPrerequisites 0

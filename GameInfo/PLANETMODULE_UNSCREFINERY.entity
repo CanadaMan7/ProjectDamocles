@@ -1,4 +1,5 @@
-TXT 
+﻿TXT2
+SinsArchiveVersion 194
 entityType "PlanetModuleRefinery"
 minZoomDistanceMult 2.000000
 ability:0 "AbilityNoneIsBigShip"
@@ -17,7 +18,7 @@ smallHudIcon "HUDICONSMALL_PLANETMODULE_UNSCREFINERY"
 infoCardIcon "INFOCARDICON_PLANETMODULE_UNSCREFINERY"
 planetUpgradeSlotType "Civilian"
 planetUpgradeSlotCount 1.000000
-basePrice 
+basePrice
 	credits 800.000000
 	metal 80.000000
 	crystal 25.000000
@@ -25,9 +26,9 @@ NameStringID "PLANETMODULE_UNSCREFINERY_NAME"
 DescriptionStringID "PLANETMODULE_UNSCREFINERY_DESCRIPTION"
 planetModuleRoleType "REFINERY"
 statCountType "ModuleRefinery"
-Prerequisites 
+Prerequisites
 	NumResearchPrerequisites 1
-	ResearchPrerequisite 
+	ResearchPrerequisite
 		Subject "RESEARCH_UNSCINDUSTRY_BXRMININGCONTRACT"
 		Level 1
 	RequiredFactionNameID ""
@@ -60,7 +61,7 @@ NumSoundsFor:ONSELECTED 1
 SoundID "PLANETMODULE_TECHORBITALREFINERY_ONSELECTION_0"
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
-MeshNameInfo 
+MeshNameInfo
 	meshName "PLANETMODULE_UNSCSPRINGHILL"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
@@ -75,4 +76,4 @@ baseBuildTime 60.000000
 buildEffectName ""
 cargoShipType "FRIGATE_UNSCREFINERYSHIP"
 maxCargoShipCount 3
-cargoShipRespawnTime 45.0000000
+cargoShipRespawnTime 45.000000

@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "RESEARCHBUTTON_COV_DEFENDEROFTHEFRINGE"
 smallHudIcon "RESEARCHBUTTON_COV_DEFENDEROFTHEFRINGE"
@@ -11,7 +12,7 @@ researchWindowLocation
 ResearchField "Fleet"
 Prerequisites
 	NumResearchPrerequisites 1
-		ResearchPrerequisite
+	ResearchPrerequisite
 		Subject "RESEARCHSUBJECT_COV_FACTIONXYTAN3"
 		Level 1
 	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COVXYTAN"
@@ -30,7 +31,7 @@ PerLevelCostIncrease
 Tier 4
 onlyWorksIfTierLabsExist TRUE
 MaxNumResearchLevels 1
-priority 1
+priority 1.000000
 researchBoolModifiers 1
 researchModifier
 	modifierType "HyperspaceDetectionTwoJumps"

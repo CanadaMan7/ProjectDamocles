@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193  
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -15,7 +15,7 @@ picture "blank"
 NameStringID "FRIGATE_MILMAKO_NAME"
 DescriptionStringID "FRIGATE_UNSCMAKO_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_ANTIFIGHTER"
-basePrice  
+basePrice
 	credits 300.000000
 	metal 40.000000
 	crystal 10.000000
@@ -26,7 +26,7 @@ ExperiencePointsForDestroying 4.000000
 MaxHullPoints 900.000000
 MaxShieldPoints 0.000000
 HullPointRestoreRate 1.875000
-ShieldPointRestoreRate 1.8181818
+ShieldPointRestoreRate 1.818182
 BaseArmorPoints 3.000000
 maxMitigation 0.000000
 relationshipChangeRate 0.000000
@@ -43,9 +43,9 @@ smallHudIcon "MAINVIEWICON_FRIGATE_UNSCMAKO"
 infoCardIcon "MAINVIEWICON_FRIGATE_UNSCMAKO"
 minZoomDistanceMult 1.500000
 NumWeapons 4
-Weapon  
+Weapon
 	WeaponType "Missile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTILIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -67,32 +67,32 @@ Weapon
 		NumResearchPrerequisites 0
 		RequiredFactionNameID "IDS_PLAYERFACTIONNAME_UNSCAI"
 		RequiredCompletedResearchSubjects 0
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Missile"
 		burstCount 1
 		burstDelay 0.400000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCHeavyArcherMissile_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCHeavyArcherMissile_Muzzle"
 		muzzleSoundMinRespawnTime 0.500000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 3
 			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
 			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
 			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
 		hitEffectName "Weapon_UNSCHeavyArcherMissile_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
 		missileTravelEffectName "Weapon_UNSCHeavyArcherMissile_Travel"
 		missileStartTurningDistance 250.000000
 		missileSlowTurnRate 1.000000
 		missileMaxSlowTurnTime 0.750000
-Weapon  
+Weapon
 	WeaponType "Missile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTILIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -114,32 +114,32 @@ Weapon
 		NumResearchPrerequisites 0
 		RequiredFactionNameID "IDS_PLAYERFACTIONNAME_UNSC"
 		RequiredCompletedResearchSubjects 0
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Missile"
 		burstCount 1
 		burstDelay 0.400000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCHeavyArcherMissile_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCHeavyArcherMissile_Muzzle"
 		muzzleSoundMinRespawnTime 0.500000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 3
 			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
 			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
 			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
 		hitEffectName "Weapon_UNSCHeavyArcherMissile_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
 		missileTravelEffectName "Weapon_UNSCHeavyArcherMissile_Travel"
 		missileStartTurningDistance 250.000000
 		missileSlowTurnRate 1.000000
 		missileMaxSlowTurnTime 0.750000
-Weapon  
+Weapon
 	WeaponType "Beam"
-	damageEnums  
+	damageEnums
 		AttackType "ANTILIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -155,7 +155,7 @@ Weapon
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.000000
 	TravelSpeed 0.000000
-	Duration 0.5000000
+	Duration 0.500000
 	fireConstraintType "Research"
 	researchPrerequisites
 		NumResearchPrerequisites 0
@@ -177,7 +177,7 @@ Weapon
 		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		beamEffectSounds
@@ -189,9 +189,9 @@ Weapon
 		beamGlowColor ffff80ff
 		beamCoreColor ffff80ff
 		beamTilingRate 3.000000
-Weapon  
+Weapon
 	WeaponType "Missile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIVERYLIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -213,23 +213,23 @@ Weapon
 		NumResearchPrerequisites 0
 		RequiredFactionNameID "IDSScenarioPlayerNamePirates"
 		RequiredCompletedResearchSubjects 0
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Missile"
 		burstCount 1
 		burstDelay 0.400000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCHeavyArcherMissile_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCHeavyArcherMissile_Muzzle"
 		muzzleSoundMinRespawnTime 0.500000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 3
 			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
 			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
 			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
 		hitEffectName "Weapon_UNSCHeavyArcherMissile_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
 		missileTravelEffectName "Weapon_UNSCHeavyArcherMissile_Travel"
@@ -247,14 +247,15 @@ hasWeaponLevels FALSE
 mass 2000.000000
 ShieldMeshName ""
 renderShield FALSE
-maxAccelerationLinear 450.0000
-maxAccelerationStrafe 10.0000
-maxDecelerationLinear 500.0000
-maxAccelerationAngular 5.0000
-maxDecelerationAngular 10.0000
+maxAccelerationLinear 450.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 4.999999
+maxDecelerationAngular 9.999998
 maxSpeedLinear 1500.000000
-maxRollRate 4.000000
+maxRollRate 3.999999
 maxRollAngle 45.000000
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 ""
@@ -270,28 +271,28 @@ NumSoundsFor:ONGENERALORDERISSUED 0
 NumSoundsFor:ONSELECTED 0
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 4
-MeshNameInfo  
+MeshNameInfo
 	meshName "FRIGATE_MILMAKO"
 	criteriaType "Research"
 	prerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID "IDS_PLAYERFACTIONNAME_UNSCAI"
 		RequiredCompletedResearchSubjects 0
-MeshNameInfo  
+MeshNameInfo
 	meshName "FRIGATE_MILMAKO"
 	criteriaType "Research"
 	prerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID "IDSScenarioPlayerNamePirates"
 		RequiredCompletedResearchSubjects 0
-MeshNameInfo  
+MeshNameInfo
 	meshName "FRIGATE_MILMAKO"
 	criteriaType "Research"
 	prerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID "IDS_PLAYERFACTIONNAME_UNSC"
 		RequiredCompletedResearchSubjects 0
-MeshNameInfo  
+MeshNameInfo
 	meshName "FRIGATE_MILCAR"
 	criteriaType "Research"
 	prerequisites
@@ -302,8 +303,6 @@ meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName "Empty"
 ExplosionName "UNSC_Frig_Small"
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_UNSCCAPITALSHIP"
 ability:0 "AbilityNoneFlakburst"
 ability:1 "AbilityMilSwapCAR"

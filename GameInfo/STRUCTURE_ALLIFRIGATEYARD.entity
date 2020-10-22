@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193
+﻿TXT2
+SinsArchiveVersion 194
 entityType "PlanetModuleShipFactory"
 minZoomDistanceMult 4.000000
 ability:0 "Ability_Alli_FrigateYardRepair"

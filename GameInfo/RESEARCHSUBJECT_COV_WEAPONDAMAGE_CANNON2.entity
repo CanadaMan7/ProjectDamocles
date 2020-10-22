@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_COVWEAPONDAMAGE_LASERPSI2"
 smallHudIcon "HUDICON_RESEARCHSUBJECT_WEAPONDAMAGE_LASERPSI2"
@@ -42,7 +43,7 @@ researchModifier
 	modifierType "WeaponRateOfFireAdjustment"
 	baseValue 0.000000
 	perLevelValue 0.037500
-	linkedWeaponClass "PHASECANNON"	
+	linkedWeaponClass "PHASECANNON"
 artifactPicture ""
 uniqueOverlayBrush ""
 dlcId 204880

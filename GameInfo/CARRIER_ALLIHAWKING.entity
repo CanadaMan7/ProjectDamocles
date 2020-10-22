@@ -1,4 +1,4 @@
-TXT2
+﻿TXT2
 SinsArchiveVersion 194
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
@@ -187,10 +187,10 @@ maxAccelerationLinear 120.000000
 maxAccelerationStrafe 30.000000
 maxDecelerationLinear 800.000000
 maxAccelerationAngular 3.000000
-maxDecelerationAngular 10.000000
+maxDecelerationAngular 9.999998
 maxSpeedLinear 600.000000
 maxRollRate 6.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
 useCustomHyperspaceEffects TRUE
 effects
 	chargeUpEffectName "FTL_CHARGEUP_BLANK"

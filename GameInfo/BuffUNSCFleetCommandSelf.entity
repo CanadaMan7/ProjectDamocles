@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -25,8 +26,8 @@ periodicAction
 	actionIntervalTime
 		Level:0 10.000000
 		Level:1 10.000000
-		Level:2 10.00000
-		Level:3 10.00000
+		Level:2 10.000000
+		Level:3 10.000000
 	buffInstantActionType "ApplyBuffToTargetsInRadius"
 	instantActionTriggerType "AlwaysPerform"
 	buffType "BuffUNSCFleetCommand"

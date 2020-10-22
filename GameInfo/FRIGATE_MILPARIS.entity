@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193  
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -16,7 +16,7 @@ picture "blank"
 NameStringID "FRIGATE_MILPARIS_NAME"
 DescriptionStringID "FRIGATE_UNSCPARIS_DESCRIPTION"
 counterDescriptionStringID "IDS_FRIGATESPEED_INDEX_FAST"
-basePrice  
+basePrice
 	credits 350.000000
 	metal 45.000000
 	crystal 10.000000
@@ -27,7 +27,7 @@ ExperiencePointsForDestroying 7.000000
 MaxHullPoints 1800.000000
 MaxShieldPoints 0.000000
 HullPointRestoreRate 3.000000
-ShieldPointRestoreRate 4.21818
+ShieldPointRestoreRate 4.218180
 BaseArmorPoints 4.000000
 maxMitigation 0.000000
 relationshipChangeRate 0.000000
@@ -44,9 +44,9 @@ smallHudIcon "MAINVIEWICON_FRIGATE_UNSCPARIS"
 infoCardIcon "MAINVIEWICON_FRIGATE_UNSCPARIS"
 minZoomDistanceMult 1.500000
 NumWeapons 4
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIVERYHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -68,28 +68,28 @@ Weapon
 		NumResearchPrerequisites 0
 		RequiredFactionNameID "IDS_PLAYERFACTIONNAME_UNSCAI"
 		RequiredCompletedResearchSubjects 0
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCMAC_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCMAC_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_UNSC_MAC_MUZZLELIGHT"
 			sound "WEAPON_UNSC_MAC_MUZZLELIGHT_ALT1"
 		hitEffectName "Weapon_UNSCMAC_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_UNSCMAC_Travel"
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIVERYHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -111,28 +111,28 @@ Weapon
 		NumResearchPrerequisites 0
 		RequiredFactionNameID "IDS_PLAYERFACTIONNAME_UNSC"
 		RequiredCompletedResearchSubjects 0
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCMAC_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCMAC_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_UNSC_MAC_MUZZLELIGHT"
 			sound "WEAPON_UNSC_MAC_MUZZLELIGHT_ALT1"
 		hitEffectName "Weapon_UNSCMAC_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_UNSCMAC_Travel"
-Weapon  
+Weapon
 	WeaponType "Missile"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -143,7 +143,7 @@ Weapon
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
 	Range 8000.000000
-	PreBuffCooldownTime 24.0000
+	PreBuffCooldownTime 24.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting TRUE
 	PointStaggerDelay 0.000000
@@ -154,31 +154,31 @@ Weapon
 		NumResearchPrerequisites 0
 		RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COV"
 		RequiredCompletedResearchSubjects 0
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Missile"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_CovPTorpMini_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CovPTorpMini_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE"
 			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE_ALT1"
 		hitEffectName "Weapon_CovPTorpMini_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
 		missileTravelEffectName "Weapon_CovPTorpMini_Travel"
 		missileStartTurningDistance 100.000000
 		missileSlowTurnRate 0.708997
 		missileMaxSlowTurnTime 3.000000
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIVERYHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -200,22 +200,22 @@ Weapon
 		NumResearchPrerequisites 0
 		RequiredFactionNameID "IDSScenarioPlayerNamePirates"
 		RequiredCompletedResearchSubjects 0
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCMAC_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCMAC_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_UNSC_MAC_MUZZLELIGHT"
 			sound "WEAPON_UNSC_MAC_MUZZLELIGHT_ALT1"
 		hitEffectName "Weapon_UNSCMAC_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_UNSCMAC_Travel"
@@ -230,14 +230,15 @@ hasWeaponLevels FALSE
 mass 2000.000000
 ShieldMeshName ""
 renderShield FALSE
-maxAccelerationLinear 550.0000
-maxAccelerationStrafe 10.0000
-maxDecelerationLinear 600.0000
-maxAccelerationAngular 35.0000
-maxDecelerationAngular 40.0000
+maxAccelerationLinear 550.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 600.000000
+maxAccelerationAngular 34.999996
+maxDecelerationAngular 39.999992
 maxSpeedLinear 1600.000000
-maxRollRate 4.000000
+maxRollRate 3.999999
 maxRollAngle 45.000000
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 ""
@@ -253,28 +254,28 @@ NumSoundsFor:ONGENERALORDERISSUED 0
 NumSoundsFor:ONSELECTED 0
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 4
-MeshNameInfo  
+MeshNameInfo
 	meshName "FRIGATE_MILPARIS"
 	criteriaType "Research"
 	prerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID "IDS_PLAYERFACTIONNAME_UNSCAI"
 		RequiredCompletedResearchSubjects 0
-MeshNameInfo  
+MeshNameInfo
 	meshName "FRIGATE_MILPARIS"
 	criteriaType "Research"
 	prerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID "IDS_PLAYERFACTIONNAME_UNSC"
 		RequiredCompletedResearchSubjects 0
-MeshNameInfo  
+MeshNameInfo
 	meshName "FRIGATE_MILADP"
 	criteriaType "Research"
 	prerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID "IDS_PLAYERFACTIONNAME_COV"
 		RequiredCompletedResearchSubjects 0
-MeshNameInfo  
+MeshNameInfo
 	meshName "FRIGATE_MILPARIS"
 	criteriaType "Research"
 	prerequisites
@@ -285,8 +286,6 @@ meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName "Empty"
 ExplosionName "UNSC_Frig_Small"
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_UNSCCAPITALSHIP"
 ability:0 "AbilityMilSwapADP"
 ability:1 ""

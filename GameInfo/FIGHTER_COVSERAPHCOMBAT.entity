@@ -1,4 +1,5 @@
-TXT 
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Fighter"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -20,15 +21,15 @@ mass 25.000000
 maxAccelerationLinear 600.000000
 maxAccelerationStrafe 200.000000
 maxDecelerationLinear 1600.000000
-maxAccelerationAngular 50.000000
+maxAccelerationAngular 49.999992
 maxDecelerationAngular 90.000000
 maxSpeedLinear 2200.000000
 maxRollRate 60.000000
 maxRollAngle 89.000000
 NumWeapons 2
-Weapon 
+Weapon
 	WeaponType "Projectile"
-	damageEnums 
+	damageEnums
 		AttackType "ANTIVERYLIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -46,7 +47,7 @@ Weapon
 	TravelSpeed 0.000000
 	Duration 0.150000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects 
+	WeaponEffects
 		weaponType "Beam"
 		burstCount 1
 		burstDelay 0.000000
@@ -61,7 +62,7 @@ Weapon
 		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		beamEffectSounds
@@ -73,9 +74,9 @@ Weapon
 		beamGlowColor ffff80ff
 		beamCoreColor ffff80ff
 		beamTilingRate 3.000000
-Weapon 
+Weapon
 	WeaponType "Projectile"
-	damageEnums 
+	damageEnums
 		AttackType "ANTILIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -93,14 +94,14 @@ Weapon
 	TravelSpeed 4000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects 
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 4
 		burstDelay 0.150000
 		fireDelay 0.000000
 		muzzleEffectName "FighterWeapon_CovPlasmaMuzzle"
 		muzzleSoundMinRespawnTime 1.000000
-		muzzleSounds 
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_PHASESUPPORTMISSILELIGHT_MUZZLE"
 			sound "WEAPON_PHASESUPPORTMISSILELIGHT_MUZZLE_ALT1"
@@ -108,7 +109,7 @@ Weapon
 		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHASEMISSILELIGHT_HITGENERIC"
-		hitShieldsEffectSounds 
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHASEMISSILELIGHT_HITGENERIC"
 		projectileTravelEffectName "FighterWeapon_CovPlasma"
@@ -123,7 +124,7 @@ meshName "FIGHTER_COVSERAPHCOMBAT.mesh"
 exhaustParticleSystemName "Exhaust_CovSeraph"
 ExplosionName "Cov_Fighter"
 exhaustTrailTextureName "Black-da.dds"
-exhaustTrailWidth 0.0000001
+exhaustTrailWidth 0.000000
 engineSoundID "ENGINE_COVSUPPORTSHIP"
 maxHullPoints 180.000000
 hullPointRestoreRate 8.000000

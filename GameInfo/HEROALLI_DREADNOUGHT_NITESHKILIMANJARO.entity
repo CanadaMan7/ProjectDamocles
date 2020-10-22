@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "CapitalShip"
 ability:0 ""
 ability:1 ""
@@ -162,10 +162,11 @@ maxAccelerationLinear 80.000000
 maxAccelerationStrafe 10.000000
 maxDecelerationLinear 800.000000
 maxAccelerationAngular 1.000000
-maxDecelerationAngular 9.999998
+maxDecelerationAngular 9.999996
 maxSpeedLinear 600.000000
 maxRollRate 2.000000
 maxRollAngle 34.999996
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 "SQUAD_ALLIF61TRIDENT"
 squadAntiMatterCost:0 80.000000
 squadTypeEntityDef:1 ""
@@ -212,8 +213,6 @@ weaponCooldownDecreasePerc
 weaponDamageIncreasePerc
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_TECHCAPITALSHIP"
 formationRank 0
 minShadow 0.100000

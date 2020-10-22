@@ -1,4 +1,4 @@
-TXT2
+﻿TXT2
 SinsArchiveVersion 194
 entityType "CapitalShip"
 ability:0 "Ability_Alli_DenaliSalvo"
@@ -14,19 +14,19 @@ autoJoinFleetDefault TRUE
 canBomb FALSE
 mainViewIcon "MAINVIEWICON_DREAD_ALLIDENALI"
 basePrice
-	credits 3560.000000
+	credits 3060.000000
 	metal 380.000000
 	crystal 255.000000
 slotCount 35.000000
 BuildTime 56.000000
 MaxHullPoints
-	StartValue 10000.000000
+	StartValue 15000.000000
 	ValueIncreasePerLevel 0.000000
 MaxShieldPoints
-	StartValue 8100.000000
+	StartValue 12100.000000
 	ValueIncreasePerLevel 0.000000
 HullPointRestoreRate
-	StartValue 5.000000
+	StartValue 15.000000
 	ValueIncreasePerLevel 0.250000
 ShieldPointRestoreRate
 	StartValue 10.000000
@@ -35,7 +35,7 @@ ArmorPointsFromExperience
 	StartValue 7.500000
 	ValueIncreasePerLevel 0.000000
 maxMitigation
-	StartValue 0.650000
+	StartValue 0.850000
 	ValueIncreasePerLevel 0.000000
 MaxAntiMatter
 	StartValue 450.000000
@@ -76,7 +76,7 @@ Weapon
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
 		WeaponClassType "RAILGUN"
-	DamagePerBank:FRONT 1250.000000
+	DamagePerBank:FRONT 1750.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
@@ -116,7 +116,7 @@ Weapon
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
 		WeaponClassType "GAUSS"
-	DamagePerBank:FRONT 190.000000
+	DamagePerBank:FRONT 290.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
@@ -198,8 +198,8 @@ Weapon
 		WeaponClassType "PHASEMISSILE"
 	DamagePerBank:FRONT 0.000000
 	DamagePerBank:BACK 0.000000
-	DamagePerBank:LEFT 200.000000
-	DamagePerBank:RIGHT 200.000000
+	DamagePerBank:LEFT 350.000000
+	DamagePerBank:RIGHT 350.000000
 	Range 3600.000000
 	PreBuffCooldownTime 6.000000
 	CanFireAtFighter FALSE
@@ -253,10 +253,10 @@ maxAccelerationLinear 120.000000
 maxAccelerationStrafe 10.000000
 maxDecelerationLinear 800.000000
 maxAccelerationAngular 1.200000
-maxDecelerationAngular 10.000000
+maxDecelerationAngular 9.999998
 maxSpeedLinear 600.000000
 maxRollRate 2.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
 useCustomHyperspaceEffects TRUE
 effects
 	chargeUpEffectName "FTL_CHARGEUP_BLANK"

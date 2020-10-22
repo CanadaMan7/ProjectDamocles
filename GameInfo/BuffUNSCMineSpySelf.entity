@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -21,10 +22,10 @@ periodicAction
 	buffType "BuffUNSCMineSpyTarget"
 	targetFilter
 		numOwnerships 4
-	ownership "Enemy"
-	ownership "Friendly"
-	ownership "NoOwner"
-	ownership "AlliedOrEnemy"
+		ownership "Enemy"
+		ownership "Friendly"
+		ownership "NoOwner"
+		ownership "AlliedOrEnemy"
 		numObjects 2
 		object "Planet"
 		object "Star"

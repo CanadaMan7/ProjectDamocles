@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -19,26 +20,26 @@ periodicAction
 	buffInstantActionType "ApplyBuffToTargetsInRadius"
 	instantActionTriggerType "AlwaysPerform"
 	buffType "BuffCovOASFleetDebuff"
-targetFilter
-        numOwnerships 1
-        ownership "Enemy"
-        numObjects 3
-        object "CapitalShip"
-        object "Corvette"
-        object "StarBase"
-        numSpaces 1
-        space "Normal"
-        numConstraints 0
-range 
-      Level:0 26000.000
-      Level:1 26000.000
-      Level:2 26000.000
-      Level:3 26000.000
-maxTargetCount
-	Level:0 -1.000000
-	Level:1 -1.000000
-	Level:2 -1.000000
-	Level:3 -1.000000
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 3
+		object "CapitalShip"
+		object "Corvette"
+		object "StarBase"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	range
+		Level:0 26000.000000
+		Level:1 26000.000000
+		Level:2 26000.000000
+		Level:3 26000.000000
+	maxTargetCount
+		Level:0 -1.000000
+		Level:1 -1.000000
+		Level:2 -1.000000
+		Level:3 -1.000000
 	effectInfo
 		effectAttachInfo
 			attachType "Invalid"

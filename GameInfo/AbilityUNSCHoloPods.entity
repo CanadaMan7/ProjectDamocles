@@ -1,23 +1,24 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "CreateFrigate"
 instantActionTriggerType "OnDelay"
 delayTime 0.000000
-	frigateType "FRIGATE_UNSCRAZORHOLO"
-	numFrigates
-		Level:0 4.000000
-		Level:1 4.000000
-		Level:2 4.000000
-		Level:3 4.000000
-	matchOwnerDamageState FALSE
-	impulse 10000.000000
-	expiryTime
-		Level:0 -1.000000
-		Level:1 -1.000000
-		Level:2 -1.000000
-		Level:3 -1.000000
-	spawnFrigateSoundID ""
-	postSpawnBuff "BuffUNSCRazorHolo"
+frigateType "FRIGATE_UNSCRAZORHOLO"
+numFrigates
+	Level:0 4.000000
+	Level:1 4.000000
+	Level:2 4.000000
+	Level:3 4.000000
+matchOwnerDamageState FALSE
+impulse 10000.000000
+expiryTime
+	Level:0 -1.000000
+	Level:1 -1.000000
+	Level:2 -1.000000
+	Level:3 -1.000000
+spawnFrigateSoundID ""
+postSpawnBuff "BuffUNSCRazorHolo"
 needsToFaceTarget FALSE
 canCollideWithTarget TRUE
 moveThruTarget FALSE

@@ -1,0 +1,75 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 3
+instantAction
+	buffInstantActionType "RemoveAntiMatter"
+	instantActionTriggerType "OnWeaponFired"
+	numWeaponClasses 2
+	weaponClassForWeaponPassive "GAUSS"
+	weaponClassForWeaponPassive "RAILGUN"
+	passiveWeaponEffectChance
+		Level:0 1.000000
+		Level:1 1.000000
+		Level:2 1.000000
+		Level:3 1.000000
+	antiMatter
+		Level:0 6.000000
+		Level:1 6.000000
+		Level:2 6.000000
+		Level:3 6.000000
+instantAction
+	buffInstantActionType "RemoveAntiMatter"
+	instantActionTriggerType "OnWeaponFired"
+	numWeaponClasses 1
+	weaponClassForWeaponPassive "AUTOCANNON"
+	passiveWeaponEffectChance
+		Level:0 1.000000
+		Level:1 1.000000
+		Level:2 1.000000
+		Level:3 1.000000
+	antiMatter
+		Level:0 2.000000
+		Level:1 2.000000
+		Level:2 2.000000
+		Level:3 2.000000
+instantAction
+	buffInstantActionType "RemoveBuffOfType"
+	instantActionTriggerType "OnBuffFinish"
+	buffTypeToRemove "Buff_Cerb_TrafalgarPhasicAmmoStart"
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 2
+entityModifier
+	buffEntityModifierType "ChanceToIgnoreShieldsAsDamageDealer"
+	value
+		Level:0 1.000000
+		Level:1 1.000000
+		Level:2 1.000000
+		Level:3 1.000000
+entityModifier
+	buffEntityModifierType "DamageAsDamageDealer"
+	value
+		Level:0 -1.600000
+		Level:1 -1.400000
+		Level:2 -1.200000
+		Level:3 -1.000000
+numEntityBoolModifiers 0
+numFinishConditions 4
+finishCondition
+	finishConditionType "OwnerNoLongerHasBuff"
+	buffTypeToQuery "Buff_Neutral_HasAmmoType"
+finishCondition
+	finishConditionType "OwnerNoLongerHasBuff"
+	buffTypeToQuery "Buff_Cerb_TrafalgarPhasicAmmoStart"
+finishCondition
+	finishConditionType "AntiMatterDepleted"
+finishCondition
+	finishConditionType "OwnerChanged"

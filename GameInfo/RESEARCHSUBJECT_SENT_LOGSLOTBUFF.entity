@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHPLACEHOLDER"
 smallHudIcon "HUDICON_RESEARCHPLACEHOLDER"
@@ -14,8 +15,8 @@ Prerequisites
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 45
-PerLevelUpgradeTime 5
+BaseUpgradeTime 45.000000
+PerLevelUpgradeTime 5.000000
 BaseCost
 	credits 1000.000000
 	metal 250.000000
@@ -27,7 +28,7 @@ PerLevelCostIncrease
 Tier 4
 onlyWorksIfTierLabsExist TRUE
 MaxNumResearchLevels 2
-priority 0
+priority 0.000000
 researchBoolModifiers 0
 researchFloatModifiers 1
 researchModifier

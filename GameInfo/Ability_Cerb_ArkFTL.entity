@@ -1,0 +1,58 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetNoRange"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_Cerb_ArkFTLTarget"
+targetFilter
+	numOwnerships 3
+	ownership "Friendly"
+	ownership "Enemy"
+	ownership "NoOwner"
+	numObjects 1
+	object "Planet"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget TRUE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 4
+levelSourceType "TitanUpgradeLevel"
+sourcePropertyType "AbilityBLevel"
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 600.000000
+	Level:1 550.000000
+	Level:2 500.000000
+	Level:3 450.000000
+cooldownTime
+	Level:0 780.000000
+	Level:1 720.000000
+	Level:2 660.000000
+	Level:3 600.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_CERBARK_FTL_NAME"
+descStringID "IDS_ABILITY_CERBARK_FTL_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_COLONIZETECH"
+smallHudIcon "HUDICON_ABILITY_COLONIZETECH"
+infoCardIcon ""

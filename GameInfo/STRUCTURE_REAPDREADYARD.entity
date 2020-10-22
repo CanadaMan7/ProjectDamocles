@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "PlanetModuleShipFactory"
 minZoomDistanceMult 2.500000
 ability:0 "Ability_Cerb_DreadYardRepair"

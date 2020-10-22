@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193  
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -16,7 +16,7 @@ picture "PICTURE_FRIGATE_UNSCTHANATOS"
 NameStringID "FRIGATE_SENTCONTROLLER_NAME"
 DescriptionStringID "FRIGATE_SENTCONTROLLER_DESCRIPTION"
 counterDescriptionStringID "IDS_FRIGATESPEED_INDEX_NORM"
-basePrice  
+basePrice
 	credits 1600.000000
 	metal 300.000000
 	crystal 200.000000
@@ -33,7 +33,7 @@ maxMitigation 0.000000
 relationshipChangeRate 0.000000
 Prerequisites
 	NumResearchPrerequisites 1
-	ResearchPrerequisite  
+	ResearchPrerequisite
 		Subject "RESEARCHSUBJECT_SENTFRIGATEACCESS_CONTROLLER"
 		Level 1
 	RequiredFactionNameID ""
@@ -48,9 +48,9 @@ smallHudIcon "MAINVIEWICON_FRIGATE_UNSCTHANATOS"
 infoCardIcon "MAINVIEWICON_FRIGATE_UNSCTHANATOS"
 minZoomDistanceMult 1.500000
 NumWeapons 1
-Weapon  
+Weapon
 	WeaponType "Beam"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "OVERTIME"
@@ -61,31 +61,31 @@ Weapon
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
 	Range 8000.000000
-	PreBuffCooldownTime 8.00000
+	PreBuffCooldownTime 8.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.000000
 	TravelSpeed 0.000000
 	Duration 1.750000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Beam"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_PsiCapitalLaserHeavy_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PsiCapitalLaserHeavy_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 1
 			sound ""
 		hitEffectName "Weapon_PsiCapitalBeamHeavy_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound ""
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound ""
-		beamEffectSounds  
+		beamEffectSounds
 			soundCount 1
 			sound "WEAPON_PSICAPITALBEAMHEAVY_TRAVEL"
 		beamGlowTextureName "PsiCapitalBeam_Glow"
@@ -105,14 +105,15 @@ hasWeaponLevels FALSE
 mass 2000.000000
 ShieldMeshName "FRIGATE_UNSCHALBERD_SHIELD"
 renderShield FALSE
-maxAccelerationLinear 425.0000
-maxAccelerationStrafe 10.0000
-maxDecelerationLinear 400.0000
-maxAccelerationAngular 10.0000
-maxDecelerationAngular 15.0000
+maxAccelerationLinear 425.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 400.000000
+maxAccelerationAngular 9.999998
+maxDecelerationAngular 15.000000
 maxSpeedLinear 1000.000000
 maxRollRate 2.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 ""
@@ -141,15 +142,13 @@ SoundID "FRIGATE_UNSCTHANATOS_ONSELECTED_2"
 NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "FRIGATE_UNSCTHANATOS_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
-MeshNameInfo  
+MeshNameInfo
 	meshName "FRIGATE_UNSCHALBERD"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName "EXHAUST_FRIGATE_UNSCHALBERD"
 ExplosionName "UNSC_Frig_Small"
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_UNSCCAPITALSHIP"
 ability:0 ""
 ability:1 ""

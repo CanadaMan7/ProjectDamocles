@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "ApplyBuffToTargetWithTravel"
 instantActionTriggerType "AlwaysPerform"
@@ -87,4 +88,3 @@ descStringID "ABILITY_UNSCSENSORPAINT_DESCRIPTION"
 hudIcon "HUDICON_UNSC_JESTERROUND"
 smallHudIcon "HUDICON_UNSC_JESTERROUND"
 infoCardIcon ""
-

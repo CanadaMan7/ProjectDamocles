@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "StarBaseUpgrade"
 stageCount 2
 stage
@@ -44,4 +45,4 @@ stage
 		propertyType "CultureMeshLevel"
 		value 1.000000
 	upgradeBoolPropertyCount 0
-xpModifier 2.0000000
+xpModifier 2.000000

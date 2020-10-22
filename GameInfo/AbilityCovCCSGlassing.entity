@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "ApplyTargettedBuffToSelf"
 instantActionTriggerType "AlwaysPerform"
@@ -52,7 +53,7 @@ cooldownTime
 orderAcknowledgementType "ONATTACKORDERISSUED"
 researchPrerequisites
 	NumResearchPrerequisites 1
-	ResearchPrerequisite  
+	ResearchPrerequisite
 		Subject "RESEARCHSUBJECT_COV_ABILITYACCESSCCSGLASSING"
 		Level 1
 	RequiredFactionNameID ""

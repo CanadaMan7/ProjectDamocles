@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Titan"
 ability:0 "AbilityCovIonBlast2"
 ability:1 "AbilityCovLaserBarrage2"
@@ -44,7 +45,7 @@ AntiMatterRestoreRate
 	ValueIncreasePerLevel 0.080000
 CultureProtectRate
 	StartValue 0.000000
-	ValueIncreasePerLevel 0.00000
+	ValueIncreasePerLevel 0.000000
 NameStringID "TITAN_COVBATTLESHIP_NAME"
 DescriptionStringID "TITAN_COVBATTLESHIP_DESCRIPTION"
 picture "CAPITALSHIPPICTURE_PSIBATTLESHIP"
@@ -91,8 +92,8 @@ Weapon
 		weaponType "Beam"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_CovenantBeam_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CovenantBeam_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 1
@@ -107,15 +108,15 @@ Weapon
 		beamEffectSounds
 			soundCount 1
 			sound "WEAPON_TECHCAPITALBEAMHEAVY_TRAVEL"
-	beamGlowTextureName "WeaponCov_EnergyProjector"
-	beamCoreTextureName "WeaponCov_EnergyProjector"
+		beamGlowTextureName "WeaponCov_EnergyProjector"
+		beamCoreTextureName "WeaponCov_EnergyProjector"
 		beamWidth 60.000000
 		beamGlowColor ffffffff
 		beamCoreColor ffffffff
 		beamTilingRate 3.000000
-Weapon  
+Weapon
 	WeaponType "Beam"
-	damageEnums  
+	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -131,7 +132,7 @@ Weapon
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.000000
 	TravelSpeed 0.000000
-	Duration 0.5000000
+	Duration 0.500000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Beam"
@@ -149,7 +150,7 @@ Weapon
 		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		beamEffectSounds
@@ -178,7 +179,8 @@ maxAccelerationAngular 0.616670
 maxDecelerationAngular 9.999996
 maxSpeedLinear 1000.000000
 maxRollRate 2.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 "SQUAD_COVBANSHEECOMBAT"
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 "SQUAD_COVSERAPHBOMBER"
@@ -219,8 +221,6 @@ weaponCooldownDecreasePerc
 weaponDamageIncreasePerc
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.050000
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_COVCAPITALSHIP"
 formationRank 3
 minShadow 0.200000

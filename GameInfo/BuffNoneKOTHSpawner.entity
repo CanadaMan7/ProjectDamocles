@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -15,12 +16,12 @@ instantAction
 	buffType "BuffNoneKOTHCaster"
 	targetFilter
 		numOwnerships 1
-	ownership "Friendly"
+		ownership "Friendly"
 		numObjects 1
 		object "Planet"
 		numSpaces 1
 		space "Normal"
-		numConstraints 0	
+		numConstraints 0
 	effectInfo
 		effectAttachInfo
 			attachType "Invalid"

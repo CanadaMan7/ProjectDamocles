@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "ApplyBuffToSelf"
 instantActionTriggerType "AlwaysPerform"
@@ -28,7 +29,7 @@ onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
 useCostType "Passive"
 researchPrerequisites
 	NumResearchPrerequisites 1
-	ResearchPrerequisite  
+	ResearchPrerequisite
 		Subject "RESEARCHSUBJECT_COV_ABILITYACCESSCOORDINATEDSYSTEMS"
 		Level 1
 	RequiredFactionNameID ""

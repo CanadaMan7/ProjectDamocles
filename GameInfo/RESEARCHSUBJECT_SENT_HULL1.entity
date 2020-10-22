@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHPLACEHOLDER"
 smallHudIcon "HUDICON_RESEARCHPLACEHOLDER"
@@ -36,11 +37,11 @@ researchFloatModifiers 2
 researchModifier
 	modifierType "HullPointsMaxAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.0200000
+	perLevelValue 0.020000
 researchModifier
 	modifierType "ArmorBaseAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.500000	
+	perLevelValue 0.500000
 artifactPicture ""
 uniqueOverlayBrush ""
 dlcId 204880

@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -11,7 +12,7 @@ numInstantActions 2
 instantAction
 	buffInstantActionType "ApplyBuffToLocalOrbitBody"
 	instantActionTriggerType "OnDelay"
-		delayTime 15.000000
+	delayTime 15.000000
 	buffType "BuffFloodInitializerEffect"
 	targetFilter
 		numOwnerships 1
@@ -20,7 +21,7 @@ instantAction
 		object "Planet"
 		numSpaces 1
 		space "Normal"
-		numConstraints 0	
+		numConstraints 0
 	effectInfo
 		effectAttachInfo
 			attachType "Invalid"
@@ -31,7 +32,7 @@ instantAction
 instantAction
 	buffInstantActionType "MakeDead"
 	instantActionTriggerType "OnDelay"
-		delayTime 20.000000
+	delayTime 20.000000
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0

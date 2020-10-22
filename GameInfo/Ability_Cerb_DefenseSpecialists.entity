@@ -1,0 +1,41 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_Cerb_DefenseSpecialistsSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 2
+levelSourceType "ResearchWithBase"
+baseSourceResearchSubject "RESEARCH_CERBSECURITY_GUARDIAN"
+improveSourceResearchSubject "RESEARCH_CERBSECURITY_ENGINEER"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_CERBSECURITY_GUARDIAN"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_CERB_DEFENSESPECIALISTS_NAME"
+descStringID "IDS_ABILITY_CERB_DEFENSESPECIALISTS_DESCRIPTION"
+hudIcon "HUDICON_INFANTRY_CERBARMOREDGARR"
+smallHudIcon "HUDICON_ABILITY_HEAVYFIGHTERS"
+infoCardIcon ""

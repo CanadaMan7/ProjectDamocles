@@ -1,15 +1,15 @@
-TXT2
-SinsArchiveVersion 193
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Player"
 raceNameStringID "IDS_PLAYERRACENAME_COV"
 canColonize TRUE
 playerRaceType "Phase"
 isSelectable TRUE
-selectablePriorty 2
+selectablePriorty 1
 randomCapitalShipNamePrefix "IDS_CAPITALSHIPNAME_COV"
 randomStarBaseNamePrefix "IDS_STARBASENAME_COV"
 entities
-	planetModuleInfo 
+	planetModuleInfo
 		Page:0
 			count 9
 			entityDefName "PLANETMODULE_COVMETALEXTRACTOR"
@@ -20,7 +20,7 @@ entities
 			entityDefName "PLANETMODULE_COVCRYSTALEXTRACTOR"
 			entityDefName "PLANETMODULE_COVCAPITALSHIPFACTORY"
 			entityDefName "PLANETMODULE_COVNONCOMBATLABORATORY"
-			entityDefName "PLANETMODULE_COVCULTURE"		
+			entityDefName "PLANETMODULE_COVCULTURE"
 		Page:1
 			count 4
 			entityDefName "PLANETMODULE_COVHANGARDEFENSE"
@@ -55,7 +55,7 @@ entities
 		Page:1
 			count 6
 			entityDefName "FRIGATE_COVDAV"
-			entityDefName "FRIGATE_COVDSC" 
+			entityDefName "FRIGATE_COVDSC"
 			entityDefName "FRIGATE_COVSDV"
 			entityDefName "FRIGATE_COVSBCONSTRUCTOR"
 			entityDefName "FRIGATE_COVDDR"
@@ -237,7 +237,7 @@ shieldData
 	shieldAbsorbGrowthPerDamage 0.000000
 	shieldAbsorbDecayRate 0.000000
 	shieldAbsorbBaseMin 0.000000
-	shieldColor ff448AFF
+	shieldColor ff448aff
 gameEventData
 	GameEventSound:AllianceCeaseFireBroken "EVENTCOV_ALLIANCECEASEFIREBROKEN"
 	GameEventSound:AllianceCeaseFireFormed "EVENTCOV_ALLIANCECEASEFIREFORMED"
@@ -417,8 +417,8 @@ gameEventData
 	GameEventSound:UseAbilityUnmetConstraintHasWeapons "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintIsCargoShip "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintIsExplored "UI_COMMON_DEFAULTERROR"
-	GameEventSound:UseAbilityUnmetConstraintNotIsExplored "UI_COMMON_DEFAULTERROR"	
-GameEventSound:UseAbilityUnmetConstraintIsResourceExtractor "UI_COMMON_DEFAULTERROR"
+	GameEventSound:UseAbilityUnmetConstraintNotIsExplored "UI_COMMON_DEFAULTERROR"
+	GameEventSound:UseAbilityUnmetConstraintIsResourceExtractor "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintIsMovingToLocalOrbitBody "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintIsPsi "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintNotIsTech "UI_COMMON_DEFAULTERROR"

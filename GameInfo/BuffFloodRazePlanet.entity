@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -34,27 +35,27 @@ periodicAction
 	canWeaponEffectHitHull TRUE
 	canWeaponEffectHitShields TRUE
 	weaponEffectsDef
-	weaponType "Projectile"
-	burstCount 1
-	burstDelay 0.000000
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
 		fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCPlanetInvasion_Muzzle"
-	muzzleSoundMinRespawnTime 0.100000
-	muzzleSounds
-		soundCount 1
-		sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
-	hitEffectName "Weapon_UNSCPlanetInvasion_Hit"
-	hitHullEffectSounds
-		soundCount 3
-		sound "EXPLOSION_SUB4"
-		sound "EXPLOSION_SUB4_ALT1"
-		sound "EXPLOSION_SUB4_ALT2"
-	hitShieldsEffectSounds
-		soundCount 3
-		sound "EXPLOSION_SUB4"
-		sound "EXPLOSION_SUB4_ALT1"
-		sound "EXPLOSION_SUB4_ALT2"
-	projectileTravelEffectName "Weapon_UNSCPlanetInvasion_Travel"
+		muzzleEffectName "Weapon_UNSCPlanetInvasion_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+		hitEffectName "Weapon_UNSCPlanetInvasion_Hit"
+		hitHullEffectSounds
+			soundCount 3
+			sound "EXPLOSION_SUB4"
+			sound "EXPLOSION_SUB4_ALT1"
+			sound "EXPLOSION_SUB4_ALT2"
+		hitShieldsEffectSounds
+			soundCount 3
+			sound "EXPLOSION_SUB4"
+			sound "EXPLOSION_SUB4_ALT1"
+			sound "EXPLOSION_SUB4_ALT2"
+		projectileTravelEffectName "Weapon_UNSCPlanetInvasion_Travel"
 numOverTimeActions 0
 numEntityModifiers 0
 numEntityBoolModifiers 0

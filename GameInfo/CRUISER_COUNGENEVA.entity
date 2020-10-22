@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -16,7 +16,7 @@ picture "CRUISER_COUN_GENEVA"
 NameStringID "IDS_CRUISER_COUNGENEVA_NAME"
 DescriptionStringID "IDS_CRUISER_COUNGENEVA_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_GLADIUS"
-basePrice  
+basePrice
 	credits 750.000000
 	metal 145.000000
 	crystal 125.000000
@@ -47,9 +47,9 @@ smallHudIcon "MAINVIEWICON_CRUISER_COUNGENEVA"
 infoCardIcon "MAINVIEWICON_CRUISER_COUNGENEVA"
 minZoomDistanceMult 1.500000
 NumWeapons 3
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTILIGHT"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -67,28 +67,28 @@ Weapon
 	TravelSpeed 10000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.000000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCMAC_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCMAC_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_UNSC_MAC_MUZZLELIGHT"
 			sound "WEAPON_UNSC_MAC_MUZZLELIGHT_ALT1"
 		hitEffectName "Weapon_UNSCMAC_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIVERYHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -102,33 +102,33 @@ Weapon
 	PreBuffCooldownTime 2.500000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
-	PointStaggerDelay 1.00000
+	PointStaggerDelay 1.000000
 	TravelSpeed 3000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 2
 		burstDelay 0.340000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCCoilgun_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCCoilgun_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 3
 			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE"
 			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE_ALT1"
 			sound "WEAPON_UNSCBROADSIDECANNON_MUZZLE_ALT2"
 		hitEffectName "Weapon_UNSCDeckGun_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"
-Weapon  
+Weapon
 	WeaponType "Projectile"
-	damageEnums  
+	damageEnums
 		AttackType "ANTIMEDIUM"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
@@ -146,22 +146,22 @@ Weapon
 	TravelSpeed 5000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
-	WeaponEffects  
+	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
 		burstDelay 0.100000
-			fireDelay 0.000000
-	muzzleEffectName "Weapon_UNSCAAA_Muzzle"
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_UNSCAAA_Muzzle"
 		muzzleSoundMinRespawnTime 10.000000
-		muzzleSounds  
+		muzzleSounds
 			soundCount 2
 			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE"
 			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE_ALT1"
 		hitEffectName "Weapon_UNSCAAA_Hit"
-		hitHullEffectSounds  
+		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
-		hitShieldsEffectSounds  
+		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
 		projectileTravelEffectName "Weapon_UNSCAAA_Travel"
@@ -176,14 +176,15 @@ hasWeaponLevels FALSE
 mass 10200.000000
 ShieldMeshName "Cruiser_AlliGeneva_Shield"
 renderShield TRUE
-maxAccelerationLinear 125.0000
-maxAccelerationStrafe 10.0000
-maxDecelerationLinear 800.0000
-maxAccelerationAngular 1.90000
-maxDecelerationAngular 9.990000
+maxAccelerationLinear 125.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 800.000000
+maxAccelerationAngular 1.900000
+maxDecelerationAngular 9.989998
 maxSpeedLinear 600.000000
 maxRollRate 6.000000
-maxRollAngle 34.990000
+maxRollAngle 34.989994
+useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 "SQUAD_COUNF61TRIDENT_SOLO"
@@ -223,15 +224,13 @@ SoundID "CRUISER_ALLIGENEVA_ONJUMPSTART2"
 SoundID "CRUISER_ALLIGENEVA_ONJUMPSTART3"
 SoundID "CRUISER_ALLIGENEVA_ONJUMPSTART4"
 MeshNameInfoCount 1
-MeshNameInfo  
+MeshNameInfo
 	meshName "Cruiser_CounGeneva"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName ""
 ExplosionName "UNSC_Frig_Large"
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_UNSCCAPITALSHIP"
 ability:0 "Ability_Alli_GenevaShieldBoost"
 ability:1 ""

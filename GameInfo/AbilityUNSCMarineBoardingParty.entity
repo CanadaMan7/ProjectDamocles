@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "ApplyBuffToTargetWithTravel"
 instantActionTriggerType "AlwaysPerform"
@@ -32,7 +33,7 @@ weaponEffectsDef
 	weaponType "Projectile"
 	burstCount 1
 	burstDelay 0.000000
-		fireDelay 0.000000
+	fireDelay 0.000000
 	muzzleEffectName "CapitalBuff_UNSCInvasionLauncher_Muzzle"
 	muzzleSoundMinRespawnTime 0.100000
 	muzzleSounds
@@ -94,4 +95,3 @@ descStringID "ABILITY_UNSCMARINEBOARDING_DESCRIPTION"
 hudIcon "HUDICON_ABILITY_MARINEBOARDING"
 smallHudIcon "HUDICON_ABILITY_MARINEBOARDING"
 infoCardIcon ""
-

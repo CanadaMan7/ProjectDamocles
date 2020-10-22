@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -12,7 +12,7 @@ numInstantActions 1
 instantAction
 	buffInstantActionType "RemoveBuffOfType"
 	instantActionTriggerType "OnBuffFinish"
-buffTypeToRemove "Buff_Coun_NormandyStealthStart"
+	buffTypeToRemove "Buff_Coun_NormandyStealthStart"
 numPeriodicActions 0
 numOverTimeActions 3
 overTimeAction

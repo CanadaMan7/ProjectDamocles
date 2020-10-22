@@ -1,22 +1,23 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Ability"
 buffInstantActionType "CreateFrigate"
 instantActionTriggerType "AlwaysPerform"
-	frigateType "FRIGATE_FLOODSWARMER"
-	numFrigates
-		Level:0 2.000000
-		Level:1 2.000000
-		Level:2 3.000000
-		Level:3 4.000000
-	matchOwnerDamageState FALSE
-	impulse 1000.000000
-	expiryTime
-		Level:0 999000.000000
-		Level:1 999000.000000
-		Level:2 999000.000000
-		Level:3 999000.000000
-	spawnFrigateSoundID ""
-	postSpawnBuff "BuffFloodFleetKillEnterHyperspace"
+frigateType "FRIGATE_FLOODSWARMER"
+numFrigates
+	Level:0 2.000000
+	Level:1 2.000000
+	Level:2 3.000000
+	Level:3 4.000000
+matchOwnerDamageState FALSE
+impulse 1000.000000
+expiryTime
+	Level:0 999000.000000
+	Level:1 999000.000000
+	Level:2 999000.000000
+	Level:3 999000.000000
+spawnFrigateSoundID ""
+postSpawnBuff "BuffFloodFleetKillEnterHyperspace"
 needsToFaceTarget FALSE
 canCollideWithTarget TRUE
 moveThruTarget FALSE

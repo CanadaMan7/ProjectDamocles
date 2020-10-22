@@ -1,4 +1,5 @@
-TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Planet"
 meshInfoCount 1
 meshInfo
@@ -6,7 +7,7 @@ meshInfo
 	asteroidTemplate "Ring"
 	dustCloudTemplate "PuffyDense"
 	meshName "PlanetGasGiant2"
-	cloudColor 00000000
+	cloudColor 0
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
 	hudIcon "MAINVIEWICON_PLANET_GGIANT_TEAL"
@@ -17,7 +18,7 @@ meshInfo
 	picture "PICTURE_PLANET_GAS_GIANT"
 	shouldPrefer FALSE
 minZoomDistanceMult 1.500000
-glowColor 00000000
+glowColor 0
 ringColor ffdafcff
 cloudLayerTextureName ""
 planetResourceSetupInfo
@@ -36,16 +37,16 @@ planetResourceSetupInfo
 		refineryRate 0.000000
 		maxRefineryCount 3
 	neutralMetalResourceAsteroidSetup
-		minCount 3.000000
-		maxCount 3.000000
-		extractionRate 0.4
-		refineryRate 0.1
+		minCount 3
+		maxCount 3
+		extractionRate 0.400000
+		refineryRate 0.100000
 		maxRefineryCount 2
 	neutralCrystalResourceAsteroidSetup
-		minCount 3.000000
-		maxCount 3.000000
-		extractionRate 0.4
-		refineryRate 0.1
+		minCount 3
+		maxCount 3
+		extractionRate 0.400000
+		refineryRate 0.100000
 		maxRefineryCount 2
 isAsteroid FALSE
 healthRegenRate 6.000000

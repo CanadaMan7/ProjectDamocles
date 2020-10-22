@@ -1,5 +1,5 @@
-TXT2
-SinsArchiveVersion 193
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -13,7 +13,7 @@ numPeriodicActions 0
 numOverTimeActions 1
 overTimeAction
 	buffOverTimeActionType "RestoreHull"
-	hullRestoreRate 
+	hullRestoreRate
 		Level:0 200.000000
 		Level:1 250.000000
 		Level:2 300.000000
@@ -23,7 +23,7 @@ numEntityBoolModifiers 0
 numFinishConditions 2
 finishCondition
 	finishConditionType "TimeElapsed"
-	time 
+	time
 		Level:0 10.000000
 		Level:1 12.500000
 		Level:2 15.000000

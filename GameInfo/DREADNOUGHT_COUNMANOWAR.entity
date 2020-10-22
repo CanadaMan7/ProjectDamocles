@@ -1,4 +1,4 @@
-TXT2
+﻿TXT2
 SinsArchiveVersion 194
 entityType "CapitalShip"
 ability:0 "Ability_Coun_ManOWarStormySkies"
@@ -168,11 +168,11 @@ renderShield TRUE
 maxAccelerationLinear 75.000000
 maxAccelerationStrafe 75.000000
 maxDecelerationLinear 800.000000
-maxAccelerationAngular 4.000000
-maxDecelerationAngular 10.000000
+maxAccelerationAngular 3.999999
+maxDecelerationAngular 9.999998
 maxSpeedLinear 400.000000
 maxRollRate 1.000000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
 useCustomHyperspaceEffects TRUE
 effects
 	chargeUpEffectName "SlipspaceChargeUpUNSCCap"
@@ -225,7 +225,7 @@ SoundID "DREAD_COUNMANOWAR_ONJUMPSTART2"
 SoundID "DREAD_COUNMANOWAR_ONJUMPSTART3"
 SoundID "DREAD_COUNMANOWAR_ONJUMPSTART4"
 MeshNameInfoCount 1
-MeshNameInfo  
+MeshNameInfo
 	meshName "Dreadnought_CounHanar"
 	criteriaType "None"
 meshNameIncreasedEffectName ""

@@ -6,8 +6,8 @@ canColonize TRUE
 playerRaceType "Tech"
 isSelectable TRUE
 selectablePriorty 1
-randomCapitalShipNamePrefix "IDS_CAPITALSHIPNAME_UNSC"
-randomStarBaseNamePrefix "IDS_STARBASENAME_UNSC"
+randomCapitalShipNamePrefix "IDS_DREADNAME_ALLI"
+randomStarBaseNamePrefix "IDS_STARBASENAME_PSI"
 entities
 	planetModuleInfo
 		Page:0
@@ -29,8 +29,9 @@ entities
 			entityDefName "INFANTRY_ALLIDEF_RESISTANCE"
 	titanInfo
 		Page:0
-			count 1
+			count 2
 			entityDefName "SUPERCARRIER_ALLISAGAN"
+			entityDefName "SUPERDREAD_ALLIOLYMPUS"
 	capitalShipInfo
 		Page:0
 			count 5
@@ -784,17 +785,15 @@ gameOverWindowData
 	hasWonOccupationPhraseStringId "IDSGameOverDialogHasWonPhraseTechOccupation"
 	hasLostOccupationPhraseStringId "IDSGameOverDialogHasLostPhraseTechOccupation"
 aiNameData
-	nameCount 10
-	name "IDSPlayerAINameUNSC0"
-	name "IDSPlayerAINameUNSC1"
-	name "IDSPlayerAINameUNSC2"
-	name "IDSPlayerAINameUNSC3"
-	name "IDSPlayerAINameUNSC4"
-	name "IDSPlayerAINameUNSC5"
-	name "IDSPlayerAINameUNSC6"
-	name "IDSPlayerAINameUNSC7"
-	name "IDSPlayerAINameUNSC8"
-	name "IDSPlayerAINameUNSC9"
+	nameCount 8
+	name "IDSPlayerAINameAlli0"
+	name "IDSPlayerAINameAlli1"
+	name "IDSPlayerAINameAlli2"
+	name "IDSPlayerAINameAlli3"
+	name "IDSPlayerAINameAlli4"
+	name "IDSPlayerAINameAlli5"
+	name "IDSPlayerAINameAlli6"
+	name "IDSPlayerAINameAlli7"
 raceNameParsePrefix "TECH"
 raceNameParsePrefixFallback "TECH"
 numResearchFields 6

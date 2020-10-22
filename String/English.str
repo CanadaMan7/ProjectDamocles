@@ -58543,6 +58543,12 @@ StringInfo
 	ID "IDS_SUPERDREAD_CERBTHEMIS_DESCRIPTION"
 	Value "The Themis class Super Dreadnought is Cerberus' most mighty warship. It shares design lineage with the Trafalgar, but to compare it to the lesser Dreadnought would be a disservice. The Themis boasts huge accelerators, Thanix weaponry and a wide variety of ammo types to choose from. It is also capable of planetary bombardment on a scale only the Reapers have previously been able to achieve."
 StringInfo
+	ID "IDS_SUPERDREAD_ALLIOLYMPUS_NAME"
+	Value "Olympus Super Dreadnought"
+StringInfo
+	ID "IDS_SUPERDREAD_ALLIOLYMPUS_DESCRIPTION"
+	Value "The Olympus class Super Dreadnought is the Alliance's most mighty warship. It shares design lineage with the Trafalgar, but to compare it to the lesser Dreadnought would be a disservice. The Olympus boasts huge accelerators, Thanix weaponry and a wide variety of ammo types to choose from. It is also capable of planetary bombardment on a scale only the Reapers have previously been able to achieve."
+StringInfo
 	ID "IDS_SUPERCARRIER_CERBAEOLUS_NAME"
 	Value "Aeolus Super Carrier"
 StringInfo

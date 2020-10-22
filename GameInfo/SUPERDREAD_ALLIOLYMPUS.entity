@@ -1,292 +1,264 @@
 ﻿TXT2
-SinsArchiveVersion 194
+SinsArchiveVersion 193
 entityType "Titan"
-ability:0 "Ability_Cerb_AeolusFleet"
-ability:1 "Ability_Cerb_AeolusReserve"
-ability:2 "Ability_Cerb_AeolusDistributeAmmo"
-ability:3 "Ability_Cerb_AeolusKamikaze"
-ability:4 "Ability_Cerb_AeolusCarrierHeavyJavelins"
+ability:0 "Ability_Cerb_ThemisSledgeAmmo"
+ability:1 "Ability_Cerb_ThemisCryoAmmo"
+ability:2 "Ability_Cerb_ThemisInfernoAmmo"
+ability:3 "Ability_Cerb_ArkDiplo"
+ability:4 ""
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
 prefersToFocusFire TRUE
 usesFighterAttack FALSE
 autoJoinFleetDefault TRUE
-canBomb TRUE
-hasBombingLevels FALSE
-baseDamage 90.000000
-basePopulationKilled 2.000000
-bombingFreqTime 10.000000
-baseRange 3000.000000
-bombTransitTime 12.000000
-bombEffectCount 8
-bombEffectAngleVariance 15.000000
-bombEffectsDef
-	weaponType "Projectile"
-	burstCount 1
-	burstDelay 0.000000
-	fireDelay 0.000000
-	muzzleEffectName "Weapon_TechCapitalPlanetBombing_Muzzle"
-	muzzleSoundMinRespawnTime 0.100000
-	muzzleSounds
-		soundCount 1
-		sound "WEAPON_TECH_PLANETBOMB_MUZZLE"
-	hitEffectName "Weapon_TechCapitalPlanetBombing_Hit"
-	hitHullEffectSounds
-		soundCount 3
-		sound "EXPLOSION_SUB4"
-		sound "EXPLOSION_SUB4_ALT1"
-		sound "EXPLOSION_SUB4_ALT2"
-	hitShieldsEffectSounds
-		soundCount 3
-		sound "EXPLOSION_SUB4"
-		sound "EXPLOSION_SUB4_ALT1"
-		sound "EXPLOSION_SUB4_ALT2"
-	projectileTravelEffectName "Weapon_TechCapitalPlanetBombing_Travel"
-mainViewIcon "MAINVIEWICON_TITAN_TECHLOYALIST"
+canBomb FALSE
+mainViewIcon "MAINVIEWICON_SUPERDREADNOUGHT_CERBTHEMIS"
 basePrice
-	credits 4750.000000
-	metal 600.000000
-	crystal 375.000000
-slotCount 150.000000
-BuildTime 450.000000
+	credits 13750.000000
+	metal 7900.000000
+	crystal 5400.000000
+slotCount 120.000000
+BuildTime 365.000000
 MaxHullPoints
-	StartValue 5500.000000
-	ValueIncreasePerLevel 504.000000
+	StartValue 17500.000000
+	ValueIncreasePerLevel 441.000000
 MaxShieldPoints
-	StartValue 2250.000000
-	ValueIncreasePerLevel 567.000000
+	StartValue 12500.000000
+	ValueIncreasePerLevel 0.000000
 HullPointRestoreRate
-	StartValue 3.100000
-	ValueIncreasePerLevel 0.700000
+	StartValue 75.000000
+	ValueIncreasePerLevel 0.500000
 ShieldPointRestoreRate
-	StartValue 4.500000
-	ValueIncreasePerLevel 0.700000
+	StartValue 100.000000
+	ValueIncreasePerLevel 0.000000
 ArmorPointsFromExperience
-	StartValue 12.000000
-	ValueIncreasePerLevel 0.918000
+	StartValue 10.500000
+	ValueIncreasePerLevel 0.000000
 maxMitigation
-	StartValue 0.650000
-	ValueIncreasePerLevel 0.011110
+	StartValue 0.950000
+	ValueIncreasePerLevel 0.000000
 MaxAntiMatter
-	StartValue 275.000000
+	StartValue 1550.000000
 	ValueIncreasePerLevel 45.000000
 AntiMatterRestoreRate
-	StartValue 0.850000
-	ValueIncreasePerLevel 0.120000
+	StartValue 1.850000
+	ValueIncreasePerLevel 0.000000
 CultureProtectRate
-	StartValue 0.300000
+	StartValue 1.300000
 	ValueIncreasePerLevel 0.050000
-NameStringID "IDS_TITAN_TECHLOYALIST_NAME"
-DescriptionStringID "IDS_TITAN_TECHLOYALIST_DESCRIPTION"
-picture "TITANPICTURE_TECHLOYALIST"
+NameStringID "IDS_SUPERDREAD_ALLIOLYMPUS_NAME"
+DescriptionStringID "IDS_SUPERDREAD_ALLIOLYMPUS_DESCRIPTION"
+picture "SUPERDREADNOUGHT_CERB_THEMIS"
 Prerequisites
-	NumResearchPrerequisites 0
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_ALLIMODERNIZATION_OLYMPUS"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 statCountType "Titan"
 UpgradeTypeCount 7
-UpgradeType "TitanUpgrade_TechLoyalist_AbilityA"
-UpgradeType "TitanUpgrade_TechLoyalist_AbilityB"
-UpgradeType "TitanUpgrade_TechLoyalist_AbilityC"
-UpgradeType "TitanUpgrade_TechLoyalist_AbilityD"
-UpgradeType "TitanUpgrade_TechLoyalist_Durability"
-UpgradeType "TitanUpgrade_TechLoyalist_Weapons"
-UpgradeType "TitanUpgrade_TechLoyalist_Abilities"
+UpgradeType "SUPERDREAD_CERBTHEMIS_UPGRADEABILITYA"
+UpgradeType "SUPERDREAD_CERBTHEMIS_UPGRADEABILITYB"
+UpgradeType "SUPERDREAD_CERBTHEMIS_UPGRADEABILITYC"
+UpgradeType "SUPERDREAD_CERBTHEMIS_UPGRADEABILITYD"
+UpgradeType "SUPERDREAD_CERBTHEMIS_UPGRADEARMOR"
+UpgradeType "SUPERDREAD_CERBTHEMIS_UPGRADEWEAPONS"
+UpgradeType "SUPERDREAD_CERBTHEMIS_UPGRADELOADERS"
 numRandomDebrisLarge 80
 numRandomDebrisSmall 30
 numSpecificDebris 1
 specificDebrisMeshName "DebrisTechLarge"
 armorType "Titan"
-hudIcon "HUDICON_RESEARCHSUBJECT_TITAN_TECHLOYALIST"
-smallHudIcon "HUDICONSMALL_TITAN_TECHLOYALIST"
-infoCardIcon "INFOCARDICON_TITAN_TECHLOYALIST"
-minZoomDistanceMult 1.250000
+hudIcon "HUDICON_RESEARCHSUBJECT_TITAN_TECHREBEL"
+smallHudIcon "HUDICONSMALL_SUPERDREADNOUGHT_CERBTHEMIS"
+infoCardIcon "INFOCARDICON_CERB_THEMIS"
+minZoomDistanceMult 1.100000
 NumWeapons 4
 Weapon
 	WeaponType "Projectile"
 	damageEnums
-		AttackType "TITAN"
+		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
-		DamageType "ENERGY"
-		WeaponClassType "LASERTECH"
-	DamagePerBank:FRONT 0.000000
+		DamageType "PHYSICAL"
+		WeaponClassType "RAILGUN"
+	DamagePerBank:FRONT 3000.000000
 	DamagePerBank:BACK 0.000000
-	DamagePerBank:LEFT 114.750000
-	DamagePerBank:RIGHT 114.750000
-	Range 8000.000000
-	PreBuffCooldownTime 5.500000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 24000.000000
+	PreBuffCooldownTime 10.000000
 	CanFireAtFighter FALSE
-	SynchronizedTargeting TRUE
-	PointStaggerDelay 0.200000
-	TravelSpeed 4000.000000
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.000000
+	TravelSpeed 5500.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Projectile"
-		burstCount 5
+		burstCount 1
 		burstDelay 0.500000
 		fireDelay 0.000000
-		muzzleEffectName "Weapon_Tech_TitanLaser_Muzzle"
+		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
-			soundCount 2
-			sound "WEAPON_TECHCAPITALFIREBALLHEAVY_MUZZLE"
-			sound "WEAPON_TECHCAPITALFIREBALLHEAVY_MUZZLE_ALT1"
-		hitEffectName "Weapon_Tech_TitanLaser_Hit"
+			soundCount 3
+			sound "WEAPON_CERB_SPINALMASSACCMUZZLE1"
+			sound "WEAPON_CERB_SPINALMASSACCMUZZLE2"
+			sound "WEAPON_CERB_SPINALMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
 		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
 		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
-		projectileTravelEffectName "Weapon_Tech_TitanLaser_Travel"
+		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
 Weapon
 	WeaponType "Projectile"
 	damageEnums
-		AttackType "ANTILIGHT"
+		AttackType "ANTIVERYHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
-		WeaponClassType "FLAK"
-	DamagePerBank:FRONT 45.000000
-	DamagePerBank:BACK 45.000000
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 450.000000
+	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
-	Range 4500.000000
-	PreBuffCooldownTime 7.000000
+	Range 24000.000000
+	PreBuffCooldownTime 3.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.200000
+	TravelSpeed 3000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 2
+		burstDelay 0.850000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_CERB_AUXMASSACCMUZZLE1"
+			sound "WEAPON_CERB_AUXMASSACCMUZZLE2"
+			sound "WEAPON_CERB_AUXMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIMEDIUM"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 0.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 120.000000
+	DamagePerBank:RIGHT 120.000000
+	Range 6000.000000
+	PreBuffCooldownTime 1.200000
 	CanFireAtFighter TRUE
 	SynchronizedTargeting FALSE
-	PointStaggerDelay 0.100000
-	TravelSpeed 3500.000000
+	PointStaggerDelay 0.200000
+	TravelSpeed 6000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Projectile"
 		burstCount 1
-		burstDelay 0.000000
+		burstDelay 1.200000
 		fireDelay 0.000000
-		muzzleEffectName "Weapon_Tech_TitanFlakBurst_Muzzle"
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
-			soundCount 1
-			sound "WEAPON_TECHFLAKBURST_MUZZLE"
-		hitEffectName "Weapon_Tech_TitanFlakBurst_Hit"
+			soundCount 3
+			sound "WEAPON_CERB_BROADMASSACCMUZZLE1"
+			sound "WEAPON_CERB_BROADMASSACCMUZZLE2"
+			sound "WEAPON_CERB_BROADMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
 		hitHullEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
 		hitShieldsEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
-		projectileTravelEffectName "Weapon_Tech_TitanFlakBurst_Travel"
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Tech_AutoCannonFighter_Travel"
 Weapon
 	WeaponType "Beam"
 	damageEnums
 		AttackType "TITAN"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
-		DamageApplyType "OVERTIME"
+		DamageApplyType "BACKLOADED"
 		DamageType "ENERGY"
-		WeaponClassType "BEAM"
-	DamagePerBank:FRONT 148.750000
-	DamagePerBank:BACK 136.000000
+		WeaponClassType "ION"
+	DamagePerBank:FRONT 50000.000000
+	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
-	Range 8000.000000
-	PreBuffCooldownTime 8.000000
+	Range 24000.000000
+	PreBuffCooldownTime 10.000000
 	CanFireAtFighter FALSE
-	SynchronizedTargeting TRUE
-	PointStaggerDelay 0.250000
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.750000
 	TravelSpeed 0.000000
-	Duration 4.000000
+	Duration 1.800000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Beam"
 		burstCount 1
 		burstDelay 0.000000
 		fireDelay 0.000000
-		muzzleEffectName "Weapon_Tech_TitanBeam_Muzzle"
-		muzzleSoundMinRespawnTime 0.100000
+		muzzleEffectName "Weapon_Tech_CapitalBeam_Muzzle"
+		muzzleSoundMinRespawnTime 0.450000
 		muzzleSounds
 			soundCount 1
 			sound ""
-		hitEffectName "Weapon_Tech_TitanBeam_Hit"
+		hitEffectName "Weapon_Tech_CapitalBeam_Hit"
 		hitHullEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_ENERGYHEAVY_HITHULL"
+			sound ""
 		hitShieldsEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+			sound ""
 		beamEffectSounds
 			soundCount 1
-			sound "WEAPON_TECHSTARBASEBEAMHEAVY_TRAVEL"
-		beamGlowTextureName "TechStarBaseBeam_Glow"
-		beamCoreTextureName "TechStarBaseBeam_Core"
-		beamWidth 80.000000
+			sound "WEAPON_TECHCAPITALBEAMHEAVY_TRAVEL"
+		beamGlowTextureName "PhaseCapitalBombingBeam_Glow"
+		beamCoreTextureName "PhaseCapitalBombingBeam_Core"
+		beamWidth 15.000000
 		beamGlowColor ffffffff
 		beamCoreColor ffffffff
-		beamTilingRate 8.000000
-Weapon
-	WeaponType "Missile"
-	damageEnums
-		AttackType "TITAN"
-		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
-		DamageApplyType "BACKLOADED"
-		DamageType "PHYSICAL"
-		WeaponClassType "MISSILE"
-	DamagePerBank:FRONT 0.000000
-	DamagePerBank:BACK 0.000000
-	DamagePerBank:LEFT 127.500000
-	DamagePerBank:RIGHT 127.500000
-	Range 8000.000000
-	PreBuffCooldownTime 10.500000
-	CanFireAtFighter FALSE
-	SynchronizedTargeting FALSE
-	PointStaggerDelay 0.100000
-	TravelSpeed 1300.000000
-	Duration 0.000000
-	fireConstraintType "CanAlwaysFire"
-	WeaponEffects
-		weaponType "Missile"
-		burstCount 3
-		burstDelay 0.600000
-		fireDelay 0.000000
-		muzzleEffectName "Weapon_Tech_MissileCapShip_Muzzle"
-		muzzleSoundMinRespawnTime 0.500000
-		muzzleSounds
-			soundCount 3
-			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
-			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
-			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
-		hitEffectName "Weapon_Tech_MissileCapShip_Hit"
-		hitHullEffectSounds
-			soundCount 1
-			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
-		hitShieldsEffectSounds
-			soundCount 1
-			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
-		missileTravelEffectName "Weapon_Tech_MissileCapShip_Travel"
-		missileStartTurningDistance 250.000000
-		missileSlowTurnRate 1.208997
-		missileMaxSlowTurnTime 6.000000
-m_weaponIndexForRange 0
+		beamTilingRate 1.000000
+m_weaponIndexForRange 3
 firingAlignmentType "Default"
-TargetCountPerBank:FRONT 2
-TargetCountPerBank:BACK 2
-TargetCountPerBank:LEFT 3
-TargetCountPerBank:RIGHT 3
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
 canOnlyTargetStructures FALSE
 mass 100000.000000
-ShieldMeshName "Titan_TechLoyalist_Shield"
+ShieldMeshName "SuperDreadnought_CerbThemis_Shield"
 renderShield TRUE
-maxAccelerationLinear 80.000000
-maxAccelerationStrafe 10.000000
-maxDecelerationLinear 500.000000
-maxAccelerationAngular 0.900000
-maxDecelerationAngular 9.999996
-maxSpeedLinear 450.000000
+maxAccelerationLinear 60.000000
+maxAccelerationStrafe 20.000000
+maxDecelerationLinear 700.000000
+maxAccelerationAngular 0.800000
+maxDecelerationAngular 9.999998
+maxSpeedLinear 475.000000
 maxRollRate 1.650000
-maxRollAngle 19.999992
-useCustomHyperspaceEffects FALSE
+maxRollAngle 19.999996
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 ""
@@ -295,41 +267,49 @@ squadTypeEntityDef:2 ""
 squadAntiMatterCost:2 0.000000
 squadTypeEntityDef:3 ""
 squadAntiMatterCost:3 0.000000
-NumSoundsFor:ONATTACKORDERISSUED 4
-SoundID "TITAN_TECHLOYALIST_ONATTACKORDERISSUED_0"
-SoundID "TITAN_TECHLOYALIST_ONATTACKORDERISSUED_1"
-SoundID "TITAN_TECHLOYALIST_ONATTACKORDERISSUED_2"
-SoundID "TITAN_TECHLOYALIST_ONATTACKORDERISSUED_3"
-NumSoundsFor:ONCREATION 1
-SoundID "TITAN_TECHLOYALIST_ONCREATION_0"
-NumSoundsFor:ONGENERALORDERISSUED 3
-SoundID "TITAN_TECHLOYALIST_ONGENERALORDERISSUED_0"
-SoundID "TITAN_TECHLOYALIST_ONGENERALORDERISSUED_1"
-SoundID "TITAN_TECHLOYALIST_ONGENERALORDERISSUED_2"
-NumSoundsFor:ONSELECTED 3
-SoundID "TITAN_TECHLOYALIST_ONSELECTED_0"
-SoundID "TITAN_TECHLOYALIST_ONSELECTED_1"
-SoundID "TITAN_TECHLOYALIST_ONSELECTED_2"
-NumSoundsFor:ONSTARTPHASEJUMP 1
-SoundID "TITAN_TECHLOYALIST_ONSTARTPHASEJUMP_0"
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "SUPERDREAD_CERBTHEMIS_ONATTACK1"
+SoundID "SUPERDREAD_CERBTHEMIS_ONATTACK2"
+SoundID "SUPERDREAD_CERBTHEMIS_ONATTACK3"
+NumSoundsFor:ONCREATION 3
+SoundID "SUPERDREAD_CERBTHEMIS_ONCREATION1"
+SoundID "SUPERDREAD_CERBTHEMIS_ONCREATION2"
+SoundID "SUPERDREAD_CERBTHEMIS_ONCREATION3"
+NumSoundsFor:ONGENERALORDERISSUED 5
+SoundID "SUPERDREAD_CERBTHEMIS_ONGENERAL1"
+SoundID "SUPERDREAD_CERBTHEMIS_ONGENERAL2"
+SoundID "SUPERDREAD_CERBTHEMIS_ONGENERAL3"
+SoundID "SUPERDREAD_CERBTHEMIS_ONGENERAL4"
+SoundID "SUPERDREAD_CERBTHEMIS_ONGENERAL5"
+NumSoundsFor:ONSELECTED 4
+SoundID "SUPERDREAD_CERBTHEMIS_ONSELECTED1"
+SoundID "SUPERDREAD_CERBTHEMIS_ONSELECTED2"
+SoundID "SUPERDREAD_CERBTHEMIS_ONSELECTED3"
+SoundID "SUPERDREAD_CERBTHEMIS_ONSELECTED4"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "SUPERDREAD_CERBTHEMIS_ONJUMPSTART1"
+SoundID "SUPERDREAD_CERBTHEMIS_ONJUMPSTART2"
+SoundID "SUPERDREAD_CERBTHEMIS_ONJUMPSTART3"
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "Titan_TechLoyalist"
+	meshName "SuperDreadnought_CerbThemis"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
-ExhaustParticleSystemName "Exhaust_TechTitanLoyalist"
+ExhaustParticleSystemName ""
 ExplosionName "StarBase1"
 CommandPoints
-	StartValue 2.600000
-	ValueIncreasePerLevel 0.200000
+	StartValue 4.000000
+	ValueIncreasePerLevel 0.000000
 weaponCooldownDecreasePerc
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.030000
 weaponDamageIncreasePerc
 	StartValue 0.000000
-	ValueIncreasePerLevel 0.050000
+	ValueIncreasePerLevel 0.000000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_TECHCAPITALSHIP"
-formationRank 0
+formationRank 3
 minShadow 0.100000
 maxShadow 1.500000

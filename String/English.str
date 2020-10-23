@@ -1951,6 +1951,9 @@ StringInfo
 	ID "IDS_INFANTRY_REAPATK_SEEKERSWARM_NAME"
 	Value "Seeker Swarm"
 StringInfo
+	ID "IDS_INFANTRY_ALLIDEF_SPECOPS_DESCRIPTION"
+	Value "Seeker Swarm comes for you"
+StringInfo
 	ID "IDS_CRUISER_REAPCOLLECTOR_NAME"
 	Value "Collector Cruiser"
 StringInfo

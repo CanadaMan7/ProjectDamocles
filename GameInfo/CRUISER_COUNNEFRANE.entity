@@ -145,8 +145,8 @@ renderShield TRUE
 maxAccelerationLinear 100.000000
 maxAccelerationStrafe 30.000000
 maxDecelerationLinear 700.000000
-maxAccelerationAngular 4.999999
-maxDecelerationAngular 9.999998
+maxAccelerationAngular 4.999998
+maxDecelerationAngular 9.999996
 maxSpeedLinear 500.000000
 maxRollRate 6.000000
 maxRollAngle 34.999996

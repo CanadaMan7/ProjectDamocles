@@ -24,8 +24,8 @@ maxDecelerationLinear 1500.000000
 maxAccelerationAngular 60.000000
 maxDecelerationAngular 99.999985
 maxSpeedLinear 2000.000000
-maxRollRate 9.999998
-maxRollAngle 79.999985
+maxRollRate 9.999996
+maxRollAngle 79.999969
 NumWeapons 1
 Weapon
 	WeaponType "Projectile"

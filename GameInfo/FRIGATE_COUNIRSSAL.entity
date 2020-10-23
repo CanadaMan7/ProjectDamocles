@@ -148,7 +148,7 @@ maxAccelerationAngular 69.999992
 maxDecelerationAngular 90.000000
 maxSpeedLinear 700.000000
 maxRollRate 34.999996
-maxRollAngle 79.999985
+maxRollAngle 79.999969
 useCustomHyperspaceEffects FALSE
 squadTypeEntityDef:0 ""
 squadAntiMatterCost:0 0.000000

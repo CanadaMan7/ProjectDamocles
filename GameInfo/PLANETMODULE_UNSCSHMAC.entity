@@ -48,7 +48,7 @@ nearPlacementDistOffset 0.000000
 farPlacementDistOffset 30000.000000
 spawnCount 1
 swapMineType ""
-angularSpeed 4.999999
+angularSpeed 4.999998
 rotateSoundName ""
 rotateFacingType "None"
 rotateConstantly FALSE

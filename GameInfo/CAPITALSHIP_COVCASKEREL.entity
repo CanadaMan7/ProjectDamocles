@@ -297,7 +297,7 @@ maxAccelerationLinear 70.000000
 maxAccelerationStrafe 70.000000
 maxDecelerationLinear 1000.000000
 maxAccelerationAngular 1.300000
-maxDecelerationAngular 9.999998
+maxDecelerationAngular 9.999996
 maxSpeedLinear 700.000000
 maxRollRate 2.000000
 maxRollAngle 34.999996

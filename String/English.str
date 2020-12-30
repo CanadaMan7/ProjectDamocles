@@ -1,5 +1,5 @@
 ﻿TXT
-NumStrings 22247
+NumStrings 22030
 StringInfo
 	ID "IDS_PLANETBONUS_HOMEWORLDCOUNCIL_NAME"
 	Value "Council Space"
@@ -9218,7 +9218,7 @@ StringInfo
 	Value "Punic-class Design"
 StringInfo
 	ID "RESEARCH_UNSC_CAPSHIP_VALIANT_DESCRIPTION"
-	Value "One of the largest and most powerful support warships ever utilized by Humanity, this combat vessel excels in coordinating fleet combat efforts. [EFFECT: Allows construction of the Caliant Super Heavy Cruiser]"
+	Value "One of the largest and most powerful support warships ever utilized by Humanity, this combat vessel excels in coordinating fleet combat efforts. [EFFECT: Allows construction of the Valiant Super Heavy Cruiser]"
 StringInfo
 	ID "RESEARCH_UNSC_CAPSHIP_VALIANT_NAME"
 	Value "Valiant-class Design"

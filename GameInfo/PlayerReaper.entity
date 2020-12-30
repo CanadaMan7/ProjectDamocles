@@ -21,25 +21,20 @@ entities
 			entityDefName "STRUCTURE_REAPDREADYARD"
 			entityDefName "STRUCTURE_REAPCIVLAB"
 		Page:1
-			count 3
+			count 2
 			entityDefName "STRUCTURE_REAPSUPERDREADYARD"
 			entityDefName "STRUCTURE_REAPHADES"
-			entityDefName "STRUCTURE_REAPSUPERDREADYARDAI"
 	titanInfo
 		Page:0
-			count 2
+			count 1
 			entityDefName "SUPERDREAD_REAPHARBINGER"
-			entityDefName "SUPERDREAD_REAPHARBINGERAI"
 	capitalShipInfo
 		Page:0
-			count 7
+			count 4
 			entityDefName "DREADNOUGHT_REAPVANGUARD"
 			entityDefName "DREADNOUGHT_REAPSOVEREIGN"
 			entityDefName "DREADNOUGHT_REAPCOLLECTOR"
 			entityDefName "DREADNOUGHT_REAPGETH"
-			entityDefName "DREADNOUGHT_REAPSOVEREIGNAI"
-			entityDefName "DREADNOUGHT_REAPGETHAI"
-			entityDefName "DREADNOUGHT_REAPVANGUARDAI"
 	frigateInfo
 		Page:0
 			count 3
@@ -59,9 +54,9 @@ entities
 			entityDefName "FRIGATE_UNSCREFINERYSHIP"
 	researchInfo
 		count 56
-		entityDefName "RESEARCHSUBJECT_GLOBALBALANCEMODIFIER"
-		entityDefName "RESEARCHSUBJECT_REAPERFORCEAI_AID"
 		entityDefName "RESEARCHSUBJECT_PACTBONUS_GENERIC0"
+		entityDefName "RESEARCHSUBJECT_GLOBALBALANCEMODIFIER"
+		entityDefName "RESEARCHSUBJECT_COVFORCEAI_AID"
 		entityDefName "RESEARCH_REAPTOOLS_BASEREPLICATION"
 		entityDefName "RESEARCH_REAPTOOLS_COLLECTORGENERAL"
 		entityDefName "RESEARCH_REAPTOOLS_COLLECTORGENETICIST"
@@ -749,7 +744,7 @@ field "IDS_UNSC_RESEARCHFIELD_ARTIFACT"
 field "IDS_UNSC_RESEARCHFIELD_FLEET"
 playerThemeGroupName "PlayerEmblemsInGame"
 playerPictureGroupName "PLAYERPIC_UNSC"
-raceRelationsModCount 2
+raceRelationsModCount 6
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_UNSC"
 	modifierMin 2.500000
@@ -764,6 +759,46 @@ raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_COV"
 	modifierMin -2.500000
 	modifierMax -3.000000
+	factionRelationsModCount 1
+	factionRelationsModifier
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		modifierMin 0.000000
+		modifierMax 0.000000
+raceRelationsModifier
+	raceNameID "IDS_PLAYERRACENAME_COUNCIL"
+	modifierMin -2.500000
+	modifierMax -3.000000
+	factionRelationsModCount 1
+	factionRelationsModifier
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		modifierMin 0.000000
+		modifierMax 0.000000
+raceRelationsModifier
+	raceNameID "IDS_PLAYERRACENAME_CERBERUS"
+	modifierMin 2.500000
+	modifierMax 3.000000
+	factionRelationsModCount 1
+	factionRelationsModifier
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		modifierMin 0.000000
+		modifierMax 0.000000
+raceRelationsModifier
+	raceNameID "IDS_PLAYERRACENAME_REAPER"
+	modifierMin -2.500000
+	modifierMax -3.000000
+	factionRelationsModCount 1
+	factionRelationsModifier
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		modifierMin 0.000000
+		modifierMax 0.000000
+raceRelationsModifier
+	raceNameID "IDS_PLAYERRACENAME_ALLIANCE"
+	modifierMin 2.500000
+	modifierMax 3.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
 		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"

@@ -1,0 +1,110 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "StarBaseUpgrade"
+stageCount 3
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASE_CERBVULCAN_UPGRADEHULL_NAME"
+	descStringID "IDS_STARBASE_CERBVULCAN_UPGRADEHULL_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechToughness0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechToughness0"
+	infoCardIcon ""
+	upgradePropertyCount 6
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 7500.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 8.000000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 4000.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 10.000000
+	upgradeProperty
+		propertyType "MaxShieldMitigation"
+		value 0.700000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 8.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1000.000000
+		metal 400.000000
+		crystal 250.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASE_CERBVULCAN_UPGRADEHULL_NAME"
+	descStringID "IDS_STARBASE_CERBVULCAN_UPGRADEHULL_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechToughness0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechToughness0"
+	infoCardIcon ""
+	upgradePropertyCount 6
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 10000.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 10.000000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 5750.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 12.000000
+	upgradeProperty
+		propertyType "MaxShieldMitigation"
+		value 0.700000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 10.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 2200.000000
+		metal 500.000000
+		crystal 350.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASE_CERBVULCAN_UPGRADEHULL_NAME"
+	descStringID "IDS_STARBASE_CERBVULCAN_UPGRADEHULL_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechToughness1"
+	smallHudIcon "HUDIconStarBaseUpgradeTechToughness1"
+	infoCardIcon ""
+	upgradePropertyCount 6
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 15500.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 13.000000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 7750.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 16.000000
+	upgradeProperty
+		propertyType "MaxShieldMitigation"
+		value 0.700000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 12.000000
+	upgradeBoolPropertyCount 0
+xpModifier 75.000000

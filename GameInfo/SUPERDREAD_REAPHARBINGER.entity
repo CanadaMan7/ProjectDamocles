@@ -8,77 +8,73 @@ ability:3 ""
 ability:4 ""
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
-prefersToFocusFire TRUE
+prefersToFocusFire FALSE
 usesFighterAttack FALSE
-autoJoinFleetDefault TRUE
+autoJoinFleetDefault FALSE
 canBomb TRUE
 hasBombingLevels FALSE
 baseDamage 200.000000
-basePopulationKilled 20.000000
+basePopulationKilled 11.200000
 bombingFreqTime 5.000000
 baseRange 3000.000000
-bombTransitTime 25.000000
-bombEffectCount 1
-bombEffectAngleVariance 0.000000
+bombTransitTime 24.000000
+bombEffectCount 3
+bombEffectAngleVariance 15.000000
 bombEffectsDef
-	weaponType "Beam"
-	burstCount 1
-	burstDelay 0.000000
-	fireDelay 0.000000
-	muzzleEffectName "Weapon_ComposerBomb_Muzzle"
+	weaponType "Projectile"
+	burstCount 3
+	burstDelay 2.000000
+	fireDelay 1.000000
+	muzzleEffectName "Weapon_UNSCPlanetInvasion_Muzzle"
 	muzzleSoundMinRespawnTime 0.100000
 	muzzleSounds
 		soundCount 1
-		sound ""
-	hitEffectName "Weapon_ComposerBomb_Hit"
+		sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+	hitEffectName "Weapon_UNSCPlanetInvasion_Hit"
 	hitHullEffectSounds
-		soundCount 1
-		sound ""
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
 	hitShieldsEffectSounds
-		soundCount 1
-		sound ""
-	beamEffectSounds
-		soundCount 1
-		sound "WEAPON_PHASEPLANETBOMB_LOOP"
-	beamGlowTextureName "PhaseCapitalBombingBeam_Glow"
-	beamCoreTextureName "PhaseCapitalBombingBeam_Core"
-	beamWidth 175.000000
-	beamGlowColor ffffffff
-	beamCoreColor ffffffff
-	beamTilingRate 3.000000
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	projectileTravelEffectName "Weapon_CovPlanetInvasion_Travel"
 mainViewIcon "MAINVIEWICON_SUPERDREAD_REAPHARBY"
 basePrice
 	credits 0.000000
-	metal 36000.000000
-	crystal 32000.000000
-slotCount 150.000000
-BuildTime 450.000000
+	metal 20000.000000
+	crystal 20000.000000
+slotCount 200.000000
+BuildTime 180.000000
 MaxHullPoints
 	StartValue 51500.000000
-	ValueIncreasePerLevel 0.000000
+	ValueIncreasePerLevel 350.000000
 MaxShieldPoints
 	StartValue 45000.000000
-	ValueIncreasePerLevel 0.000000
+	ValueIncreasePerLevel 350.000000
 HullPointRestoreRate
-	StartValue 15.000000
-	ValueIncreasePerLevel 0.000000
+	StartValue 45.000000
+	ValueIncreasePerLevel 5.000000
 ShieldPointRestoreRate
-	StartValue 40.000000
-	ValueIncreasePerLevel 0.000000
+	StartValue 1000.000000
+	ValueIncreasePerLevel 25.000000
 ArmorPointsFromExperience
-	StartValue 25.000000
+	StartValue 20.000000
 	ValueIncreasePerLevel 0.000000
 maxMitigation
 	StartValue 0.950000
 	ValueIncreasePerLevel 0.000000
 MaxAntiMatter
-	StartValue 3100.000000
+	StartValue 3600.000000
 	ValueIncreasePerLevel 0.000000
 AntiMatterRestoreRate
 	StartValue 3.000000
 	ValueIncreasePerLevel 0.000000
 CultureProtectRate
-	StartValue 1.000000
+	StartValue 5.000000
 	ValueIncreasePerLevel 0.000000
 NameStringID "IDS_SUPERDREAD_REAPHARBINGER_NAME"
 DescriptionStringID "IDS_SUPERDREAD_REAPHARBINGER_DESCRIPTION"
@@ -110,14 +106,14 @@ Weapon
 	damageEnums
 		AttackType "TITAN"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
-		DamageApplyType "OVERTIME"
+		DamageApplyType "BACKLOADED"
 		DamageType "ENERGY"
-		WeaponClassType "ION"
+		WeaponClassType "FLASHBEAM"
 	DamagePerBank:FRONT 15000.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
-	Range 15000.000000
+	Range 16000.000000
 	PreBuffCooldownTime 1.500000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE

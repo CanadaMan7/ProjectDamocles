@@ -1,0 +1,147 @@
+TXT2
+SinsArchiveVersion 193
+entityType "Titan"
+ability:0 "Ability_Cerb_ArkColonize"
+ability:1 "Ability_Cerb_ArkFTL"
+ability:2 "Ability_Cerb_ArkForwardStation"
+ability:3 "Ability_Cerb_ArkDiplo"
+ability:4 "Ability_Cerb_ArkEXP"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault FALSE
+canBomb FALSE
+mainViewIcon "MAINVIEWICON_SUPERDREADNOUGHT_CERBARK"
+basePrice
+	credits 9500.000000
+	metal 2650.000000
+	crystal 3500.000000
+slotCount 80.000000
+BuildTime 240.000000
+MaxHullPoints
+	StartValue 10000.000000
+	ValueIncreasePerLevel 250.000000
+MaxShieldPoints
+	StartValue 15000.000000
+	ValueIncreasePerLevel 350.000000
+HullPointRestoreRate
+	StartValue 8.000000
+	ValueIncreasePerLevel 5.500000
+ShieldPointRestoreRate
+	StartValue 300.000000
+	ValueIncreasePerLevel 5.000000
+ArmorPointsFromExperience
+	StartValue 6.000000
+	ValueIncreasePerLevel 0.000000
+maxMitigation
+	StartValue 0.950000
+	ValueIncreasePerLevel 0.000000
+MaxAntiMatter
+	StartValue 2200.000000
+	ValueIncreasePerLevel 0.000000
+AntiMatterRestoreRate
+	StartValue 1.500000
+	ValueIncreasePerLevel 0.100000
+CultureProtectRate
+	StartValue 0.750000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_SUPERDREAD_CERBARK_NAME"
+DescriptionStringID "IDS_SUPERDREAD_CERBARK_DESCRIPTION"
+picture "SUPERDREADNOUGHT_CERB_ARK"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_CERBCORPORATION_HECATE"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+statCountType "Titan"
+UpgradeTypeCount 8
+UpgradeType "SUPERDREAD_CERBARK_UPGRADEABILITYA"
+UpgradeType "SUPERDREAD_CERBARK_UPGRADEABILITYB"
+UpgradeType "SUPERDREAD_CERBARK_UPGRADEABILITYC"
+UpgradeType "SUPERDREAD_CERBARK_UPGRADEABILITYD"
+UpgradeType "SUPERDREAD_CERBARK_UPGRADEHULL"
+UpgradeType "SUPERDREAD_CERBARK_UPGRADEBARRIERS"
+UpgradeType "SUPERDREAD_CERBARK_UPGRADEREACTOR"
+UpgradeType "SUPERDREAD_CERBARK_UPGRADEABILITYE"
+numRandomDebrisLarge 80
+numRandomDebrisSmall 30
+numSpecificDebris 1
+specificDebrisMeshName "DebrisTechLarge"
+armorType "Heavy"
+hudIcon "HUDICON_SUPERDREAD_CERBARK"
+smallHudIcon "HUDICONSMALL_SUPERDREADNOUGHT_CERBARK"
+infoCardIcon "INFOCARDICON_CERB_ARK"
+minZoomDistanceMult 1.250000
+NumWeapons 0
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 0
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+mass 100000.000000
+ShieldMeshName "SuperDreadnought_CerbArk_Shield"
+renderShield TRUE
+maxAccelerationLinear 200.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 400.000000
+maxAccelerationAngular 0.900000
+maxDecelerationAngular 9.999998
+maxSpeedLinear 650.000000
+maxRollRate 1.650000
+maxRollAngle 19.999996
+squadTypeEntityDef:0 "SQUAD_CERBSUDAN"
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 "SQUAD_CERBMOROCCO"
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 2
+SoundID "SUPERDREAD_CERBARK_ONATTACK1"
+SoundID "SUPERDREAD_CERBARK_ONATTACK2"
+NumSoundsFor:ONCREATION 2
+SoundID "SUPERDREAD_CERBARK_ONCREATION1"
+SoundID "SUPERDREAD_CERBARK_ONCREATION2"
+NumSoundsFor:ONGENERALORDERISSUED 4
+SoundID "SUPERDREAD_CERBARK_ONGENERAL1"
+SoundID "SUPERDREAD_CERBARK_ONGENERAL2"
+SoundID "SUPERDREAD_CERBARK_ONGENERAL3"
+SoundID "SUPERDREAD_CERBARK_ONGENERAL4"
+NumSoundsFor:ONSELECTED 4
+SoundID "SUPERDREAD_CERBARK_ONSELECTED1"
+SoundID "SUPERDREAD_CERBARK_ONSELECTED2"
+SoundID "SUPERDREAD_CERBARK_ONSELECTED3"
+SoundID "SUPERDREAD_CERBARK_ONSELECTED4"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "SUPERDREAD_CERBARK_ONJUMPSTART1"
+SoundID "SUPERDREAD_CERBARK_ONJUMPSTART2"
+SoundID "SUPERDREAD_CERBARK_ONJUMPSTART3"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "SuperDreadnought_CerbArk"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "StarBase1"
+CommandPoints
+	StartValue 6.000000
+	ValueIncreasePerLevel 0.000000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.030000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.000000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_TECHCAPITALSHIP"
+formationRank 0
+minShadow 0.100000
+maxShadow 1.500000

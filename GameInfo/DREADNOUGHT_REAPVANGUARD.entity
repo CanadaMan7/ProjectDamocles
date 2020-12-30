@@ -13,39 +13,35 @@ usesFighterAttack FALSE
 autoJoinFleetDefault TRUE
 canBomb TRUE
 hasBombingLevels FALSE
-baseDamage 50.000000
-basePopulationKilled 20.000000
+baseDamage 120.000000
+basePopulationKilled 11.200000
 bombingFreqTime 5.000000
 baseRange 3000.000000
-bombTransitTime 25.000000
-bombEffectCount 1
-bombEffectAngleVariance 0.000000
+bombTransitTime 24.000000
+bombEffectCount 3
+bombEffectAngleVariance 15.000000
 bombEffectsDef
-	weaponType "Beam"
-	burstCount 1
-	burstDelay 0.000000
-	fireDelay 0.000000
-	muzzleEffectName "Weapon_ComposerBomb_Muzzle"
+	weaponType "Projectile"
+	burstCount 3
+	burstDelay 2.000000
+	fireDelay 1.000000
+	muzzleEffectName "Weapon_UNSCPlanetInvasion_Muzzle"
 	muzzleSoundMinRespawnTime 0.100000
 	muzzleSounds
 		soundCount 1
-		sound ""
-	hitEffectName "Weapon_ComposerBomb_Hit"
+		sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+	hitEffectName "Weapon_UNSCPlanetInvasion_Hit"
 	hitHullEffectSounds
-		soundCount 1
-		sound ""
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
 	hitShieldsEffectSounds
-		soundCount 1
-		sound ""
-	beamEffectSounds
-		soundCount 1
-		sound "WEAPON_PHASEPLANETBOMB_LOOP"
-	beamGlowTextureName "PhaseCapitalBombingBeam_Glow"
-	beamCoreTextureName "PhaseCapitalBombingBeam_Core"
-	beamWidth 75.000000
-	beamGlowColor ffffffff
-	beamCoreColor ffffffff
-	beamTilingRate 3.000000
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	projectileTravelEffectName "Weapon_CovPlanetInvasion_Travel"
 mainViewIcon "MAINVIEWICON_DREAD_REAPSOV"
 basePrice
 	credits 0.000000
@@ -55,18 +51,18 @@ slotCount 60.000000
 BuildTime 300.000000
 MaxHullPoints
 	StartValue 16500.000000
-	ValueIncreasePerLevel 0.000000
+	ValueIncreasePerLevel 350.000000
 MaxShieldPoints
 	StartValue 14000.000000
-	ValueIncreasePerLevel 0.000000
+	ValueIncreasePerLevel 350.000000
 HullPointRestoreRate
-	StartValue 6.000000
+	StartValue 16.000000
 	ValueIncreasePerLevel 0.000000
 ShieldPointRestoreRate
-	StartValue 20.000000
-	ValueIncreasePerLevel 0.000000
+	StartValue 750.000000
+	ValueIncreasePerLevel 50.000000
 ArmorPointsFromExperience
-	StartValue 12.000000
+	StartValue 20.000000
 	ValueIncreasePerLevel 0.000000
 maxMitigation
 	StartValue 0.850000
@@ -107,14 +103,14 @@ Weapon
 	damageEnums
 		AttackType "TITAN"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
-		DamageApplyType "OVERTIME"
+		DamageApplyType "BACKLOADED"
 		DamageType "ENERGY"
-		WeaponClassType "ION"
-	DamagePerBank:FRONT 2500.000000
+		WeaponClassType "FLASHBEAM"
+	DamagePerBank:FRONT 4500.000000
 	DamagePerBank:BACK 0.000000
-	DamagePerBank:LEFT 1500.000000
-	DamagePerBank:RIGHT 1500.000000
-	Range 12000.000000
+	DamagePerBank:LEFT 2500.000000
+	DamagePerBank:RIGHT 2500.000000
+	Range 18000.000000
 	PreBuffCooldownTime 10.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE

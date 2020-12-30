@@ -1,0 +1,49 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_PROJECTALACRITY_RESEARCH"
+smallHudIcon "HUDICON_PROJECTALACRITY_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_CERBCORPORATION_ALACRITY_NAME"
+DescriptionStringID "IDS_RESEARCH_CERBCORPORATION_ALACRITY_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 4 , 2 ]
+ResearchField "Fleet"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_CERBCORPORATION_NEXUS"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_CERBESCAPE"
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 90.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1400.000000
+	metal 250.000000
+	crystal 400.000000
+PerLevelCostIncrease
+	credits 300.000000
+	metal 125.000000
+	crystal 125.000000
+Tier 4
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "PlanetUpgradeBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.500000
+	linkedPlanetUpgradeType "Population"
+researchModifier
+	modifierType "PlanetUpgradeCostAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.500000
+	linkedPlanetUpgradeType "Population"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

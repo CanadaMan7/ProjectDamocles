@@ -22,9 +22,7 @@ entities
 			entityDefName "PLANETMODULE_UNSCNONCOMBATLABORATORY"
 			entityDefName "STRUCTURE_COUNQUANTUMRELAY"
 		Page:1
-			count 5
-			entityDefName "PLANETMODULE_UNSCSMAC"
-			entityDefName "PLANETMODULE_UNSCSHMAC"
+			count 3
 			entityDefName "PLANETMODULE_UNSCHANGARDEFENSE"
 			entityDefName "PLANETMODULE_UNSCREPAIRYARD"
 			entityDefName "STRUCTURE_COUNSUPERDREADYARD"
@@ -71,12 +69,12 @@ entities
 			entityDefName "FRIGATE_COUNATHABASCA"
 		NotOnPage
 			count 6
-			entityDefName "FRIGATE_UNSCAIDRIVER"
-			entityDefName "FRIGATE_UNSCAIDRIVER2"
 			entityDefName "FRIGATE_UNSCMODULECONSTRUCTOR"
 			entityDefName "FRIGATE_UNSCTRADESHIP"
 			entityDefName "FRIGATE_UNSCREFINERYSHIP"
 			entityDefName "FRIGATE_UNSCSBCONSTRUCTORAI1"
+			entityDefName "FRIGATE_UNSCAIDRIVER"
+			entityDefName "FRIGATE_UNSCAIDRIVER2"
 	researchInfo
 		count 106
 		entityDefName "RESEARCH_COUNFLEET_ADMIRALBORIS"
@@ -826,7 +824,7 @@ field "IDS_COUN_RESEARCHFIELD_ARTIFACT"
 field "IDS_COUN_RESEARCHFIELD_FLEET"
 playerThemeGroupName "PlayerEmblemsInGame"
 playerPictureGroupName "PLAYERPIC_UNSC"
-raceRelationsModCount 2
+raceRelationsModCount 6
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_UNSC"
 	modifierMin 2.500000
@@ -841,6 +839,46 @@ raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_COV"
 	modifierMin -2.500000
 	modifierMax -3.000000
+	factionRelationsModCount 1
+	factionRelationsModifier
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		modifierMin 0.000000
+		modifierMax 0.000000
+raceRelationsModifier
+	raceNameID "IDS_PLAYERRACENAME_COUNCIL"
+	modifierMin -2.500000
+	modifierMax -3.000000
+	factionRelationsModCount 1
+	factionRelationsModifier
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		modifierMin 0.000000
+		modifierMax 0.000000
+raceRelationsModifier
+	raceNameID "IDS_PLAYERRACENAME_CERBERUS"
+	modifierMin 2.500000
+	modifierMax 3.000000
+	factionRelationsModCount 1
+	factionRelationsModifier
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		modifierMin 0.000000
+		modifierMax 0.000000
+raceRelationsModifier
+	raceNameID "IDS_PLAYERRACENAME_REAPER"
+	modifierMin -2.500000
+	modifierMax -3.000000
+	factionRelationsModCount 1
+	factionRelationsModifier
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		modifierMin 0.000000
+		modifierMax 0.000000
+raceRelationsModifier
+	raceNameID "IDS_PLAYERRACENAME_ALLIANCE"
+	modifierMin 2.500000
+	modifierMax 3.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
 		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"

@@ -22,11 +22,11 @@ basePrice
 slotCount 30.000000
 BuildTime 150.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 350.000000
+ExperiencePointsForDestroying 100.000000
 MaxHullPoints 6400.000000
-MaxShieldPoints 4550.000000
+MaxShieldPoints 7550.000000
 HullPointRestoreRate 6.000000
-ShieldPointRestoreRate 12.000000
+ShieldPointRestoreRate 17.000000
 BaseArmorPoints 9.000000
 maxMitigation 0.850000
 relationshipChangeRate 0.000000
@@ -53,12 +53,12 @@ Weapon
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
 		DamageType "ENERGY"
-		WeaponClassType "ION"
+		WeaponClassType "FLASHBEAM"
 	DamagePerBank:FRONT 2000.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
-	Range 11000.000000
+	Range 18000.000000
 	PreBuffCooldownTime 7.500000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
@@ -96,17 +96,17 @@ Weapon
 	WeaponType "Beam"
 	damageEnums
 		AttackType "TITAN"
-		DamageAffectType "Invalid"
+		DamageAffectType "AFFECTS_ONLY_HULL"
 		DamageApplyType "BACKLOADED"
 		DamageType "ENERGY"
 		WeaponClassType "ION"
-	DamagePerBank:FRONT 500.000000
+	DamagePerBank:FRONT 200.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
-	Range 8500.000000
-	PreBuffCooldownTime 7.500000
-	CanFireAtFighter FALSE
+	Range 12500.000000
+	PreBuffCooldownTime 2.500000
+	CanFireAtFighter TRUE
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 1.000000
 	TravelSpeed 0.000000

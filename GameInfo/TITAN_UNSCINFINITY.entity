@@ -51,27 +51,27 @@ slotCount 200.000000
 BuildTime 480.000000
 MaxHullPoints
 	StartValue 24000.000000
-	ValueIncreasePerLevel 0.000000
+	ValueIncreasePerLevel 250.000000
 MaxShieldPoints
 	StartValue 70000.000000
-	ValueIncreasePerLevel 0.000000
+	ValueIncreasePerLevel 350.000000
 HullPointRestoreRate
 	StartValue 35.000000
-	ValueIncreasePerLevel 0.000000
+	ValueIncreasePerLevel 5.000000
 ShieldPointRestoreRate
 	StartValue 3500.000000
-	ValueIncreasePerLevel 0.000000
+	ValueIncreasePerLevel 50.000000
 ArmorPointsFromExperience
 	StartValue 18.000000
 	ValueIncreasePerLevel 0.000000
 maxMitigation
-	StartValue 0.000000
+	StartValue 0.900000
 	ValueIncreasePerLevel 0.000000
 MaxAntiMatter
 	StartValue 117.000000
 	ValueIncreasePerLevel 0.000000
 AntiMatterRestoreRate
-	StartValue 0.000000
+	StartValue 1.000000
 	ValueIncreasePerLevel 0.000000
 CultureProtectRate
 	StartValue 1.000000
@@ -112,7 +112,7 @@ Weapon
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
 	Range 30000.000000
-	PreBuffCooldownTime 20.000000
+	PreBuffCooldownTime 10.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting TRUE
 	PointStaggerDelay 0.500000

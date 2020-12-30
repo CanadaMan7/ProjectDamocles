@@ -1,0 +1,52 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_OPTIMISEDVI_RESEARCH"
+smallHudIcon "HUDICON_OPTIMISEDVI_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_CERBMANPOWER_OPTIMISEDVI_NAME"
+DescriptionStringID "IDS_RESEARCH_CERBMANPOWER_OPTIMISEDVI_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 1 , 2 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 60.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 800.000000
+	metal 100.000000
+	crystal 175.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 1
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 4
+researchModifier
+	modifierType "CapitalShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 1.000000
+researchModifier
+	modifierType "ShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 100.000000
+researchModifier
+	modifierType "CreditCostAdjustment"
+	baseValue 0.000000
+	perLevelValue -0.030000
+researchModifier
+	modifierType "ResourceCostAdjustment"
+	baseValue 0.000000
+	perLevelValue -0.030000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

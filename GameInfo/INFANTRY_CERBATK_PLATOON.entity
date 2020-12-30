@@ -1,0 +1,73 @@
+TXT2
+SinsArchiveVersion 194
+entityType "PlanetModuleStandard"
+minZoomDistanceMult 2.000000
+ability:0 "Ability_Cerb_AssaultPlatoon"
+ability:1 "Ability_Cerb_A61Mantis"
+ability:2 "Ability_Cerb_DefenseSpecialists"
+ability:3 "Ability_Cerb_InfantryOccupy"
+ability:4 "Ability_Cerb_InfantryDurationShort"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+numRandomDebrisLarge 0
+numRandomDebrisSmall 0
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_PLANETMODULE_TECHORBITALREPAIRPLATFORM"
+smallHudIcon "MAINVIEWICON_INFANTRY_MARINE2"
+infoCardIcon "INFOCARDICON_PLANETMODULE_TECHORBITALREPAIRPLATFORM"
+planetUpgradeSlotType "Tactical"
+planetUpgradeSlotCount 0.000000
+basePrice
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+NameStringID "IDS_INFANTRY_CERBATK_ASSAULTPLATOON_NAME"
+DescriptionStringID "IDS_INFANTRY_ALLIDEF_MARINECOMPANY_DESCRIPTION"
+planetModuleRoleType "SPACEMINE"
+statCountType "Invalid"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MaxHullPoints 100.000000
+HullPointRestoreRate 0.000000
+BaseArmorPoints 0.000000
+MaxShieldPoints 0.000000
+ShieldPointRestoreRate 0.000000
+maxShieldMitigation 0.000000
+ExperiencePointsForDestroying 25.000000
+resourceExtractionType "Invalid"
+cultureSpreadRate 0.050000
+isAffectedBySimilarModuleCostResearch FALSE
+placementRadius 100.000000
+nearPlacementDistOffset 0.000000
+farPlacementDistOffset 20500.000000
+spawnCount 1
+swapMineType ""
+angularSpeed 0.000000
+rotateSoundName ""
+rotateFacingType "None"
+rotateConstantly FALSE
+ShieldMeshName ""
+renderShield TRUE
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "PLANETMODULE_TECHORBITALREPAIRPLATFORM_ONSELECTION_0"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Generic_BlankMesh"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExplosionName "PlanetModuleSmall"
+mainViewIcon "MAINVIEWICON_INFANTRY_PLATOON"
+picture "INFANTRY_CERB_CERBERUSPLATOON"
+minShadow 0.000000
+maxShadow 0.000000
+formationRank 3
+baseBuildTime 50.000000
+buildEffectName ""

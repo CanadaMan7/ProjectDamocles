@@ -1,0 +1,85 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "StarBaseUpgrade"
+stageCount 4
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASE_CERBNEXUS_UPGRADESELFREPAIR_NAME"
+	descStringID "IDS_STARBASE_CERBNEXUS_UPGRADESELFREPAIR_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechResupply0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechResupply0"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityBLevel"
+		value 1.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1000.000000
+		metal 125.000000
+		crystal 50.000000
+	upgradeTime 30.000000
+	nameStringID "IDS_STARBASE_CERBNEXUS_UPGRADESELFREPAIR_NAME"
+	descStringID "IDS_STARBASE_CERBNEXUS_UPGRADESELFREPAIR_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechResupply0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechResupply0"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityBLevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 2000.000000
+		metal 250.000000
+		crystal 100.000000
+	upgradeTime 45.000000
+	nameStringID "IDS_STARBASE_CERBNEXUS_UPGRADESELFREPAIR_NAME"
+	descStringID "IDS_STARBASE_CERBNEXUS_UPGRADESELFREPAIR_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechResupply1"
+	smallHudIcon "HUDIconStarBaseUpgradeTechResupply1"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityBLevel"
+		value 3.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 4000.000000
+		metal 500.000000
+		crystal 250.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASE_CERBNEXUS_UPGRADESELFREPAIR_NAME"
+	descStringID "IDS_STARBASE_CERBNEXUS_UPGRADESELFREPAIR_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechResupply1"
+	smallHudIcon "HUDIconStarBaseUpgradeTechResupply1"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityBLevel"
+		value 4.000000
+	upgradeBoolPropertyCount 0
+xpModifier 50.000000

@@ -24,7 +24,7 @@ BuildTime 25.000000
 hasLevels FALSE
 ExperiencePointsForDestroying 15.000000
 MaxHullPoints 950.000000
-MaxShieldPoints 450.000000
+MaxShieldPoints 1450.000000
 HullPointRestoreRate 0.500000
 ShieldPointRestoreRate 2.500000
 BaseArmorPoints 0.000000
@@ -112,7 +112,7 @@ EngineSoundID "ENGINE_PSICAPITALSHIP"
 ability:0 "Ability_Alli_AthabascaColonize"
 ability:1 "Ability_Alli_AthabascaImmigrants"
 ability:2 "Ability_Alli_DeployArcturusStarbase"
-ability:3 ""
+ability:3 "AbilityUNSCCaptureNeutralEntity"
 ability:4 ""
 MaxAntiMatter 225.000000
 AntiMatterRestoreRate 0.500000

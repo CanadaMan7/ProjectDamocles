@@ -1,0 +1,45 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "StarBaseUpgrade"
+stageCount 2
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASE_CERBVULCAN_UPGRADEPROBES_NAME"
+	descStringID "IDS_STARBASE_CERBVULCAN_UPGRADEPROBES_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechSelfDestruct0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechSelfDestruct0"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 2000.000000
+		metal 150.000000
+		crystal 150.000000
+	upgradeTime 45.000000
+	nameStringID "IDS_STARBASE_CERBVULCAN_UPGRADEPROBES_NAME"
+	descStringID "IDS_STARBASE_CERBVULCAN_UPGRADEPROBES_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCH_CERBSECURITY_SCHRODINGER"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechSelfDestruct0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechSelfDestruct0"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityBLevel"
+		value 1.000000
+	upgradeBoolPropertyCount 0
+xpModifier 25.000000

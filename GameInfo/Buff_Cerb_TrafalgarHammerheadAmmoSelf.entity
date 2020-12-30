@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 194
+SinsArchiveVersion 193
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -55,7 +55,7 @@ instantAction
 instantAction
 	buffInstantActionType "RemoveBuffOfType"
 	instantActionTriggerType "OnBuffFinish"
-	buffTypeToRemove "Buff_Cerb_TrafalgarHammerheadAmmoStart"
+buffTypeToRemove "Buff_Cerb_TrafalgarHammerheadAmmoStart"
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0

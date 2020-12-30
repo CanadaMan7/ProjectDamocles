@@ -1,0 +1,277 @@
+TXT2
+SinsArchiveVersion 194
+entityType "CapitalShip"
+ability:0 "Ability_Cerb_CerusControlSignal"
+ability:1 "Ability_Cerb_CerusMassField"
+ability:2 ""
+ability:3 "Ability_Cerb_CerusForcedControl"
+ability:4 ""
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+mainViewIcon "MAINVIEWICON_DREADNOUGHT_CERBPRAETOR"
+basePrice
+	credits 1400.000000
+	metal 1250.000000
+	crystal 1550.000000
+slotCount 40.000000
+BuildTime 145.000000
+MaxHullPoints
+	StartValue 7200.000000
+	ValueIncreasePerLevel 250.000000
+MaxShieldPoints
+	StartValue 16800.000000
+	ValueIncreasePerLevel 350.000000
+HullPointRestoreRate
+	StartValue 17.500000
+	ValueIncreasePerLevel 5.000000
+ShieldPointRestoreRate
+	StartValue 64.000000
+	ValueIncreasePerLevel 5.000000
+ArmorPointsFromExperience
+	StartValue 8.000000
+	ValueIncreasePerLevel 0.000000
+maxMitigation
+	StartValue 0.800000
+	ValueIncreasePerLevel 0.000000
+MaxAntiMatter
+	StartValue 990.000000
+	ValueIncreasePerLevel 0.000000
+AntiMatterRestoreRate
+	StartValue 0.500000
+	ValueIncreasePerLevel 0.050000
+CultureProtectRate
+	StartValue 0.750000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_DREADNOUGHT_CERBCERUS_NAME"
+DescriptionStringID "IDS_DREADNOUGHT_CERBCERUS_DESCRIPTION"
+picture "DREADNOUGHT_CERB_CERUS"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_CERBPROJECT_MIA"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+roleType "Invalid"
+statCountType "CapitalShipBattleship"
+numRandomDebrisLarge 4
+numRandomDebrisSmall 15
+numSpecificDebris 1
+specificDebrisMeshName "DebrisTechLarge"
+armorType "CapitalShip"
+hudIcon "HUDICON_CAPITALSHIP_TECHTRANSPORT"
+smallHudIcon "MAINVIEWICON_CAPITALSHIP_TECHTRANSPORT"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_TECHTRANSPORT"
+minZoomDistanceMult 1.200000
+NumWeapons 3
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "RAILGUN"
+	DamagePerBank:FRONT 1300.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 22000.000000
+	PreBuffCooldownTime 10.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.000000
+	TravelSpeed 4500.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 1.000000
+		fireDelay 0.000000
+		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_CERB_SPINALMASSACCMUZZLE1"
+			sound "WEAPON_CERB_SPINALMASSACCMUZZLE2"
+			sound "WEAPON_CERB_SPINALMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIVERYHEAVY"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 180.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 9000.000000
+	PreBuffCooldownTime 2.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.200000
+	TravelSpeed 3000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 3
+		burstDelay 0.400000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_TechCapitalLaserLight_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_CERB_AUXMASSACCMUZZLE1"
+			sound "WEAPON_CERB_AUXMASSACCMUZZLE2"
+			sound "WEAPON_CERB_AUXMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"
+Weapon
+	WeaponType "Beam"
+	damageEnums
+		AttackType "TITAN"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "ION"
+	DamagePerBank:FRONT 8000.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 6000.000000
+	PreBuffCooldownTime 20.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 1.000000
+	TravelSpeed 0.000000
+	Duration 1.800000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 0.350000
+		fireDelay 4.000000
+		muzzleEffectName "Buff_GaussRailgunChargeup"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound ""
+		hitEffectName "Weapon_Tech_CapitalBeam_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound ""
+		hitShieldsEffectSounds
+			soundCount 1
+			sound ""
+		beamEffectSounds
+			soundCount 1
+			sound "WEAPON_TECHCAPITALBEAMHEAVY_TRAVEL2"
+		beamGlowTextureName "PhaseCapitalBombingBeam_Glow"
+		beamCoreTextureName "PhaseCapitalBombingBeam_Core"
+		beamWidth 35.000000
+		beamGlowColor ffffffff
+		beamCoreColor ffffffff
+		beamTilingRate 1.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 2
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+mass 10000.000000
+ShieldMeshName "Dreadnought_CerbCerus_Shield"
+renderShield FALSE
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 1.000000
+maxDecelerationAngular 10.000000
+maxSpeedLinear 650.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+useCustomHyperspaceEffects TRUE
+effects
+	chargeUpEffectName "FTL_CHARGEUP_BLANK"
+	chargeUpEffectNameBetweenStars "FTL_CHARGEUP_BLANK"
+	chargeUpEffectNameDestabilized "FTL_CHARGEUP_BLANK"
+	chargeUpEffectSoundID "FTL_GENERIC_DREADCHARGE3"
+	travelEffectName "FTL_Main"
+	travelEffectNameBetweenStars "FTL_Main"
+	travelEffectNameDestabilized "FTL_Main"
+	travelEffectSoundID "HYPERSPACE_TRAVEL"
+	exitEffectName "FTL_DREADNOUGHT_EXIT"
+	exitEffectSoundID "FTL_GENERIC_DREADEXIT2"
+squadTypeEntityDef:0 "SQUAD_CERBSUDAN"
+squadAntiMatterCost:0 40.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 4
+SoundID "DREAD_CERBCERUS_ONATTACK1"
+SoundID "DREAD_CERBCERUS_ONATTACK2"
+SoundID "DREAD_CERBCERUS_ONATTACK3"
+SoundID "DREAD_CERBCERUS_ONATTACK4"
+NumSoundsFor:ONCREATION 2
+SoundID "DREAD_CERBCERUS_ONCREATION1"
+SoundID "DREAD_CERBCERUS_ONCREATION2"
+NumSoundsFor:ONGENERALORDERISSUED 4
+SoundID "DREAD_CERBCERUS_ONGENERAL1"
+SoundID "DREAD_CERBCERUS_ONGENERAL2"
+SoundID "DREAD_CERBCERUS_ONGENERAL3"
+SoundID "DREAD_CERBCERUS_ONGENERAL4"
+NumSoundsFor:ONSELECTED 4
+SoundID "DREAD_CERBCERUS_ONSELECTED1"
+SoundID "DREAD_CERBCERUS_ONSELECTED2"
+SoundID "DREAD_CERBCERUS_ONSELECTED3"
+SoundID "DREAD_CERBCERUS_ONSELECTED4"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "DREAD_CERBCERUS_ONJUMPSTART1"
+SoundID "DREAD_CERBCERUS_ONJUMPSTART2"
+SoundID "DREAD_CERBCERUS_ONJUMPSTART3"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Dreadnought_CerbCerus"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "CapitalShip0"
+CommandPoints
+	StartValue 2.000000
+	ValueIncreasePerLevel 0.000000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.030000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.000000
+EngineSoundID "AMBIENT_DREAD"
+formationRank 0
+minShadow 0.100000
+maxShadow 1.500000

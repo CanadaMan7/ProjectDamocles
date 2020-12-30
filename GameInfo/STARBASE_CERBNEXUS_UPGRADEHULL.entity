@@ -1,0 +1,81 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "StarBaseUpgrade"
+stageCount 2
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASE_CERBNEXUS_UPGRADEHULL_NAME"
+	descStringID "IDS_STARBASE_CERBNEXUS_UPGRADEHULL_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechToughness0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechToughness0"
+	infoCardIcon ""
+	upgradePropertyCount 7
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 15000.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 15.000000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 17500.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 30.000000
+	upgradeProperty
+		propertyType "MaxShieldMitigation"
+		value 0.800000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 10.000000
+	upgradeProperty
+		propertyType "Population"
+		value 200.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 4000.000000
+		metal 600.000000
+		crystal 550.000000
+	upgradeTime 90.000000
+	nameStringID "IDS_STARBASE_CERBNEXUS_UPGRADEHULL_NAME"
+	descStringID "IDS_STARBASE_CERBNEXUS_UPGRADEHULL_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechToughness0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechToughness0"
+	infoCardIcon ""
+	upgradePropertyCount 7
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 20000.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 20.000000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 20000.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 30.000000
+	upgradeProperty
+		propertyType "MaxShieldMitigation"
+		value 0.800000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 10.000000
+	upgradeProperty
+		propertyType "Population"
+		value 400.000000
+	upgradeBoolPropertyCount 0
+xpModifier 100.000000

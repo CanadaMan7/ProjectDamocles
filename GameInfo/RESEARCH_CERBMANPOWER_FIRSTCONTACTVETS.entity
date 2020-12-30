@@ -1,0 +1,52 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_FIRSTCONTACTVET_RESEARCH"
+smallHudIcon "HUDICON_FIRSTCONTACTVET_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_CERBMANPOWER_FIRSTCONTACTVETS_NAME"
+DescriptionStringID "IDS_RESEARCH_CERBMANPOWER_FIRSTCONTACTVETS_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 1 , 3 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 60.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 800.000000
+	metal 100.000000
+	crystal 175.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 1
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 4
+researchModifier
+	modifierType "CapitalShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 1.000000
+researchModifier
+	modifierType "ShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 80.000000
+researchModifier
+	modifierType "IncomePercLost"
+	baseValue 0.000000
+	perLevelValue 0.030000
+researchModifier
+	modifierType "CapitalShipMaxTrainableLevel"
+	baseValue 1.000000
+	perLevelValue 1.000000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

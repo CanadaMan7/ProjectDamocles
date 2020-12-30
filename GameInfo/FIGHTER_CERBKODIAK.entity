@@ -1,0 +1,89 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "Fighter"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack TRUE
+numRandomDebrisLarge 0
+numRandomDebrisSmall 0
+numSpecificDebris 0
+armorType "VeryLight"
+hudIcon "HUDICON_SQUADTECHBOMBER"
+smallHudIcon "HUDICONSMALL_SQUADTECHBOMBER"
+infoCardIcon "INFOCARDICON_SQUADTECHBOMBER"
+minZoomDistanceMult 5.700000
+nameStringID "IDS_FIGHTER_CERBKODIAK_NAME"
+counterDescriptionStringID "IDS_COUNTER_SHUTTLE"
+statCountType "FighterBomber"
+formationOffsetDistance 50.000000
+mass 100.000000
+maxAccelerationLinear 375.000000
+maxAccelerationStrafe 200.000000
+maxDecelerationLinear 1000.000000
+maxAccelerationAngular 49.999992
+maxDecelerationAngular 90.000000
+maxSpeedLinear 600.000000
+maxRollRate 39.999992
+maxRollAngle 90.000000
+NumWeapons 1
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIHEAVY"
+		DamageAffectType "AFFECTS_ONLY_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "PULSEWAVE"
+	DamagePerBank:FRONT 20.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 300.000000
+	PreBuffCooldownTime 30.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.000000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName ""
+		muzzleSoundMinRespawnTime 1.000000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_TECHSUPPORTAUTOCANNONLIGHT_MUZZLE"
+			sound "WEAPON_TECHSUPPORTAUTOCANNONLIGHT_MUZZLE_ALT1"
+			sound "WEAPON_TECHSUPPORTAUTOCANNONLIGHT_MUZZLE_ALT2"
+		hitEffectName "Weapon_Tech_AutoCannonFighter_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Psi_LaserFighter_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+meshName "Frigate_CerbKodiak"
+exhaustParticleSystemName ""
+ExplosionName "Fighter0"
+exhaustTrailTextureName ""
+exhaustTrailWidth 0.000000
+engineSoundID "ENGINE_TECHSUPPORTSHIP"
+maxHullPoints 1150.000000
+hullPointRestoreRate 2.250000
+armorPoints 0.000000
+maxMitigation 0.700000
+experiencePointsForDestroying 20.000000
+minShadow 0.100000
+maxShadow 1.500000

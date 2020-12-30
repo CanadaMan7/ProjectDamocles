@@ -1,0 +1,48 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_JUSTICE_RESEARCH"
+smallHudIcon "HUDICON_JUSTICE_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_CERBPROJECT_JUSTICE_NAME"
+DescriptionStringID "IDS_RESEARCH_CERBPROJECT_JUSTICE_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 4 , 6 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_CERBPROJECT_COLLECTOR"
+		Level 3
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_CERBCONTROL"
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 90.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1400.000000
+	metal 250.000000
+	crystal 400.000000
+PerLevelCostIncrease
+	credits 300.000000
+	metal 125.000000
+	crystal 125.000000
+Tier 4
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "TitanConstructionCap"
+	baseValue 0.000000
+	perLevelValue 1.000000
+researchModifier
+	modifierType "WeaponDamageAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+	linkedWeaponClass "ION"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

@@ -24,9 +24,9 @@ BuildTime 62.000000
 hasLevels FALSE
 ExperiencePointsForDestroying 140.000000
 MaxHullPoints 1475.000000
-MaxShieldPoints 1800.000000
-HullPointRestoreRate 1.000000
-ShieldPointRestoreRate 6.500000
+MaxShieldPoints 3800.000000
+HullPointRestoreRate 2.000000
+ShieldPointRestoreRate 12.500000
 BaseArmorPoints 2.000000
 maxMitigation 0.800000
 relationshipChangeRate 0.000000
@@ -58,8 +58,8 @@ Weapon
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
-	Range 14000.000000
-	PreBuffCooldownTime 15.000000
+	Range 16000.000000
+	PreBuffCooldownTime 10.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.000000

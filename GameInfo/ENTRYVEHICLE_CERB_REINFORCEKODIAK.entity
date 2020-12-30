@@ -1,0 +1,25 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "EntryVehicle"
+AtmosphereEntryEffectName "AtmosphereEnter"
+HasSurfaceImpactEffect FALSE
+SurfaceImpactEffectName ""
+SurfaceImpactSoundID ""
+LaunchSoundID "FRIGATE_CERBKODIAK_DESCENTVOICE3"
+mass 100.000000
+maxAccelerationLinear 375.000000
+maxAccelerationStrafe 100.000000
+maxDecelerationLinear 1000.000000
+maxAccelerationAngular 49.999992
+maxDecelerationAngular 90.000000
+maxSpeedLinear 700.000000
+maxRollRate 39.999992
+maxRollAngle 90.000000
+MeshName "Frigate_CerbKodiak"
+ExhaustParticleSystemName ""
+ExhaustTrailTextureName ""
+ExhaustTrailWidth 0.500000
+AtmosphereEntrySoundID "ENGINE_TECHSUPPORTSHIP"
+SpaceTravelSoundID "ENGINE_TECHSUPPORTSHIP"
+minShadow 0.000000
+maxShadow 0.500000

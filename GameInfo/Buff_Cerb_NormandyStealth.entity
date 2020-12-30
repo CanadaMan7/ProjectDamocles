@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 194
+SinsArchiveVersion 193
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -12,7 +12,7 @@ numInstantActions 1
 instantAction
 	buffInstantActionType "RemoveBuffOfType"
 	instantActionTriggerType "OnBuffFinish"
-	buffTypeToRemove "Buff_Cerb_NormandyStealthStart"
+buffTypeToRemove "Buff_Cerb_NormandyStealthStart"
 numPeriodicActions 0
 numOverTimeActions 3
 overTimeAction
@@ -32,7 +32,7 @@ overTimeAction
 overTimeAction
 	buffOverTimeActionType "RestoreShields"
 	shieldRestoreRate
-		Level:0 5.000000
+		Level:0 5.00000
 		Level:1 0.000000
 		Level:2 0.000000
 		Level:3 0.000000

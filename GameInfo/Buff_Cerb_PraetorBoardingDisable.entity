@@ -1,5 +1,4 @@
-﻿TXT2
-SinsArchiveVersion 194
+﻿TXT
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"

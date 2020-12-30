@@ -1,0 +1,49 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_ATLASDEPLOY_RESEARCH"
+smallHudIcon "HUDICON_ATLASDEPLOY_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_CERBSECURITY_ATLAS_NAME"
+DescriptionStringID "IDS_RESEARCH_CERBSECURITY_ATLAS_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 1 , 4 ]
+ResearchField "Defense"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_CERBSECURITY_GUARDIAN"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 50.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 800.000000
+	metal 100.000000
+	crystal 175.000000
+PerLevelCostIncrease
+	credits 250.000000
+	metal 100.000000
+	crystal 100.000000
+Tier 1
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "PlanetUpgradeBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue -0.150000
+	linkedPlanetUpgradeType "Infrastructure"
+researchModifier
+	modifierType "PlanetUpgradeCostAdjustment"
+	baseValue 0.000000
+	perLevelValue -0.300000
+	linkedPlanetUpgradeType "Infrastructure"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

@@ -1,0 +1,49 @@
+TXT2
+SinsArchiveVersion 193
+entityType "Squad"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+hudIcon "HUDICON_SQUADTECHBOMBER"
+smallHudIcon "HUDICONSMALL_FIGHTER_GLAIVESQUAD"
+infoCardIcon "INFOCARDICON_CERB_MORRACOSQUAD"
+fighterEntityDef "FIGHTER_CERBMOROCCO"
+fighterIllusionEntityDef ""
+scuttleTime 10.000000
+fighterConstructionTime 25.000000
+decayWithoutOwnerRate 0.050000
+baseMaxNumFighters 3
+role "Combat"
+statCountType "SquadCombat"
+mainViewIcon "MAINVIEWICON_FIGHTER_GLAIVESQUAD"
+picture "PICTURE_SQUADTECHBOMBER"
+launchIcon "HUDICONLAUNCH_SQUADTECHBOMBER"
+dockIcon "HUDICONDOCK_SQUADTECHBOMBER"
+nameStringID "IDS_SQUAD_CERBMOROCCO_NAME"
+descriptionStringID "IDS_SQUAD_CERBMOROCCO_DESC"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "FIGHTER_CERBSUDAN_ONATTACK1"
+SoundID "FIGHTER_CERBSUDAN_ONATTACK2"
+SoundID "FIGHTER_CERBSUDAN_ONATTACK3"
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "FIGHTER_CERBSUDAN_ONGENERAL1"
+SoundID "FIGHTER_CERBSUDAN_ONGENERAL2"
+SoundID "FIGHTER_CERBSUDAN_ONGENERAL3"
+NumSoundsFor:ONSELECTED 3
+SoundID "FIGHTER_CERBSUDAN_ONSELECTED1"
+SoundID "FIGHTER_CERBSUDAN_ONSELECTED2"
+SoundID "FIGHTER_CERBSUDAN_ONSELECTED3"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

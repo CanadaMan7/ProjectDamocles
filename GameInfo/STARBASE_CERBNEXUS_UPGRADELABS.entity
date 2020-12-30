@@ -1,0 +1,42 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "StarBaseUpgrade"
+stageCount 2
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASE_CERBNEXUS_UPGRADELABS_NAME"
+	descStringID "IDS_STARBASE_CERBNEXUS_UPGRADELABS_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechSelfDestruct0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechSelfDestruct0"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 2500.000000
+		metal 150.000000
+		crystal 300.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASE_CERBNEXUS_UPGRADELABS_NAME"
+	descStringID "IDS_STARBASE_CERBNEXUS_UPGRADELABS_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechSelfDestruct0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechSelfDestruct0"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityCLevel"
+		value 1.000000
+	upgradeBoolPropertyCount 0
+xpModifier 50.000000

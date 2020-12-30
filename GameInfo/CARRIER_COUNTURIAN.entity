@@ -21,16 +21,16 @@ slotCount 55.000000
 BuildTime 81.000000
 MaxHullPoints
 	StartValue 7850.000000
-	ValueIncreasePerLevel 0.000000
+	ValueIncreasePerLevel 250.000000
 MaxShieldPoints
 	StartValue 9600.000000
-	ValueIncreasePerLevel 0.000000
+	ValueIncreasePerLevel 350.000000
 HullPointRestoreRate
-	StartValue 4.000000
-	ValueIncreasePerLevel 0.250000
+	StartValue 14.000000
+	ValueIncreasePerLevel 5.250000
 ShieldPointRestoreRate
-	StartValue 10.000000
-	ValueIncreasePerLevel 0.000000
+	StartValue 50.000000
+	ValueIncreasePerLevel 5.000000
 ArmorPointsFromExperience
 	StartValue 4.000000
 	ValueIncreasePerLevel 0.000000

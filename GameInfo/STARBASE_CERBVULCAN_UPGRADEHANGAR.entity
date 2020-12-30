@@ -1,0 +1,68 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "StarBaseUpgrade"
+stageCount 3
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASE_CERBVULCAN_UPGRADEHANGAR_NAME"
+	descStringID "IDS_STARBASE_CERBVULCAN_UPGRADEHANGAR_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechHangar0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechHangar0"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 6.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1000.000000
+		metal 350.000000
+		crystal 250.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASE_CERBVULCAN_UPGRADEHANGAR_NAME"
+	descStringID "IDS_STARBASE_CERBVULCAN_UPGRADEHANGAR_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCH_CERBSECURITY_SELFDEFENCE"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechHangar0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechHangar0"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 12.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 2200.000000
+		metal 450.000000
+		crystal 350.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASE_CERBVULCAN_UPGRADEHANGAR_NAME"
+	descStringID "IDS_STARBASE_CERBVULCAN_UPGRADEHANGAR_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechHangar1"
+	smallHudIcon "HUDIconStarBaseUpgradeTechHangar1"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 18.000000
+	upgradeBoolPropertyCount 0
+xpModifier 75.000000

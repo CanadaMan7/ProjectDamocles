@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 194
+SinsArchiveVersion 193
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -12,7 +12,7 @@ numInstantActions 1
 instantAction
 	buffInstantActionType "RemoveBuffOfType"
 	instantActionTriggerType "OnBuffFinish"
-	buffTypeToRemove "Buff_Cerb_TempestStealthStart"
+buffTypeToRemove "Buff_Cerb_TempestStealthStart"
 numPeriodicActions 0
 numOverTimeActions 3
 overTimeAction

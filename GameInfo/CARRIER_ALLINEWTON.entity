@@ -14,23 +14,23 @@ autoJoinFleetDefault TRUE
 canBomb FALSE
 mainViewIcon "MAINVIEWICON_CARRIER_ALLINEWTON"
 basePrice
-	credits 3600.000000
+	credits 2600.000000
 	metal 375.000000
 	crystal 440.000000
 slotCount 40.000000
 BuildTime 86.000000
 MaxHullPoints
 	StartValue 9850.000000
-	ValueIncreasePerLevel 0.000000
+	ValueIncreasePerLevel 250.000000
 MaxShieldPoints
 	StartValue 7400.000000
-	ValueIncreasePerLevel 0.000000
+	ValueIncreasePerLevel 350.000000
 HullPointRestoreRate
-	StartValue 5.000000
-	ValueIncreasePerLevel 0.250000
+	StartValue 15.000000
+	ValueIncreasePerLevel 5.250000
 ShieldPointRestoreRate
-	StartValue 14.000000
-	ValueIncreasePerLevel 0.000000
+	StartValue 40.000000
+	ValueIncreasePerLevel 5.000000
 ArmorPointsFromExperience
 	StartValue 5.000000
 	ValueIncreasePerLevel 0.000000

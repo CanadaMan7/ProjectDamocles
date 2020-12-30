@@ -1,0 +1,79 @@
+TXT2
+SinsArchiveVersion 193
+entityType "PlanetModuleRefinery"
+minZoomDistanceMult 2.500000
+ability:0 "Ability_Cerb_RefineryRefuel"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 "Ability_Cerb_RefineryExplode"
+MaxAntiMatter 2000.000000
+AntiMatterRestoreRate 3.000000
+numRandomDebrisLarge 3
+numRandomDebrisSmall 14
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_PLANETMODULE_TECHORBITALREFINERY"
+smallHudIcon "HUDICONSMALL_PLANETMODULE_TECHORBITALREFINERY"
+infoCardIcon "INFOCARDICON_PLANETMODULE_TECHORBITALREFINERY"
+planetUpgradeSlotType "Civilian"
+planetUpgradeSlotCount 4.000000
+basePrice
+	credits 2000.000000
+	metal 175.000000
+	crystal 150.000000
+NameStringID "IDS_STRUCTURE_CERBREFINERY_NAME"
+DescriptionStringID "IDS_STRUCTURE_CERBREFINERY_DESC"
+planetModuleRoleType "REFINERY"
+statCountType "ModuleRefinery"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_CERBCORPORATION_BELETHOR"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MaxHullPoints 7500.000000
+HullPointRestoreRate 3.000000
+BaseArmorPoints 6.000000
+MaxShieldPoints 3000.000000
+ShieldPointRestoreRate 8.000000
+maxShieldMitigation 0.700000
+ExperiencePointsForDestroying 50.000000
+resourceExtractionType "Invalid"
+cultureSpreadRate 0.000000
+isAffectedBySimilarModuleCostResearch FALSE
+placementRadius 1000.000000
+nearPlacementDistOffset 0.000000
+farPlacementDistOffset 9000.000000
+spawnCount 1
+swapMineType ""
+angularSpeed 0.000000
+rotateSoundName ""
+rotateFacingType "None"
+rotateConstantly FALSE
+ShieldMeshName "Structure_CerbRefinery_Shield"
+renderShield TRUE
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "STRUCTURE_CERBREFINERY_ONSELECTED1"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Structure_CerbRefinery"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExplosionName "PlanetModuleLarge"
+mainViewIcon "MAINVIEWICON_PLANETMODULE_TECHORBITALREFINERY"
+picture "STRUCTURE_CERB_REFINERY"
+minShadow 0.100000
+maxShadow 1.500000
+formationRank 3
+baseBuildTime 120.000000
+buildEffectName ""
+cargoShipType "FREIGHTER_CERB_REFINERY"
+maxCargoShipCount 3
+cargoShipRespawnTime 90.000000

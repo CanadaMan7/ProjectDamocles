@@ -1,0 +1,67 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "StarBaseUpgrade"
+stageCount 3
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASE_CERBTHERMOP_UPGRADEPLANETCONTROL_NAME"
+	descStringID "IDS_STARBASE_CERBTHERMOP_UPGRADEPLANETCONTROL_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechBlockColonize0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechBlockColonize0"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1500.000000
+		metal 250.000000
+		crystal 300.000000
+	upgradeTime 75.000000
+	nameStringID "IDS_STARBASE_CERBTHERMOP_UPGRADEPLANETCONTROL_NAME"
+	descStringID "IDS_STARBASE_CERBTHERMOP_UPGRADEPLANETCONTROL_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCH_CERBCORPORATION_PUPPETMASTER"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechBlockColonize0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechBlockColonize0"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxAllegianceBonus"
+		value 0.100000
+	upgradeBoolPropertyCount 1
+	upgradeBoolProperty "CanPreventPlanetLossByBombing"
+stage
+	price
+		credits 2000.000000
+		metal 300.000000
+		crystal 400.000000
+	upgradeTime 90.000000
+	nameStringID "IDS_STARBASE_CERBTHERMOP_UPGRADEPLANETCONTROL_NAME"
+	descStringID "IDS_STARBASE_CERBTHERMOP_UPGRADEPLANETCONTROL_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechBlockColonize0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechBlockColonize0"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxAllegianceBonus"
+		value 0.200000
+	upgradeBoolPropertyCount 1
+	upgradeBoolProperty "CanPreventPlanetLossByBombing"
+xpModifier 50.000000

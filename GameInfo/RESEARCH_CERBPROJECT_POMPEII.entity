@@ -1,0 +1,63 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_POMPEII_RESEARCH"
+smallHudIcon "HUDICON_POMPEII_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_CERBPROJECT_POMPEII_NAME"
+DescriptionStringID "IDS_RESEARCH_CERBPROJECT_POMPEII_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 3 , 3 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_CERBPROJECT_SUDAN"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 75.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 1200.000000
+	metal 200.000000
+	crystal 325.000000
+PerLevelCostIncrease
+	credits 250.000000
+	metal 100.000000
+	crystal 100.000000
+Tier 3
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 5
+researchModifier
+	modifierType "WeaponDamageAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+	linkedWeaponClass "RAILGUN"
+researchModifier
+	modifierType "WeaponDamageAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+	linkedWeaponClass "GAUSS"
+researchModifier
+	modifierType "WeaponDamageAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+	linkedWeaponClass "WAVE"
+researchModifier
+	modifierType "WeaponDamageAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+	linkedWeaponClass "AUTOCANNON"
+researchModifier
+	modifierType "ShipBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue -0.050000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

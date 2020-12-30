@@ -13,39 +13,35 @@ usesFighterAttack FALSE
 autoJoinFleetDefault TRUE
 canBomb TRUE
 hasBombingLevels FALSE
-baseDamage 50.000000
-basePopulationKilled 20.000000
+baseDamage 120.000000
+basePopulationKilled 11.200000
 bombingFreqTime 5.000000
 baseRange 3000.000000
-bombTransitTime 25.000000
-bombEffectCount 1
-bombEffectAngleVariance 0.000000
+bombTransitTime 24.000000
+bombEffectCount 3
+bombEffectAngleVariance 15.000000
 bombEffectsDef
-	weaponType "Beam"
-	burstCount 1
-	burstDelay 0.000000
-	fireDelay 0.000000
-	muzzleEffectName "Weapon_ComposerBomb_Muzzle"
+	weaponType "Projectile"
+	burstCount 3
+	burstDelay 2.000000
+	fireDelay 1.000000
+	muzzleEffectName "Weapon_UNSCPlanetInvasion_Muzzle"
 	muzzleSoundMinRespawnTime 0.100000
 	muzzleSounds
 		soundCount 1
-		sound ""
-	hitEffectName "Weapon_ComposerBomb_Hit"
+		sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+	hitEffectName "Weapon_UNSCPlanetInvasion_Hit"
 	hitHullEffectSounds
-		soundCount 1
-		sound ""
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
 	hitShieldsEffectSounds
-		soundCount 1
-		sound ""
-	beamEffectSounds
-		soundCount 1
-		sound "WEAPON_PHASEPLANETBOMB_LOOP"
-	beamGlowTextureName "PhaseCapitalBeam_Glow"
-	beamCoreTextureName "PhaseCapitalBeam_Core_Medium"
-	beamWidth 50.000000
-	beamGlowColor ffffffff
-	beamCoreColor ffffffff
-	beamTilingRate 3.000000
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	projectileTravelEffectName "Weapon_CovPlanetInvasion_Travel"
 mainViewIcon "MAINVIEWICON_DREAD_COLLECTOR"
 basePrice
 	credits 0.000000
@@ -55,18 +51,18 @@ slotCount 50.000000
 BuildTime 180.000000
 MaxHullPoints
 	StartValue 8400.000000
-	ValueIncreasePerLevel 0.000000
+	ValueIncreasePerLevel 3500.000000
 MaxShieldPoints
 	StartValue 15850.000000
-	ValueIncreasePerLevel 0.000000
+	ValueIncreasePerLevel 450.000000
 HullPointRestoreRate
-	StartValue 4.000000
-	ValueIncreasePerLevel 0.250000
+	StartValue 14.000000
+	ValueIncreasePerLevel 10.250000
 ShieldPointRestoreRate
-	StartValue 16.000000
-	ValueIncreasePerLevel 0.000000
+	StartValue 160.000000
+	ValueIncreasePerLevel 20.000000
 ArmorPointsFromExperience
-	StartValue 8.000000
+	StartValue 12.000000
 	ValueIncreasePerLevel 0.000000
 maxMitigation
 	StartValue 0.800000
@@ -107,15 +103,15 @@ Weapon
 	damageEnums
 		AttackType "ANTIVERYHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
-		DamageApplyType "OVERTIME"
-		DamageType "ENERGY"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
 		WeaponClassType "CHAOSBOLT"
 	DamagePerBank:FRONT 3600.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
-	Range 8600.000000
-	PreBuffCooldownTime 7.000000
+	Range 18600.000000
+	PreBuffCooldownTime 6.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.250000

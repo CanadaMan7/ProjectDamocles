@@ -982,7 +982,7 @@ orbitBodyType
 	typeName "StartVolcanic"
 	entityDefName "PlanetVolcanic"
 	defaultTemplateName "Template:LocalMilitiaWeakNoColonize"
-planetItemTypeCount 185
+planetItemTypeCount 222
 planetItemType
 	designName "Artifact:WeaponBoost"
 	entityDefName "RESEARCHSUBJECT_ARTIFACT_WEAPONBOOST"
@@ -1538,7 +1538,121 @@ planetItemType
 planetItemType
 	designName "Bonus:Homeworld:Alliance"
 	entityDefName "PLANETBONUS_HOMEWORLDALLIANCE"
-playerTypeCount 9
+planetItemType
+	designName "Cerb:Frigate:Zenith"
+	entityDefName "FRIGATE_CERBZENITH"
+planetItemType
+	designName "Cerb:Frigate:Tempest"
+	entityDefName "FRIGATE_CERBTEMPEST"
+planetItemType
+	designName "Cerb:Frigate:StructureConstructor"
+	entityDefName "FRIGATE_CERBSTRUCTURECONSTRUCTOR"
+planetItemType
+	designName "Cerb:Frigate:Normandy"
+	entityDefName "FRIGATE_CERBNORMANDY"
+planetItemType
+	designName "Cerb:Frigate:Lincoln"
+	entityDefName "FRIGATE_CERBLINCOLN"
+planetItemType
+	designName "Cerb:Frigate:Kodiak"
+	entityDefName "FRIGATE_CERBKODIAK"
+planetItemType
+	designName "Cerb:Frigate:Gaza"
+	entityDefName "FRIGATE_CERBGAZA"
+planetItemType
+	designName "Cerb:Frigate:Dyson"
+	entityDefName "FRIGATE_CERBDYSON"
+planetItemType
+	designName "Cerb:Frigate:Boston"
+	entityDefName "FRIGATE_CERBBOSTON"
+planetItemType
+	designName "Cerb:Cruiser:Minerva"
+	entityDefName "CRUISER_CERBMINERVA"
+planetItemType
+	designName "Cerb:Cruiser:Elbrus"
+	entityDefName "CRUISER_CERBELBRUS"
+planetItemType
+	designName "Cerb:Cruiser:Arcadia"
+	entityDefName "CRUISER_CERBARCADIA"
+planetItemType
+	designName "Cerb:Dread:Trafalgar"
+	entityDefName "DREADNOUGHT_CERBTRAFALGAR"
+planetItemType
+	designName "Cerb:Dread:Pompeii"
+	entityDefName "DREADNOUGHT_CERBPOMPEII"
+planetItemType
+	designName "Cerb:Dread:Cerus"
+	entityDefName "DREADNOUGHT_CERBCERUS"
+planetItemType
+	designName "Cerb:Dread:Adriatic"
+	entityDefName "DREADNOUGHT_CERBADRIATIC"
+planetItemType
+	designName "Cerb:Carrier:ArkRoyal"
+	entityDefName "CARRIER_CERBARKROYAL"
+planetItemType
+	designName "Cerb:Carrier:Praetor"
+	entityDefName "CARRIER_CERBPRAETOR"
+planetItemType
+	designName "Cerb:Carrier:Centurion"
+	entityDefName "CARRIER_CERBCENTURION"
+planetItemType
+	designName "Cerb:SuperDread:Themis"
+	entityDefName "SUPERDREAD_CERBTHEMIS"
+planetItemType
+	designName "Cerb:SuperDread:Ark"
+	entityDefName "SUPERDREAD_CERBARK"
+planetItemType
+	designName "Cerb:SuperDread:Aeolus"
+	entityDefName "SUPERCARRIER_CERBAEOLUS"
+planetItemType
+	designName "Cerb:Structure:AegisHangar"
+	entityDefName "STRUCTURE_CERBHANGAR"
+planetItemType
+	designName "Cerb:Structure:PatrolBeacon"
+	entityDefName "STRUCTURE_CERBPATROLBEACON"
+planetItemType
+	designName "Cerb:Structure:SuperDreadYard"
+	entityDefName "STRUCTURE_CERBSUPERDREADYARD"
+planetItemType
+	designName "Cerb:Structure:HeroSpawner"
+	entityDefName "STRUCTURE_CERBHEROSPAWNER"
+planetItemType
+	designName "Cerb:Structure:Subnet"
+	entityDefName "STRUCTURE_CERBSUBNET"
+planetItemType
+	designName "Cerb:Structure:Refinery"
+	entityDefName "STRUCTURE_CERBREFINERY"
+planetItemType
+	designName "Cerb:Structure:Minuteman"
+	entityDefName "STRUCTURE_CERBMINUTEMAN"
+planetItemType
+	designName "Cerb:Structure:Lazarus"
+	entityDefName "STRUCTURE_CERBLAZERUS"
+planetItemType
+	designName "Cerb:Structure:PalladiumExtractor"
+	entityDefName "STRUCTURE_CERBMETALEXTRACTOR"
+planetItemType
+	designName "Cerb:Structure:EezoExtractor"
+	entityDefName "STRUCTURE_CERBEEZOEXTRACTOR"
+planetItemType
+	designName "Cerb:Structure:Frigateyard"
+	entityDefName "STRUCTURE_CERBFRIGATEYARD"
+planetItemType
+	designName "Cerb:Structure:Dreadyard"
+	entityDefName "STRUCTURE_CERBDREADYARD"
+planetItemType
+	designName "Cerb:Structure:Barnlab"
+	entityDefName "STRUCTURE_CERBBARNLAB"
+planetItemType
+	designName "Cerb:Starbase:Cronos"
+	entityDefName "STARBASE_CERBCRONOS"
+planetItemType
+	designName "Bonus:Homeworld:Cerb"
+	entityDefName "PLANETBONUS_HOMEWORLDCERB"
+playerTypeCount 10
+playerType
+	designName "Cerberus"
+	entityDefName "PlayerCerberus"
 playerType
 	designName "Alliance"
 	entityDefName "PlayerAlliance"
@@ -1626,7 +1740,67 @@ planetItemsTemplate
 planetItemsTemplate
 	templateName "Template:DefaultHomePlanetSetup"
 	subTemplates 0
-	groups 14
+	groups 16
+		group
+			condition
+				type "PlanetOwnerIsRaceNormalStart"
+				param "Cerberus"
+			owner "PlanetOwner"
+			colonizeChance 1
+			items 23
+				item "Cerb:Structure:Lazarus"
+				item "Cerb:Structure:Barnlab"
+				item "Bonus:Homeworld:Cerb"
+				item "UNSC:Frigate:AI"
+				item "Cerb:Structure:Frigateyard"
+				item "Cerb:Structure:Frigateyard"
+				item "Cerb:Structure:Dreadyard"
+				item "Cerb:Structure:PalladiumExtractor"
+				item "Cerb:Structure:PalladiumExtractor"
+				item "Cerb:Structure:PalladiumExtractor"
+				item "Cerb:Structure:EezoExtractor"
+				item "Cerb:Structure:EezoExtractor"
+				item "Cerb:Structure:EezoExtractor"
+				item "Cerb:Frigate:ModuleConstructor"
+				item "Cerb:Frigate:ModuleConstructor"
+				item "Cerb:Dread:Trafalgar"
+				item "Cerb:Dread:Adriatic"
+				item "Cerb:Frigate:Tempest"
+				item "Cerb:Frigate:Tempest"
+				item "Cerb:Frigate:Tempest"
+				item "Cerb:Frigate:Tempest"
+				item "Cerb:Frigate:Kodiak"
+				item "Cerb:Frigate:Kodiak"
+		group
+			condition
+				type "PlanetOwnerIsRaceQuickStart"
+				param "Cerberus"
+			owner "PlanetOwner"
+			colonizeChance 1
+			items 23
+				item "Cerb:Structure:Lazarus"
+				item "Cerb:Structure:Barnlab"
+				item "Bonus:Homeworld:Cerb"
+				item "UNSC:Frigate:AI"
+				item "Cerb:Structure:Frigateyard"
+				item "Cerb:Structure:Frigateyard"
+				item "Cerb:Structure:Dreadyard"
+				item "Cerb:Structure:PalladiumExtractor"
+				item "Cerb:Structure:PalladiumExtractor"
+				item "Cerb:Structure:PalladiumExtractor"
+				item "Cerb:Structure:EezoExtractor"
+				item "Cerb:Structure:EezoExtractor"
+				item "Cerb:Structure:EezoExtractor"
+				item "Cerb:Frigate:ModuleConstructor"
+				item "Cerb:Frigate:ModuleConstructor"
+				item "Cerb:Dread:Trafalgar"
+				item "Cerb:Dread:Adriatic"
+				item "Cerb:Frigate:Tempest"
+				item "Cerb:Frigate:Tempest"
+				item "Cerb:Frigate:Tempest"
+				item "Cerb:Frigate:Tempest"
+				item "Cerb:Frigate:Kodiak"
+				item "Cerb:Frigate:Kodiak"
 		group
 			condition
 				type "PlanetOwnerIsRaceNormalStart"
@@ -1647,8 +1821,8 @@ planetItemsTemplate
 				item "Alliance:Structure:PalladiumExtractor"
 				item "Alliance:Structure:PalladiumExtractor"
 				item "Alliance:Structure:PalladiumExtractor"
-				item "UNSC:Frigate:ModuleConstructor"
-				item "UNSC:Frigate:ModuleConstructor"
+				item "Alliance:Frigate:ModuleConstructor"
+				item "Alliance:Frigate:ModuleConstructor"
 				item "Alliance:Dread:Everest"
 				item "Alliance:Dread:Kilimanjaro"
 				item "Alliance:Frigate:Normandy"
@@ -1677,8 +1851,8 @@ planetItemsTemplate
 				item "Alliance:Structure:PalladiumExtractor"
 				item "Alliance:Structure:PalladiumExtractor"
 				item "Alliance:Structure:PalladiumExtractor"
-				item "UNSC:Frigate:ModuleConstructor"
-				item "UNSC:Frigate:ModuleConstructor"
+				item "Alliance:Frigate:ModuleConstructor"
+				item "Alliance:Frigate:ModuleConstructor"
 				item "Alliance:Dread:Everest"
 				item "Alliance:Dread:Kilimanjaro"
 				item "Alliance:Frigate:Normandy"
@@ -1972,7 +2146,7 @@ planetItemsTemplate
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 22
-				item "UNSC:Frigate:AI"
+				item "Cov:Frigate:AI"
 				item "Bonus:Homeworld:Reaper"
 				item "Reap:Structure:CivLab"
 				item "Reap:Structure:MilLab"
@@ -2001,7 +2175,7 @@ planetItemsTemplate
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 22
-				item "UNSC:Frigate:AI"
+				item "Cov:Frigate:AI"
 				item "Bonus:Homeworld:Reaper"
 				item "Reap:Structure:CivLab"
 				item "Reap:Structure:MilLab"

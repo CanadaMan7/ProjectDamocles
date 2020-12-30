@@ -1,0 +1,20 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "TitanUpgrade"
+stageCount 1
+stage
+	nameStringID "IDS_ABILITY_CERB_AEOLUSHEAVYJAVELINS_NAME"
+	descStringID "IDS_ABILITY_CERB_AEOLUSHEAVYJAVELINS_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement -1
+	hudIcon "HUDICON_ABILITY_DARKCAPITALSHIP"
+	smallHudIcon "HUDICON_ABILITY_DARKCAPITALSHIP"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "AbilityELevel"
+		value 1.000000
+	upgradeBoolPropertyCount 0

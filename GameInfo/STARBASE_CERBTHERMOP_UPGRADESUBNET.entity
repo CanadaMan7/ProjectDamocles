@@ -1,0 +1,45 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "StarBaseUpgrade"
+stageCount 2
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASE_CERBTHERMOP_UPGRADESUBNET_NAME"
+	descStringID "IDS_STARBASE_CERBTHERMOP_UPGRADESUBNET_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradePsiCulture0"
+	smallHudIcon "HUDIconStarBaseUpgradePsiCulture0"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1500.000000
+		metal 200.000000
+		crystal 125.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASE_CERBTHERMOP_UPGRADESUBNET_NAME"
+	descStringID "IDS_STARBASE_CERBTHERMOP_UPGRADESUBNET_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradePsiCulture0"
+	smallHudIcon "HUDIconStarBaseUpgradePsiCulture0"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "CultureSpreadRate"
+		value 0.500000
+	upgradeProperty
+		propertyType "EnemyCultureRepelRate"
+		value 1.000000
+	upgradeBoolPropertyCount 0
+xpModifier 50.000000

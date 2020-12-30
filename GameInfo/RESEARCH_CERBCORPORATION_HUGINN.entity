@@ -1,0 +1,44 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_HUGINN_RESEARCH"
+smallHudIcon "HUDICON_HUGINN_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_CERBCORPORATION_HUGINN_NAME"
+DescriptionStringID "IDS_RESEARCH_CERBCORPORATION_HUGINN_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 0 , 5 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 45.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 600.000000
+	metal 50.000000
+	crystal 100.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 0
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 2
+priority 5.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "ExtractionRateMetalAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.025000
+researchModifier
+	modifierType "ResearchBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.075000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

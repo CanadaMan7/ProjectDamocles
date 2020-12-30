@@ -1,0 +1,39 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_THANIXREFIT_RESEARCH"
+smallHudIcon "HUDICON_THANIXREFIT_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_CERBSECURITY_THANIXREFIT_NAME"
+DescriptionStringID "IDS_RESEARCH_CERBSECURITY_THANIXREFIT_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 4 , 6 ]
+ResearchField "Defense"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_CERBSECURITY_THERMOPYLAE"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_CERBCONTROL"
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 90.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 1400.000000
+	metal 250.000000
+	crystal 400.000000
+PerLevelCostIncrease
+	credits 250.000000
+	metal 100.000000
+	crystal 100.000000
+Tier 4
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

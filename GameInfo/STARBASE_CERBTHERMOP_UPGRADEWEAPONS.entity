@@ -1,0 +1,65 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "StarBaseUpgrade"
+stageCount 3
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASE_CERBTHERMOP_UPGRADEWEAPONSGARDIANS_NAME"
+	descStringID "IDS_STARBASE_CERBTHERMOP_UPGRADEWEAPONSGARDIANS_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechWeapons0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechWeapons0"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1500.000000
+		metal 225.000000
+		crystal 250.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASE_CERBTHERMOP_UPGRADEWEAPONSGARDIANS_NAME"
+	descStringID "IDS_STARBASE_CERBTHERMOP_UPGRADEWEAPONSGARDIANS_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechWeapons0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechWeapons0"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponUpgradeLevel"
+		value 1.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 8500.000000
+		metal 560.000000
+		crystal 650.000000
+	upgradeTime 120.000000
+	nameStringID "IDS_STARBASE_CERBTHERMOP_UPGRADEWEAPONSTHANIX_NAME"
+	descStringID "IDS_STARBASE_CERBTHERMOP_UPGRADEWEAPONSTHANIX_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCH_CERBSECURITY_THANIXREFIT"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechWeapons1"
+	smallHudIcon "HUDIconStarBaseUpgradeTechWeapons1"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponUpgradeLevel"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+xpModifier 150.000000

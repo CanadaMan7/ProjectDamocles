@@ -1,0 +1,55 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_MORISSFUEL_RESEARCH"
+smallHudIcon "HUDICON_MORISSFUEL_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_CERBCORPORATION_MORISSFUEL_NAME"
+DescriptionStringID "IDS_RESEARCH_CERBCORPORATION_MORISSFUEL_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 1 , 3 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_CERBCORPORATION_ZHENGHE"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 50.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 800.000000
+	metal 100.000000
+	crystal 175.000000
+PerLevelCostIncrease
+	credits 150.000000
+	metal 50.000000
+	crystal 50.000000
+Tier 1
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 10.000000
+researchBoolModifiers 1
+researchModifier
+	modifierType "PlanetIsColonizable"
+	linkedPlanetType "Ice"
+researchFloatModifiers 3
+researchModifier
+	modifierType "ModuleBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+researchModifier
+	modifierType "PlanetUpgradeCostAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.250000
+	linkedPlanetUpgradeType "CivilianModules"
+researchModifier
+	modifierType "ExtractionRateCrystalAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.025000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

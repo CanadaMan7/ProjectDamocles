@@ -1,0 +1,178 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "StarBase"
+ability:0 "Ability_Cerb_VulcanRepair"
+ability:1 "Ability_Cerb_VulcanSpy"
+ability:2 "Ability_Cerb_VulcanReserve"
+ability:3 ""
+ability:4 "Ability_Cerb_FighterTorps"
+defaultAutoAttackRange "None"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+numRandomDebrisLarge 12
+numRandomDebrisSmall 24
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_STARBASE_TECH"
+smallHudIcon "HUDICONSMALL_STARBASE_TECH"
+infoCardIcon "INFOCARDICON_STARBASE_TECH"
+minZoomDistanceMult 2.000000
+NumWeapons 2
+Weapon
+	WeaponType "Beam"
+	damageEnums
+		AttackType "ANTILIGHT"
+		DamageAffectType "AFFECTS_ONLY_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "LASERTECH"
+	DamagePerBank:FRONT 120.000000
+	DamagePerBank:BACK 120.000000
+	DamagePerBank:LEFT 120.000000
+	DamagePerBank:RIGHT 120.000000
+	Range 2000.000000
+	PreBuffCooldownTime 0.800000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 0.000000
+	Duration 0.420000
+	fireConstraintType "StarBaseUpgradeLevel"
+	requiredStarBaseWeaponLevel 1
+	WeaponEffects
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 0.280000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PhaseCapitalFlashBeamCapShip_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound ""
+		hitEffectName "Weapon_PhaseCapitalFlashBeamCapShip_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound ""
+		hitShieldsEffectSounds
+			soundCount 1
+			sound ""
+		beamEffectSounds
+			soundCount 1
+			sound "WEAPON_PHASEPLANETBOMB_LOOP"
+		beamGlowTextureName "PhaseCapitalBeam_Glow"
+		beamCoreTextureName "PhaseCapitalBeam_Core"
+		beamWidth 2.000000
+		beamGlowColor ffffffff
+		beamCoreColor ffffffff
+		beamTilingRate 3.000000
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIMEDIUM"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 300.000000
+	DamagePerBank:BACK 300.000000
+	DamagePerBank:LEFT 300.000000
+	DamagePerBank:RIGHT 300.000000
+	Range 15000.000000
+	PreBuffCooldownTime 2.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.150000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "StarBaseUpgradeLevel"
+	requiredStarBaseWeaponLevel 2
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.100000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_CERB_BROADMASSACCMUZZLE1"
+			sound "WEAPON_CERB_BROADMASSACCMUZZLE2"
+			sound "WEAPON_CERB_BROADMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"
+m_weaponIndexForRange 1
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 2
+TargetCountPerBank:BACK 2
+TargetCountPerBank:LEFT 2
+TargetCountPerBank:RIGHT 2
+canOnlyTargetStructures FALSE
+ShieldMeshName "Starbase_CerbVulcan_Shield"
+renderShield TRUE
+squadTypeEntityDef:0 "SQUAD_CERBSUDAN"
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 "SQUAD_CERBMOROCCO"
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+mainViewIcon "MainViewIconStarBaseTech"
+experiencePointsForDestroying 500.000000
+nameStringID "IDS_STARBASE_CERBVULCAN_NAME"
+picture "PICTURE_STARBASETECH"
+statCountType "StarBase"
+creationSourceAbility "Ability_Cerb_DeployVulcanStarbase"
+maxUpgradeLevelCount 10
+UpgradeTypeCount 8
+UpgradeType "STARBASE_CERBVULCAN_UPGRADEHULL"
+UpgradeType "STARBASE_CERBVULCAN_UPGRADEWEAPONS"
+UpgradeType "STARBASE_CERBVULCAN_UPGRADEHANGAR"
+UpgradeType "STARBASE_CERBVULCAN_UPGRADESHIPYARD"
+UpgradeType "STARBASE_CERBVULCAN_UPGRADETRADE"
+UpgradeType "STARBASE_CERBVULCAN_UPGRADEREPAIR"
+UpgradeType "STARBASE_CERBVULCAN_UPGRADEPROBES"
+UpgradeType "STARBASE_CERBVULCAN_UPGRADERESERVE"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Starbase_CerbVulcan"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "STRUCTURE_CERBSTARBASE_ONSELECTED1"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+ExplosionName "StarBase0"
+formationRank 3
+minShadow 0.100000
+maxShadow 1.500000
+cargoShipType "FREIGHTER_CERB_KOWLOON"
+maxCargoShipCount 4
+cargoShipRespawnTime 150.000000
+baseBuildTime 120.000000
+buildEffectName ""
+angularSpeed 0.500000
+rotateSoundName ""
+rotateFacingType "AwayFromOrbitBody"
+rotateConstantly FALSE
+maxAccelerationLinear 0.000000
+maxAccelerationStrafe 0.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 1.000000
+maxDecelerationAngular 9.999998
+maxSpeedLinear -1.000000
+maxRollRate 0.000000
+maxRollAngle 0.000000
+mass 10000.000000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"

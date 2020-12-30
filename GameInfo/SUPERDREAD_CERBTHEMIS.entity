@@ -1,0 +1,312 @@
+TXT2
+SinsArchiveVersion 193
+entityType "Titan"
+ability:0 "Ability_Cerb_ThemisSledgeAmmo"
+ability:1 "Ability_Cerb_ThemisCryoAmmo"
+ability:2 "Ability_Cerb_ThemisInfernoAmmo"
+ability:3 "Ability_Cerb_ArkDiplo"
+ability:4 ""
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+mainViewIcon "MAINVIEWICON_SUPERDREADNOUGHT_CERBTHEMIS"
+basePrice
+	credits 13750.000000
+	metal 7900.000000
+	crystal 5400.000000
+slotCount 120.000000
+BuildTime 365.000000
+MaxHullPoints
+	StartValue 17500.000000
+	ValueIncreasePerLevel 441.000000
+MaxShieldPoints
+	StartValue 17500.000000
+	ValueIncreasePerLevel 350.000000
+HullPointRestoreRate
+	StartValue 9.000000
+	ValueIncreasePerLevel 5.500000
+ShieldPointRestoreRate
+	StartValue 180.000000
+	ValueIncreasePerLevel 5.000000
+ArmorPointsFromExperience
+	StartValue 10.500000
+	ValueIncreasePerLevel 0.000000
+maxMitigation
+	StartValue 0.800000
+	ValueIncreasePerLevel 0.000000
+MaxAntiMatter
+	StartValue 1550.000000
+	ValueIncreasePerLevel 45.000000
+AntiMatterRestoreRate
+	StartValue 1.850000
+	ValueIncreasePerLevel 0.000000
+CultureProtectRate
+	StartValue 0.300000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_SUPERDREAD_CERBTHEMIS_NAME"
+DescriptionStringID "IDS_SUPERDREAD_CERBTHEMIS_DESCRIPTION"
+picture "SUPERDREADNOUGHT_CERB_THEMIS"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+statCountType "Titan"
+UpgradeTypeCount 7
+UpgradeType "SUPERDREAD_CERBTHEMIS_UPGRADEABILITYA"
+UpgradeType "SUPERDREAD_CERBTHEMIS_UPGRADEABILITYB"
+UpgradeType "SUPERDREAD_CERBTHEMIS_UPGRADEABILITYC"
+UpgradeType "SUPERDREAD_CERBTHEMIS_UPGRADEABILITYD"
+UpgradeType "SUPERDREAD_CERBTHEMIS_UPGRADEARMOR"
+UpgradeType "SUPERDREAD_CERBTHEMIS_UPGRADEWEAPONS"
+UpgradeType "SUPERDREAD_CERBTHEMIS_UPGRADELOADERS"
+numRandomDebrisLarge 80
+numRandomDebrisSmall 30
+numSpecificDebris 1
+specificDebrisMeshName "DebrisTechLarge"
+armorType "Titan"
+hudIcon "HUDICON_RESEARCHSUBJECT_TITAN_TECHREBEL"
+smallHudIcon "HUDICONSMALL_SUPERDREADNOUGHT_CERBTHEMIS"
+infoCardIcon "INFOCARDICON_CERB_THEMIS"
+minZoomDistanceMult 1.100000
+NumWeapons 4
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "RAILGUN"
+	DamagePerBank:FRONT 3000.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 24000.000000
+	PreBuffCooldownTime 15.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.000000
+	TravelSpeed 5500.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.500000
+		fireDelay 0.000000
+		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_CERB_SPINALMASSACCMUZZLE1"
+			sound "WEAPON_CERB_SPINALMASSACCMUZZLE2"
+			sound "WEAPON_CERB_SPINALMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIVERYHEAVY"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 450.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 12000.000000
+	PreBuffCooldownTime 3.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.200000
+	TravelSpeed 3000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 2
+		burstDelay 0.850000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_CERB_AUXMASSACCMUZZLE1"
+			sound "WEAPON_CERB_AUXMASSACCMUZZLE2"
+			sound "WEAPON_CERB_AUXMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIMEDIUM"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 0.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 120.000000
+	DamagePerBank:RIGHT 120.000000
+	Range 6000.000000
+	PreBuffCooldownTime 1.200000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.200000
+	TravelSpeed 6000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 1.200000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_CERB_BROADMASSACCMUZZLE1"
+			sound "WEAPON_CERB_BROADMASSACCMUZZLE2"
+			sound "WEAPON_CERB_BROADMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Tech_AutoCannonFighter_Travel"
+Weapon
+	WeaponType "Beam"
+	damageEnums
+		AttackType "TITAN"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "ION"
+	DamagePerBank:FRONT 4000.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 4000.000000
+	DamagePerBank:RIGHT 4000.000000
+	Range 9000.000000
+	PreBuffCooldownTime 9.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.750000
+	TravelSpeed 0.000000
+	Duration 1.300000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Tech_CapitalBeam_Muzzle"
+		muzzleSoundMinRespawnTime 0.450000
+		muzzleSounds
+			soundCount 1
+			sound ""
+		hitEffectName "Weapon_Tech_CapitalBeam_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound ""
+		hitShieldsEffectSounds
+			soundCount 1
+			sound ""
+		beamEffectSounds
+			soundCount 1
+			sound "WEAPON_TECHCAPITALBEAMHEAVY_TRAVEL"
+		beamGlowTextureName "TechCapitalBeam_Glow"
+		beamCoreTextureName "TechCapitalBeam_Core"
+		beamWidth 90.000000
+		beamGlowColor ffffffff
+		beamCoreColor ffffffff
+		beamTilingRate 3.000000
+m_weaponIndexForRange 3
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+mass 100000.000000
+ShieldMeshName "SuperDreadnought_CerbThemis_Shield"
+renderShield TRUE
+maxAccelerationLinear 60.000000
+maxAccelerationStrafe 20.000000
+maxDecelerationLinear 700.000000
+maxAccelerationAngular 0.800000
+maxDecelerationAngular 9.999998
+maxSpeedLinear 475.000000
+maxRollRate 1.650000
+maxRollAngle 19.999996
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 "SQUAD_CERBMOROCCO"
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "SUPERDREAD_CERBTHEMIS_ONATTACK1"
+SoundID "SUPERDREAD_CERBTHEMIS_ONATTACK2"
+SoundID "SUPERDREAD_CERBTHEMIS_ONATTACK3"
+NumSoundsFor:ONCREATION 3
+SoundID "SUPERDREAD_CERBTHEMIS_ONCREATION1"
+SoundID "SUPERDREAD_CERBTHEMIS_ONCREATION2"
+SoundID "SUPERDREAD_CERBTHEMIS_ONCREATION3"
+NumSoundsFor:ONGENERALORDERISSUED 5
+SoundID "SUPERDREAD_CERBTHEMIS_ONGENERAL1"
+SoundID "SUPERDREAD_CERBTHEMIS_ONGENERAL2"
+SoundID "SUPERDREAD_CERBTHEMIS_ONGENERAL3"
+SoundID "SUPERDREAD_CERBTHEMIS_ONGENERAL4"
+SoundID "SUPERDREAD_CERBTHEMIS_ONGENERAL5"
+NumSoundsFor:ONSELECTED 4
+SoundID "SUPERDREAD_CERBTHEMIS_ONSELECTED1"
+SoundID "SUPERDREAD_CERBTHEMIS_ONSELECTED2"
+SoundID "SUPERDREAD_CERBTHEMIS_ONSELECTED3"
+SoundID "SUPERDREAD_CERBTHEMIS_ONSELECTED4"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "SUPERDREAD_CERBTHEMIS_ONJUMPSTART1"
+SoundID "SUPERDREAD_CERBTHEMIS_ONJUMPSTART2"
+SoundID "SUPERDREAD_CERBTHEMIS_ONJUMPSTART3"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "SuperDreadnought_CerbThemis"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "StarBase1"
+CommandPoints
+	StartValue 4.000000
+	ValueIncreasePerLevel 0.000000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.030000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.000000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_TECHCAPITALSHIP"
+formationRank 3
+minShadow 0.100000
+maxShadow 1.500000

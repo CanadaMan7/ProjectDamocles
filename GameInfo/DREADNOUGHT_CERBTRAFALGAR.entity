@@ -1,0 +1,269 @@
+TXT2
+SinsArchiveVersion 194
+entityType "CapitalShip"
+ability:0 "Ability_Cerb_TrafalgarRapidFire"
+ability:1 "Ability_Cerb_TrafalgarHammerheadAmmo"
+ability:2 "Ability_Cerb_TrafalgarPhasicAmmo"
+ability:3 "Ability_Cerb_TrafalgarOsmiumRound"
+ability:4 ""
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+mainViewIcon "MAINVIEWICON_DREADNOUGHT_CERBTRAFALGAR"
+basePrice
+	credits 3000.000000
+	metal 1025.000000
+	crystal 850.000000
+slotCount 50.000000
+BuildTime 80.000000
+MaxHullPoints
+	StartValue 11750.000000
+	ValueIncreasePerLevel 250.000000
+MaxShieldPoints
+	StartValue 18250.000000
+	ValueIncreasePerLevel 350.000000
+HullPointRestoreRate
+	StartValue 16.000000
+	ValueIncreasePerLevel 5.250000
+ShieldPointRestoreRate
+	StartValue 45.000000
+	ValueIncreasePerLevel 5.000000
+ArmorPointsFromExperience
+	StartValue 9.000000
+	ValueIncreasePerLevel 0.000000
+maxMitigation
+	StartValue 0.800000
+	ValueIncreasePerLevel 0.000000
+MaxAntiMatter
+	StartValue 620.000000
+	ValueIncreasePerLevel 0.000000
+AntiMatterRestoreRate
+	StartValue 2.500000
+	ValueIncreasePerLevel 0.050000
+CultureProtectRate
+	StartValue 0.300000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_DREADNOUGHT_CERBTRAFALGAR_NAME"
+DescriptionStringID "IDS_DREADNOUGHT_CERBTRAFALGAR_DESCRIPTION"
+picture "DREADNOUGHT_CERB_TRAFALGAR"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_CERBPROJECT_NELSON"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+roleType "Invalid"
+statCountType "CapitalShipBattleship"
+numRandomDebrisLarge 6
+numRandomDebrisSmall 12
+numSpecificDebris 1
+specificDebrisMeshName "DebrisTechLarge"
+armorType "CapitalShip"
+hudIcon "HUDICON_CAPITALSHIP_TECHBATTLESHIP"
+smallHudIcon "HUDICONSMALL_DREADNOUGHT_CERBTRAFALGAR"
+infoCardIcon "INFOCARDICON_CERB_TRAFALGAR"
+minZoomDistanceMult 1.750000
+NumWeapons 3
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "RAILGUN"
+	DamagePerBank:FRONT 4800.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 28000.000000
+	PreBuffCooldownTime 10.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.000000
+	TravelSpeed 4500.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.500000
+		fireDelay 0.000000
+		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_CERB_SPINALMASSACCMUZZLE1"
+			sound "WEAPON_CERB_SPINALMASSACCMUZZLE2"
+			sound "WEAPON_CERB_SPINALMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIVERYHEAVY"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 550.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 11000.000000
+	PreBuffCooldownTime 3.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.200000
+	TravelSpeed 3000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 2
+		burstDelay 0.850000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_CERB_AUXMASSACCMUZZLE1"
+			sound "WEAPON_CERB_AUXMASSACCMUZZLE2"
+			sound "WEAPON_CERB_AUXMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIMEDIUM"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 0.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 200.000000
+	DamagePerBank:RIGHT 200.000000
+	Range 6000.000000
+	PreBuffCooldownTime 1.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.200000
+	TravelSpeed 6000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 1.200000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_CERB_BROADMASSACCMUZZLE1"
+			sound "WEAPON_CERB_BROADMASSACCMUZZLE2"
+			sound "WEAPON_CERB_BROADMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Tech_AutoCannonFighter_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 2
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+mass 10000.000000
+ShieldMeshName "Dreadnought_CerbTrafalgar_Shield"
+renderShield TRUE
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 1.000000
+maxDecelerationAngular 10.000000
+maxSpeedLinear 525.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+useCustomHyperspaceEffects TRUE
+effects
+	chargeUpEffectName "FTL_CHARGEUP_BLANK"
+	chargeUpEffectNameBetweenStars "FTL_CHARGEUP_BLANK"
+	chargeUpEffectNameDestabilized "FTL_CHARGEUP_BLANK"
+	chargeUpEffectSoundID "FTL_GENERIC_DREADCHARGE2"
+	travelEffectName "FTL_Main"
+	travelEffectNameBetweenStars "FTL_Main"
+	travelEffectNameDestabilized "FTL_Main"
+	travelEffectSoundID "HYPERSPACE_TRAVEL"
+	exitEffectName "FTL_DREADNOUGHT_EXIT"
+	exitEffectSoundID "FTL_GENERIC_DREADEXIT2"
+squadTypeEntityDef:0 "SQUAD_CERBSUDAN"
+squadAntiMatterCost:0 20.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "DREAD_CERBTRAFALGAR_ONATTACK1"
+SoundID "DREAD_CERBTRAFALGAR_ONATTACK2"
+SoundID "DREAD_CERBTRAFALGAR_ONATTACK3"
+NumSoundsFor:ONCREATION 1
+SoundID "DREAD_CERBTRAFALGAR_ONCREATION1"
+NumSoundsFor:ONGENERALORDERISSUED 4
+SoundID "DREAD_CERBTRAFALGAR_ONGENERAL1"
+SoundID "DREAD_CERBTRAFALGAR_ONGENERAL2"
+SoundID "DREAD_CERBTRAFALGAR_ONGENERAL3"
+SoundID "DREAD_CERBTRAFALGAR_ONGENERAL4"
+NumSoundsFor:ONSELECTED 4
+SoundID "DREAD_CERBTRAFALGAR_ONSELECTED1"
+SoundID "DREAD_CERBTRAFALGAR_ONSELECTED2"
+SoundID "DREAD_CERBTRAFALGAR_ONSELECTED3"
+SoundID "DREAD_CERBTRAFALGAR_ONSELECTED4"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "DREAD_CERBTRAFALGAR_ONJUMPSTART1"
+SoundID "DREAD_CERBTRAFALGAR_ONJUMPSTART2"
+SoundID "DREAD_CERBTRAFALGAR_ONJUMPSTART3"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Dreadnought_CerbTrafalgar"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "CapitalShip0"
+CommandPoints
+	StartValue 3.000000
+	ValueIncreasePerLevel 0.000000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.030000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.000000
+EngineSoundID "AMBIENT_DREAD"
+formationRank 0
+minShadow 0.100000
+maxShadow 1.500000

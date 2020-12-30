@@ -1,0 +1,49 @@
+TXT2
+SinsArchiveVersion 193
+entityType "Squad"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+hudIcon "HUDICON_SQUADTECHCOMBAT"
+smallHudIcon "HUDICONSMALL_FIGHTER_TRIDENTSQUAD"
+infoCardIcon "INFOCARDICON_CERB_SUDANSQUAD"
+fighterEntityDef "FIGHTER_CERBSUDAN"
+fighterIllusionEntityDef ""
+scuttleTime 10.000000
+fighterConstructionTime 30.000000
+decayWithoutOwnerRate 0.050000
+baseMaxNumFighters 3
+role "Bomber"
+statCountType "SquadBomber"
+mainViewIcon "MAINVIEWICON_FIGHTER_TRIDENTSQUAD"
+picture "PICTURE_SQUADTECHCOMBAT"
+launchIcon "HUDICONLAUNCH_SQUADTECHCOMBAT"
+dockIcon "HUDICONDOCK_SQUADTECHCOMBAT"
+nameStringID "IDS_SQUAD_CERBSUDAN_NAME"
+descriptionStringID "IDS_SQUAD_CERBSUDAN_DESC"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "FIGHTER_CERBSUDAN_ONATTACK1"
+SoundID "FIGHTER_CERBSUDAN_ONATTACK2"
+SoundID "FIGHTER_CERBSUDAN_ONATTACK3"
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "FIGHTER_CERBSUDAN_ONGENERAL1"
+SoundID "FIGHTER_CERBSUDAN_ONGENERAL2"
+SoundID "FIGHTER_CERBSUDAN_ONGENERAL3"
+NumSoundsFor:ONSELECTED 3
+SoundID "FIGHTER_CERBSUDAN_ONSELECTED1"
+SoundID "FIGHTER_CERBSUDAN_ONSELECTED2"
+SoundID "FIGHTER_CERBSUDAN_ONSELECTED3"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

@@ -1,0 +1,52 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_VETFLIGHTCREWS_RESEARCH"
+smallHudIcon "HUDICON_VETFLIGHTCREWS_RESEARCH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_CERBMANPOWER_VETERANFLIGHTCREWS_NAME"
+DescriptionStringID "IDS_RESEARCH_CERBMANPOWER_VETERANFLIGHTCREWS_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 4 , 0 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_CERBMANPOWER_PRIVATEFLIGHT"
+		Level 1
+	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_CERBDESTROY"
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 90.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1400.000000
+	metal 250.000000
+	crystal 400.000000
+PerLevelCostIncrease
+	credits 250.000000
+	metal 100.000000
+	crystal 100.000000
+Tier 4
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 3
+researchModifier
+	modifierType "ShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 200.000000
+researchModifier
+	modifierType "IncomePercLost"
+	baseValue 0.000000
+	perLevelValue 0.080000
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "WAVE"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

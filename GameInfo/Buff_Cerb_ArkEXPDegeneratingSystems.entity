@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 194
+SinsArchiveVersion 193
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -24,3 +24,4 @@ finishCondition
 		Level:3 0.000000
 finishCondition
 	finishConditionType "OwnerChanged"
+

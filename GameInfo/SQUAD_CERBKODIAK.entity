@@ -1,0 +1,49 @@
+TXT2
+SinsArchiveVersion 193
+entityType "Squad"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+hudIcon "HUDICON_SQUADTECHCOMBATKODIAK"
+smallHudIcon "HUDICONSMALL_FRIGATE_CERBKODIAK"
+infoCardIcon "INFOCARDICON_SQUADTECHCOMBAT"
+fighterEntityDef "FIGHTER_CERBKODIAK"
+fighterIllusionEntityDef ""
+scuttleTime 10.000000
+fighterConstructionTime 40.000000
+decayWithoutOwnerRate 2.500000
+baseMaxNumFighters 1
+role "Bomber"
+statCountType "SquadBomber"
+mainViewIcon "MAINVIEWICON_FRIGATE_CERBKODIAK"
+picture "PICTURE_SQUADTECHCOMBAT"
+launchIcon "HUDICONLAUNCH_SQUADTECHCOMBAT"
+dockIcon "HUDICONDOCK_SQUADTECHCOMBAT"
+nameStringID "IDS_SQUAD_CERBKODIAK_NAME"
+descriptionStringID "IDS_SQUAD_CERBKODIAK_DESC"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "FIGHTER_CERBKODIAK_ONATTACK1"
+SoundID "FIGHTER_CERBKODIAK_ONATTACK2"
+SoundID "FIGHTER_CERBKODIAK_ONATTACK3"
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "FIGHTER_CERBKODIAK_ONGENERAL1"
+SoundID "FIGHTER_CERBKODIAK_ONGENERAL2"
+SoundID "FIGHTER_CERBKODIAK_ONGENERAL3"
+NumSoundsFor:ONSELECTED 3
+SoundID "FIGHTER_CERBKODIAK_ONSELECTED1"
+SoundID "FIGHTER_CERBKODIAK_ONSELECTED2"
+SoundID "FIGHTER_CERBKODIAK_ONSELECTED3"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

@@ -1,5 +1,4 @@
-﻿TXT2
-SinsArchiveVersion 194
+﻿TXT
 entityType "Ability"
 buffInstantActionType "ApplyBuffToSelf"
 instantActionTriggerType "AlwaysPerform"

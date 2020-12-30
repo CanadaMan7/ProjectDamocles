@@ -1,0 +1,252 @@
+TXT2
+SinsArchiveVersion 194
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 1
+frigateRoleType "Carrier"
+statCountType "FrigateCarrier"
+mainViewIcon "MAINVIEWICON_CRUISER_CERBARKROYAL"
+picture "CRUISER_CERB_ARKROYAL"
+NameStringID "IDS_CARRIER_CERBARKROYAL_NAME"
+DescriptionStringID "IDS_CARRIER_CERBARKROYAL_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_CARRIER"
+basePrice
+	credits 2075.000000
+	metal 315.000000
+	crystal 355.000000
+slotCount 22.000000
+BuildTime 32.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 140.000000
+MaxHullPoints 2040.000000
+MaxShieldPoints 5450.000000
+HullPointRestoreRate 9.000000
+ShieldPointRestoreRate 14.500000
+BaseArmorPoints 3.000000
+maxMitigation 0.650000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_CERBPROJECT_SUDAN"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 1
+numRandomDebrisSmall 7
+numSpecificDebris 0
+armorType "Heavy"
+hudIcon "HUDICON_FRIGATE_TECHCARRIER"
+smallHudIcon "HUDICONSMALL_CRUISER_CERBARKROYAL"
+infoCardIcon "INFOCARDICON_CERB_ARKROYAL"
+minZoomDistanceMult 1.500000
+NumWeapons 3
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "RAILGUN"
+	DamagePerBank:FRONT 900.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 23000.000000
+	PreBuffCooldownTime 20.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.000000
+	TravelSpeed 4500.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "WEAPON_SPINALMASSACC_MUZZLE"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_CERB_SPINALMASSACCMUZZLE1"
+			sound "WEAPON_CERB_SPINALMASSACCMUZZLE2"
+			sound "WEAPON_CERB_SPINALMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_SpinalAccelerator_Travel"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIVERYHEAVY"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 120.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 6500.000000
+	PreBuffCooldownTime 4.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.200000
+	TravelSpeed 3000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 2
+		burstDelay 0.850000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_CERB_AUXMASSACCMUZZLE1"
+			sound "WEAPON_CERB_AUXMASSACCMUZZLE2"
+			sound "WEAPON_CERB_AUXMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Psi_LaserFrigate_Travel"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIMEDIUM"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 0.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 25.000000
+	DamagePerBank:RIGHT 25.000000
+	Range 5000.000000
+	PreBuffCooldownTime 1.500000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.100000
+	TravelSpeed 5000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 1.200000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_TechCapitalLaserLight_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_CERB_BROADMASSACCMUZZLE1"
+			sound "WEAPON_CERB_BROADMASSACCMUZZLE2"
+			sound "WEAPON_CERB_BROADMASSACCMUZZLE3"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Tech_AutoCannonFighter_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 9800.000000
+ShieldMeshName "Carrier_CerbArkRoyal_Shield"
+renderShield TRUE
+maxAccelerationLinear 150.000000
+maxAccelerationStrafe 30.000000
+maxDecelerationLinear 750.000000
+maxAccelerationAngular 3.250000
+maxDecelerationAngular 10.000000
+maxSpeedLinear 550.000000
+maxRollRate 6.000000
+maxRollAngle 35.000000
+useCustomHyperspaceEffects TRUE
+effects
+	chargeUpEffectName "FTL_CHARGEUP_BLANK"
+	chargeUpEffectNameBetweenStars "FTL_CHARGEUP_BLANK"
+	chargeUpEffectNameDestabilized "FTL_CHARGEUP_BLANK"
+	chargeUpEffectSoundID "FTL_GENERIC_CRUISERCHARGE2"
+	travelEffectName "FTL_Main"
+	travelEffectNameBetweenStars "FTL_Main"
+	travelEffectNameDestabilized "FTL_Main"
+	travelEffectSoundID "HYPERSPACE_TRAVEL"
+	exitEffectName "FTL_FRIGATE_CRUISER_EXIT"
+	exitEffectSoundID "FTL_GENERIC_FRIGATEEXIT1"
+squadTypeEntityDef:0 "SQUAD_CERBSUDAN"
+squadAntiMatterCost:0 50.000000
+squadTypeEntityDef:1 "SQUAD_CERBMOROCCO"
+squadAntiMatterCost:1 50.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 2
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "CARRIER_CERBARKROYAL_ONATTACK1"
+SoundID "CARRIER_CERBARKROYAL_ONATTACK2"
+SoundID "CARRIER_CERBARKROYAL_ONATTACK3"
+NumSoundsFor:ONCREATION 3
+SoundID "CARRIER_CERBARKROYAL_ONCREATION1"
+SoundID "CARRIER_CERBARKROYAL_ONCREATION2"
+SoundID "CARRIER_CERBARKROYAL_ONCREATION3"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "CARRIER_CERBARKROYAL_ONGENERAL1"
+SoundID "CARRIER_CERBARKROYAL_ONGENERAL2"
+SoundID "CARRIER_CERBARKROYAL_ONGENERAL3"
+NumSoundsFor:ONSELECTED 5
+SoundID "CARRIER_CERBARKROYAL_ONSELECTED1"
+SoundID "CARRIER_CERBARKROYAL_ONSELECTED2"
+SoundID "CARRIER_CERBARKROYAL_ONSELECTED3"
+SoundID "CARRIER_CERBARKROYAL_ONSELECTED4"
+SoundID "CARRIER_CERBARKROYAL_ONSELECTED5"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "CARRIER_CERBARKROYAL_ONJUMPSTART1"
+SoundID "CARRIER_CERBARKROYAL_ONJUMPSTART2"
+SoundID "CARRIER_CERBARKROYAL_ONJUMPSTART3"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Carrier_CerbArkRoyal"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "Frigate0"
+EngineSoundID "AMBIENT_CRUISER"
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 "Ability_Cerb_FighterTorps"
+MaxAntiMatter 150.000000
+AntiMatterRestoreRate 0.500000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 3
+minShadow 0.100000
+maxShadow 1.500000
+allegianceDecreasePerRoundtrip 0.000000

@@ -1,6 +1,6 @@
 TXT
 onlyLoadOnDemand FALSE
-brushCount 217
+brushCount 210
 brush
 	name "SUPERDREAD_REAP_HARBY"
 	content "States"
@@ -2507,5 +2507,3 @@ brush
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1362 , 782 , 167 , 75 ]
-	
-	

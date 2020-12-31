@@ -30,7 +30,7 @@ scenarioContentDef
 		labelStringId "IDSGalaxyInfoWindowScenarioRecommendedGameTypesLabel"			
 	invalidScenarioMessageArea [235, 158, 455, 94]
 	invalidScenarioMessageString "IDSGalaxyInfoWindowInvalidScenario"
-	scenarioRequiredDLCString "IDSGalaxyInfoWindowScenarioRequiredDLC
+	scenarioRequiredDLCString "IDSGalaxyInfoWindowScenarioRequiredDLC"
 	scenarioMissingDLCString "IDSGalaxyInfoWindowScenarioMissingDLC"
 savedFileContentDef
 	fileNameDef

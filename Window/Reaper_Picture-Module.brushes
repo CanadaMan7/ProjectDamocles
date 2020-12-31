@@ -1,6 +1,6 @@
 TXT 
 onlyLoadOnDemand FALSE
-brushCount 138
+brushCount 137
 brush
 	name "ASTEROID_NEUTRAL_PALLADIUM"
 	content "States"

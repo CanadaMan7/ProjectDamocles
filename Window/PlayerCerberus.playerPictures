@@ -1,0 +1,42 @@
+TXT
+pictureCount 7
+LargeScreenPicture
+	textureName "Player_Portrait_Hud_DOTR2"
+	startTopLeft [0,0]
+	width 194
+	height 500
+	rowItemCount 7
+	horizontalStride 194
+	verticalStride 275
+SmallScreenPicture
+	textureName "Player_Portrait_Small.dds"
+	startTopLeft [5,77]
+	width 56
+	height 67
+	rowItemCount 7
+	horizontalStride 61
+	verticalStride 72
+BottomBarPicture
+	textureName "BottomBarPictures.tga"
+	startTopLeft [0,0]
+	width 125
+	height 177
+	rowItemCount 1
+	horizontalStride 0
+	verticalStride 0
+ButtonIcon
+	textureName "Player_Portrait_Button.tga"
+	startTopLeft [3,1]
+	width 24
+	height 29
+	rowItemCount 7
+	horizontalStride 27
+	verticalStride 32
+MediumScreenPicture
+	textureName "Player_Portrait_Hud_Medium_DOTR.tga"
+	startTopLeft [2,224]
+	width 97
+	height 109
+	rowItemCount 7
+	horizontalStride 99
+	verticalStride 109

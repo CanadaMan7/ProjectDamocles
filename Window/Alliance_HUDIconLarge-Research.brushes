@@ -1,6 +1,6 @@
 TXT
 onlyLoadOnDemand FALSE
-brushCount 279
+brushCount 278
 brush
 	name "HUDICON_FAITHINASCENSION_RESEARCH"
 	content "States"
@@ -5005,21 +5005,3 @@ brush
 	Normal
 		fileName "CouncilResearchButtons2"
 		pixelBox [ 290 , 579 , 137 , 61 ]	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,0 +1,908 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 181
+brush
+	name "INFOCARDICON_COUN_KWUNU"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 91 , 114 , 19 , 13 ]
+brush
+	name "INFOCARDICON_COUN_BATSUPERDREAD"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 66 , 118 , 19 , 4 ]
+brush
+	name "INFOCARDICON_COUN_DESTINY"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 52 , 111 , 9 , 19 ]
+brush
+	name "INFOCARDICON_COUN_GETHSUPERDREAD"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 29 , 118 , 19 , 8 ]
+brush
+	name "INFOCARDICON_COUN_KILI"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 6 , 117 , 19 , 8 ]
+brush
+	name "INFOCARDICON_COUN_LIVENAUGHT"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 501 , 90 , 20 , 9 ]
+brush
+	name "INFOCARDICON_COUN_HARSHAAK"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 475 , 93 , 19 , 4 ]
+brush
+	name "INFOCARDICON_COUN_SALDREAD"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 450 , 91 , 19 , 8 ]
+brush
+	name "INFOCARDICON_COUN_CYBAEN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 434 , 86 , 9 , 19 ]
+brush
+	name "INFOCARDICON_COUN_GETHDREAD"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 407 , 93 , 19 , 9 ]
+brush
+	name "INFOCARDICON_COUN_RAYYA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 383 , 91 , 19 , 9 ]
+brush
+	name "INFOCARDICON_COUN_MEHRAK"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 357 , 89 , 20 , 14 ]
+brush
+	name "INFOCARDICON_COUN_UNDAUNTED"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 331 , 95 , 19 , 6 ]
+brush
+	name "INFOCARDICON_COUN_EVEREST"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 302 , 95 , 19 , 6 ]
+brush
+	name "INFOCARDICON_COUN_GETHCRUI"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 277 , 95 , 19 , 4 ]
+brush
+	name "INFOCARDICON_COUN_SALARIANCRUI"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 257 , 93 , 16 , 9 ]
+brush
+	name "INFOCARDICON_COUN_HENSA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 235 , 93 , 16 , 9 ]
+brush
+	name "INFOCARDICON_COUN_QUARIANCRUI"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 210 , 95 , 19 , 4 ]
+brush
+	name "INFOCARDICON_COUN_NEFRANE"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 194 , 89 , 9 , 16 ]
+brush
+	name "INFOCARDICON_COUN_VARHDONA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 172 , 92 , 17 , 11 ]
+brush
+	name "INFOCARDICON_COUN_HAWKING"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 147 , 95 , 19 , 4 ]
+brush
+	name "INFOCARDICON_COUN_GENEVA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 125 , 95 , 19 , 5 ]
+brush
+	name "INFOCARDICON_COUN_ATHABASCA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 111 , 95 , 10 , 3 ]
+brush
+	name "INFOCARDICON_COUN_TUNNERON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 87 , 96 , 19 , 2 ]
+brush
+	name "INFOCARDICON_COUN_GETHFRIG"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 65 , 95 , 14 , 8 ]
+brush
+	name "INFOCARDICON_COUN_VERRIKAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 46 , 93 , 14 , 8 ]
+brush
+	name "INFOCARDICON_COUN_HASTINGS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 24 , 95 , 16 , 4 ]
+brush
+	name "INFOCARDICON_COUN_SR1"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 6 , 95 , 11 , 4 ]
+brush
+	name "INFOCARDICON_CERB_MORRACOSQUAD"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 585 , 36 , 14 , 7 ]
+brush
+	name "INFOCARDICON_CERB_SUDANSQUAD"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 624 , 37 , 14 , 7 ]
+brush
+	name "INFOCARDICON_CERB_SUDANSINGLE"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 611 , 39 , 7 , 3 ]
+brush
+	name "INFOCARDICON_CERB_THEMIS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 396 , 65 , 19 , 7 ]
+brush
+	name "INFOCARDICON_CERB_ARK"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 373 , 65 , 19 , 7 ]
+brush
+	name "INFOCARDICON_CERB_AEOLUS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 349 , 65 , 19 , 7 ]
+brush
+	name "INFOCARDICON_CERB_PRAETOR"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 325 , 65 , 19 , 6 ]
+brush
+	name "INFOCARDICON_CERB_POMPEII"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 302 , 65 , 19 , 6 ]
+brush
+	name "INFOCARDICON_CERB_ADRIATIC"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 278 , 65 , 19 , 6 ]
+brush
+	name "INFOCARDICON_CERB_CENTURION"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 256 , 65 , 19 , 6 ]
+brush
+	name "INFOCARDICON_CERB_TRAFALGAR"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 233 , 65 , 19 , 6 ]
+brush
+	name "INFOCARDICON_CERB_DYSON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 207 , 65 , 19 , 5 ]
+brush
+	name "INFOCARDICON_CERB_ARCADIA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 183 , 65 , 20 , 6 ]
+brush
+	name "INFOCARDICON_CERB_ELBRUS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 161 , 65 , 19 , 6 ]
+brush
+	name "INFOCARDICON_CERB_MINERVA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 139 , 65 , 19 , 6 ]
+brush
+	name "INFOCARDICON_CERB_ARKROYAL"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 117 , 65 , 13 , 6 ]
+brush
+	name "INFOCARDICON_CERB_SR2"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 101 , 65 , 13 , 6 ]
+brush
+	name "INFOCARDICON_CERB_KODIAK"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 87 , 67 , 10 , 3 ]
+brush
+	name "INFOCARDICON_CERB_GAZA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 65 , 66 , 19 , 4 ]
+brush
+	name "INFOCARDICON_CERB_ZENITH"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 44 , 66 , 17 , 5 ]
+brush
+	name "INFOCARDICON_CERB_BOSTON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 24 , 66 , 17 , 5 ]
+brush
+	name "INFOCARDICON_CERB_TEMPEST"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 6 , 65 , 11 , 7 ]
+brush
+	name "INFOCARDICON_ALLI_SNOWDON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 396 , 36 , 18 , 9 ]
+brush
+	name "INFOCARDICON_ALLI_SAGAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 372 , 37 , 18 , 7 ]
+brush
+	name "INFOCARDICON_ALLI_NEWTON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 348 , 37 , 19 , 7 ]
+brush
+	name "INFOCARDICON_ALLI_EINSTEIN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 326 , 37 , 19 , 7 ]
+brush
+	name "INFOCARDICON_ALLI_DENALI"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 304 , 38 , 18 , 6 ]
+brush
+	name "INFOCARDICON_ALLI_EVEREST"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 281 , 37 , 19 , 7 ]
+brush
+	name "INFOCARDICON_ALLI_KILI"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 258 , 37 , 19 , 7 ]
+brush
+	name "INFOCARDICON_ALLI_HAWKING"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 232 , 38 , 19 , 5 ]
+brush
+	name "INFOCARDICON_ALLI_LONDON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 208 , 37 , 19 , 7 ]
+brush
+	name "INFOCARDICON_ALLI_ATHENS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 184 , 37 , 19 , 7 ]
+brush
+	name "INFOCARDICON_ALLI_BEJING"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 162 , 38 , 18 , 6 ]
+brush
+	name "INFOCARDICON_ALLI_GENEVA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 139 , 38 , 18 , 6 ]
+brush
+	name "INFOCARDICON_ALLI_BERLIN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 116 , 38 , 19 , 6 ]
+brush
+	name "INFOCARDICON_ALLI_MANZIKERT"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 66 , 38 , 16 , 6 ]
+brush
+	name "INFOCARDICON_ALLI_AGINCOURT"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 44 , 38 , 11 , 5 ]
+brush
+	name "INFOCARDICON_ALLI_HASTING"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 24 , 38 , 11 , 5 ]
+brush
+	name "INFOCARDICON_ALLI_SR1"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 6 , 38 , 11 , 5 ]
+brush
+	name "INFOCARDICON_MERC_PRAETOR"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 478 , 7 , 19 , 7 ]
+brush
+	name "INFOCARDICON_MERC_SBEVEREST"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 454 , 8 , 19 , 6 ]
+brush
+	name "INFOCARDICON_MERC_CYBAEN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 436 , 3 , 10 , 19 ]
+brush
+	name "INFOCARDICON_MERC_UNDAUNTED"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 411 , 7 , 19 , 7 ]
+brush
+	name "INFOCARDICON_MERC_SALARIANDREAD"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 385 , 6 , 20 , 8 ]
+brush
+	name "INFOCARDICON_MERC_HARSHAAK"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 358 , 8 , 19 , 4 ]
+brush
+	name "INFOCARDICON_MERC_NEWTON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 334 , 8 , 19 , 6 ]
+brush
+	name "INFOCARDICON_MERC_MEHRAK"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 306 , 4 , 19 , 13 ]
+brush
+	name "INFOCARDICON_MERC_CAT6EVEREST"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 281 , 8 , 19 , 6 ]
+brush
+	name "INFOCARDICON_MERC_ELBRUS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 257 , 8 , 19 , 6 ]
+brush
+	name "INFOCARDICON_MERC_NEFRANE"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 244 , 2 , 8 , 17 ]
+brush
+	name "INFOCARDICON_MERC_SALARIAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 224 , 6 , 15 , 10 ]
+brush
+	name "INFOCARDICON_MERC_HENSA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 203 , 7 , 17 , 9 ]
+brush
+	name "INFOCARDICON_MERC_HAWKING"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 182 , 8 , 18 , 5 ]
+brush
+	name "INFOCARDICON_MERC_VARHDONA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 161 , 5 , 17 , 11 ]
+brush
+	name "INFOCARDICON_MERC_GENAVA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 116 , 7 , 20 , 6 ]
+brush
+	name "INFOCARDICON_MERC_ATHABASCA"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 101 , 10 , 10 , 3 ]
+brush
+	name "INFOCARDICON_MERC_SR1"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 86 , 8 , 11 , 5 ]
+brush
+	name "INFOCARDICON_MERC_TUNNERON"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 63 , 9 , 19 , 3 ]
+brush
+	name "INFOCARDICON_MERC_VERRIKAN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 46 , 7 , 14 , 7 ]
+brush
+	name "INFOCARDICON_MERC_BERLIN"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 23 , 7 , 20 , 6 ]
+brush
+	name "INFOCARDICON_MERC_HASTINGS"
+	content "Simple"
+	fileName "DOTR_Mainview_Ships_Info"
+	pixelBox [ 6 , 8 , 16 , 5 ]
+brush
+	name "INFOCARDICON_CORVETTE_PHASE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 276 , 120 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CORVETTE_PSI"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 232 , 119 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CORVETTE_TECH"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 256 , 119 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PHASENANITE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 335 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TITAN_TECHLOYALIST"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 344 , 94 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TITAN_TECHREBEL"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 303 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TITAN_PSILOYALIST"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 318 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TITAN_PSIREBEL"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 326 , 119 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TITAN_PHASELOYALIST"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 370 , 71 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TITAN_PHASEREBEL"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 298 , 119 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TECHFLAGSHIP"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 351 , 141 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PSIFLAGSHIP"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 351 , 115 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_TECHTRANSPORT"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 288 , 92 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PSIBATTLESHIP2"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 260 , 92 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PHASEBATTLESHIP2"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 232 , 92 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PHASEFLAGSHIP"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 351 , 164 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_TECHCOLONY"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 1 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_TECHCARRIER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 47 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_TECHBATTLESHIP"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 24 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_TECHSUPPORT"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 93 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_TECHSIEGE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 70 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PSICOLONY"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 1 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PSICARRIER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 47 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PSIBATTLESHIP"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 24 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PSIBATTLEPSIONIC"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 70 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PSIPLANETPSIONIC"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 93 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PHASECOLONY"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 1 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PHASECARRIER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 47 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PHASEBATTLESHIP"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 24 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PHASESCOUT"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 93 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_PHASESIEGE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 70 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TECHANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 70 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TECHANTIMODULE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 323 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TECHCARRIER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 162 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TECHCOLONY"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 1 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TECHHEAVY"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 24 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TECHLIGHT"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 185 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TECHLONGRANGE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 208 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TECHSCOUT"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 93 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TECHSIEGE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 47 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TECHUTILITY0"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 254 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TECHUTILITY1"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 277 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TECHMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 139 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TECHSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 300 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TECHENVOY"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 277 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PSIANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 70 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PSIANTIMODULE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 323 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PSICARRIER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 162 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PSICOLONY"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 1 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PSIHEAVY"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 24 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PSILIGHT"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 185 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PSILONGRANGE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 208 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PSISCOUT"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 93 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PSISIEGE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 47 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PSISTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 300 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PSIENVOY"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 254 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PSIUTILITY0"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 254 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PSIUTILITY1"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 277 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PSIMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 139 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PHASEANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 70 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PHASECARRIER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 162 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PHASECOLONY"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 1 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PHASEHEAVY"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 24 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PHASELIGHT"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 185 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PHASELONGRANGE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 208 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PHASESCOUT"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 93 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PHASESIEGE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 47 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PHASEUTILITY0"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 254 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PHASEUTILITY1"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 277 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PHASEMINELAYER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 323 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PHASEMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 139 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PHASEENVOY"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 231 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PIRATEMEDIUM"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 93 , 231 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PIRATEHEAVY"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 24 , 231 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PIRATEANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 70 , 231 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PIRATESIEGE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 47 , 231 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_PIRATELIGHT"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 1 , 231 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TURRETCOMBAT"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 185 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TURRETSIEGE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 185 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TRADESHIP_TECH"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 116 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TRADESHIP_PSI"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 116 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TRADESHIP_PHASE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 116 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_REFINERYSHIP_TECH"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 231 , 139 , 22 , 22 ]
+brush
+	name "INFOCARDICON_REFINERYSHIP_PSI"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 231 , 162 , 22 , 22 ]
+brush
+	name "INFOCARDICON_REFINERYSHIP_PHASE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 231 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADTECHCOMBAT"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 139 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADTECHBOMBER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 116 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADPSICOMBAT"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 139 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADPSIBOMBER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 116 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADPSIMINELAYER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 346 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADPHASECOMBAT"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 139 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADPHASEBOMBER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 116 , 116 , 22 , 22 ]
